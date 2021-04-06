@@ -5,7 +5,7 @@ date: '2021-03-14'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Bad Things Happen","Unknown Future", "Physical or Person",]
+tags: ["Bad Things Happen,","Unknown Future,", "Physical or Person",]
 meta_img: images/image.png
 description: Description for the page
 ---

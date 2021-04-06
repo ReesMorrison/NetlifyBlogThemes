@@ -5,7 +5,7 @@ date: '2021-03-14'
 slug: []
 categories:
   - Painting
-tags: ["Randomness or Religion", "Miracles and Saints", "Coincidence of Meeting", "Reduce Chanciness",]
+tags: ["Randomness or Religion,", "Miracles and Saints,", "Coincidence of Meeting,", "Reduce Chanciness",]
 meta_img: images/image.png
 description: Luce Maximilien's view of a pier and church in Paris
 ---

@@ -5,7 +5,7 @@ date: '2021-03-14'
 slug: []
 categories: 
   - Poem
-tags: ["Randomness of Events", "Good or Bad Luck", "Opportunity", "Probability",]
+tags: ["Randomness of Events,", "Good or Bad Luck,", "Opportunity,", "Probability",]
 meta_img: images/image.png
 description: poem of random fate
 ---

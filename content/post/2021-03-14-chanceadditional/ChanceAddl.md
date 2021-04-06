@@ -5,7 +5,7 @@ date: '2021-03-14'
 slug: []
 categories:
   - Wide Angle
-tags: ["Non-Quantified Language", "Quantum Probability", "Risk Aversion", ]
+tags: ["Non-Quantified Language,", "Quantum Probability,", "Risk Aversion", ]
 meta_img: images/image.png
 description: More subthemes of chance
 ---

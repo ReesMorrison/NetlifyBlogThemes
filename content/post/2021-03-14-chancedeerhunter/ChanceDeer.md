@@ -5,7 +5,7 @@ date: '2021-03-14'
 slug: []
 categories:
   - Movie
-tags: ["Risks", "Nerves of Steel", "Act Against the Odds", "Entertainment Component",]
+tags: ["Risks,", "Nerves of Steel,", "Act Against the Odds,", "Entertainment Component",]
 meta_img: images/image.png
 description: Description for the page
 ---
