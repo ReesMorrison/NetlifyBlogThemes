@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Painting
-tags: []
+tags: ["Passage of Time," "Time With the Family,", "Punctuality," "Integral to Commerce", ]
 meta_img: images/image.png
 description: Portrait of a family with a clock prominent in the background
 ---
@@ -25,7 +25,6 @@ This painting of a family includes on the upper-right mantelpiece an ornate, fra
 **Integral to Commerce**: Supply chains and process maps, scheduled departures and minutes to microwave, just-in-time management and train schedules, overnight delivery and quarterly reports.  Everything in commerce depends not just on companies meshing schedules but also on carefully calibrated manufacturing and servicing.  Hair colorings need two hours but no more to keep the salon humming; the iron ore needs 10 minutes at a certain temperature to create pig iron.  The term “downtime” is a pejorative for slack, wasted manufacturing processes.  For employees, punctuality is the cousin of punching a clock.
 
 
-To read about subthemes of time that are not closely associated with this painting or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).
-
-
 Nestled in the back of a cozy family grouping preens a fancy clock.  It signifies awareness of time in the heartbeat of a family, and hearkens to the wider world of modernity that needs to coordinate commerce and life by stopwatch accuracy and adherence.
+
+To read about subthemes of time that are not closely associated with this painting or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).

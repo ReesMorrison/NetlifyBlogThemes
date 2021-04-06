@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Movie
-tags: []
+tags: ["Alarm Clocks," "Boredom and Loops," "Turn Back the Clock," "One Direction", ]
 meta_img: images/image.png
 description: a movie of recurrence
 ---
@@ -26,6 +26,7 @@ Boredom is an extension of time’s looping nature, such as when we experience f
 
 **One Direction **:  Time only passes in one direction – the past stretches back as a land that can never be revisited, the present’s moment instant by instant converts what was the future into the past, and [unlike with the seasons(TurnTurn ) we have little ability to peer ahead in time.  That one-way road is what has been referred to as “the arrow of time.”  The captivating conceit of “Groundhog Day” redirects the arrow and explores what happens next.  The movie stands in the category time-travel fiction, which notably includes Mark Twain’s “A Connecticut Yankee in King Arthur’s Court,” the 1985 classic, “Back to the Future,” and the TV series “Outlander.”  Our understanding of the iron laws of physics, however, denies that we can reverse the arrow or shoot it repeatedly; but science doesn’t bar artists and writers from transgressing all the time. 
 
-If you have a few moments to explore subthemes of time that are not closely associated with this movie or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).
-
 The opportunity to revisit an awkward or failed moment and redo it for the better, to alter the loop,  is not available to humans.  We can all wish for second chances, but [everything has its season](https://themesfromart.com/blog/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/) and we don’t have the opportunity to wake up to the same alarm on the same day and try again.  
+
+
+If you have a few moments to explore subthemes of time that are not closely associated with this movie or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).

@@ -5,10 +5,12 @@ date: '2021-03-08'
 slug: []
 categories:
   - Poem
-tags: []
+tags: ["Ample Time Suggests Leisure", "Time Leads to Quality," "Carpe Diem," "Rate Time Passes Varies by Pleasure," "Never Stops", ]
 meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---
+
+Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
 
 “To His Coy Mistress” by Andrew Marvell 
 
@@ -61,7 +63,7 @@ Through the iron gates of life:
 Thus, though we cannot make our sun   
 Stand still, yet we will make him run.  
 
-Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
+
 
 ![](/media/TimeCoy.jpg)
 
@@ -115,7 +117,8 @@ According to the Norton Anthology of English Literature, "slow-chapped power" me
 *The grave’s a fine and private place,  *   
 *But none, I think, do there embrace.*
 
-To read about subthemes of time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).
-
 
 Marvell’s passionate romancer fulminates against his mistress’ refusals and pace; acutely aware of the degradations of time and the inevitable loss of physical delight; he is aroused and wants to make love right now without all this extended foreplay.  Every minute not seized means pleasure delayed, diminished or possibly lost.  Time is of the essence.  
+
+
+To read about subthemes of time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).
