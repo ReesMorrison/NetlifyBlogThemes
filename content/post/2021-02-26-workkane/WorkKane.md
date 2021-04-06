@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Movie
-tags: []
+tags: ["Workaholic," "Directing Others," "Responsibility," "Reputation,", ]
 meta_img: images/image.png
 description: Hard work of Charles Foster Kane (Orson Welles)
 ---
@@ -20,7 +20,7 @@ description: Hard work of Charles Foster Kane (Orson Welles)
 
 **Reputation**:  The most successful employees, athletes, or owners in the business world gain recognition, first from their peers in their industry and then sometimes in their state or country.  From Henry Ford to Thomas Watson, from John D. Rockefeller to Howard Hughes, excelling at business decisions and years of hard work can elevate standouts to fame.  Who doesn’t know about Steve Jobs, JK Rowlands, or Tiger Woods?  Often that acclaim is coupled with accumulations of wealth, whether in stock, royalties, endorsements or investments.  A few companies, such as Amazon, Facebook Google, and Microsoft became almost synonymous with public perception of their Croesus-rich founders.  Coco Chanel, Karl Lagerfeld, Steven Spielberg, Oprah Winfrey – the list is long of business celebrities who worked their way into the spotlight of magazine covers.
 
-To read about subthemes of Work that are not closely associated with this movie scene, or the other three creative works, please visit [the post Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/)
-
 
 Work and working hard permeates the career of Charles Foster Kane as he amassed power, wealth and fame.  Watching “Citizen Kane,” we are transfixed by the portrayal of the hard-driving, take-no-prisoners career of a gifted man who forged a stellar work career, but who also tragically foundered on arrogant egotism and bad judgment.  
+
+To read about subthemes of Work that are not closely associated with this movie scene, or the other three creative works, please visit [the post Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/)

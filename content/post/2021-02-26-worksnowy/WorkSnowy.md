@@ -5,10 +5,18 @@ date: '2021-02-26'
 slug: []
 categories:
   - Poem
-tags: []
+tags: ["Gender," "Necessary," "Father's Vocation," "Gig Economy," "Not First Preference", ]
 meta_img: images/image.png
 description: Robert Frost poem, Stopping by Woods on a Snowy Day
 ---
+
+This quiet poem murmurs a small vignette of a person pausing while making deliveries or pickups far from farmhouses one winter evening.   
+
+*My little horse must think it queer*
+*to stop without a farmhouse near*
+
+His few minutes of appreciation for the scenery give insight into several aspects of work.  
+
 
 “Stopping by Woods on a Snowy Evening” (Robert Frost)
 
@@ -32,12 +40,6 @@ But I have promises to keep,
 And miles to go before I sleep,     
 And miles to go before I sleep.  
 
-This quiet poem murmurs a small vignette of a person pausing while making deliveries or pickups far from farmhouses one winter evening.   
-
-*My little horse must think it queer*
-*to stop without a farmhouse near*
-
-His few minutes of appreciation for the scenery give insight into several aspects of work.   
 
 ![WorkSnowy](/media/WorkSnowy.jpeg)
 
@@ -66,7 +68,6 @@ Relatively few people live to work, most work to live.  They hold a job because 
 Admiring the serenity of snow on dark trees ranks higher on the hedonism scale than delivering firewood (or whatever is being hauled).  Workoholics, such as [newspaper tycoons](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), don’t feel the same urge for relaxation and leisure.  For most of us, work is a necessary evil.  Why else the Sunday evening blues and TGIF?
 
 
-To read about subthemes of work that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
-
-
 The appeal of this poem owes much to its tension and interplay between pleasure and work.  The cart driver would oh so much like to relish the calm beauty of the winter eve, but work’s heavy demands oblige him to restart his horse.
+
+To read about subthemes of work that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).

@@ -5,11 +5,12 @@ date: '2021-02-26'
 slug: []
 categories:
   - Rock & Roll
-tags: []
+tags: ["Bosses," "Job Hopping," "Reactive," "Social Side,", ]
 meta_img: images/image.png
 description: A rock song about life on the river rather than slaving for the man.
 ---
 
+A song of escape from work, “Proud Mary” by Creedence Clearwater Revival sketches the oppression of someone trapped in long-hour or dead-end jobs who finds escape on a riverboat and the communal river ethos.   With just a few lyrics, [the song](https://www.youtube.com/watch?v=5hid10EgMXE) tells of one man’s flight from capitalism and jobs that ground down his spirit.
 
 “Proud Mary” (Credence Clearwater Revival)
 
@@ -46,8 +47,6 @@ Rollin', rollin', rollin' on the river
 Rollin', rollin', rollin' on the river  
 
 
-A song of escape from work, “Proud Mary” by Creedence Clearwater Revival sketches the oppression of someone trapped in long-hour or dead-end jobs who finds escape on a riverboat and the communal river ethos.   With just a few lyrics, [the song](https://www.youtube.com/watch?v=5hid10EgMXE) tells of one man’s flight from capitalism and jobs that ground down his spirit.
-
 ![album cover](/media/WorkProudMary.png)
 
 **Bosses**: 
@@ -58,7 +57,7 @@ encapsulates the subservience of having The Man tell you what to do, when to do 
 
 Not only may working for a boss be unpleasant and [exhausting](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/) you also may have little control over your work conditions. If you *pumped a lot of ‘tane* you were hardly pumped up about it and you may have shortened your lifespan by inhaling the fumes.
 
-**Job hopping**: 
+**Job Hopping**: 
 
 *Left a good job in the city*
 *Workin' for the man every night and day*
@@ -75,6 +74,6 @@ When people recognize they are in a dead-end job or a job where the boss or cond
 **Social Side**: Many people endure jobs that others would mock as boring and repetitious (although some people don’t seek challenge and change at work, so being a toll taker on a bridge is just fine).  What keeps them showing up are their friend coworkers; what keeps them going is the social network of work.   You like your colleagues, even if they are only proximity friends, and indeed many marriages have flowered among co-workers. Others, such as [delivery people](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/), make friends with clients and customers.  The person in the song makes no mention of desk mates or acquaintances who worked with him but he likes the *people on the river [who] are happy to give*.  Counterbalancing the lousy job might be the camaraderie of your fellow card punchers.
 
 
-To read about subthemes of work that are not closely associated with this rock song or the other three creative works, please visit [the post, Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
-
 We can hear in this down-home twang about unsatisfactory jobs and one person’s flight to a better life a story of rejecting authority, the treadmill of commuting and office work, the deadening of grunt jobs where the cog-like worker passively awaits the next task.  The singer might also have been lonely in his jobs, although others find work friends.
+
+To read about subthemes of work that are not closely associated with this rock song or the other three creative works, please visit [the post, Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
