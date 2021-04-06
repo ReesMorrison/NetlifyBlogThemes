@@ -10,7 +10,6 @@ meta_img: images/image.png
 description: a movie of recurrence
 ---
 
-“Groundhog Day” starring Bill Murray
 
 Time, and especially the repetition of time, figures prominently in “Groundhog Day”, an ingenious romantic comedy starring Bill Murray.  Just as humans can’t travel back in time, they can’t repeat an event in the past, try a different tactic, make a [different decision](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/) – except in this classic. Other characteristics of time can be observed from “Groundhog Day.”
 
