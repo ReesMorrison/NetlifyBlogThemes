@@ -1,3 +1,7 @@
+.customTitle {
+    color: rgb(0, 0, 255);
+}
+
 #main > .post + .post {
     margin-top: 2rem;
 }
