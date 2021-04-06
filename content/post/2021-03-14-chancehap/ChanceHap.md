@@ -5,10 +5,12 @@ date: '2021-03-14'
 slug: []
 categories: 
   - Poem
-tags: []
+tags: ["Randomness of Events", "Good or Bad Luck", "Opportunity", "Probability",]
 meta_img: images/image.png
 description: poem of random fate
 ---
+
+Hardy’s cri de cœur, “Hap”, bemoans the inexplicability of joy and sorrow.  He regrets that no explainable force, not even a *vengeful god*, doles out good and evil, because Hap could then bear the undeserved wrongs.  No, he regrets, unfeeling and remorseless chance haphazardly strews our lives with events that pain our *pilgrimage*. 
 
 “Hap” by Thomas Hardy 
 
@@ -29,7 +31,6 @@ And dicing Time for gladness casts a moan. . . .
 These purblind Doomsters had as readily strown  
 Blisses about my pilgrimage as pain.  
 
-Hardy’s cri de cœur, “Hap”, bemoans the inexplicability of joy and sorrow.  He regrets that no explainable force, not even a *vengeful god*, doles out good and evil, because Hap could then bear the undeserved wrongs.  No, he regrets, unfeeling and remorseless chance haphazardly strews our lives with events that pain our *pilgrimage*. 
 
 **Randomness of Events**: Does our life have meaning and explanation or is it that
 
@@ -51,7 +52,6 @@ When life endows someone with many choices (education, careers, spouses, mobilit
 **Probability**:  When the possibilities can all be counted, the probability of a particular outcome can be calculated, such as rolling a six with a dice or [firing the one bullet of an otherwise empty chamber](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/).  That ratio of the number of specific outcomes (one six, one bullet) divided by number of total possible outcomes (six for both), is called a probability.   The results will exhibit a mathematical distribution if the die is rolled or the trigger pulled (after spinning the chamber) several times.  Similarly, we can calculate the odds that two people in a group of people share the same birthday.  We understand and can explain the chance's statistical likelihood.
 
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).
-
-
 Hardy’s poetic complains that he could withstand deliberate, inflicted unhappiness but less so brutal randomness – the continual sway of unpredictable events that permeates life.  Where is the morality in living in a world dictated and buffeted by chance? 
+
+For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).

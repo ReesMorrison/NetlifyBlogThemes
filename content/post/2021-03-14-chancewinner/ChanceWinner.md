@@ -5,10 +5,12 @@ date: '2021-03-14'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Bad Things Happen",]
+tags: ["Bad Things Happen","Unknown Future", "Physical or Person",]
 meta_img: images/image.png
 description: Description for the page
 ---
+
+The sadness, loss and resignation a shattering divorce triggers makes “The Winner Takes It All” heartrending.   The marital collapse eroded over time, perhaps, or erupted suddenly, but the dice thrown by impersonal forces landed the wrong way and the life of a wife came asunder.  Chance shows up throughout this [Abba hit](https://www.youtube.com/watch?v=92cwKCU8Z5c).
 
 “The Winner Takes It All” by ABBA
 
@@ -89,7 +91,7 @@ And it's plain, I complain
 
 Source: Musixmatch   
 
-The sadness, loss and resignation a shattering divorce triggers makes “The Winner Takes It All” heartrending.   The marital collapse eroded over time, perhaps, or erupted suddenly, but the dice thrown by impersonal forces landed the wrong way and the life of a wife came asunder.  Chance shows up throughout this [Abba hit](https://www.youtube.com/watch?v=92cwKCU8Z5c).
+
 
 ![ChanceWinner](/media/ChanceWinner.jpg)
 
@@ -109,11 +111,9 @@ To the grieving survivors, implacable monsters picked the short straw for them, 
 
 The singer believed she had arranged her life, but the concatenation of events big and small that snuffed out the marriage was chance upending her.  At times she might have prayed or [sought guidance from a minister](https://themesfromart.com/blog/2021-03-14-chancechurch/chancechurch/) but the unknowable future prevailed.  Chance was decreed as certainty.
 
-
 **Physical or Person**:  The lyrics of this song speak to the lightning bolt of traumatic divorce loosed by a spouse.  The husband insisted on divorce and shattered not only a marriage but a life dream.  We read about the drunken driver smashing another car or a kid playing with a loaded gun, both of which we might consider a person-instigated chance.  By contrast, an avalanche triggers without a human being anywhere near or a roof gives way when too much snow accumulates, and neither has anything to do with a person.  Nature’s random forces that display a rainbow or hive off the glacier are impersonal.  They flash [*Crass Casualty*](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/).  At least if the chance meeting at a bar leads somewhere, you can believe clues and signals were available  -- chance events that involve a person feel less inscrutable than Nature’s surprises.
 
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).
-
-
 Forces and decisions beyond the control of the singer upended her happy life.  She can’t figure out what happened to her marriage, so it feels like cruel gods randomly dealt her a divorce card.  The opposite of serendipity, the hurt from this song follows the sharp pangs of destructive chance.
+
+For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).
