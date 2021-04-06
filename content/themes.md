@@ -27,9 +27,9 @@ title: Themes Written About In This Project
 [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/)  
 
 **Work**
-["Stopping by Woods on a Snowy Evening"](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/)
-["The Floor Scrapers"](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/)
-["Proud Mary"](https://themesfromart.com/blog/2021-02-26-workproud/workproud/)
-["Citizen Kane"](https://themesfromart.com/blog/2021-02-26-workkane/workkane/)
-[Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/)
+["Stopping by Woods on a Snowy Evening"](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/)  
+["The Floor Scrapers"](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/)  
+["Proud Mary"](https://themesfromart.com/blog/2021-02-26-workproud/workproud/)  
+["Citizen Kane"](https://themesfromart.com/blog/2021-02-26-workkane/workkane/)  
+[Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/)  
 
