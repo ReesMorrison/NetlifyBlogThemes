@@ -1,11 +1,11 @@
 ---
-title: Chance, from "The Deerhunter", a movie with De Niro, Walken and Streep
+title: Chance, from "The Deerhunter," a movie with Robert De Niro, Christopher Walken and Meryl Streep
 author: Rees Morrison
 date: '2021-03-14'
 slug: []
 categories:
   - Movie
-tags: []
+tags: ["Risks", "Nerves of Steel", "Act Against the Odds", "Entertainment Component",]
 meta_img: images/image.png
 description: Description for the page
 ---
