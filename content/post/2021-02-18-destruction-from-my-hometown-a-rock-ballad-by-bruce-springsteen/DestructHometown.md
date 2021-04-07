@@ -5,11 +5,12 @@ date: '2021-02-18'
 slug: []
 categories:
   - Rock & Roll
-tags: []
+tags: ["Social Strife,", "Economic Pressure,", "Foreseeability,", "Anger", ]
 meta_img: images/image.png
 description: Description for the page
 ---
 
+The rock ballad “My Hometown”, composed and sung by Bruce Springsteen, captures the decline of a rustbelt American town. The stores on Main Street have closed, vacant windows gaze without blinking, and the steady blue-collar jobs at the textile mill have seeped overseas. The forces of racial strife and global trade have done in the community and those who can have fled.  Over two or three decades the town has been battered and beaten.  Destruction rears its head in this rock song in several aspects.
 “My Hometown” (Bruce Springsteen)
 
 I was eight years old and running with a dime in my hand  
@@ -55,8 +56,6 @@ Last night I sat him up behind the wheel, and said
 This is your hometown."  
 
 
-The rock ballad “My Hometown”, composed and sung by Bruce Springsteen, captures the decline of a rustbelt American town. The stores on Main Street have closed, vacant windows gaze without blinking, and the steady blue-collar jobs at the textile mill have seeped overseas. The forces of racial strife and global trade have done in the community and those who can have fled.  Over two or three decades the town has been battered and beaten.  Destruction rears its head in this rock song in several aspects.
-
 **Social Strife**:  
 
 *In '65 tension was running high at my high school*  
@@ -89,6 +88,6 @@ The destruction wrought on the song’s hometown by economic and social changes,
 When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), awful destruction spreads far and wide.  When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction. When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
 
 
-For subthemes of destruction that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
-
 Springsteen’s lament captures the unravelling of a small, typical town in America.  Its jobs oozed away to foreign competitors (or possibly non-union states in the South).  Its social fabric was torn by the anger of racial discrimination and a racially tainted, hated war in Vietnam.  Anger, resentment, and extremism can push individuals to destroy property, ruin lives, and kill people.
+
+For subthemes of destruction that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).

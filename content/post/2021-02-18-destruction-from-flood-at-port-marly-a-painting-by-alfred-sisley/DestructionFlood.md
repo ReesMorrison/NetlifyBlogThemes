@@ -5,15 +5,15 @@ date: '2021-02-18'
 slug: []
 categories:
   - Painting
-tags: []
+tags: ["Mighty," "Sudden,", "Widespread,", "Death and Sickness", "Delayed Effects", ]
 meta_img: images/image.png
-description: Description for the page
+description: Flood at Port Marly by Sisley
 ---
+
+Alfred Sisley’s painting captures the Seine River after it overflowed its banks and flooded the town of Port-Marly.  The river's waters cover the landscape behind Rue Paris, undoubtedly damaging the wine shop on the left and its wares.  Despite the seeming tranquility of the scene, destruction rampages.  The impressionist scene brings to mind other characteristics of destruction.
 
 “Flood at Port-Marly” (Alfred Sisley, "L'inondation à Port-Marly", 1876)
  
-Alfred Sisley’s painting captures the Seine River after it overflowed its banks and flooded the town of Port-Marly.  The river's waters cover the landscape behind Rue Paris, undoubtedly damaging the wine shop on the left and its wares.  Despite the seeming tranquility of the scene, destruction rampages.  The impressionist scene brings to mind other characteristics of destruction.
-
 
 ![Sisley’s Flood](/media/DestructionFlood.png)
 
@@ -31,8 +31,7 @@ Beyond the immediate emergencies, after the skies clear, the flood waters may ha
 
 From the grey color of the building at the bottom, which could have been the high-water mark from this event, it appears that the water has receded by the time we look on, but the Seine apparently rose enough for long enough to stain the wall.  Even though the sky is blue and sunny, the town and surrounding area will be shaded by suffering for years.  Black mold, weakened walls, collapsed cellars, or rotting wood extend the immediate destruction of the flood.   After the earthquake that leveled San Francisco in 1906, fires raged for days.
 
-For subthemes of destruction that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
-
-
 
 While the upper portion of the masterful painting by Sisley exudes warmth and sunshine, the lower part starkly shows the widespread damage wrought by a flood.   Like other blows from nature, a flood overpowers people; it rises inexorably and then suddenly the levee breaks; the loss of life and property that follows the worst catastrophes of nature – be they storms, vulcanism, or virus – can keep killing and collapsing for months and months.  
+
+For subthemes of destruction that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).

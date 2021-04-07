@@ -5,7 +5,7 @@ date: '2021-02-18'
 slug: []
 categories:
   - Wide Angle
-tags: []
+tags: ["Pandemics and Drugs,", "Indiscriminate Destruction", "Entropy,", "Humans Cope", ]
 meta_img: images/image.png
 description: Destruction, damage, destroy and extra subthemes
 ---
