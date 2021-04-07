@@ -5,7 +5,7 @@ date: '2021-02-04'
 slug: []
 categories:
   - Wide Angle
-tags: ["Loneliness," "Despondency,", "Handicaps,", "Flight,", "Positive and Negative",]
+tags: ["Loneliness,", "Despondency,", "Handicaps,", "Flight,", "Positive and Negative",]
 
 meta_img: images/image.png
 description: Sub-themes of alcohol that did not appear in the four art works previously addressed.
