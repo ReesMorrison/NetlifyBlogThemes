@@ -5,7 +5,7 @@ date: '2021-02-18'
 slug: []
 categories:
   - Painting
-tags: ["Mighty," "Sudden,", "Widespread,", "Death and Sickness", "Delayed Effects", ]
+tags: ["Mighty,", "Sudden,", "Widespread,", "Death and Sickness", "Delayed Effects",]
 meta_img: images/image.png
 description: Flood at Port Marly by Sisley
 ---
