@@ -5,7 +5,7 @@ date: '2021-01-24'
 slug: []
 categories:
   - Poem
-tags: ["Social Disapproval", "Toasting,", "Expensive," "Respite and Relief", ]
+tags: ["Social Disapproval", "Toasting,", "Expensive,", "Respite and Relief", ]
 meta_img: images/image.png
 description: Subthemes of alcohol drinking in the poem of an old, lonely man walking home and sipping
 ---
