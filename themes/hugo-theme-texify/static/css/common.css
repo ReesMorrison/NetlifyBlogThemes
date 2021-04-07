@@ -93,9 +93,12 @@ time {
     word-break: break-word;
 }
 
-.link {
-    color: #AA0000;
-    text-decoration: underline;
+.subthemeLink {
+    color: #6B0F1A;
+}
+
+.navbarLink {
+    color: #6DA34D;
 }
 
 .paginator {
