@@ -5,7 +5,7 @@ date: '2021-02-08'
 slug: []
 categories:
   - Movie
-tags: ["External Pressure," "Under the Gun,", "Values and Counterfactuals," "Partial Information", ]
+tags: ["External Pressure,", "Under the Gun,", "Values and Counterfactuals,", "Partial Information",]
 
 meta_img: images/image.png
 description: At a concentration camp, Meryl Streep is forced to decide which of her two children she will keep, and which will die.
