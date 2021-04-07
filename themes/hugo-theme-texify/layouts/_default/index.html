@@ -14,7 +14,7 @@
       {{ range $paginator.Pages }}
       <div class="post">
         <h2>
-          <a href="{{ .Permalink }}" class="customTitle">{{ .Title }}</a>
+          <a href="{{ .Permalink }}" class="customPostTitle">{{ .Title }}</a>
           <time>{{ .PublishDate.Format .Site.Params.dateFormat }}</time>
         </h2>
         {{ if ne .Params.tags nil }}
