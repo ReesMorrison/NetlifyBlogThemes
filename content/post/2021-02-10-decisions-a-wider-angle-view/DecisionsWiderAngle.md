@@ -5,7 +5,7 @@ date: '2021-02-10'
 slug: []
 categories:
   - Wide Angle
-tags: []
+tags: ["Rarely Final,", "Inner Monologue,", "Humanity's Advantage", ]
 meta_img: images/image.png
 description: Broader considerations about the theme of decisions
 ---

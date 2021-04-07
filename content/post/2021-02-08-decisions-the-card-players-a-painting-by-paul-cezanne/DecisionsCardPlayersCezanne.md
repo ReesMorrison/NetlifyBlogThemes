@@ -5,13 +5,10 @@ date: '2021-02-08'
 slug: []
 categories:
   - Painting
-tags:
-  - Decisions - impressionism
-  - Decisions - everyday
+tags: ["Ubiquity,", "Constrained or Wide Open,", "Solo or Multiple Deciders,", "Pattern Identification,", "Meaningfulness", ]
 meta_img: images/image.png
-description: Paul Cezanne's impressionist painting of two men playing cards in a cafe.
+description: Paul Cezanne's impressionist painting of two men playing cards in a cafe. 
 ---
-
 
 In Paul Cézanne’s “The Card Players” ("Les joueurs de cartes"), we peek in on two men engrossed in a game of cards.  Although Cezanne probably painted this calm and pleasurable glimpse of French life without a thought to its implications for decision-making, we can interpret from it several.
 
@@ -36,10 +33,9 @@ To this we can add the dimension of the game in its tactics and strategy. Perhap
   More significant in their lives are decisions that either strengthen or wear away at their bodies.  Who knows from this painting what health decisions either one of them has made that they might regret, such as not attending to an infected cut or deferring the filling of a decayed tooth? Perhaps they bicycled to this café and took the risks of writing bumpy streets of cobblestone without helmets.
 
   The cigarette dangling from the mouth of the man on the left, perhaps not even lit, looks hand rolled and filterless.  Regardless, the effect on his health was probably unknown to him, and deliberate thought did not slow his barely conscious lighting up and puffing.  Over the years, however, it could extinguish his life. A habit, an ill-considered but entrenched pattern of decisions, smoking is Russian roulette.  
-  
-
-For subthemes of decisions that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
 
 
 All decisions sow seeds: some sprout tiny growths but others towering trees; some sprout [romance and flowers](https://themesfromart.com/blog/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/) while others [grow poisonous thorns](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/). Two pals, whiling away the hours with a friendly card game, represent even in such an unremarkable snapshot a number of important perspectives on decisions.   They, and we, move through life in a constant flurry of decisions.   Those decisions vary widely in their wide-openness, their degree of dependence on others, and their familiarity.  Even more, they vary hugely on the short or long-term significance to the decider.
+
+For subthemes of decisions that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
 
