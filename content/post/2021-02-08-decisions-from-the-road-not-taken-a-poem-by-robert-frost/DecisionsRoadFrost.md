@@ -5,7 +5,7 @@ date: '2021-02-08'
 slug: []
 categories:
   - Poem
-tags: ["Coin Flips,", "Cognitive Dissonance,", "Compounding and Curtailing,", "Counterfactuals,", "Retrospective Logic","]
+tags: ["Coin Flips,", "Cognitive Dissonance,", "Compounding and Curtailing,", "Counterfactuals,", "Retrospective Logic",]
 meta_img: images/image.png
 description: A traveler goes down one path instead of another, based on no significant difference, and ruminates on the consequences of the decision.
 ---
