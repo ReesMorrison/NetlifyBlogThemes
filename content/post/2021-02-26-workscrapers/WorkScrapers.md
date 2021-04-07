@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Painting
-tags: ["Manual Deterioration," "Piecework," "Little or No Education," "Attention to Detail," "Work vs. Career/Profession", ]
+tags: ["Manual Deterioration,", "Piecework,", "Little or No Education,", "Attention to Detail,", "Work vs. Career/Profession", ]
 meta_img: images/image.png
 description: three men rubbing varnish off a floor
 ---

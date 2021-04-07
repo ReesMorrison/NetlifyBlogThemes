@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Movie
-tags: ["Workaholic," "Directing Others," "Responsibility," "Reputation,", ]
+tags: ["Workaholic,", "Directing Others,", "Responsibility,", "Reputation,", ]
 meta_img: images/image.png
 description: Hard work of Charles Foster Kane (Orson Welles)
 ---

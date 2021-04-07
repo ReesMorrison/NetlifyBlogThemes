@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Bosses," "Job Hopping," "Reactive," "Social Side,", ]
+tags: ["Bosses,", "Job Hopping,", "Reactive,", "Social Side,", ]
 meta_img: images/image.png
 description: A rock song about life on the river rather than slaving for the man.
 ---

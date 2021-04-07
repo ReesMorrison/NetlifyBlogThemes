@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Poem
-tags: ["Gender," "Necessary," "Father's Vocation," "Gig Economy," "Not First Preference", ]
+tags: ["Gender,", "Necessary,", "Father's Vocation,", "Gig Economy,", "Not First Preference", ]
 meta_img: images/image.png
 description: Robert Frost poem, Stopping by Woods on a Snowy Day
 ---
