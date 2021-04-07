@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Wide Angle
-tags: ["Money," "Labor, Task, Job, Career, Profession," "Vacations and Holidays," "Unpredictable Journey", ]
+tags: ["Money,", "Labor, Task, Job, Career, Profession,", "Vacations and Holidays,", "Unpredictable Journey",]
 meta_img: images/image.png
 description: subthemes other than what the four posts cover
 ---

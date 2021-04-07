@@ -5,16 +5,7 @@ date: '2021-02-05'
 slug: []
 categories:
   - Painting
-tags:
-  - alcohol
-  - drinking
-  - hangover
-  - absinthe
-  - l'absinthe
-  - Degas
-  - Edgar Degas
-  - impressionism
-  - impressionist
+tags: ["Legal Restrictions,", "Depressant,", "Hangovers,", "Destabilizing",]
 meta_img: images/image.png
 description: An impressionist painting, Absinthe by Edgar Degas, suggests ideas about drinking alcoholic beverages
 ---

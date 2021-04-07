@@ -5,10 +5,12 @@ date: '2021-01-24'
 slug: []
 categories:
   - Poem
-tags: ["Social Disapproval",]
+tags: ["Social Disapproval", "Toasting,", "Expensive," "Respite and Relief", ]
 meta_img: images/image.png
 description: Subthemes of alcohol drinking in the poem of an old, lonely man walking home and sipping
 ---
+
+“Mr. Flood’s Party,” one poem in Edgar Lee Masters’ "Spoon River Anthology" (1915), touches your heart with a brief, sad scene cheered a little by the liquor in a jug.  An elderly man trudges back from a town to his lonely sleeping place, carrying a jug of low-grade alcohol.  He stops in the brightness of the moon, imagines a drinking companion who is himself, and in a mock party draws on the jug a few times before plodding on.  The quaffs lighten the gloom for the solitary man, if only for a few minutes, even drawing from him a burst of song, but then the darkness, the seclusion, the losses of former friends, and the emptiness of his remaining life consumes the brief happiness created by the drinks.
 
 Old Eben Flood, climbing alone one night  
 Over the hill between the town below  
@@ -74,9 +76,6 @@ Where strangers would have shut the many doors
 That many friends had opened long ago.  
 
 
-
-“Mr. Flood’s Party,” one poem in Edgar Lee Masters’ "Spoon River Anthology" (1915), touches your heart with a brief, sad scene cheered a little by the liquor in a jug.  An elderly man trudges back from a town to his lonely sleeping place, carrying a jug of low-grade alcohol.  He stops in the brightness of the moon, imagines a drinking companion who is himself, and in a mock party draws on the jug a few times before plodding on.  The quaffs lighten the gloom for the solitary man, if only for a few minutes, even drawing from him a burst of song, but then the darkness, the seclusion, the losses of former friends, and the emptiness of his remaining life consumes the brief happiness created by the drinks.
-
 ![JugPicture](/media/AlcoholFloodJug.png)
 
 Each of the seven stanzas refers to alcohol, implicitly in the first and third, but explicitly in the other five stanzas.  The poet shares with us several views of alcohol.  
@@ -100,9 +99,10 @@ The emotion the final stanza invokes – weary, last word, song done -- the pass
 
 Old Eben Flood filled with regret as he considered another quaff, perhaps because too little was left – his pleasure was gone – or perhaps because the pangs of a former, happier life struck, or perhaps because he knows that that jug could be empty but hard-scrabble life would plod on.
 
-For subthemes of alcohol that are not closely associated with this poem, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
-
 
 In this foray into the sociology, physiology, and psychology of drinking alcohol, the poem delves into the guilty pleasure that elicits concerns about being criticized by non-drinkers, the bonhomie of raising a glass to and with others, the disinhibition of song that often mixes with drink, and the pleasure while the glow lasts.  Toward the end of his lonely life, Eben Flood finds solace and escape in the jug, but reality takes over at the end.
+
+
+For subthemes of alcohol that are not closely associated with this poem, or the other three art forms please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
 
 
