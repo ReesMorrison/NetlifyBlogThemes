@@ -5,12 +5,12 @@ date: '2021-02-08'
 slug: []
 categories:
   - Poem
-tags:
-  - Decisions - consequences
-  - Decisions - coin flip
+tags: ["Coin Flips,", "Cognitive Dissonance,", "Compounding and Curtailing,", "Counterfactuals,", "Retrospective Logic","]
 meta_img: images/image.png
 description: A traveler goes down one path instead of another, based on no significant difference, and ruminates on the consequences of the decision.
 ---
+
+Robert Frost’s “The Road Not Taken,” highlights in a short poem a decision that is both earthy and metaphorical.  Two paths beckon, neither one having more attraction than the other, but the traveler must finally make a decision.  He appeases his heart that he can take the other path on a later day, but his head tells him that life will not bring him back that way again.  Life’s small decisions shape us.
 
 “The Road Not Taken” (Robert Frost)
 
@@ -38,9 +38,6 @@ Two roads diverged in a wood, and I—
 I took the one less traveled by,  
 And that has made all the difference.  
 
- 
-
-Robert Frost’s “The Road Not Taken,” highlights in a short poem a decision that is both earthy and metaphorical.  Two paths beckon, neither one having more attraction than the other, but the traveler must finally make a decision.  He appeases his heart that he can take the other path on a later day, but his head tells him that life will not bring him back that way again.  Life’s small decisions shape us.
 
 ![Poem, Two roads in forest picture](/media/DecisionsTwoRoads.png)
 
@@ -58,7 +55,8 @@ The inconsequentiality of the matter may lead us to concluding that either is eq
 
 On the other hand, when we regret decisions we took, we find it easier to blame external forces.  “How could I have known the house was riddled with asbestos?”; “He didn’t tell me that the gun was loaded.”  If a bear mauled the traveler on the road taken just beyond where it bent in the undergrowth, we would feel the tragedy of the decision.  Few readers would anticipate that; the poem gives the impression that it was the right path to take and the decision led to good things – and that has made all the difference -- but Frost leaves the traveler’s fate ambiguous.
 
-For subthemes of decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
-
 
 Frost’s poem of the seemingly innocuous option by the traveler reveals deeper aspects of decisions.   People sometimes can’t see their way clear so they do “eeny, meeny, miney, moe” and then conjure up something defensible to say about a justification other than a tie breaker picked the one.  Whether deeply pondered or quickly decided, decisions foreclose what might have happened and can make all the difference.
+
+
+For subthemes of decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).

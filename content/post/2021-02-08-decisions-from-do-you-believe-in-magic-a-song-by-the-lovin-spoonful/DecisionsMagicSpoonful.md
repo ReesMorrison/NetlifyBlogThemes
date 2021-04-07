@@ -5,13 +5,13 @@ date: '2021-02-08'
 slug: []
 categories:
   - Rock & Roll
-tags:
-  - girlfriend
-  - dating
+tags: ["Difficult, and Uncertain Timing,", "Inexplicable,", "Regret,", "Power and Pain,", "Life Changing But Slowly Develop", ]
+
 meta_img: images/image.png
 description: A teenager flits from girl to girl, but a father tells him to make up his mind.
 ---
 
+The 1960's song [“Do You Believe in Magic”](https://www.youtube.com/watch?v=txTEhgReZUA) sounds at first hearing like a light-hearted jibe at fickle teenage boys with a roving eye.   Now falling for this cute girl, next moment a glimpse of another girls captures his heart completely.  But underneath the flighty affections, the pop hit helps us consider aspects of decisions.
 
 “Do You Believe in Magic” (Lovin’ Spoonful)
 
@@ -43,8 +43,6 @@ And say yes to one and let the other one ride
 There's so many changes, and tears you must hide  
 Did you ever have to finally decide?  
 
- 
-The 1960's song [“Do You Believe in Magic”](https://www.youtube.com/watch?v=txTEhgReZUA) sounds at first hearing like a light-hearted jibe at fickle teenage boys with a roving eye.   Now falling for this cute girl, next moment a glimpse of another girls captures his heart completely.  But underneath the flighty affections, the pop hit helps us consider aspects of decisions.
 
 ![Photo of Lovin' Spoonful](/media/DecisionsMagic.png)
 
@@ -65,8 +63,7 @@ Hurt feelings or emotional loss don’t necessarily line up with loss of power, 
 
 **Life Changing But Slowly Develop**:  Unlike the frivolousness of [deciding to play cards](https://themesfromart.com/blog/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/) and how to win, decisions about dating and marriage might very well shape a person’s life.  Such momentous decisions confront us very occasionally, or at least those decisions that we recognize at the time have the power to alter the arc of our lives.  To change religions, to undergo a transgender procedure, to adopt a child or divorce a spouse – rupturing decisions at this level build over time and subject the person to periods of difficult introspection and weighing of alternative courses of action or timing.   Completely unlike the urgency of a concentration camp confrontation, this song addresses decisions that can unfold over time.
 
-For subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
-
-
 
 The most difficult decisions revolve around emotions and intuitions that we often can’t articulate.   That makes them hard, as our heart duels with our head.  Meanwhile, as this modest song intimates, other people lose out when we eventually make up our minds.
+
+For subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
