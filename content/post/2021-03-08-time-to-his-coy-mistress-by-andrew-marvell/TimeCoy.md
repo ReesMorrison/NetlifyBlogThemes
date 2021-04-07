@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Poem
-tags: ["Ample Time Suggests Leisure", "Time Leads to Quality," "Carpe Diem," "Rate Time Passes Varies by Pleasure," "Never Stops", ]
+tags: ["Ample Time Suggests Leisure,", "Time Leads to Quality,", "Carpe Diem,", "Rate Time Passes Varies by Pleasure,", "Never Stops", ]
 meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---

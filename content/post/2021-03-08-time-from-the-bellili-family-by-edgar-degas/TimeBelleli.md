@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Painting
-tags: ["Passage of Time," "Time With the Family,", "Punctuality," "Integral to Commerce", ]
+tags: ["Passage of Time,", "Time With the Family,", "Punctuality,", "Integral to Commerce", ]
 meta_img: images/image.png
 description: Portrait of a family with a clock prominent in the background
 ---

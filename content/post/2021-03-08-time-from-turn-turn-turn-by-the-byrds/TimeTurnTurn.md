@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Nature's Cycles," "Time and Religion," "A Lifetime," "To Act or Not to Act",]
+tags: ["Nature's Cycles,", "Time and Religion,", "A Lifetime,", "To Act or Not to Act",]
 meta_img: images/image.png
 description: song based on Ecclesiastes seasons
 ---
