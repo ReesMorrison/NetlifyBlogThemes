@@ -7,7 +7,7 @@ theme = "hugo-theme-texify"
 title = "Themes From Art"
 
 disqusShortname = "themes-from-art"
-googleAnalytics = "G-47YEDDNJBK"
+googleAnalytics = "G-WPRZXLGMHX"
 pygmentsUseClasses = true
 
 [author]
