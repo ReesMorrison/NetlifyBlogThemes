@@ -1,9 +1,9 @@
 .customPostTitle {
-    color: rgb(0, 0, 255);
+    color: rgb(117,112,179);
 }
 
 .customBlogTitle {
-    color: #2274A5; /* star command blue from coolors.co */
+    color: rgb(27,158,119); /* star command blue from coolors.co */
 }
 
 #main > .post + .post {
