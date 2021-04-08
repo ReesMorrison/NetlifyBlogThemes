@@ -10,9 +10,11 @@ meta_img: images/image.png
 description: Portrait of a family with a clock prominent in the background
 ---
 
-“The Bellelli Family” by Edgar Degas
-
 This painting of a family includes on the upper-right mantelpiece an ornate, framed and prominent clock.  The Bellelli family should have been proud of this clock, proudly looming over the writing desk and with the grand mirror of the living room behind it, as it was not only functional but also a decorative statement of modernity and affluence.  We can glean from this painting’s notable clock several ideas about time.
+
+<!--more-->
+
+“The Bellelli Family” by Edgar Degas
 
 ![Bellelli Family](/media/TimeBellelli.jpg)
 

@@ -12,6 +12,8 @@ description: song based on Ecclesiastes seasons
 
 With lyrics based on the King James Version of Ecclesiastes (3:1-8), this hit song comprehends many aspects of time.  Here is a YouTube video of a [1965 rendition by the Byrds](https://www.youtube.com/watch?v=eiprqeaydik). You will adore the two little kids!
 
+<!--more-->
+
 “Turn! Turn! Turn!” by The Byrds
 
 To every thing there is a season, and a time to every purpose under the heaven:  
