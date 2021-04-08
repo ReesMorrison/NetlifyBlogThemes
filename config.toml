@@ -19,7 +19,26 @@ name = "author"
     [markup.goldmark.renderer]
       unsafe = true
 
-
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[menu.main]]
+  identifier = "art"
+  name = "Art"
+  url = "/art/"
+  weight = 2
+[[menu.main]]
+  identifier = "themes"
+  name = "Themes"
+  url = "/themes/"
+  weight = 3
+[[menu.main]]
+  identifier = "subthemes"
+  name = "Subthemes"
+  url = "/subthemes/"
+  weight = 4
 
 [params]
   customCSS = []
