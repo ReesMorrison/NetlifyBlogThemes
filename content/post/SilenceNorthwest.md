@@ -11,6 +11,7 @@ draft: no
 
 Hunted by police on a train, Cary Grant takes refuge in Eva Marie Saint’s cabin.  He then has to squeeze into the overhead luggage bin to hide himself while the police question her.  He stays completely silent during the scene.
 
+<!--more-->
 
 “North by Northwest”, by Alfred Hitchcock with Cary Grant and Eva Marie Saint
 ![poster](/media/SilenceNorthwestPoster.jpg)
