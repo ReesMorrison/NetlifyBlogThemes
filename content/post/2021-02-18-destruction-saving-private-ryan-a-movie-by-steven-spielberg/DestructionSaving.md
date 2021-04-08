@@ -10,7 +10,9 @@ meta_img: images/image.png
 description: Description for the page
 ---
 
-The graphic, terrifying, long scene at the start of the movie “Saving Private Ryan” (directed by Steven Spielberg and starring Tom Hanks) plunges the viewer into epic destruction.  Here is a [five-minute clip of the masterful scene](https://www.youtube.com/watch?v=xqcSY770aYA).  From the scene’s initial D-Day slaughter until the U.S. soldiers subdue the German defenders on the cliff tops, the screen bleeds death and destruction.   
+The graphic, terrifying, long scene at the start of the movie “Saving Private Ryan” (directed by Steven Spielberg and starring Tom Hanks) plunges the viewer into epic destruction.  Here is a [five-minute clip of the masterful scene](https://www.youtube.com/watch?v=xqcSY770aYA).  From the scene’s initial D-Day slaughter until the U.S. soldiers subdue the German defenders on the cliff tops, the screen bleeds death and destruction.  
+
+<!--more-->
 
 ![Saving Private Ryan](/media/DestructionPrivateRyan.png)
 
@@ -21,7 +23,9 @@ The graphic, terrifying, long scene at the start of the movie “Saving Private 
 
 **Unilateral or Not**:  A firing squad acts unilaterally; the person facing the guns can’t respond.  The violence of nature permits no countervailing act, only palliatives such as sandbags, fire lines, window-boardings, rooftops, and evacuations.  But other manifestations of destruction present us with two or more sides, so they are bilateral or multilateral.  Gang warfare unleashes retribution and battles among criminal groups, and always have at least two sides plotting and fighting to prevail.  Wars for the past couple  of centuries have sprawled across continents and sucked in many countries on both sides.  The more participants, the more widespread the destruction.
 
-**Completely Wasteful**:   Some instances of physical destruction make sense. The government condemns land and carves into mountains to build roads and we don’t bemoan the scars. When carefully placed dynamite takes down an old building so that a modern one can replace it, destruction serves a constructive purpose.  Often demolition or digging precedes urban renewal, harbor extensions, airport construction, building dams, and digging foundations for skyscrapers.  One generally presumes that the “old” is followed by a better “new”, although opposition by preservationists is often bitter.   If condemnation for new construction ruins a historical area, displaces poor people, or rends a neighborhood that is forever blighted by the expressway, a political and social balancing of interests hopefully justifies the destruction by the potential, perceived gain.   
+**Completely Wasteful**:   Some instances of physical destruction make sense. The government condemns land and carves into mountains to build roads and we don’t bemoan the scars. When carefully placed dynamite takes down an old building so that a modern one can replace it, destruction serves a constructive purpose.  Often demolition or digging precedes urban renewal, harbor extensions, airport construction, building dams, and digging foundations for skyscrapers.
+
+One generally presumes that the “old” is followed by a better “new”, although opposition by preservationists is often bitter.   If condemnation for new construction ruins a historical area, displaces poor people, or rends a neighborhood that is forever blighted by the expressway, a political and social balancing of interests hopefully justifies the destruction by the potential, perceived gain.   
 
 By contrast, blowing up bunkers, exploding a landing craft, burying anti-LST barriers, or incinerating tanks with flamethrowers completely wastes physical resources on both sides.   Such destruction leaves nothing positive.  All weapons could have been plowshares.   A country has to agree that saving democracy and liberating oppressed people is the constructive result of the massive bombing of Laos, for example.
 

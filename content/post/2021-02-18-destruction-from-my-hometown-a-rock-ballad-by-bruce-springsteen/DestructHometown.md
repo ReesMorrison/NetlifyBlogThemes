@@ -11,6 +11,10 @@ description: Description for the page
 ---
 
 The rock ballad “My Hometown”, composed and sung by Bruce Springsteen, captures the decline of a rustbelt American town. The stores on Main Street have closed, vacant windows gaze without blinking, and the steady blue-collar jobs at the textile mill have seeped overseas. The forces of racial strife and global trade have done in the community and those who can have fled.  Over two or three decades the town has been battered and beaten.  Destruction rears its head in this rock song in several aspects.
+
+<!--more-->
+
+
 “My Hometown” (Bruce Springsteen)
 
 I was eight years old and running with a dime in my hand  

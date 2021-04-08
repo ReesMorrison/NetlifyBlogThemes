@@ -12,6 +12,8 @@ description: Flood at Port Marly by Sisley
 
 Alfred Sisley’s painting captures the Seine River after it overflowed its banks and flooded the town of Port-Marly.  The river's waters cover the landscape behind Rue Paris, undoubtedly damaging the wine shop on the left and its wares.  Despite the seeming tranquility of the scene, destruction rampages.  The impressionist scene brings to mind other characteristics of destruction.
 
+<!--more-->
+
 “Flood at Port-Marly” (Alfred Sisley, "L'inondation à Port-Marly", 1876)
  
 
