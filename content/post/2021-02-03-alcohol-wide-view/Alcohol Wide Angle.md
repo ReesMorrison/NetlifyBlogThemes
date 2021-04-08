@@ -20,6 +20,8 @@ Four posts have discussed sub-themes of the broader theme of alcohol:
 
 Having explored sub-themes of alcohol that suggest themselves primarily in only one of the four artistic forms, I want to close with several additional observations that deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
 
+<!--more-->
+
 **Loneliness**: Loneliness cries out in these pieces:  The old man trudging back alone in the cold to his hermitage, the sodden expatriate in Mexico who yearns for a woman back home, the café demimonde locked in the solitary confinement of her musings, and the warring couple on the precipice of divorce’s separation.  Perhaps alcohol didn’t cause these plights of loneliness, but it may well have worsened them.  The behavior of people who tickle too much can alienate friends and neighbors. Acquaintances and family fall away; someone with alcoholic tendencies find themselves unwelcome and uninvited.
 
 **Despondency**:  Sadness seeps out of each of these works, and not simply because of the pervasively loneliness.  Mr. Flood lives by himself without companions, the margarita-lover can’t recover as he misses a lost woman, the dawn drinker doesn’t radiate that absinthe makes the heart grow fonder; and the loathing in “Virginia Woolf” bites deeper than mere sadness. Drinking too often or too much contributes to despondency both as a physical downer and as a weakener of capabilities.  Alcohol can be fingered as the cause of melancholy but as we discuss below it can also romp hand-in-hand with fun and games.  But none of these mini-stories suggests that good side of alcohol.

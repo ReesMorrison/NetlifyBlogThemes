@@ -41,11 +41,17 @@ title:
 [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/)  
 
 **Chance**
-
-["The Winner Takes It All"](https://themesfromart.com/blog/2021-03-14-chancewinner/chancewinner/)
+["The Winner Takes It All"](https://themesfromart.com/blog/2021-03-14-chancewinner/chancewinner/)  
 ["Hap"](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/)  
 ["The Deer Hunter"](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/)  
 [“The Quai Saint-Michel and Notre-Dame”](https://themesfromart.com/blog/2021-03-14-chancechurch/chancechurch/)  
-[Additional Subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/)  
+[Additional Subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/)
+
+**Silence**
+["Jane Avril Leaving the Moulin Rouge"](https://themesfromart.com/post/silenceavril/)  
+["Ask Not For Whom The Bell Tolls"](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)  
+["North by Northwest"](https://themesfromart.com/post/silencenorthwest/)  
+["The Sounds of Silence"](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)  
 
 

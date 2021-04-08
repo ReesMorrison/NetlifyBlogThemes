@@ -4,18 +4,17 @@ author: 'Rees Morrison'
 date: '2021-02-03'
 slug: []
 categories: [Movie]
-tags:
-  - alcohol
-  - drinking
-  - Mike Nichols
-  - Elizabeth Taylor
-  - Richard Burton
-  - Sandy Dennis
+tags: ["Loss of Control,", "Aggressiveness,", "Costly,", "Not to Be Reasoned With", ]
+
 meta_img: images/image.png
 description: How a scene from the movie "Who's Afraid of Virginia Woolf", directed by Mike Nichols and starring Elizabeth Taylor and Richard Burton suggests ideas about drinking alcoholic beverages.
 ---
 
-At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  If you would like to watch the 1:41 scene as it was directed by Mike Nichols, [here it is on YouTube.](https://www.youtube.com/watch?v=nInE5TITzE8 "Scene on YouTube").  The dialogue below comes from [script-o-rama.](http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html) 
+At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  
+
+<!--more-->
+
+If you would like to watch the 1:41 scene as it was directed by Mike Nichols, [here it is on YouTube.](https://www.youtube.com/watch?v=nInE5TITzE8 "Scene on YouTube").  The dialogue below comes from [script-o-rama.](http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html) 
 
 Martha: I actually fell for him.  It! That! There!  
 

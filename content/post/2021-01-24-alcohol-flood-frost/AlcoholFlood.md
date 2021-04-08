@@ -12,6 +12,8 @@ description: Subthemes of alcohol drinking in the poem of an old, lonely man wal
 
 “Mr. Flood’s Party,” one poem in Edgar Lee Masters’ "Spoon River Anthology" (1915), touches your heart with a brief, sad scene cheered a little by the liquor in a jug.  An elderly man trudges back from a town to his lonely sleeping place, carrying a jug of low-grade alcohol.  He stops in the brightness of the moon, imagines a drinking companion who is himself, and in a mock party draws on the jug a few times before plodding on.  The quaffs lighten the gloom for the solitary man, if only for a few minutes, even drawing from him a burst of song, but then the darkness, the seclusion, the losses of former friends, and the emptiness of his remaining life consumes the brief happiness created by the drinks.
 
+<!--more-->
+
 Old Eben Flood, climbing alone one night  
 Over the hill between the town below  
 And the forsaken upland hermitage  

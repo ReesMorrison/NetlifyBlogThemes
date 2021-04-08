@@ -12,6 +12,8 @@ description: An impressionist painting, Absinthe by Edgar Degas, suggests ideas 
 
 At the focus spot of a well-known painting by Edgar Degas, "The Absinthe" ["L?  Absinthe"], sits a full glass of absinthe.  According  [to one summary](https://www.ngv.vic.gov.au/work-of-the-week-edgar-degas-in-a-cafe-the-absinthe-drinker-dans-un-cafe-labsinthe/), "Absinthe (also known as La Fée Verte or "the green fairy") was a green colored, highly alcoholic spirit. Poured over ice and served with water and a cube of sugar to soften the bitter taste, it was [thought to be] highly addictive and known to cause hallucinations."  In this early morning scene from a mid-19th century Parisian café [Note 1], the woman and her companion, despite their youthfulness in their lower 30', exude fatigue, emptiness and depression. 
 
+<!--more-->
+
 ![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg){width=50%, height=20%}
 
 **Legal Restrictions**: Its growing popularity and its negative social effects led to absinthe being banned in much of Europe and America."  More broadly, alcohol for consumption swirls in a cloud of legal restrictions.  You must be of majority age to drink, certain kinds of alcohol are illegal, driving under the influence carries heavy penalties, sales are regulated and highly taxed.   At the extreme, the Eighteenth Amendment of the United States Constitution prohibited alcohol in the United States starting January 16, 1919.   Much of the animus against drinking alcohol arises from moralistic prudery, but also awareness of drunken misbehavior.  

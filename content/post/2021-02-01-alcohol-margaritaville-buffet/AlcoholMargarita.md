@@ -12,6 +12,8 @@ description: Drinking alcohol -- margaritas -- in a Mexican resort, with a disco
 
 A beach bum, awash in margaritas [Note 1], boozily staggers through this ballad of rueful retrospection.  He concludes that he is to blame for his plight, not some unnamed woman.  But the connotations we concentrate on in Jimmy Buffet’s “Margaritaville” emanate from alcohol.  The blended deliciousness of margaritas cozens him yet robs him of clear thinking and sucks mature control from his life.  The alcohol, we will see, gives him refuge but removes his agency.
 
+<!--more-->
+
 “Margaritaville” (written and sung by Jimmy Buffet)
 
 Nibblin' on sponge cake  
