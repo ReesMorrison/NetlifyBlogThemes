@@ -12,7 +12,7 @@ description: Description for the page
 
 The graphic, terrifying, long scene at the start of the movie “Saving Private Ryan” (directed by Steven Spielberg and starring Tom Hanks) plunges the viewer into epic destruction.  Here is a [five-minute clip of the masterful scene](https://www.youtube.com/watch?v=xqcSY770aYA).  From the scene’s initial D-Day slaughter until the U.S. soldiers subdue the German defenders on the cliff tops, the screen bleeds death and destruction.  
 
-<!--more-->
+<!--more--> 
 
 ![Saving Private Ryan](/media/DestructionPrivateRyan.png)
 

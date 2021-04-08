@@ -12,6 +12,8 @@ description: three men rubbing varnish off a floor
 
 The three young men in “The Floor Scrapers”, painted by Gustave Caillebotte, are laboriously removing varnish from a French floor.  The work demands painstaking care and fatiguing exertion; worse, the painting depicts them toiling on a warm day.  We can draw out of this evocative painting observations about work for hire.
 
+<!--more-->
+
 ![floor scrapers](/media/WorkScrapers.png)
 
 **Manual Deterioration**:  Pressing for hours with a sharp tool to peel varnish off a wooden floor epitomizes manual labor.  You slog through the task with your hands and muscles, as does a brick layer, a strawberry picker, or a ditch digger.  To spend day after day on your knees bent forward and pressing down hard guarantees that your body will eventually surrender. Perhaps your spinal disc will herniate or carpal tunnel syndrome will afflict your wrist, or your knees will swell and hurt.   Quite often, the repetition of an action wears down or inflames tendons, cartilage or muscle – think of a checkout person repeatedly scanning thousands of QR codes.  Some manual labor ruins the entire body over time, as a John Henry shoveling coal, a coolie pedaling a rickshaw, or a person hoisting garbage pails into a truck. Many kinds of manual labor damage the body or your health, perhaps because of the conditions around you such as miners who inhale coal dust or those who dive freestyle for lobster.  

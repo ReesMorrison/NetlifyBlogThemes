@@ -12,7 +12,7 @@ description: Description for the page
 
 In Shelley’s poem, a traveler describes the *colossal Wreck* of an imperious ruler’s once-magnificent statute.  What was once a grand and imposing statue in honor of a powerful *King of Kings* now lies scattered in rubble.  The poem offers many interpretations, but here we will pay attention to the theme of destruction. 
 
-<!--more-->
+<!--more--> 
 
 “Ozymandias” (Percy Bysshe Shelley)
 
