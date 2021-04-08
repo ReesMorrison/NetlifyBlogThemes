@@ -1,9 +1,9 @@
 ---
-title: SilenceSounds
+title: Silence, from "The Sounds of Silence," by Simon & Garfunkel
 author: Rees Morrison
 date: '2021-04-08'
 slug: []
-categories: [Rock Song]
+categories: [Rock & Roll]
 tags: ["Contrast to Conversation,", "Alienation and Depression,", "Ineffable", ]
 draft: no
 ---
