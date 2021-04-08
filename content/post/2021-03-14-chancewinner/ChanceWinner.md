@@ -12,6 +12,8 @@ description: Description for the page
 
 The sadness, loss and resignation a shattering divorce triggers makes “The Winner Takes It All” heartrending.   The marital collapse eroded over time, perhaps, or erupted suddenly, but the dice thrown by impersonal forces landed the wrong way and the life of a wife came asunder.  Chance shows up throughout this [Abba hit](https://www.youtube.com/watch?v=92cwKCU8Z5c).
 
+<!--more-->
+
 “The Winner Takes It All” by ABBA
 
 I don't wanna talk  

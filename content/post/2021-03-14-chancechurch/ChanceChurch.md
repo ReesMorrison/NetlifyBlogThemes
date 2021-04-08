@@ -10,11 +10,15 @@ meta_img: images/image.png
 description: Luce Maximilien's view of a pier and church in Paris
 ---
 
+Maximilien captures the throng of secular bustle against the magnificence spirituality of Notre-Dame Cathedral.   Daily living in the darker, lower portion of the canvas; light, glow and divinity in the upper half.  Both portions portray aspects of chance.
+
+<!--more-->
+
 “The Quai Saint-Michel and Notre-Dame” by Luce Maximilien
  
 ![Musée d’Orsay, Paris](/media/ChanceQuai.jpg)
 
-Maximilien captures the throng of secular bustle against the magnificence spirituality of Notre-Dame Cathedral.   Daily living in the darker, lower portion of the canvas; light, glow and divinity in the upper half.  Both portions portray aspects of chance.
+
 
 **Randomness or Religion**:  Faithful churchgoers believe that God shepherds them through life, so what may be seemingly-inexplicable good and evil in fact fit in a meaningful, theological scheme.  God may work in mysterious ways, but he works.   Nonbelievers, by contrast, interpret many events in the world as physical responses to stimulants: at an unpredictable point, the tectonic plate drops, the driver texts for a second too long, the foul ball curves into a baseball fan, or the tiny thrombus forms in a  vein.  Things just happen, [*crass Casualty*](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/) pushes us this way and that, randomly and without a deeper pattern of purpose or teleology.  The priests of Notre-Dame preach of God’s intentionality, but the secularists walking on the Quai Sainte-Michel doubt that consumption, for example, has a theological cause or goal.
 

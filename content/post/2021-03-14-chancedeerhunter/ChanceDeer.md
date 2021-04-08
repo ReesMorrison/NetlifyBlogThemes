@@ -14,6 +14,8 @@ description: Description for the page
 
 Winner of an Academy Award for Best Picture, this movie’s taut, searing minutes of prolonged Russian Roulette embody pure chance.   Here is the [scene of gambling lives on chance]( https://www.youtube.com/watch?v=aCW9NsrV6VM).  What connotations of chance does this vignette of steely courage convey?
 
+<!--more-->
+
 **Risk**:   Both De Niro and Walken put their lives on the line as they pulled the trigger.  They faced, brutally, the ultimate risk.  Chance, and phrases such as “take a chance” or “let’s chance it” resonate with risk.  Something anticipatable might go wrong, something you are aware of can backfire, some foreseeable trouble lies ahead on the chosen path but you can’t know for sure.  Hikers knowingly clamber across slippery rocks next to a river and drivers speed at night after partying too much.  Students turn in a plagiarized essay hoping that the professor’s software won’t finger it, joggers run on dark roads with no margins, and motorcyclists eschew helmets.  To various degrees, the hikers, drivers, students, joggers and bikers are aware that what they are doing puts them at risk and may boomerang – [*dicing Time may cast a moan*](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/).   Based on whatever decision-making calculus they run, they risk the chance.
 
 

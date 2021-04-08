@@ -12,6 +12,8 @@ description: poem of random fate
 
 Hardy’s cri de cœur, “Hap”, bemoans the inexplicability of joy and sorrow.  He regrets that no explainable force, not even a *vengeful god*, doles out good and evil, because Hap could then bear the undeserved wrongs.  No, he regrets, unfeeling and remorseless chance haphazardly strews our lives with events that pain our *pilgrimage*. 
 
+<!--more-->
+
 “Hap” by Thomas Hardy 
 
 If but some vengeful god would call to me  
