@@ -2,7 +2,7 @@
 date: "2020-02-23"
 description: A list of the themes with links to their posts
 menu: main
-title: Themes
+title: 
 ---
 
 **Alcohol**  
