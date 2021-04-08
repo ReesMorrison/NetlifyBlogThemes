@@ -4,7 +4,7 @@ hasCJKLanguage = true
 languageCode = "en"
 paginate = 5
 theme = "hugo-theme-texify"
-title = "Themes From Art"
+title = "Themes from Art"
 
 disqusShortname = "themes-from-art"
 googleAnalytics = "G-WPRZXLGMHX"

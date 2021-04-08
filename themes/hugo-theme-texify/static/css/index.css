@@ -4,6 +4,7 @@
 
 .customBlogTitle {
     color: #2274A5; /* star command blue from coolors.co */
+    padding-bottom: 75px;
 }
 
 #main > .post + .post {

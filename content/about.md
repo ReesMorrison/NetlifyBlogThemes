@@ -2,7 +2,7 @@
 date: "2020-01-01"
 description: A description of the page
 menu: main
-title: About This Project
+title: About
 ---
 
 **Poems** tell miniature stories, as do **song lyrics**, **paintings** and scenes in **movies**.  The stories in each art form suggest a range of cultural concepts.  For example, a collection of one piece from each art form might make the careful viewer aware of a tangible feature shared by each of them, such as a hat or a factory, or perhaps an abstraction such as suffering or hope.  But this notion of stories with a common theme across art forms extends more broadly. 
