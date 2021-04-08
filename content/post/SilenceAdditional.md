@@ -9,14 +9,15 @@ tags: ["Silence Enables Communication,", "Out in Nature,", "Utter Silence of Out
 draft: no
 ---
 
-Four posts have drawn from that many pieces of art a variety of subthemes regarding silence.  The posts included [“Ask Not for Whom the Bell Tolls”](  ), a poem by John Donne, “[Jane Avril Leaving the Moulin Rouge”](  ),  a painting by Henri de Toulouse-Lautrec, [“The Sounds of Silence”](  ), a song by Simon & Garfunkel, and [“North by Northwest”](  ), a movie directed by Alfred Hitchcock starring Cary Grant and Eva Marie Sainte.  A few other subthemes of silence that don’t relate directly to any of the four art pieces deserve mention.
+Four posts have drawn from that many pieces of art a variety of subthemes regarding silence.  The posts included [“Ask Not for Whom the Bell Tolls”](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/), a poem by John Donne, “[Jane Avril Leaving the Moulin Rouge”](https://themesfromart.com/post/silenceavril/),  a painting by Henri de Toulouse-Lautrec, [“The Sounds of Silence”](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/), a song by Simon & Garfunkel, and [“North by Northwest”](https://themesfromart.com/post/silencenorthwest/), a movie directed by Alfred Hitchcock starring Cary Grant and Eva Marie Sainte.  A few other subthemes of silence that don’t relate directly to any of the four art pieces deserve mention.
 
 **Silence Enables Communication**:   All languages use silence to separate words.   Music uses silence to demarcate individual notes.  Silence between notes sets the tempo of what we hear.   And, too, when a musical piece ends, silence punctuates it – just before the applause fills it.  Morse code relies on pauses between the stream of dots and dashes as do smoke signals with the timed release of smoke.  Paradoxically, without silence we could not communicate nearly as significantly.
 
 **Out in Nature**:  When the sounds of civilization fade or disappear, when the cacophony of motors, honks, airplanes and leaf blowers is left behind, people relish the peace and quiet.   The particular silence of nature encourages calm and solitude.  Not that birds stop chirping, leaves stop rustling, waves stop breaking or cicadas stop humming, but the intrusive din of urban electricity, traffic, sirens, shouts, and combustion ceases – nature lovers revere the quiet.   
 
-*The only other sound’s the sweep*  
-*Of easy wind and downy flake.*   [Frost](Stopping) 
+*The only other sound’s the sweep*    
+*Of easy wind and downy flake.*   
+[Robert Frost, "Stopping by Woods on a Snowy Evening"](Stopping) 
 
 The restful silence of the outdoors contrasts with the incessant, noisy bustle of city life. 
 
