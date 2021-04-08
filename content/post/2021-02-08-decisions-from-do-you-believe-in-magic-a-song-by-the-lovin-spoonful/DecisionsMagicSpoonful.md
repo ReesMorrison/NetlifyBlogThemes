@@ -13,6 +13,8 @@ description: A teenager flits from girl to girl, but a father tells him to make 
 
 The 1960's song [“Do You Believe in Magic”](https://www.youtube.com/watch?v=txTEhgReZUA) sounds at first hearing like a light-hearted jibe at fickle teenage boys with a roving eye.   Now falling for this cute girl, next moment a glimpse of another girls captures his heart completely.  But underneath the flighty affections, the pop hit helps us consider aspects of decisions.
 
+<!--more-->
+
 “Do You Believe in Magic” (Lovin’ Spoonful)
 
 Did you ever have to make up your mind?  

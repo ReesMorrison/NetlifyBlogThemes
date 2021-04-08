@@ -12,6 +12,8 @@ description: A traveler goes down one path instead of another, based on no signi
 
 Robert Frost’s “The Road Not Taken,” highlights in a short poem a decision that is both earthy and metaphorical.  Two paths beckon, neither one having more attraction than the other, but the traveler must finally make a decision.  He appeases his heart that he can take the other path on a later day, but his head tells him that life will not bring him back that way again.  Life’s small decisions shape us.
 
+<!--more-->
+
 “The Road Not Taken” (Robert Frost)
 
 Two roads diverged in a yellow wood,  

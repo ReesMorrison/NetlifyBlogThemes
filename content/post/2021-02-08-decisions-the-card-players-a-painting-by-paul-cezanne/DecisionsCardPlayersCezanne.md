@@ -12,6 +12,8 @@ description: Paul Cezanne's impressionist painting of two men playing cards in a
 
 In Paul Cézanne’s “The Card Players” ("Les joueurs de cartes"), we peek in on two men engrossed in a game of cards.  Although Cezanne probably painted this calm and pleasurable glimpse of French life without a thought to its implications for decision-making, we can interpret from it several.
 
+<!--more-->
+
 ![Painting, The Card Players](/media/DecisionsCardPlayers.png)
 
 **Ubiquity**:  In the ordinariness of this scene, we can appreciate the culmination of an extraordinary number of barely-noticeable decisions by both men. The clothes they wear, the time they meet, the game they play, the stakes they play for, the location of the café table, the drinks they had, and on and on.  Such mundane decisions bear no consequences; most floated in the stream of their lives: most are as familiar, habitual, and predictable as shaving. All of us are immersed in quotidian decisions, most of them demanding no cycle times in our brain. Whether they put their wallet in their back pocket that morning was hardly the result of deliberate cogitation.
