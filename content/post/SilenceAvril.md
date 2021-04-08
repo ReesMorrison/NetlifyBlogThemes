@@ -11,6 +11,8 @@ draft: no
 
 A downcast, slumped woman trudges down a street, wrapped in silence.  She has no companion to chat with – note the couple behind her with their backs turned brusquely toward her -- and she conveys reflection, fatigued blandness, or melancholy.  Toulouse-Lautrec captured on canvas a meditation on silence.
 
+<!--more-->
+
 “Jane Avril Leaving the Moulin Rouge”, by Henri de Toulouse-Lautrec
 ![Avril](/media/SilenceToulouse.jpg)
 

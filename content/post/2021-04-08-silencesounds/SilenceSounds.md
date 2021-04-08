@@ -1,5 +1,5 @@
 ---
-title: Silence, from "The Sounds of Silence," by Simon & Garfunkel
+title: Silence, from "The Sounds of Silence," a song by Simon & Garfunkel
 author: Rees Morrison
 date: '2021-04-08'
 slug: []
@@ -9,6 +9,8 @@ draft: no
 ---
 
 The signature Simon & Garfunkel  song warns about the value of sharing words and the sickness of silence.  In a nightmare about urban alienation and profit infatuation, thousands of lonely people don’t hear each other.  They lose the humanity of sharing and bonding with words and in so doing face a cancer of silence.
+
+<!--more-->
 
 “The Sound of Silence”, by Simon & Garfunkel
 
