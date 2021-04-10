@@ -5,13 +5,19 @@ menu: main
 title: Art
 ---
 
-Through Silence, posted on April 8, 2021, Themes from Art has discussed seven themes, incorporating one poem, movie, rock song, and impressionist painting for each, a total of 28 pieces of art.  The table below lists each of them.
+Through Silence, posted on April 8, 2021, Themes from Art has discussed seven themes, eliciting subthemes from one poem, movie, rock song, and impressionist painting for each theme, a total of 28 artistic works.  The table below lists each of them.
 
-```{r artTable}
+```{r packages, echo=FALSE, warning=FALSE, message=FALSE}
 
 library(tidyverse)
 
+```
+
+
+```{r artTable, echo=FALSE}
+
 art <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Art and Artists.xlsx")
+
 artTable <- kableExtra::kable(art)
 
 artTable
