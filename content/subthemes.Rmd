@@ -1,0 +1,25 @@
+---
+date: "2021-04-10"
+description: Subthemes written about
+menu: main
+title: Subthemes
+---
+
+In the seven themes written about so far, through Silence posted on April 8, 2021, we have considered     subthemes.
+
+```{r packages, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+
+```{r artSubthemes, echo=FALSE}
+
+subthemes <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes/subthemesCombo.xlsx")
+
+subthemesTable <- kableExtra::kable(subthemes)
+
+subthemesTable
+
+```
+
