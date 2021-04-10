@@ -2,7 +2,7 @@
 date: "2021-04-10"
 description: Subthemes written about
 menu: main
-title: Subthemes
+title: 
 ---
 
 ```{r packages, echo=FALSE, warning=FALSE, message=FALSE}
