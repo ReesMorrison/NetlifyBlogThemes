@@ -3,5 +3,12 @@
 <link media="screen" rel="stylesheet" href="{{ . | absURL }}" />
 {{ end }}
 
-<!-- google analytics -->
-{{ template "_internal/google_analytics_async.html" . }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WPRZXLGMHX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WPRZXLGMHX');
+</script>
