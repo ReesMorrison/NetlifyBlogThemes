@@ -48,10 +48,9 @@ with the legs fractured at the knees and the statue collapsed in what is now des
 **Retribution**:  Although [small towns shrivel](https://themesfromart.com/blog/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/) under the impersonal forces of economics and racial injustice, much destruction is deliberate, as vengeance flows full in our veins. Perhaps an uprising of slaves or political outcasts overthrew the ruler, the cruel reigning sovereign, on his Ides of March. They would have danced around the symbolic shaming that comes from shattering the image of the once powerful.  Mussilini on a meat hook, the Tsar’s family before the guns, the homage to Robert E. Lee upended; the Berlin Wall sledgehammered into pieces, the Buddhas of Bamiyan in Afghanistan dynamited by the Taliban – destruction by humans gives vent to their oppressions and ideologies.
 
 
-For subthemes of destruction that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
-
-
 Colossal egos often end humbled, destroyed.  Stalin was denounced and de-throned, Hitler fired a bullet in a bunker; royalty met the guillotine; Presidents have been impeached; and Enron’s CEO died of a heart attack.  The downfalls of once-mighty figures often accompany the destruction of their artifacts, such as monuments, public squares, named bridges and airports, or stupendous edifices. 
+
+For subthemes of destruction that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
 
 
 1.	At least as early as 1863, various texts claimed that the Roman general Scipio Aemilianus sacked Carthage, enslaved its survivors, plowed over the city, and sowed it with salt after defeating it in the Third Punic War (146 BC).
