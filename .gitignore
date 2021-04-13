@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 BlogThemes1.Rproj
-art.html
-subthemes.html
+art.Rmd
+subthemes.Rmd
