@@ -95,12 +95,12 @@ time {
 
 .subthemeLink {
     color: #6B0F1A;
-    font-size: 20px;
+    /* font-size: 20px; */
 }
 
 .navbarLink {
     color: rgb(217,95,2);
-    font-size: 40px;
+    /* font-size: 40px; */
 }
 
 .paginator {

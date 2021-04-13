@@ -1,11 +1,11 @@
 .customBlogTitle {
     color: rgb(27,158,119); /* star command blue from coolors.co */
-    font-size: 50px;
+    /* font-size: 50px; */
 }
 
 .customPostTitle {
     color: rgb(117,112,179);
-    font-size: 30px;
+    /* font-size: 30px; */
 }
 
 #main > .post + .post {

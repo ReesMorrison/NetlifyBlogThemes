@@ -13,16 +13,18 @@
       {{ $paginator := .Paginate (where .Site.RegularPages "Type" "==" "post") }}
       {{ range $paginator.Pages }}
       <div class="post">
-        <h2>
+        <h3>
           <a href="{{ .Permalink }}" class="customPostTitle">{{ .Title }}</a>
           <time>{{ .PublishDate.Format .Site.Params.dateFormat }}</time>
-        </h2>
+        </h3>
         {{ if ne .Params.tags nil }}
         <div>
-          <b>Subthemes: </b>
+          <h4>
+            <b>Subthemes: </b>
           {{ range .Params.tags }}
           <a class="subthemeLink" href='{{ "tags" | absURL }}/{{ . | urlize }}'>{{ . }}</a>
           {{ end }}
+          </h4>
         </div>
         {{ end }}
         <div class="content">

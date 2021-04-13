@@ -6,7 +6,9 @@
   <nav>
     {{ range .Site.Menus.main }}
     <span class="nav-bar-item">
-      <a class="navbarLink" href="{{ .URL | safeURL }}">{{ .Name }}</a>
+      <h2>
+        <a class="navbarLink" href="{{ .URL | safeURL }}">{{ .Name }}</a>
+      </h2>
     </span>
     {{ end }}
   </nav>
