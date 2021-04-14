@@ -134,6 +134,7 @@ time {
 #header {
     align-items: center;
     display: flex;
+    justify-content: space-around;
     flex-direction: column;
 }
 
@@ -150,7 +151,7 @@ time {
 #header > nav {
     display: flex;
     flex-direction: row;
-    justify-content: center;   /*instead of space-around  */
+    justify-content: space-around;   /*instead of space-around  */
     max-width: 768px;
     width: 100%;
 }
