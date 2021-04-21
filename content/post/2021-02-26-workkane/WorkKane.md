@@ -10,9 +10,11 @@ meta_img: images/image.png
 description: Hard work of Charles Foster Kane (Orson Welles)
 ---
 
-“Citizen Kane,” starring Orson Welles as well as directed by him, has been celebrated by cineastes since its controversial release in 1941.  It tracks the rise and fall of a publishing baron, Charles Foster Kane.  Kane becomes astonishingly wealthy and powerful through the newspapers he led and worked on tirelessly.  Several scenes from that movie depict him as top executive in various work roles.  Here is one shot from a scene where he proclaims he is in charge by ![firing his loyal friend](/media/WorkKane.jpg).  Other aspects of the concept of work for pay reveal themselves in this scene.
+“Citizen Kane,” starring Orson Welles as well as directed by him, has been celebrated by cineastes since its controversial release in 1941.  It tracks the rise and fall of a publishing baron, Charles Foster Kane.  Kane becomes astonishingly wealthy and powerful through the newspapers he led and worked on tirelessly.  Several scenes from that movie depict him as top executive in various work roles.  
 
 <!--more-->
+
+Here is one shot from a scene where he proclaims he is in charge by ![firing his loyal friend](/media/WorkKane.jpg).  Other aspects of the concept of work for pay reveal themselves in this scene.
 
 **Workaholic**:  The unrelenting ambition of Kane speaks to the consuming obsession that pushes some people to work all the time and super-humanly hard.   For workaholics, their identity sits at the center of what they obsess on for a living, as what they do is their life.   Far from the [riverboat drop out](https://themesfromart.com/blog/2021-02-26-workproud/workproud/), the fire within some people that rages to succeed in building their business, rising to the top of their company, or earning fame or fortune sometimes takes over everything and spirals out of control (such as drugs, affairs, or [alcohol](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/)), or [destroys](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/) family and colleagues.
 

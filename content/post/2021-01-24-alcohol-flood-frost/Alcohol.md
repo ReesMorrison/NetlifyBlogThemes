@@ -1,14 +1,14 @@
-# ---
-# title: Alcohol, from "Mr. Flood's Party," a poem by Edwin Arlington Robinson
-# author: Rees Morrison
-# date: '2021-01-24'
-# slug: []
-# categories:
-#   - Poem
-# tags: ["Social Disapproval", "Toasting,", "Expensive,", "Respite and Relief", ]
-# meta_img: images/image.png
-# description: Subthemes of alcohol drinking in the poem of an old, lonely man walking home and sipping
-# ---
+---
+title: Alcohol, from "Mr. Flood's Party," a poem by Edwin Arlington Robinson
+author: Rees Morrison
+date: '2021-01-24'
+slug: []
+categories:
+  - Poem
+tags: ["Social Disapproval", "Toasting,", "Expensive,", "Respite and Relief", ]
+meta_img: images/image.png
+description: Subthemes of alcohol drinking in the poem of an old, lonely man walking home and sipping
+---
 
 “Mr. Flood’s Party,” one poem in Edgar Lee Masters’ "Spoon River Anthology" (1915), touches your heart with a brief, sad scene cheered a little by the liquor in a jug.  An elderly man trudges back from a town to his lonely sleeping place, carrying a jug of low-grade alcohol.  He stops in the brightness of the moon, imagines a drinking companion who is himself, and in a mock party draws on the jug a few times before plodding on.  The quaffs lighten the gloom for the solitary man, if only for a few minutes, even drawing from him a burst of song, but then the darkness, the seclusion, the losses of former friends, and the emptiness of his remaining life consumes the brief happiness created by the drinks.
 
