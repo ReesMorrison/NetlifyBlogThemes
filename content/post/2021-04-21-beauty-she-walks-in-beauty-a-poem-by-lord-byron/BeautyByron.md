@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Culturally Defined,", "Gendered,", "Beauty as Comparison", ]
-draft: yes
+draft: no
 ---
 
 Byron’s poem creates a graceful image of a beautiful woman.  Her features (*aspect*), gaze (*eyes*), dark hair (*raven tresses*), complexion (*cheek*) and forehead (*brow*) bewitch him and us.  In the soft evening light that brings out the best, *She walks in beauty*.  
