@@ -5,7 +5,7 @@ date: '2021-04-21'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Eyes of the Beholder,", "Cosmetics, Contours and Clothes,", "More Than Just the Face,", "Components and Composites,",]
+tags: ["Eyes of the Beholder,", "Cosmetics, Contours and Clothes,", "More Than Just the Face,", "Components and Composites",]
 draft: 
 ---
 
