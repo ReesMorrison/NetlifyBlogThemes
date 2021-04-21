@@ -5,11 +5,13 @@ date: '2021-04-21'
 slug: []
 categories:
   - Rock & Roll
-tags: []
-draft: yes
+tags: ["Eyes of the Beholder,", "Cosmetics, Contours and Clothes,", "More Than Just the Face,", "Components and Composites,",]
+draft: 
 ---
 
 Roberta Flack’s rendition of “The First Time Ever I Saw Your Face” conveys the powerful, lightening attraction of someone beautiful.  That “pitter patter of the heart” happens mysteriously but it flashes into lives all the time.  Infatuation, perhaps, or love at first sight, the song brings to mind several subthemes of beauty.
+
+<!--more-->
 
 “The First Time Ever I Saw Your Face,” sung by Roberta Flack
 
