@@ -39,6 +39,11 @@ name = "author"
   name = "Subthemes"
   url = "/subthemes/"
   weight = 4
+[[menu.main]]
+  identifier = "icons"
+  name = "Icons"
+  url = "/icon/"
+  weight = 5
 
 [params]
   customCSS = []
