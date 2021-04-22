@@ -13,12 +13,10 @@ description: Sub-themes of alcohol that did not appear in the four art works pre
 
 Four posts have discussed sub-themes of the broader theme of alcohol:
 
-["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/)
-["Absinthe" by Edgar Degas](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/)
-["Margaritaville" by Jimmy Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/) and
-["Mr. Flood's Party" by Edwin Arlington Robinson](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)
-
-Having explored sub-themes of alcohol that suggest themselves primarily in only one of the four artistic forms, I want to close with several additional observations that deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
+["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/),
+["Absinthe" by Edgar Degas](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/),
+["Margaritaville" by Jimmy Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/), and
+["Mr. Flood's Party" by Edwin Arlington Robinson](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/).  Having explored sub-themes of alcohol that suggest themselves primarily in only one of those four artistic forms, I want to close with several additional observations that deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
 
 <!--more-->
 
@@ -38,7 +36,7 @@ When scrutinized and unpacked, these four particular sips of alcohol through art
 
 **Cause and Effect**:  Another paradox of alcohol lurks in these four works: the ambiguity of cause and effect. From these brief vignettes, we cannot glean whether drinking too much has significantly caused their current malaises, or whether the vicissitudes of life have driven the characters to drink. Are these broken people or people broken by drinking?  Either way, many people recognize the spiral downward that may result from downing too much alcohol. 
 
-**Moderation and Tradeoffs*: As a group, the alcoholic symbols and suggestions in these works hint at  alcohol’s risk and reward trade-offs. Indulging in moderation in the right circumstances strikes a balance between the pleasures of drinking and the possible repercussions.  A stimulating sense of risk and adventure may come from downing too much, because they then slip into a perception of heightened powers, creativity or attractiveness. That reward, however, also plagues them if they drink too much with risks of harming their body, their relationships, or others physically. “Alcohol may be man’s worst enemy, but the bible says love your enemy.” (Frank Sinatra, from a [site with drinking quotes.](https://drinkade.com/blogs/news/35-famous-drinking-quotes)
+**Moderation and Tradeoffs**: As a group, the alcoholic symbols and suggestions in these works hint at  alcohol’s risk and reward trade-offs. Indulging in moderation in the right circumstances strikes a balance between the pleasures of drinking and the possible repercussions.  A stimulating sense of risk and adventure may come from downing too much, because they then slip into a perception of heightened powers, creativity or attractiveness. That reward, however, also plagues them if they drink too much with risks of harming their body, their relationships, or others physically. “Alcohol may be man’s worst enemy, but the bible says love your enemy.” (Frank Sinatra, from a [site with drinking quotes.](https://drinkade.com/blogs/news/35-famous-drinking-quotes)
 
 The more you ponder these connotations of alcohol in our society, the more you realize the English language spills over with colloquial expressions for overdoing: cockeyed, hammered, inebriated, out of it smashed, tipsy, toasted.  They all point to the same conclusion:  Drinking profoundly alters an individual’s mood, behavior, and neuropsychological functioning. 
 

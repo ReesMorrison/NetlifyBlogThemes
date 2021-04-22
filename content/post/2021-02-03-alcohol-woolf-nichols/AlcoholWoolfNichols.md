@@ -56,7 +56,7 @@ Martha: I hope that was an empty bottle.  You can't afford to waste good liquor.
 
 Martha’s scorning tirade against her husband holds nothing back; the liquor in her has unloosed her raging anger and biting attacks.  She will say anything, including the most hurtful charges against his capabilities (*A great big, fat flop!*) and indeed his manhood (*Georgie-boy*). Her diminished or non-existent inhibition characterizes many people who drink more alcohol than they can handle.  They can say or do things that when sober they wouldn’t contemplate.
 
-**Loss of Control**. Some heavy drinkers become quiet, [such as the women in "Absinthe"](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/), some strident; men and women may react differently.  But in the scene from the movie, Martha pours out the vitriol she has marinaded in on her husband seemingly totally unconcerned about the pain she is causing him and also oblivious to the shock and deep discomfort of their two guests (played by George Peppard and Sandy Dennis).   She twice mocks her husband: “Getting angry?”  And he, who has also been drinking throughout the evening, grows angry. Both are coming apart with the alcohol coursing through them.
+**Loss of Control**. Some heavy drinkers become quiet, [such as the woman in "Absinthe"](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/), some strident; men and women may react differently.  But in the scene from the movie, Martha pours out the vitriol she has marinaded in on her husband seemingly totally unconcerned about the pain she is causing him and also oblivious to the shock and deep discomfort of their two guests (played by George Peppard and Sandy Dennis).   She twice mocks her husband: “Getting angry?”  And he, who has also been drinking throughout the evening, grows angry. Both are coming apart with the alcohol coursing through them.
 
 **Aggressiveness**: Aside from stripping away self-control, [as did the beach bum of Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/), alcohol sometimes pumps up combativeness.  Aggressiveness and belligerence mark a common reaction of people who are “three sheets to the wind” [Note 1].  In this scene from “Who’s Afraid of Virginia Woolf” the wife is spoiling for a fight, bullying and poking at her husband verbally – daring him to rise up. Alcohol, exacerbating a long marriage encrusted by dislike and disrespect, fuels her clobbering him with sarcasm and viciousness.
 
@@ -64,10 +64,9 @@ Martha’s scorning tirade against her husband holds nothing back; the liquor in
 
 **Not to Be Reasoned With**: Another aspect of alcohol consumption appears in the scene. It can be difficult or impossible to reason with someone who is deeply under the influence. Rationality doesn’t work with the drunk. Here the two spouses have clearly been at each other’s throats for a while, and neither can recover or restore some semblance of a truce, but the night of binging makes it impossible.
 
-For subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
-
-
 Difficult as it may be to endure this movie scene of marital enmity, the background messages regarding alcohol seep through. Often when people drink they unearth aspects of themselves that they keep hidden under normal circumstances.  Anger, attacks and irrationality bubble to the surface and drinkers can’t control blurting them out.  Sometimes, lack of self-control degenerates into physical or verbal abuse.  Someone who is drunk can’t be reasoned with and may sink to the most primal modes of might makes right and anything goes.  Finally, while it is easy to find cheap versions of any liquor, if someone savors brands and quality distilled spirits, they must be prepared to pay handsomely for the pleasure.  The conviviality, good feeling and smooth taste of emptying the glass, as well as the negative mood and behavior changes, empties the pocket.
+
+For subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
 
 
 

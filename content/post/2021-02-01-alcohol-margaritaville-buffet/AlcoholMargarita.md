@@ -4,7 +4,7 @@ author: Morrison
 date: '2021-02-01'
 slug: []
 categories: [Rock & Roll]
-tags: ["Robs Purpose,", "Weakens Decision-Making", "Physical Risks,", "Temporary Respite", ]
+tags: ["Robs Purpose,", "Weakens Decision-Making,", "Physical Risks,", "Temporary Respite", ]
 
 meta_img: images/image.png
 description: Drinking alcohol -- margaritas -- in a Mexican resort, with a disconsolate beachcomber figuring out his life
@@ -63,7 +63,7 @@ And I know, it's my own damn fault
 
 First heard in stanza two, the refrain clarifies his slough of purposelessness: the singer is treading margaritas, so to speak: his life is frozen as he finds surcease from sorrow through swilling margaritas.  
 
-*Wastin' away again in Margaritaville*
+*Wastin' away again in Margaritaville*  
 *Searchin' for my lost shaker of salt*
 
 These refrain lines repeat the name of the drink that has subdued the depressed singer.  We should unpack it.
@@ -76,14 +76,13 @@ We are given to understand that depression from a [collapsed marriage](https://t
 
 Back to the lyrics and stanza three.  We’re at a Mexican beach resort the singer has sardonically dubbed Margaritaville.  Geography and proper names have drizzled away; all that matters to him is the fruity mix laced with tequila that blanks out his hurt.  The singer lacks a compass in his life.  
 
-*Don't know the reason*
+*Don't know the reason*  
 *Stayed here all season*
 
 **Weakens Decision-Making**:  He can’t manage to pull himself together and figure out how to recover from the emotional blow.  Without a plan, he stayed near the beach, not deliberately but from an inability to cope and step away from his sodden plight, and resorted to drinking.  In the second portion of the stanza, we glimpse how far he is gone.  With too many margaritas, he makes poor decisions (don’t know the reason) or impulsive choices.
 
 *Nothing to show but this brand new tattoo*
-
-*But it's a real beauty*
+*But it's a real beauty*  
 *A Mexican cutie*
 
 Too drunk to know he got a tattoo that looks like a local young lady, he can’t recall anything: 
@@ -96,9 +95,9 @@ The seduction of warmth, low costs, and the siren-like beckoning of potent fruit
 
 **Physical Risks**:  After another refrain, which subtly shows him narrowing in on the truth, the fifth stanza reminds us that if you over-consume alcohol you run a greater risk of getting hurt.  Your balance, reactions and judgment are out of kilter. [Note 2] He doesn’t take care of his meager possessions (*I blew out my flip flop*) so when he stepped on a sharp bottle top (probably from a can, a pop top) he cut his foot badly enough to make him turn back to where he stays.  Note the unurgent *cruised back home* to the comforting nurse of his favorite beverage (a bit like the [jug for Eben Flood](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)).  
  
-*But there's booze in the blender*
-*And soon it will render*
-*That frozen concoction that helps me hang on*
+*But there's booze in the blender*  
+*And soon it will render*  
+*That frozen concoction that helps me hang on*  
 
 **Temporary Respite**: One of the many terms for a drunken spree is a “bender”, which Jimmy Buffet teases out of the listener with the rhymes of blender and render.  Alcohol buoys up people for a period of feeling better, cushioning the pain of life that that they would rather flee.  Also, to be fair, many people enjoy the taste of their favorite liquor.  Our beach bum likes margaritas on their way down, to say nothing of their balming effect.
 

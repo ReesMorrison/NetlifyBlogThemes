@@ -14,7 +14,7 @@ At the focus spot of a well-known painting by Edgar Degas, "The Absinthe" ["L?  
 
 <!--more-->
 
-![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg){width=50%, height=20%}
+![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg)
 
 **Legal Restrictions**: Its growing popularity and its negative social effects led to absinthe being banned in much of Europe and America."  More broadly, alcohol for consumption swirls in a cloud of legal restrictions.  You must be of majority age to drink, certain kinds of alcohol are illegal, driving under the influence carries heavy penalties, sales are regulated and highly taxed.   At the extreme, the Eighteenth Amendment of the United States Constitution prohibited alcohol in the United States starting January 16, 1919.   Much of the animus against drinking alcohol arises from moralistic prudery, but also awareness of drunken misbehavior.  
 
@@ -45,14 +45,13 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
   What are the bizarre items in the front left  of the frame?
 
 
+Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.
+
 For subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
 
 
-Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.
-
-
 Notes:
-1.	The cafe pictured La Nouvelle Athnes, in Place Pigalle, was one frequented by modern artists and intellectual bohemians.  Place Pigalle has long been considered to be a red light district.
+1.	The cafe pictured, La Nouvelle Athnes in Place Pigalle, was one frequented by modern artists and intellectual bohemians.  Place Pigalle has long been considered to be a red light district.
 
 2.	Various factors may contribute to a hangover. For example:
     --	Alcohol causes your body to produce more urine. In turn, urinating more than usual can lead to dehydration often indicated by thirst, dizziness and lightheadedness.
@@ -61,6 +60,6 @@ Notes:
     --	Alcohol can cause your blood sugar to fall. If your blood sugar dips too low, you may experience fatigue, weakness, shakiness, mood disturbances and even seizures.
     --	Alcohol causes your blood vessels to expand, which can lead to headaches.
     --	Alcohol can make you sleepy, but it prevents deeper stages of sleep and often causes awakening in the middle of the night. This may leave you groggy and tired.
-3.	[One commentator](https://www.addictioncenter.com/alcohol/is-alcohol-a-depressant/) notes that For many people, alcohol consumption is a means of relaxation; however, the effects of alcohol and hangovers can actually induce anxiety and increase stress.   
+3.	[One commentator](https://www.addictioncenter.com/alcohol/is-alcohol-a-depressant/) notes that "For many people, alcohol consumption is a means of relaxation; however, the effects of alcohol and hangovers can actually induce anxiety and increase stress.""
 
 
