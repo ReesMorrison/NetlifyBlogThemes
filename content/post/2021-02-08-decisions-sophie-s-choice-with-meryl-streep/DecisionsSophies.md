@@ -11,16 +11,16 @@ meta_img: images/image.png
 description: At a concentration camp, Meryl Streep is forced to decide which of her two children she will keep, and which will die.
 ---
 
-In a [harrowing scene](https://www.youtube.com/watch?v=DZ9bht5H2p4) from the movie “Sophie’s Choice,” ) a Nazi officer at a concentration camp demands that a holocaust prisoner, played by Meryl Streep, decide which of the two young children at her side will live and which will be snatched  away.  The scene is excruciating.  Everyone, especially parents, cringes -- no, they cry inside at the pathological cruelty of this monstrous decision forced on a mother.  
+In a [harrowing scene](https://www.youtube.com/watch?v=DZ9bht5H2p4) from the movie “Sophie’s Choice,” a Nazi officer at a concentration camp demands that a holocaust prisoner, played by Meryl Streep, decide which of the two young children at her side will live and which will be snatched  away.  The scene is excruciating.  Everyone, especially parents, cringes -- no, they cry inside at the pathological cruelty of this monstrous decision forced on a mother.  
 
 <!--more-->
 
-[“Sophie’s Choice”](/media/DecisionsSophies.png)(directed by Alan J. Pakula and starring Meryl Streep and Kevin Kline)
+Here is the scene in [“Sophie’s Choice”](/media/DecisionsSophies.png), directed by Alan J. Pakula and starring Meryl Streep and Kevin Kline.
  
 **External Pressure**:  Sometimes other people pressure us to pick a direction.  The Nazi officer implacably forced Streep to make a life and death decision.  As she shuffled forward among the crowd of Jewish prisoners, without sexual surrender to him she had no way to escape or buy time.  If police interrogators demand that you sign a statement or an employer tells you to recant a claim lest you lose your job, if a politician must cast a vote on controversial legislation or your pregnancy nears the Roe v. Wade cutoff, then external forces pressure your decision.
 
 Sometimes, a [father takes you in line](https://themesfromart.com/blog/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
-And says "Better go home, son, and make up your mind".   Or you have three days to retract the offer; someone in a meeting blurts out an offensive comment and all eyes turn to you as the senior executive; your sub-lease is coming up for renewal.  It wasn’t what you wanted, but third parties forced your hand.
+and says "Better go home, son, and make up your mind".   Or you have three days to retract the offer; someone in a meeting blurts out an offensive comment and all eyes turn to you as the senior executive; your sub-lease is coming up for renewal.  It wasn’t what you wanted, but third parties forced your hand.
 
 At other times, when you face a decision, you may be less aware of external pressure, such as when group think warps your reasoning with subliminal force or your religion pushes you against your desires or your Capulet tribe prohibits Montague love.
 

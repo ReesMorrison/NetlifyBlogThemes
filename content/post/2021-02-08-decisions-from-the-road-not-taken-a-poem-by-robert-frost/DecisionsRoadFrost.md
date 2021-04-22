@@ -10,7 +10,7 @@ meta_img: images/image.png
 description: A traveler goes down one path instead of another, based on no significant difference, and ruminates on the consequences of the decision.
 ---
 
-Robert Frost’s “The Road Not Taken,” highlights in a short poem a decision that is both earthy and metaphorical.  Two paths beckon, neither one having more attraction than the other, but the traveler must finally make a decision.  He appeases his heart that he can take the other path on a later day, but his head tells him that life will not bring him back that way again.  Life’s small decisions shape us.
+Robert Frost’s “The Road Not Taken” highlights in a short poem a decision that is both earthy and metaphorical.  Two paths beckon, neither one having more attraction than the other, but the traveler must finally make a decision.  He appeases his heart that he can take the other path on a later day, but his head tells him that life will not bring him back that way again.  Life’s small decisions shape us.
 
 <!--more-->
 
@@ -41,11 +41,11 @@ I took the one less traveled by,
 And that has made all the difference.  
 
 
-![Poem, Two roads in forest picture](/media/DecisionsTwoRoads.png)
-
 **Coin Flips**:  *Long I stood*.  When pros and cons feel balanced and the traveler is on the fence, so to speak, we can flip a coin or let a random event rule: “Whichever path has the next bird call will be the one I head off on.”  When it’s a toss-up, yet we have to do one or the other, if we don’t care about seemingly comparable choices, we can cast lots.   This walker in the woods couldn’t decide which way to go, but a perception of the comparative yellowness of grass tipped the delicate balance.
 
 The inconsequentiality of the matter may lead us to concluding that either is equally favorable or unfavorable.  Fortunately, many decisions, such as whether to [play a card or draw a card](https://themesfromart.com/blog/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/) are not big deals.
+
+![Poem, Two roads in forest picture](/media/DecisionsTwoRoads.png)
 
 **Cognitive Dissonance**:  The traveler finally chose the grassier path, or so goes the rationale for the decision, but in the next lines (lines 9-10) admits that both paths seemed equally untrodden, equally worthy.  Sensing that the justification has been manufactured to defend the choice, which was basically a coin flip, the traveler seizes on a cheering thought.  *Oh, I kept the first for another day!*  Not wanting to harbor doubts about his belief, the traveler grabbed at an explanation that sufficed.  After the fact, we can all construct defenses and formulate reasons for our actions.
 

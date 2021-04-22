@@ -10,7 +10,7 @@ meta_img: images/image.png
 description: Paul Cezanne's impressionist painting of two men playing cards in a cafe. 
 ---
 
-In Paul Cézanne’s “The Card Players” ("Les joueurs de cartes"), we peek in on two men engrossed in a game of cards.  Although Cezanne probably painted this calm and pleasurable glimpse of French life without a thought to its implications for decision-making, we can interpret from it several.
+In Paul Cézanne’s “The Card Players” ("Les joueurs de cartes"), we peek in on two men engrossed in a game of cards.  Although Cézanne probably painted this calm and pleasurable glimpse of French life without a thought to its implications for decision-making, we can interpret from it several.
 
 <!--more-->
 

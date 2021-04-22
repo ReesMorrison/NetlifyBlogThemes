@@ -54,8 +54,8 @@ Did you ever have to finally decide?
 
 **Regret**: Regret, such as “buyer’s remorse,” can trail along after the decisive deed is done.
 
-*There's so many changes, and tears you must hide*
-*Did you ever have to finally decide?*
+*There's so many changes, and tears you must hide*  
+*Did you ever have to finally decide?*  
 
 *[T]ears you must hide* points to the rueful retrospection that can dog a person after they stop bidding on the antique car they love, suffer through another sauna-like summer without air-conditioning, or marry a man who is never promoted to full Professor.  You wish you could erase the sorrowful memory of what you did [at the concentration camp](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/).  Alternatively, the tears might be those of another person who’s suffering you caused and who’s grief you would rather not think about.  When winners and losers clarify after a decision has settled, winners suffer pangs of guilt and losers sob.
 
