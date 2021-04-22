@@ -47,17 +47,7 @@ Foreman says "These jobs are going, boys
 And they ain't coming back  
 To your hometown."  
 
-To your hometown  
-To your hometown  
-To your hometown  
-
-Last night me and Kate, we laid in bed  
-Talking about getting out  
-Packing up our bags maybe heading south  
-I'm thirty-five, we got a boy of our own now  
-Last night I sat him up behind the wheel, and said  
-"Son take a good look around  
-This is your hometown."  
+  [remaining lyrics omited] 
 
 
 **Social Strife**:  
@@ -66,7 +56,7 @@ This is your hometown."
 *There was a lot of fights 'tween the black and white*  
 *There was nothing you could do*
 
-Racial conflict fractured and hollowed out this hometown.  The decade of the 60’s was riven by protests for racial equality, and the angered erupted on Main Streets across the country, or on a larger scale, as in Watts.  Recall the musical “West Side Story” and the brawls between Puerto Ricans and New York City locals or the atrocities when India was partitioned in 1947 and hundreds of thousands of Hindus or Muslims died.   Mistrust, segregation, exclusion, malignment, lynchings – all the ugliness of racial or religious prejudice destroys lives, property, and community.   
+Racial conflict fractured and hollowed out this hometown.  The decade of the '60’s was riven by protests for racial equality, and the angered erupted on Main Streets across the country, or on a larger scale, as in Watts.  Recall the musical “West Side Story” and the brawls between Puerto Ricans and New York City locals or the atrocities when India was partitioned in 1947 and hundreds of thousands of Hindus or Muslims died.   Mistrust, segregation, exclusion, malignment, lynchings – all the ugliness of racial or religious prejudice destroys lives, property, and community.   
 
 The decade of the ‘60s was also marred by the civil and political discord caused by fierce opposition to the Vietnam War.  Worse, our military’s deaths in Vietnam skewed black, so the racial injustice in America was exacerbated by the war’s injustice in Vietnam.   Women, too, were struggling to be treated with dignity, equality and respect.  Everywhere you looked, you could see the harms and destruction of these ugly tears in the social fabric.  
 
@@ -79,7 +69,7 @@ To those with conservative views, the array of protests alarmed them and threate
 
 The higher cost of labor in the town’s manufacturing plant, which perhaps offered the most and best blue-collar jobs in the area, doomed its workers to unemployment.   Or new technology and machinery elsewhere might have supplanted the blue-collar workers of the plant.  When laid off workers have no training available or other jobs that match their experience, their families and town spiral down economically.  From the ruin of the Dust Bowl to stilled steel mills to mortgage foreclosures of the crash in 2008, upheavals in markets or demand can destroy lives.
 
-![Springsteen My Hometown](/media/DestructionHomeTown.png)
+![Springsteen My Hometown](/media/DestructionHomeTown.png)  
 
 **Foreseeability**: We tend to think of mass destruction as unavoidable, and that view holds true for the ravages of weather and geology running amok. Try stopping Mount St. Helens!  Even wars between nations or civil wars within them seem to escalate toward inevitable bloodbaths.  
 
@@ -87,9 +77,7 @@ The destruction wrought on the song’s hometown by economic and social changes,
 
 **Anger**:  
 
-*Words were passed, then a shotgun blast*
-
-When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), awful destruction spreads far and wide.  When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction. When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
+When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), awful destruction spread far and wide.  *Words were passed, then a shotgun blast* When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction. When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
 
 
 Springsteen’s lament captures the unravelling of a small, typical town in America.  Its jobs oozed away to foreign competitors (or possibly non-union states in the South).  Its social fabric was torn by the anger of racial discrimination and a racially tainted, hated war in Vietnam.  Anger, resentment, and extremism can push individuals to destroy property, ruin lives, and kill people.

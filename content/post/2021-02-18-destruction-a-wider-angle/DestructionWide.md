@@ -5,14 +5,14 @@ date: '2021-02-18'
 slug: []
 categories:
   - Wide Angle
-tags: ["Pandemics and Drugs,", "Indiscriminate Destruction", "Entropy,", "Humans Cope", ]
+tags: ["Pandemics and Drugs,", "Indiscriminate Destruction,", "Entropy,", "Humans Cope", ]
 meta_img: images/image.png
 description: Destruction, damage, destroy and extra subthemes
 ---
 
-The four posts associated with the theme of destruction each suggest their own set of sub-themes:
+The four posts associated with the theme of Destruction each suggest their own set of sub-themes:
 
-[A grim charge of men into machine guns](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), [the collapse of a small town in the face of social and economic forces](https://themesfromart.com/blog/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/), the [oppression of flood waters](https://themesfromart.com/blog/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/), and the [desecration of a self-congratulatory despot’s monument](https://themesfromart.com/blog/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/) each yield immanent instances of destruction.   The sub-themes developed below arise from combinations of those art works or from more general consideration of the concept of destruction. 
+[A grim charge of men into machine guns](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), [the collapse of a small town in the face of social and economic forces](https://themesfromart.com/blog/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/), the [oppression of flood waters](https://themesfromart.com/blog/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/), and the [desecration of a self-congratulatory despot’s monument](https://themesfromart.com/blog/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/) each yield immanent instances of destruction.   The sub-themes developed below arise from combinations of those art works or from more general consideration of the concept of Destruction. 
 
 <!--more-->
 

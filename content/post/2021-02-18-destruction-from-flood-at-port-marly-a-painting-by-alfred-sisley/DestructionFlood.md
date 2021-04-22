@@ -16,7 +16,6 @@ Alfred Sisley’s painting captures the Seine River after it overflowed its bank
 
 “Flood at Port-Marly” (Alfred Sisley, "L'inondation à Port-Marly", 1876)
  
-
 ![Sisley’s Flood](/media/DestructionFlood.png)
 
 **Mighty**:  Nothing that humans can trigger matches the nightmares natural disasters can unleash.  Missiles, tanks, [machine guns](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), and even hydrogen bomb explosions shrink when compared to the colossal energy and onslaught of weather.  An iceberg can send to the bottom an unsinkable liner.   Humans suffer mightily from hurricanes, tornadoes, typhoons, droughts, blizzards, hail, fires, tsunamis, avalanches and inundations, as shown in this scene of boating on a street, when rivers surmount their banks.  We can build dikes and runoff areas, levies and dams, vegetation and storm sewers, but despite all our puny efforts the heavens can open and our land can drown.  When the rains deluged this area of France, little could be done to lessen the widespread damage and loss. Sandbags put on a brave but temporary face against a rising wall of water that inexorably finds all cracks. Life on earth requires water, but too much water ends life. 
