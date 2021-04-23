@@ -10,7 +10,7 @@ meta_img: images/image.png
 description: subthemes other than what the four posts cover
 ---
 
-We have worked our way through four art genre, each in a post that considers subthemes of “work”, as that term connotes employment.  The founder and chief executive officer of an [influential empire of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), a [rural resident with his cart horse one winter evening](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/), a refugee from stultifying [workin’ for a boss in a city](https://themesfromart.com/blog/2021-02-26-workproud/workproud/)  to an easy-going life on the river, and manual laborers [backbreakingly prepping a floor](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/).  
+We have worked our way through four art genre, each in a post that considers subthemes of “work”, as that term connotes employment.  The founder and chief executive officer of an [influential empire of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), a [rural resident stops his cart horse one winter evening](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/), a refugee from stultifying [workin’ for a boss in a city](https://themesfromart.com/blog/2021-02-26-workproud/workproud/) quits for an easy-going life on the river, and manual laborers [backbreakingly prepping a floor](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/).  
 
 Here we consider briefly not what the selected poem, painting, picture and pop song connotes about labor but other elements of work that are less apparent in the particular pieces of art.
 
