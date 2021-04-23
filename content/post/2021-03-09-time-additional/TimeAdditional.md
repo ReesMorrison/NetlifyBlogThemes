@@ -5,12 +5,12 @@ date: '2021-03-09'
 slug: []
 categories:
   - Wide Angle
-tags: ["Space-Time Continuum,", "Time Shrinks with Velocity,", ]
+tags: ["Space-Time Continuum,", "Time Shrinks with Velocity", ]
 meta_img: images/image.png
 description: Description for the page
 ---
 
-Previous posts have spent time on four works of art that suggests characteristics of time:  a [poem of concern about wasting time on wooing](https://themesfromart.com/blog/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/), a [painting of a family with a prominent, symbolic clock](https://themesfromart.com/blog/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/), a ‘60’s [song about choices of moments and milestones](https://themesfromart.com/blog/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/), and a movie based on [variations from the same starting point](https://themesfromart.com/blog/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/). Each post draws out subthemes of time, but a few subthemes pertain to more than one piece of art or none of them.
+Previous posts have spent time on four works of art that suggests characteristics of time:  a [poem of concern about wasting time on wooing](https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/), a [painting of a family with a prominent, symbolic clock](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/), a ‘60’s [song about choices of moments and milestones](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/), and a movie based on [variations from the same starting point](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/). Each post draws out subthemes of time, but a few subthemes pertain to more than one piece of art or none of them.
 
 <!--more-->
 
