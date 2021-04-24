@@ -14,6 +14,7 @@ A downcast, slumped woman trudges down a street, wrapped in silence.  She has no
 <!--more-->
 
 “Jane Avril Leaving the Moulin Rouge”, by Henri de Toulouse-Lautrec
+
 ![Avril](/media/SilenceToulouse.jpg) 
 
 **Anger or Disappointment**:   Who knows what might have happened before this painting of Jane Avril, a famous dancer at the [Moulin Rouge cabaret in Paris]( https://en.wikipedia.org/wiki/Jane_Avril).   Perhaps Toulouse-Lautrec caught her in an unguarded, private moment, alone with her thoughts neither happy nor sad.  But it appears more likely that a performance went poorly, she is hungry, her knee hurts, she is bored or she has just learned of a [friend’s death](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/).   Some people shout when they feel angry or hurt, others lapse into tight-lipped silence.  This woman gazing absently at her feet appears to have withdrawn into a shell of silence.  Giving others the “silent treatment” warns or punishes them after a wrong has happened to the silent one.  The silence of recrimination contrasts with boisterous cheers and olés of delight.  Few happy people keep silent; joy equals jubilation, while disappointment smolders in the silence of sullenness.  Here, Jane Avril’s prickly silence and attitude tells passersby to leave her alone.  

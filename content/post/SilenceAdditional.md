@@ -16,8 +16,9 @@ Four posts have drawn from that many pieces of art a variety of subthemes regard
 **Out in Nature**:  When the sounds of civilization fade or disappear, when the cacophony of motors, honks, airplanes and leaf blowers is left behind, people relish the peace and quiet.   The particular silence of nature encourages calm and solitude.  Not that birds stop chirping, leaves stop rustling, waves stop breaking or cicadas stop humming, but the intrusive din of urban electricity, traffic, sirens, shouts, and combustion ceases – nature lovers revere the quiet.   
 
 *The only other sound’s the sweep*    
-*Of easy wind and downy flake.*   
-[Robert Frost, "Stopping by Woods on a Snowy Evening"](Stopping) 
+*Of easy wind and downy flake.*  
+
+[Robert Frost, "Stopping by Woods on a Snowy Evening"](https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/) 
 
 The restful silence of the outdoors contrasts with the incessant, noisy bustle of city life. 
 
