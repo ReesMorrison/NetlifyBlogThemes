@@ -9,7 +9,7 @@ tags: ["Death,", "Reverence or Awe,", "Cessation,", "Prayer", ]
 draft: no
 ---
 
-When a funeral concludes, the tolling of a church’s bells includes the community by sounding a single bell very slowly, with a gap between strikes.  The       slow       silence      hangs      between     somber        rings ….  The final silence at the end dies achingly, like when the memorial for a fallen soldier closes with the solemnity of “Taps”.   In Donne’s poem, the final three lines tell us that the quiet broken by the ringing bell links us to the end we all will share.  The death of one is the death of all.  *The bell tolls for thee.*   
+When a funeral concludes, the tolling of a church’s bells includes the community by sounding a single bell very slowly, with a gap between strikes.  The &nbsp  slow &nbsp      silence &nbsp   hangs &nbsp  between &nbsp  somber &nbsp  rings ….  The final silence at the end dies achingly, like when the memorial for a fallen soldier closes with the solemnity of “Taps”.   In Donne’s poem, the final three lines tell us that the quiet broken by the ringing bell links us to the end we all will share.  The death of one is the death of all.  The bell *tolls for thee.* 
 
 <!--more-->
 
