@@ -5,12 +5,12 @@ date: '2021-05-03'
 slug: []
 categories:
   - Poem
-tags: []
+tags: ["Final Physical Shut Down,", "Inevitability,", "Philosphical Pondering", "Courage Facing Imminent Death", ]
 draft: yes
 ---
 
 John Donne’s poem takes the sting out of death, as he argues that eternal restfulness should not be feared and the grim reaper’s grim circumstances (often around criminals, evil potions, calamities, and disease) justify no boasting.  Other notions related to Death appear in his poem.
-
+ 
 <!--more-->
 
 “Death, be not proud,” by John Donne
@@ -44,7 +44,7 @@ No traveler returns”
 
 Myths, superstitions, ceremonies and religions strive to explain what happens after a human life ends, and modern thinkers have continued to ponder the mystery.  Infinite in variety are the ways people cope with that unavoidable unknown.
 
-**Courage Facing Imminent Death**:  How people comport themselves in the face of death has forever fascinated the world.  Courage and eloquence before the stake or the noose bring praise and we repeat final words over and over:  “I only regret that I have but one life to lose for my country" claimed Nathan Hale before he was [hanged](Cezanne); “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known” closes A Tale of Two Cities; Gen. Patton plants himself in the road and fires his pistol at the fighter plane strafing directly at him.  Jacques Louis David’s The Death of Socrates classically portrays the noble embrace of imminent death as does resolute Butterfly at the end of Madama Butterfly.  High Noon highlights Gary Cooper’s steely bravery before facing the three gunmen epitomizes moral conviction overcoming fear.   Harder to find are instances of collapse in the shadow of death, such as the ammo carrier’s cowardice in the final skirmish of Saving Private Ryan.   All winners of the Congressional Medal of Honor displayed conspicuous courage under fire; most of them gave their lives.
+**Courage Facing Imminent Death**:  How people comport themselves in the face of death has forever fascinated the world.  Courage and eloquence before the stake or the noose bring praise and we repeat final words over and over:  “I only regret that I have but one life to lose for my country" claimed Nathan Hale before he was [hanged](Cezanne); “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known” closes A Tale of Two Cities; or Gen. Patton plants himself in the road and fires his pistol at the fighter plane strafing directly at him.  Jacques Louis David’s The Death of Socrates classically portrays the noble embrace of imminent death as does resolute Butterfly at the end of Madama Butterfly.  High Noon highlights Gary Cooper’s steely bravery before facing the three gunmen epitomizes moral conviction overcoming fear.   Harder to find are instances of collapse in the shadow of death, such as the ammo carrier’s cowardice in the final skirmish of Saving Private Ryan.   All winners of the Congressional Medal of Honor displayed conspicuous courage under fire; most of them gave their lives.
 
 Most people wish they would not die, in part because of the unsettling unknown that follows.  Death towers over them malevolently and implacably.  But Donne challenges the terror of the final sleep and provides reasons for philosophical acceptance and final fortitude against *thy stroke*, as well as the unwarranted grounds for Thanatos being proud.
 
