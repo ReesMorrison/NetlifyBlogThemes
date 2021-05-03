@@ -1,5 +1,5 @@
 ---
-title: Beauty, "She Walks in Beauty," a poem by Lord Byron
+title: Beauty, from "She Walks in Beauty," a poem by Lord Byron
 author: Rees Morrison
 date: '2021-04-21'
 slug: []

@@ -1,5 +1,5 @@
 ---
-title: Beauty, "Garden at Sainte-Adresse," a painting by Claude Monet
+title: Beauty, from "Garden at Sainte-Adresse," a painting by Claude Monet
 author: Rees Morrison
 date: '2021-04-21'
 slug: []

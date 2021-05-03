@@ -1,5 +1,5 @@
 ---
-title: BeautyFlack
+title: Beauty, from "The First Time Ever I Saw Your Face," sung by Roberta Flack
 author: Rees Morrison
 date: '2021-04-21'
 slug: []

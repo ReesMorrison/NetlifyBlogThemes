@@ -1,5 +1,5 @@
 ---
-title: Beauty, "Taxi Driver," a movie with Robert De Niro and Cybill Shepherd
+title: Beauty, from "Taxi Driver," a movie with Robert De Niro and Cybill Shepherd
 author: Rees Morrison
 date: '2021-04-21'
 slug: []
