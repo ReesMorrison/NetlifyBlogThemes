@@ -31,4 +31,4 @@ From the tiniest creatures to the most majestic vistas, our world lavishes on us
 
 Monet’s painting, “The Garden at St. Adresse,” exudes natural beauty.  Its profusion of prettiness almost overwhelms the viewer.  The garden is carefully designed and tended, but only nature can gild the flowers, glitter the water, and billow the clouds.  Likewise, the handiwork of skillful artisans can produce objects large and small that are acclaimed for their beauty.  And with either natural or man-made beauty, our sense of enjoyment varies hugely by our circumstances.  
 
-To explore subthemes of Beauty that are not associated with this painting or the other three creative works discussed in this set, please visit [Additional Subthemes](  ).
+To explore subthemes of Beauty that are not associated with this painting or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).

@@ -47,4 +47,4 @@ The dominant elite sets the tone for what fashion is in vogue. What you are accu
 
 Calmly, with simple words, Byron memorably evokes a vision of a woman.  Nothing cheap, nothing overdone, everything natural, Byron drew a pitch-perfect portrait of female beauty.   
 
-To explore subthemes of Beauty that are not associated with this poem or the other three creative works discussed in this set, please visit [Additional Subthemes](  ).
+To explore subthemes of Beauty that are not associated with this poem or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).

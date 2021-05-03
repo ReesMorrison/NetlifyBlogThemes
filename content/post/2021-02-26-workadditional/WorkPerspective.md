@@ -18,7 +18,7 @@ Here we consider briefly not what the selected poem, painting, picture and pop s
 
 **Labor, Task, Job, Career, Profession**: English recognizes gradations of work for pay with a variety of terms.  
 
- * “Labor” brings to mind migrants picking lettuce in the San Fernando valley or dockworkers unloading cargo.  
+* “Labor” brings to mind migrants picking lettuce in the San Fernando valley or dockworkers unloading cargo.  
 *  A “task” implies a short-term work activity such as repairing a clogged drain.  
 *  A “job” suggests punching a clock, minimum wage, negligible benefits, high attrition but dependable hours for repeatable work and a paycheck.   Here is where unions hold sway.  
 *  A “career” carries with it the notion of a job performed over a number of years, such as Willie Loman the salesman.  “She is a real estate broker.”  “He freelances sports articles.”  Those are occupations.

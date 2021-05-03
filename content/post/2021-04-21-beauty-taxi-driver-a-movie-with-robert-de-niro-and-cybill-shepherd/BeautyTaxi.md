@@ -24,4 +24,4 @@ Before the eyes of a lonely taxi driver (Robert De Niro as Travis), a breathtaki
 
 Movies teem with wonderful-looking actors and actresses yet the suddenness, simplicity and looks of this scene stand out.  A man is transported by a glimpse of a striking woman – everything about her instantly appeals to him.  He was bewitched, bothered, and bewildered by a beauty.
 
-To explore subthemes of Beauty that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](  ).
+To explore subthemes of Beauty that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).
