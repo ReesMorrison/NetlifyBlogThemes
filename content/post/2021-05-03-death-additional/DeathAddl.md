@@ -9,7 +9,8 @@ tags: ["Survivor Guilt,", "Funerals and Eulogies,", "Alter History", ]
 draft: 
 ---
 
-The preceding sections cover multiple subthemes of Death identified from four works of art: Donne’s [poem that humbles Death](Donne), a painting by [Cezanne related to a hanging](Cezanne), the [violent end] (Bonnie) of a crime-spree couple, and the sadly-remembered [death of honey](Honey).   Here are additional thoughts about the theme of Death that don’t associate with any of those works.
+
+The preceding sections cover multiple subthemes of Death identified from four works of art: Donne’s [poem that humbles Death](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/), a painting by [Cezanne related to a hanging](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/), the [violent end](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/) of a crime-spree couple, and the sadly-remembered [death of honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/).   Here are additional thoughts about the theme of Death that don’t associate with any of those works.
 
 <!--more-->
 
