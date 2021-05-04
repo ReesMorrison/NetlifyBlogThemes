@@ -1,6 +1,6 @@
 baseURL = "https://themesfromart.com/"
 defaultContentLanguage = "en"
-hasCJKLanguage = false
+hasCJKLanguage = true
 languageCode = "en"
 paginate = 5
 theme = "hugo-theme-texify"
