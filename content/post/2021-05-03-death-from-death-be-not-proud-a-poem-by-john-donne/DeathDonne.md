@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Final Physical Shut Down,", "Inevitability,", "Philosphical Pondering", "Courage Facing Imminent Death", ]
-draft: yes
+draft: 
 ---
 
 John Donne’s poem takes the sting out of death, as he argues that eternal restfulness should not be feared and the grim reaper’s grim circumstances (often around criminals, evil potions, calamities, and disease) justify no boasting.  Other notions related to Death appear in his poem.

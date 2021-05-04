@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Grief and Heartbreak,", "Afterlife,", "Religion",]
-draft: yes
+draft: 
 ---
 
 A tearful song, “Honey (I Miss You)” bares the deep loss of a man devastated by the death of *honey*.   Although she *went away* more than two years before, he obsessively replays her time with him and grieves.  The song elicits several subthemes of Death.

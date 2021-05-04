@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Survivor Guilt,", "Funerals and Eulogies,", "Alter History", ]
-draft: yes
+draft: 
 ---
 
 The preceding sections cover multiple subthemes of Death identified from four works of art: Donne’s [poem that humbles Death](Donne), a painting by [Cezanne related to a hanging](Cezanne), the [violent end] (Bonnie) of a crime-spree couple, and the sadly-remembered [death of honey](Honey).   Here are additional thoughts about the theme of Death that don’t associate with any of those works.

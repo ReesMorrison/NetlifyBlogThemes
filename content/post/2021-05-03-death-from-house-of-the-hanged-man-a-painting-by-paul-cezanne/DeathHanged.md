@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Capital Punishment,", "Murder,", "Mass Deaths: Wars, Pandemics, Natural Disasters", ]
-draft: yes
+draft: 
 ---
 
 The House of the Hanged Man by Paul Cezanne associates its subject with death.  The man who lived in the cottage was executed by hanging, presumably by the French authorities and presumably for having committed a serious crime.  We can derive related subthemes of Death from that plausible background.

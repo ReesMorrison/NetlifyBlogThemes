@@ -5,8 +5,8 @@ date: '2021-05-03'
 slug: []
 categories:
   - Movie
-tags: ["Accidents,", ]
-draft: yes
+tags: ["Accidents,", "Suicide or Downhill Slide,", "Civilian Jobs that Kill Workers", ]
+draft: 
 ---
 
 Handsome romantic rebels (or dangerous, petty criminals) in the movie Bonnie & Clyde flirt with death, aware that their violent end may come any moment.  For them it is a thrill that they live knowing that “for all they that take the sword shall perish with the sword."  Robbing banks during the Depression may have been exhilarating for the young Bonnie Parker (Faye Dunaway) and Clyde Barrow (Warren Beatty), but the kill-joy authorities terminated their criminal spree in a crescendo of gunfire.  Here is a clip of the [death scene](https://www.youtube.com/watch?v=6OOwtI1eHTA).
