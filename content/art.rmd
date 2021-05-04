@@ -17,7 +17,6 @@ library(tidyverse)
 
 
 ```{r artTable, echo=FALSE}
-
 art <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Art and Artists.xlsx")
 
 artTable <- kableExtra::kable(art)
