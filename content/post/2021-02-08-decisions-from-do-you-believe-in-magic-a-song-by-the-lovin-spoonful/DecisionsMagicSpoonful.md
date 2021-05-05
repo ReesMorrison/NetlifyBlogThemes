@@ -65,7 +65,8 @@ Hurt feelings or emotional loss don’t necessarily line up with loss of power, 
 
 **Life Changing But Slowly Develop**:  Unlike the frivolousness of [deciding to play cards](https://themesfromart.com/blog/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/) and how to win, decisions about dating and marriage might very well shape a person’s life.  Such momentous decisions confront us very occasionally, or at least those decisions that we recognize at the time have the power to alter the arc of our lives.  To change religions, to undergo a transgender procedure, to adopt a child or divorce a spouse – rupturing decisions at this level build over time and subject the person to periods of difficult introspection and weighing of alternative courses of action or timing.   Completely unlike the urgency of a concentration camp confrontation, this song addresses decisions that can unfold over time.
 
+&nbsp;
 
 The most difficult decisions revolve around emotions and intuitions that we often can’t articulate.   That makes them hard, as our heart duels with our head.  Meanwhile, as this modest song intimates, other people lose out when we eventually make up our minds.
 
-For subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+To consider subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 

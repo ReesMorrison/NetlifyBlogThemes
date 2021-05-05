@@ -36,8 +36,9 @@ To this we can add the dimension of the game in its tactics and strategy. Perhap
 
   The cigarette dangling from the mouth of the man on the left, perhaps not even lit, looks hand rolled and filterless.  Regardless, the effect on his health was probably unknown to him, and deliberate thought did not slow his barely conscious lighting up and puffing.  Over the years, however, it could extinguish his life. A habit, an ill-considered but entrenched pattern of decisions, smoking is Russian roulette.  
 
+&nbsp;
 
 All decisions sow seeds: some sprout tiny growths but others towering trees; some sprout [romance and flowers](https://themesfromart.com/blog/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/) while others [grow poisonous thorns](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/). Two pals, whiling away the hours with a friendly card game, represent even in such an unremarkable snapshot a number of important perspectives on decisions.   They, and we, move through life in a constant flurry of decisions.   Those decisions vary widely in their wide-openness, their degree of dependence on others, and their familiarity.  Even more, they vary hugely on the short or long-term significance to the decider.
 
-For subthemes of decisions that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+To consider subthemes of Decisions that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 

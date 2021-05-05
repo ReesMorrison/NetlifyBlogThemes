@@ -57,8 +57,9 @@ The inconsequentiality of the matter may lead us to concluding that either is eq
 
 On the other hand, when we regret decisions we took, we find it easier to blame external forces.  “How could I have known the house was riddled with asbestos?”; “He didn’t tell me that the gun was loaded.”  If a bear mauled the traveler on the road taken just beyond where it bent in the undergrowth, we would feel the tragedy of the decision.  Few readers would anticipate that; the poem gives the impression that it was the right path to take and the decision led to good things – and that has made all the difference -- but Frost leaves the traveler’s fate ambiguous.
 
+&nbsp;
 
 Frost’s poem of the seemingly innocuous option by the traveler reveals deeper aspects of decisions.   People sometimes can’t see their way clear so they do “eeny, meeny, miney, moe” and then conjure up something defensible to say about a justification other than a tie breaker picked the one.  Whether deeply pondered or quickly decided, decisions foreclose what might have happened and can make all the difference.
 
 
-For subthemes of decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+To consider subthemes of Decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
