@@ -44,10 +44,11 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
 
   What are the bizarre items in the front left  of the frame?
 
+&nbsp;
 
 Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.
 
-For subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
+To consider subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 
 Notes:

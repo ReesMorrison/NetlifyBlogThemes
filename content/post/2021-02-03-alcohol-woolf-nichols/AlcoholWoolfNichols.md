@@ -64,9 +64,11 @@ Martha’s scorning tirade against her husband holds nothing back; the liquor in
 
 **Not to Be Reasoned With**: Another aspect of alcohol consumption appears in the scene. It can be difficult or impossible to reason with someone who is deeply under the influence. Rationality doesn’t work with the drunk. Here the two spouses have clearly been at each other’s throats for a while, and neither can recover or restore some semblance of a truce, but the night of binging makes it impossible.
 
+&nbsp;
+
 Difficult as it may be to endure this movie scene of marital enmity, the background messages regarding alcohol seep through. Often when people drink they unearth aspects of themselves that they keep hidden under normal circumstances.  Anger, attacks and irrationality bubble to the surface and drinkers can’t control blurting them out.  Sometimes, lack of self-control degenerates into physical or verbal abuse.  Someone who is drunk can’t be reasoned with and may sink to the most primal modes of might makes right and anything goes.  Finally, while it is easy to find cheap versions of any liquor, if someone savors brands and quality distilled spirits, they must be prepared to pay handsomely for the pleasure.  The conviviality, good feeling and smooth taste of emptying the glass, as well as the negative mood and behavior changes, empties the pocket.
 
-For subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
+To consider subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 
 

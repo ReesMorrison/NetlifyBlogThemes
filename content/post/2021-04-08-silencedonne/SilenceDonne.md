@@ -9,7 +9,7 @@ tags: ["Death,", "Reverence or Awe,", "Cessation,", "Prayer", ]
 draft: no
 ---
 
-When a funeral concludes, the tolling of a church’s bells includes the community by sounding a single bell very slowly, with a gap between strikes.  The &nbsp    slow &nbsp        silence &nbsp   hangs &nbsp  between &nbsp  somber &nbsp  rings ….  The final silence at the end dies achingly, like when the memorial for a fallen soldier closes with the solemnity of “Taps”.   In Donne’s poem, the final three lines tell us that the quiet broken by the ringing bell links us to the end we all will share.  The death of one is the death of all.  The bell *tolls for thee.* 
+When a funeral concludes, the tolling of a church’s bells includes the community by sounding a single bell very slowly, with a gap between strikes.  The     slow         silence    hangs   between   somber   rings ….  The final silence at the end dies achingly, like when the memorial for a fallen soldier closes with the solemnity of “Taps”.   In Donne’s poem, the final three lines tell us that the quiet broken by the ringing bell links us to the end we all will share.  The death of one is the death of all.  The bell *tolls for thee.* 
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Image source https://blog.sevenponds.com/cultural-perspectives/the-tolling-of-th
 
 **Prayer**:  A lone church bell sounds slowly in the background during prayer.  For people who meditate or pray, those periods of silent communion rank as the most sublime.  Prayers offered up without words serve as a private message to one’ God. Neither grammar nor punctuation nor vocabulary matter in the silent pleas of prayer.   The ceremonial prayers before important events, such as the start of a new Congress, merges authority and religion in silence.    Unlike the [silence of alienation](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/), prayer is outward silence but inward communion.
 
-&nbsp  
+&nbsp;
 
 John Donne’s classic takes up death, the perpetual silence, and how anyone’s death diminishes each of us.  The metaphor of the slow sounding of a bell, punctuated by the silence between each peal, conveys the end that awaits all of us.
 

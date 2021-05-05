@@ -108,11 +108,12 @@ In the final stanza, the seventh, he penetrates the fog of margaritas and comes 
 
 Why he has sunk to this forlorn state we never learn, but the constant theme is drinking alcohol.  He drinks to forget, to cope with being overwhelmed emotionally, or because he is an alcoholic and doesn’t want withdrawal pains. Alcoholics are addicted to their drug.
 
+&nbsp;
 
 This slice-of-life song brings up positives of alcohol.  It tastes good and it brings a pleasant buzz to people as it dulls the sharp edges of life.  But the song also vividly conveys or hints at the deleterious effects of too much alcohol: poor health, increased risks, sloppy decisions, diminished self-control, and physical addiction.
 
 
-For subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
+To consider subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 Note 1. The ingredients of a margarita might be of interest.  Nothing nutritious, except you won’t get scurvy.
 •	2 ounces blanco tequila 
