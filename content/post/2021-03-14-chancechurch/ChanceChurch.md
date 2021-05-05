@@ -30,9 +30,9 @@ In these various ways, people try to face their fear of unknown chance and the b
 
 **Coincidence of Meeting**:  Maximilien’s impressionist painting brings to mind one other subtheme of chance.  We forget all the times we have walked and not bumped into someone we know, but we remember and tell others about the time we bumped into our long-lost cousin or spotted the well-known actress on the street.  In crowds of people such as along the Seine at the Quai Sainte-Michel, the mixing of masses means that inevitably chance will startle someone with a completely unexpected acquaintance or notable.  The encounter was pure coincidence, but we easily invest it with karma or kismet.  Hardly chance, we assume, but rather a profound message interpreted as meaningful.  We humans don’t think statistically as we place too much importance on coincidence “You won’t believe who I ran into today!”  A life course can alter or a [marriage dissolve](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/) because of a chance encounter.
 
-&nbsp  
+&nbsp;  
 
 
 The famous cathedral in Paris reminds us of the determinism of religion and that everything that happens has significance if you believe in God’s omnipotence and oversight.   We have the Rosary and salah to protect us from the depredations of bad luck.  Others, who adhere to naturalism, ascribe what happens to natural causes, not supernatural forces.   The two camps also prepare differently when they face disturbing chances.
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).
+To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

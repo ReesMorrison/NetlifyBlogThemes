@@ -24,8 +24,8 @@ Winner of an Academy Award for Best Picture, “The Deer Hunter”'s taut, seari
 
 Even more extremely, sports lurk chance in the background to inject the thrill even of harm and death.  Skydiving, base jumping, bull fighting, free climbing, car racing, cliff diving, and ski jumping entrance fans and athletes, in part because they openly court mortal chance.  The chicken run scene in the movie “Rebel Without a Cause” captures the macho, heart-thumping allure when competitors deliberately flirt with disaster.
 
-&nbsp  
+&nbsp;
 
 Both men took an enormous chance, the risk of blowing their brains out, in a desperate hope.  They had to suppress raging fear as they gambled with bullets, all of which triggers a gripping cinematic thrill. 
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).
+To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

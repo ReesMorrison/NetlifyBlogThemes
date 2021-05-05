@@ -114,8 +114,8 @@ The singer believed she had arranged her life, but the concatenation of events b
 
 **Physical or Person**:  The lyrics of this song speak to the lightning bolt of traumatic divorce loosed by a spouse.  The husband insisted on divorce and shattered not only a marriage but a life dream.  We read about the drunken driver smashing another car or a kid playing with a loaded gun, both of which we might consider a person-instigated chance.  By contrast, an avalanche triggers without a human being anywhere near or a roof gives way when too much snow accumulates, and neither has anything to do with a person.  Nature’s random forces that display a rainbow or hive off the glacier are impersonal.  They flash [*Crass Casualty*](https://themesfromart.com/post/2021-03-14-chancehap/chancehap/).  At least if the chance meeting at a bar leads somewhere, you can believe clues and signals were available  -- chance events that involve a person feel less inscrutable than Nature’s surprises.
 
-&nbsp  
+&nbsp;
 
 Forces and decisions beyond the control of the singer upended her happy life.  She can’t figure out what happened to her marriage, so it feels like cruel gods randomly dealt her a divorce card.  The opposite of serendipity, the hurt from this song follows the sharp pangs of destructive chance.
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).
+To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

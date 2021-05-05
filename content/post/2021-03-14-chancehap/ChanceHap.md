@@ -54,8 +54,8 @@ When life endows someone with many choices (education, careers, spouses, mobilit
 **Probability**:  When the possibilities can all be counted, the probability of a particular outcome can be calculated, such as rolling a six with a dice or [firing the one bullet in an otherwise empty chamber](https://themesfromart.com/post/2021-03-14-chancedeerhunter/chancedeer/).  That ratio of the number of specific outcomes (one six, one bullet) divided by number of total possible outcomes (six for both), is called a probability.   The results will exhibit a mathematical distribution if the die is rolled or the trigger pulled (after spinning the chamber) several times.  Similarly, we can calculate the odds that two people in a group of people share the same birthday.  We understand and can explain the chance's statistical likelihood.
 
 
-&nbsp  
+&nbsp; 
 
 Hardy’s poetic complains that he could withstand deliberate, inflicted unhappiness but less so brutal randomness – the continual sway of unpredictable events that permeates life.  Where is the morality in living in a world dictated and buffeted by chance? 
 
-For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).
+To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/). Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
