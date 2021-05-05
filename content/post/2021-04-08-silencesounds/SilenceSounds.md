@@ -12,7 +12,7 @@ The signature Simon & Garfunkel  song warns about the value of sharing words and
 
 <!--more-->
 
-“The Sound of Silence”, by Simon & Garfunkel
+“The Sounds of Silence," by Simon & Garfunkel
 
 Hello darkness, my old friend  
 I've come to talk with you again  
@@ -79,11 +79,9 @@ That nightmare seed flashes zombies that crowd each other without heeding each o
 
 When overcome by emotions, either fear or joy, some people can find no words to express what they feel.   They fall silent before the ineffable.   The killing of a spouse before their eyes or the fateful words “Sorry, you have terminal cancer” can have that effect.  So too does staggering joy take one’s words away, such as the unexpected ring and “Will you marry me?”, the anxiously prayed for phone call that “We found your lost child,” or if your final digit hits on the PowerBall lottery, something inside locks up, control of tongue, lips and air disappears in the tidal wave of emotions.
 
-&nbsp  
+&nbsp;  
 
 The poetry of this song, complemented by the elegance of the tune, makes a heart-felt plea for people to talk with each other and listen to each other, not shroud themselves in monologue or silence.   The song addresses not muteness before greatness or [authority](https://themesfromart.com/post/silencenorthwest/) or the inward prayer when [death tolls out](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/), but the isolation and lack of conversation in urban life. 
-
-
 
 If you are interested in subthemes of the concept “silence”, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 
