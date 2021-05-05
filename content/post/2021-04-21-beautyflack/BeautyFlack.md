@@ -38,9 +38,10 @@ Then consider shaping the contours of the body in pursuit of beauty:  braces, br
 
 Still, all of us have our individual likes and dislikes, our hot buttons and kinks.  Someone lusts over his smile, her perky nose, his gluteal muscles, her neck, his fingers, her toes, his height or her hips, his pecs or her cleavage.  Even so, the composite appeal often leaves lovers unable to pinpoint which component takes pride of place.  No one falls in love with eyebrows, but take them away or mar them, and beauty fades.  The person’s whole look spins the straw of parts into the golden girl.  
 
+&nbsp;
 
 Sung slowly yet with smoldering passion, “The First Time Ever I Saw Your Face” reminds listeners of the magnetic pull of a beautiful person. Theirs is a force field that in particulars and composite gives enduring pleasure whether artfully worked on or naturally displayed.
 
 
-To explore subthemes of Beauty that are not associated with this song or the other three creative works discussed in this set, please visit [Additional Subthemes](  ).
+To consider subthemes of Beauty that are not associated with this song or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
 

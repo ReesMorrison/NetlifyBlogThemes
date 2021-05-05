@@ -21,7 +21,8 @@ Before the eyes of a lonely taxi driver (Robert De Niro as Travis), a breathtaki
 
 **Only Skin Deep**:  A person’s wrapping tells little about their inner gift.  Put differently, “Never judge a book by its cover.”  A beautiful person might not be a good person.  Folklore suggests that widely admired looks can foster narcissism, selfishness, and a failure to develop nice qualities, which Carly Simon called out in her song, “You’re So Vain.”  Or from a different perspective, the outer shell ages and withers, but couples that have been married for decades still see each other as beautiful inside.   Nor does an ugly face belie a wonderful person behind it.  Didn’t Beauty see through the Beast?  In “Taxi Driver,” Cybill Shepherd remains mostly eye-candy because her personality never develops.   
 
+&nbsp;
 
 Movies teem with wonderful-looking actors and actresses yet the suddenness, simplicity and looks of this scene stand out.  A man is transported by a glimpse of a striking woman – everything about her instantly appeals to him.  He was bewitched, bothered, and bewildered by a beauty.
 
-To explore subthemes of Beauty that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).
+To consider subthemes of Beauty that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

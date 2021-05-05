@@ -44,7 +44,8 @@ The dominant elite sets the tone for what fashion is in vogue. What you are accu
 
 **Beauty as Comparison**:  Partly because assessments of good looks are subjective and hard to put into words, and partly because we refer to it so often, comparative analogies swirl around “beauty”.  For example, *like the night of cloudless climes and starry skies*.  One of Shakespeare’s sonnets, “Shall I compare thee to a summer day” pours out several comparisons to [natural beauty](https://bit.ly/3dDvI3g).  Or the phrase, “she’s a real peach” relies on a comparison to the smooth, soft fruit that smells and tastes good.  “Pretty as a picture” and “looks like an angel” evoke a favorable image but don’t specifically describe.  The lyrics “[I thought the sun rose in your eyes](https://bit.ly/3sB967G)” compare the effect beauty has on the beholder to the splendor of dawn.
 
+&nbsp;
 
 Calmly, with simple words, Byron memorably evokes a vision of a woman.  Nothing cheap, nothing overdone, everything natural, Byron drew a pitch-perfect portrait of female beauty.   
 
-To explore subthemes of Beauty that are not associated with this poem or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).
+To consider subthemes of Beauty that are not associated with this poem or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
