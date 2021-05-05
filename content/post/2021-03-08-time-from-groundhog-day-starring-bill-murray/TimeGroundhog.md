@@ -31,4 +31,4 @@ Boredom is an extension of time’s looping nature, such as when we experience f
 The opportunity to revisit an awkward or failed moment and redo it for the better, to alter the loop,  is not available to humans.  We can all wish for second chances, but [everything has its season](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/) and we don’t have the opportunity to wake up to the same alarm on the same day and try again.  
 
 
-If you have a few moments to explore subthemes of time that are not closely associated with this movie or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).
+To consider subthemes of Time that are not closely associated with this movie or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

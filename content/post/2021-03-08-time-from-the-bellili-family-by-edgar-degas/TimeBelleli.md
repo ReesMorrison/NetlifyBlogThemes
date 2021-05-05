@@ -30,4 +30,4 @@ This painting of a family includes on the upper-right mantelpiece an ornate, fra
 
 Nestled in the back of a cozy family grouping preens a fancy clock.  It signifies awareness of time in the heartbeat of a family, and hearkens to the wider world of modernity that needs to coordinate commerce and life by stopwatch accuracy and adherence.
 
-To read about subthemes of time that are not closely associated with this painting or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).
+To consider subthemes of Time that are not closely associated with this painting or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

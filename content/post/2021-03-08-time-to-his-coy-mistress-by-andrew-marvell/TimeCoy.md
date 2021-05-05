@@ -119,10 +119,9 @@ According to the Norton Anthology of English Literature, "slow-chapped power" me
 *The grave’s a fine and private place,  *   
 *But none, I think, do there embrace.*
 
-
 &nbsp; 
 
 Marvell’s passionate romancer fulminates against his mistress’ refusals and pace; acutely aware of the degradations of time and the inevitable loss of physical delight; he is aroused and wants to make love right now without all this extended foreplay.  Every minute not seized means pleasure delayed, diminished or possibly lost.  Time is of the essence.  
 
 
-To read about subthemes of time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).
+To consider subthemes of Time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

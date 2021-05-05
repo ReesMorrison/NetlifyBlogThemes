@@ -44,4 +44,4 @@ A time of love, and a time of hate; a time of war, and a time of peace.
 Graciously, eloquently, and with poetic expression of what we all feel, this song reminds us that *To every thing there is a season, and a time to every purpose under the heaven*.  For a philosophy of living, who can improve that opening line?
 
 
-To read about subthemes of time that are not closely associated with this song or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).
+To consider subthemes of Time that are not closely associated with this song or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
