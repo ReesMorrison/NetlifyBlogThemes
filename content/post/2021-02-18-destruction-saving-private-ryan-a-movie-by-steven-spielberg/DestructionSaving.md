@@ -31,8 +31,9 @@ By contrast, blowing up bunkers, exploding a landing craft, burying anti-LST bar
 
 Schumpeter’s famous observation that has been translated as “creative destruction” applies outside of business at times.  If you plow under a field, or condemn some properties for an interstate highway, or drive buggy-whip manufacturers into bankruptcy, the lush planting that follows, the commerce of trucks, and the re-allocation of capital and labor to more productive work produces a net gain. Pain for the workers who are ensnared by the change, but gain for the wider community.   If a plague stops an invading army, the defenders gain.  
 
+&nbsp;
 
 This cinematic masterpiece terrifies us with the horrendous capabilities of our weaponry to destroy everything and kill or maim everyone.  The destruction it makes viscerally real pits soldier against soldier, even to hand-to-hand butchery.  Viewers wince at the viciousness and agony.  Modern warfare takes enormous planning and logistics, but leaves nothing but waste and death in its destructive wake.
 
-For subthemes of destruction that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+To consider subthemes of destruction that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
 

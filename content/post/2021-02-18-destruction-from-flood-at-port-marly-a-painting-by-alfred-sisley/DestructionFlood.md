@@ -32,7 +32,8 @@ Beyond the immediate emergencies, after the skies clear, the flood waters may ha
 
 From the grey color of the building at the bottom, which could have been the high-water mark from this event, it appears that the water has receded by the time we look on, but the Seine apparently rose enough for long enough to stain the wall.  Even though the sky is blue and sunny, the town and surrounding area will be shaded by suffering for years.  Black mold, weakened walls, collapsed cellars, or rotting wood extend the immediate destruction of the flood.   After the earthquake that leveled San Francisco in 1906, fires raged for days.
 
+&nbsp;
 
 While the upper portion of the masterful painting by Sisley exudes warmth and sunshine, the lower part starkly shows the widespread damage wrought by a flood.   Like other blows from nature, a flood overpowers people; it rises inexorably and then suddenly the levee breaks; the loss of life and property that follows the worst catastrophes of nature – be they storms, vulcanism, or virus – can keep killing and collapsing for months and months.  
 
-For subthemes of destruction that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+To consider subthemes of Destruction that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
