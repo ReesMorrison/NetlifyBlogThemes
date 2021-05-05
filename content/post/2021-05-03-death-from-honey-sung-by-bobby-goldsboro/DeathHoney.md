@@ -75,7 +75,9 @@ Honey lyrics © Bibo Music Publishing, Inc. https://www.youtube.com/watch?v=UKAe
 
 **Religion**:  The song alludes to religion because of the reference to Christmas eve and *the angels came* for honey.  The churchlike choral background to Bobby Goldsboro’s singing also reminds us of beatific angels.  We don’t hear of the singer praying for his wife’s return or questioning how a benevolent deity could have allowed her to die, but a short song can only do so much to invoke religious sentiment.  For many people, their religion not only frames how they prepare for death but also gives them reassurance about life after death.
 
+&nbsp;
+
 Listeners weep when they hear this moving lament.  Devastated by the inexplicable and sudden loss of his beloved Honey, the singer relives his tender and endearing memories leading to that terrible spring day.  He hasn’t passed through the steps of grief and he hasn’t found solace in religion or philosophy.  His heart broken by her death, he remains stuck in his sadness. 
 
-To consider subthemes of Death that are not associated with this song or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/).  For more about the Themes from Art, see (Medium).
+To consider subthemes of Death that are not associated with this song or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/).  See this for more about  [Themes from Art](http://bit.ly/3sRXopI).
 

@@ -21,7 +21,10 @@ Handsome romantic rebels (or dangerous, petty criminals) in the movie Bonnie & C
 
 **Civilian Jobs that Kill Workers**.  In civilian jobs, high-risk occupations include lumberjacks, small plane pilots, derrick operators, roofers, iron workers, commercial fishers, firefighters, lion tamers, miners, or any job that subjects workers to asbestos or coal dust.  Every year, thousands of American workers in those jobs die.  Employers in these occupations don’t want their employees to be injured or die, but the working conditions are inherently hazardous and accidents inevitably occur.  Members of the military and law enforcement accept that they may be put in harm’s way, but Death also stalks risky civilian job.
 
+
+&nbsp;
+
 In this final scene, a swashbuckling pair of bank robbers perish in a storm of police bullets – no trial or prison for them.  In a Faustian pack, they gambled an exhilarating life against the likelihood of death rather than submit to authority, conformity, or an un-adventurous life.
 
-To consider subthemes of Death that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/).  For more about  Themes from Art, see [my Medium article](Medium).
+To consider subthemes of Death that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/).  See this for more about  [Themes from Art](http://bit.ly/3sRXopI).
 
