@@ -75,7 +75,8 @@ When people recognize they are in a dead-end job or a job where the boss or cond
 
 **Social Side**: Many people endure jobs that others would mock as boring and repetitious (although some people don’t seek challenge and change at work, so being a toll taker on a bridge is just fine).  What keeps them showing up are their friend coworkers; what keeps them going is the social network of work.   You like your colleagues, even if they are only proximity friends, and indeed many marriages have flowered among co-workers. Others, such as [delivery people](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/), make friends with clients and customers.  The person in the song makes no mention of desk mates or acquaintances who worked with him but he likes the *people on the river [who] are happy to give*.  Counterbalancing the lousy job might be the camaraderie of your fellow card punchers.
 
+&nbsp;
 
 We can hear in this down-home twang about unsatisfactory jobs and one person’s flight to a better life a story of rejecting authority, the treadmill of commuting and office work, the deadening of grunt jobs where the cog-like worker passively awaits the next task.  The singer might also have been lonely in his jobs, although others find work friends.
 
-To read about subthemes of work that are not closely associated with this rock song or the other three creative works, please visit [the post, Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
+To consider subthemes of Work that are not closely associated with this rock song or the other three creative works, please visit [the post, Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

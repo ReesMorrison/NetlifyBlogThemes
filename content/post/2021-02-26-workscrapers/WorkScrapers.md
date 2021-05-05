@@ -26,7 +26,8 @@ The three young men in “The Floor Scrapers”, painted by Gustave Caillebotte,
 
 **Work vs. Career/Profession**:   Professionals, which could include [owners of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), occupy the most esteemed rung on the ladder of work, at least for most people.   In sharp contrast, the young men in the painting sweating through a backbreaking day of varnish peeling had no advanced education, they were not regulated by any governmental entity, no certificate of “Approved Varnish Remover” adorned their walls like a lawyer who has passed the bar proudly displays.  They had little likelihood of a doctor’s income, a lawyer’s regard, an architect’s pride, or a professor’s esteem; they were at the other end of the spectrum from the elite professions trudging day-by-day as fungible brawn.
 
+&nbsp;
 
 The glimpse of a tough life told by Caillebotte’s painting highlights arduous manual labor.  At an inevitable cost to themselves over time, the three workers have to concentrate on a physically difficult task.  They and other laborers who exchange their health and their bodies for pennies, which comes at irregular intervals as they happen to be signed on, have little else to offer.  Education, let alone professional recognition, never had a chance with them, as with the vast majority of workers in today’s world who slave along in modern serfdom.  
 
-To read about subthemes of work that are not closely associated with this painting or the other three creative works, please visit [the post on Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
+To consider subthemes of Work that are not closely associated with this painting or the other three creative works, please visit [the post on Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).

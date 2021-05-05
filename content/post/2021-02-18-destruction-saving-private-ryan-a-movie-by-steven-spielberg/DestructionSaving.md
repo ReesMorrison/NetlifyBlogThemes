@@ -35,5 +35,5 @@ Schumpeter’s famous observation that has been translated as “creative destru
 
 This cinematic masterpiece terrifies us with the horrendous capabilities of our weaponry to destroy everything and kill or maim everyone.  The destruction it makes viscerally real pits soldier against soldier, even to hand-to-hand butchery.  Viewers wince at the viciousness and agony.  Modern warfare takes enormous planning and logistics, but leaves nothing but waste and death in its destructive wake.
 
-To consider subthemes of destruction that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+To consider subthemes of Destruction that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
 

@@ -67,7 +67,8 @@ Relatively few people live to work, most work to live.  They hold a job because 
 
 Admiring the serenity of snow on dark trees ranks higher on the hedonism scale than delivering firewood (or whatever is being hauled).  Workoholics, such as [newspaper tycoons](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), don’t feel the same urge for relaxation and leisure.  For most of us, work is a necessary evil.  Why else the Sunday evening blues and TGIF?
 
+&nbsp;
 
 The appeal of this poem owes much to its tension and interplay between pleasure and work.  The cart driver would oh so much like to relish the calm beauty of the winter eve, but work’s heavy demands oblige him to restart his horse.
 
-To read about subthemes of work that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
+To consider subthemes of Work that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
