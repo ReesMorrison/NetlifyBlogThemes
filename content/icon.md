@@ -14,12 +14,8 @@ title: []
       width: 25%; 
       vertical-align: middle;
       padding: 8px;
-      text-align: center;
+      text-align: center !important;
     }
-  </style>
-  
-  <style>
-    p {text-align: center;}
   </style>
   
 </head>
@@ -58,16 +54,16 @@ The icons below correspond to the four genre of art used in Themes from Art.
 
 <div class="clearfix">
   <div class="box" style="background-color:#ddd">
-    <p> Pictures </p>
+  Pictures
   </div>
   <div class="box" style="background-color:#ddd">
-    <p> Paintings </p>
+    Paintings
   </div>
   <div class="box" style="background-color:#ddd">
-    <p> Pop Rock </p>
+    Pop Rock
   </div>
     <div class="box" style="background-color: #ddd" >
-  <p>Poems</p>
+  Poems
 </div>
 
 </body>
