@@ -22,8 +22,9 @@ Hunted by police on a train, Cary Grant takes refuge in Eva Marie Saint’s cabi
 
 **Hush**:  When used as a verb, to silence someone means to squelch them, suppress them, censor them or prevent them from voicing their true feelings.  Gagging a person robs them of a deep human need.  The hand clamped over the mouth of the person being dragged away not only helps conceal the abduction but also terrifies the victim.  Even so, oppressed people find ways to express their resentment, such as with graffiti, boos, samizdat, strikes, mass marches, pot clanging, sabotage, defacements, and other rebukes.  As water will find its way out of a container, silenced people will find ways to express themselves.   “But still, like air, I’ll rise.”
 
+&nbsp;
+
 Cary Grant’s freedom was at risk, and only complete silence in hiding saved him.   He could make no noise while crammed into the overhead bin lest the authorities searching for him were to discover him.  His fear of discovery hushed him.
 
 
-
-If you are interested in subthemes of the concept “silence”, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+To consider subthemes of the concept Silence, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).

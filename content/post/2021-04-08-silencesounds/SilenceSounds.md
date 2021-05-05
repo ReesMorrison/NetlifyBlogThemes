@@ -83,5 +83,5 @@ When overcome by emotions, either fear or joy, some people can find no words to 
 
 The poetry of this song, complemented by the elegance of the tune, makes a heart-felt plea for people to talk with each other and listen to each other, not shroud themselves in monologue or silence.   The song addresses not muteness before greatness or [authority](https://themesfromart.com/post/silencenorthwest/) or the inward prayer when [death tolls out](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/), but the isolation and lack of conversation in urban life. 
 
-If you are interested in subthemes of the concept “silence”, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+To consider subthemes of the concept Silence, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 

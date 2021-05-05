@@ -25,9 +25,10 @@ Instead Avril’s remote silence was more likely that of an introvert who often 
 
 **Disapproval**:   Silence can say more than words.  To say nothing can condemn in the loudest terms protest, hatred, anger, and palpable disapproval.  Likewise, the lack of applause condemns an outrageous or hateful statement with the “deafening silence“.   As with non-violent protest, the muteness of a group shouts its disapproval.  Perhaps the woman in the painting has been rejected by a lover, or passed over for a part, or told that the much-desired dress remains unfinished.   Something has darkened her brow, slumped her shoulders, and pursed her lips.  The more she mulls over the wrong or unfairness, the angrier and more walled-off she becomes:  ["Silence like a cancer grows"](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/).
 
+&nbsp;
+
 In his somber painting, Toulouse-Lautrec captures quiet.  The woman chooses to say nothing, perhaps because she has had a row, or retreats into an introvert’s calm, or has chosen to button her lip against an injustice.   Whatever the cause, the result emanates silence.
 
 
-
-If you are interested in subthemes of the concept “silence”, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+To consider subthemes of the concept Silence, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 

@@ -47,4 +47,4 @@ Image source https://blog.sevenponds.com/cultural-perspectives/the-tolling-of-th
 John Donne’s classic takes up death, the perpetual silence, and how anyone’s death diminishes each of us.  The metaphor of the slow sounding of a bell, punctuated by the silence between each peal, conveys the end that awaits all of us.
 
 
-To consider subthemes of Silence that do not associate closely with this poem or the other three genre of art, read [additional subthemese](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).  For more about  Themes from Art, read [this article](http://bit.ly/3sRXopI). 
+To consider subthemes of Silence that do not associate closely with this poem or the other three genre of art, read [additional subthemese](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
