@@ -16,13 +16,17 @@ library(tidyverse)
 ```{r artTable, echo=FALSE}
 # create a data frame of strings sorted by theme and then genre
 # copied all full URLs and Bitly at the bottom in case I need the latter, then removed them
+# many or all of the URLs ARE WRONG, COPIED LINK FROM NETLIFY ON MAY 7. Ok if they have /name at end
+# SOMEWHERE THERE IS A TRICK FOR RENAMING FILES BUT KEEPING THE ORIGINAL URL NAME
 # entered into the df in alpha by theme, and Genre, so I can match the arrange of Theme, Genre
-urls <- data.frame(Theme = c("(https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/)",
-"(https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/)", 
-"(https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)",
-"(https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/)",
+# not sure, but I took out spaces after commas (so underlines disappeared)
+
+urls <- data.frame(Theme = c("(https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)",
+"(https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)", 
+"(https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)",
+"(https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)",
 "(https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)",
-"(https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautysainteadress/)",
+"(https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)",
 "(https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)", 
 "(https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)",
 "(https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)",

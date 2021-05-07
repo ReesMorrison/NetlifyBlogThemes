@@ -22,13 +22,13 @@ The woman stares down into space with heavy eyes, her shoulders drooped and the 
 
 **Depressant**:Alcohol is a central nervous system depressant, meaning that it slows down brain functioning and neural activity. Alcohol does this by enhancing the effects of the neurotransmitter GABA. Alcohol can slur speech, unsteady movement, disturb perceptions, and slow reactions. Alcohol impairs the ability to think rationally, lessens inhibitions, and distorts judgment. 
 
-Paradoxically, while partaking sometimes animates drinkers, eventually it swings to depressing them. The picture has a soggy, subdued aura that displays the opposite of conviviality. Neither person cares to talk, looking worse for wear after a long night.   Both appear lost in reveries or burdened by dulled senses.  Whether the pall is cast by fatigue, extensive drinking, poor health, a bitter argument between them we cannot tell.  But the effervescent light-heartedness often associated with having a glass or three finds no place in this scene, unlike in ["Margaritaville" by Jimmy Buffet.](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/)
+Paradoxically, while partaking sometimes animates drinkers, eventually it swings to depressing them. The picture has a soggy, subdued aura that displays the opposite of conviviality. Neither person cares to talk, looking worse for wear after a long night.   Both appear lost in reveries or burdened by dulled senses.  Whether the pall is cast by fatigue, extensive drinking, poor health, a bitter argument between them we cannot tell.  But the effervescent light-heartedness often associated with having a glass or three finds no place in this scene, unlike in ["Margaritaville" by Jimmy Buffet.](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
 
 **Hangovers**: As a third sub-theme of alcohol, hangovers may plague the couple. [Note 2] To the side of her surly companion stands a glass filled with a brown drink (possibly mazagran, a cold coffee beverage thought to be a hangover cure).  She may be trying the "hair of the dog," a phrased derived from the medieval belief that, when someone was bitten by a rabid dog, a cure could be applying the same dog's hair to the wound. [Note 3]
 
 **Destabilizing**: Finally, those who ponder the painting might note a number of disconcerting features, akin to the instability caused by excessive of drinking.  
 
-  It is early morning judging from the brightness on her blouse and the shadows on the mirror behind that tell us the sun is low, so it is probably morning. Yet aside from a few well-known libations at brunches (Mimosas, Bloody Mary's), most people [drink in the evening.](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/) Thus, this glimpse of two people in the cups early in the morning jars the viewer.  It subliminally connects drinking and falling out of bodily rhythm.
+  It is early morning judging from the brightness on her blouse and the shadows on the mirror behind that tell us the sun is low, so it is probably morning. Yet aside from a few well-known libations at brunches (Mimosas, Bloody Mary's), most people [drink in the evening.](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/) Thus, this glimpse of two people in the cups early in the morning jars the viewer.  It subliminally connects drinking and falling out of bodily rhythm.
   
   Likewise, the composition of the picture is off kilter. The triangle of her hair, the water bottle and the absinthe is above the middle of the painting. Odd objects to the lower left leave an impression of imbalance, such as results from excessive alcohol. We see tabletops and bench backs, but they are all cropped, foreshortened, unbalanced. An unfinished dress peeks between the tables. The visual clues disorient in the way that drinking too much affects perception and balance.
 
@@ -40,7 +40,7 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
 
   How long have they been at the café?  We can't tell whether the woman has just ordered the absinthe or whether her drinking bout has been going for some time.  
   
-  The two people look exhausted but why don't they go home [like old Eben Flood?](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)
+  The two people look exhausted but why don't they go home [like old Eben Flood?](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
 
   What are the bizarre items in the front left  of the frame?
 
@@ -48,7 +48,7 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
 
 Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.
 
-To consider subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+To consider subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 
 Notes:

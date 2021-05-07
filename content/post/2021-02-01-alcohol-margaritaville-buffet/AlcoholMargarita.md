@@ -72,7 +72,7 @@ These refrain lines repeat the name of the drink that has subdued the depressed 
 
   As for the missing salt shaker, many people drink margaritas with salt on the rim of the glass, but they don’t add the salt by using a shaker (they dip the glass upside down into salt).  That might be the meaning of the fruitless search or it could be the aimless perseveration of someone continuously three sheets to the wind.  Most profoundly, he is searching for the cause of his despair and the metaphor of the salt shaker conveys that goal.
 
-We are given to understand that depression from a [collapsed marriage](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/) or love affair triggered the slide into vagrant tippling.
+We are given to understand that depression from a [collapsed marriage](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/) or love affair triggered the slide into vagrant tippling.
 
 Back to the lyrics and stanza three.  We’re at a Mexican beach resort the singer has sardonically dubbed Margaritaville.  Geography and proper names have drizzled away; all that matters to him is the fruity mix laced with tequila that blanks out his hurt.  The singer lacks a compass in his life.  
 
@@ -93,7 +93,7 @@ Blotto, out of it, he impulsively paid for a tattoo that afterwards he can’t a
 
 The seduction of warmth, low costs, and the siren-like beckoning of potent fruity drinks have robbed the singer of his ability to make longer-term decisions.   Or perhaps the singer had already lost his bearings, so it was easy to submerge in tropical indolence and abandonment in the cups.
 
-**Physical Risks**:  After another refrain, which subtly shows him narrowing in on the truth, the fifth stanza reminds us that if you over-consume alcohol you run a greater risk of getting hurt.  Your balance, reactions and judgment are out of kilter. [Note 2] He doesn’t take care of his meager possessions (*I blew out my flip flop*) so when he stepped on a sharp bottle top (probably from a can, a pop top) he cut his foot badly enough to make him turn back to where he stays.  Note the unurgent *cruised back home* to the comforting nurse of his favorite beverage (a bit like the [jug for Eben Flood](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)).  
+**Physical Risks**:  After another refrain, which subtly shows him narrowing in on the truth, the fifth stanza reminds us that if you over-consume alcohol you run a greater risk of getting hurt.  Your balance, reactions and judgment are out of kilter. [Note 2] He doesn’t take care of his meager possessions (*I blew out my flip flop*) so when he stepped on a sharp bottle top (probably from a can, a pop top) he cut his foot badly enough to make him turn back to where he stays.  Note the unurgent *cruised back home* to the comforting nurse of his favorite beverage (a bit like the [jug for Eben Flood](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)).  
  
 *But there's booze in the blender*  
 *And soon it will render*  
@@ -101,7 +101,7 @@ The seduction of warmth, low costs, and the siren-like beckoning of potent fruit
 
 **Temporary Respite**: One of the many terms for a drunken spree is a “bender”, which Jimmy Buffet teases out of the listener with the rhymes of blender and render.  Alcohol buoys up people for a period of feeling better, cushioning the pain of life that that they would rather flee.  Also, to be fair, many people enjoy the taste of their favorite liquor.  Our beach bum likes margaritas on their way down, to say nothing of their balming effect.
 
-Sadly, many people who can’t cope with the vicissitudes of life pour their way to temporary oblivion: alcoholic flight from the actual.  It helps me hang on, but like drugs the effect of the margarita inevitably wears off, inevitably for the world and its hurtful cuts of pop tops to crash the party.  Put another way, [absinthe buys a bit of time](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/).
+Sadly, many people who can’t cope with the vicissitudes of life pour their way to temporary oblivion: alcoholic flight from the actual.  It helps me hang on, but like drugs the effect of the margarita inevitably wears off, inevitably for the world and its hurtful cuts of pop tops to crash the party.  Put another way, [absinthe buys a bit of time](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/).
 
 In the final stanza, the seventh, he penetrates the fog of margaritas and comes to the truth: it’s my own damn fault.  Did he lose his wife or girlfriend from drinking too much?  Personal accountability for drinking is part of the realization.  He realizes that his inability to stop drinking demonstrates yet another self-inflicted mistake. 
 
@@ -113,7 +113,7 @@ Why he has sunk to this forlorn state we never learn, but the constant theme is 
 This slice-of-life song brings up positives of alcohol.  It tastes good and it brings a pleasant buzz to people as it dulls the sharp edges of life.  But the song also vividly conveys or hints at the deleterious effects of too much alcohol: poor health, increased risks, sloppy decisions, diminished self-control, and physical addiction.
 
 
-To consider subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+To consider subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 Note 1. The ingredients of a margarita might be of interest.  Nothing nutritious, except you won’t get scurvy.
 •	2 ounces blanco tequila 

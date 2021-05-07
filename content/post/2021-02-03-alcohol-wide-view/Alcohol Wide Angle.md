@@ -13,10 +13,10 @@ description: Sub-themes of alcohol that did not appear in the four art works pre
 
 Four posts have discussed sub-themes of the broader theme of alcohol:
 
-["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/),
-["Absinthe" by Edgar Degas](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/),
-["Margaritaville" by Jimmy Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/), and
-["Mr. Flood's Party" by Edwin Arlington Robinson](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/).  Having explored sub-themes of alcohol that suggest themselves primarily in only one of those four artistic forms, I want to close with several additional observations that deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
+["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/),
+["Absinthe" by Edgar Degas](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/),
+["Margaritaville" by Jimmy Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/), and
+["Mr. Flood's Party" by Edwin Arlington Robinson](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/).  Having explored sub-themes of alcohol that suggest themselves primarily in only one of those four artistic forms, I want to close with several additional observations that deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
 
 <!--more-->
 
