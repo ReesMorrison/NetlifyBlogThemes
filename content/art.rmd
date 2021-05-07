@@ -2,15 +2,12 @@
 date: "2021-04-10"
 description: the art used and themes
 menu: main
-title: 
+title: []
 ---
 
-Through Silence, posted on April 8, 2021, Themes from Art has discussed seven themes, eliciting subthemes from one poem, movie, rock song, and impressionist painting for each theme, a total of 28 artistic works.  The table below lists each of them by genre.
-
-The second table groups the artistic works by theme.
+Through Death, posted in early May, Themes from Art has discussed nine themes, eliciting subthemes from one poem, movie, rock song, and impressionist painting for each theme, a total of 36 artistic works.  The table below lists each of them by theme and within theme by genre.
 
 ```{r packages, echo=FALSE, warning=FALSE, message=FALSE}
-
 library(tidyverse)
 
 ```
@@ -18,11 +15,24 @@ library(tidyverse)
 
 ```{r artTable, echo=FALSE}
 # create a data frame of strings sorted by theme and then genre
-# made a copy of all the full URLs and the Bitly code at the bottom in case I need the latter, then removed them
+# copied all full URLs and Bitly at the bottom in case I need the latter, then removed them
+# entered into the df in alpha by theme, and Genre, so I can match the arrange of Theme, Genre
 urls <- data.frame(Theme = c("(https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/)",
 "(https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/)", 
 "(https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)",
 "(https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/)",
+"(https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)",
+"(https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautysainteadress/)",
+"(https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)", 
+"(https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)",
+"(https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)", 
+"(https://themesfromart.com/post/2021-03-14-chancehap/chancehap/)",
+"(https://themesfromart.com/post/2021-03-14-chancedeerhunter/chancedeer/)",
+"(https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)", 
+"(https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)",
+"(https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)",
+"(https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)",
+"(https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)",
 "(https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)", 
 "(https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)",
 "(https://themesfromart.com/post/2021-02-08-decisions-from-the-road-not-taken-a-poem-by-robert-frost/decisionsroadfrost/)", 
@@ -31,46 +41,29 @@ urls <- data.frame(Theme = c("(https://themesfromart.com/post/2021-02-03-alcohol
 "(https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)",
 "(https://themesfromart.com/post/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)", 
 "(https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)",
-"(https://themesfromart.com/post/2021-02-26-workkane/workkane/)", "(https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)",
-"(https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)",
-"(https://themesfromart.com/post/2021-02-26-workproud/workproud/)",
-"(https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)", 
-"(https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)",   
-"(https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)", 
-"(https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)", 
-"(https://themesfromart.com/post/2021-03-14-chancedeerhunter/chancedeer/)",
-"(https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)",
-"(https://themesfromart.com/post/2021-03-14-chancehap/chancehap/)",
-"(https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)",
 "(https://themesfromart.com/post/silencenorthwest/)",
 "(https://themesfromart.com/post/silenceavril/)",
-"(https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)",
+"(https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)", 
 "(https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)",
-"(https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautysainteadress/)",
-"(https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)",
-"(https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)", 
-"(https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)",
-"(https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)",
-"(https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)",
-"(https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)",
-"(https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)"))
+"(https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)", 
+"(https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)", "(https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)", 
+"(https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)", 
+"(https://themesfromart.com/post/2021-02-26-workkane/workkane/)", "(https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)",
+"(https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)",
+"(https://themesfromart.com/post/2021-02-26-workproud/workproud/)"))
 
 art <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Art and Artists.xlsx")
 
 #relocate columns, so that this sorts by Theme and then Genre
 art <- art[  , c("Theme", "Genre", "Art", "Artist")]
+art <- art %>% arrange(Theme, Genre)
 
 # create URL for the Art
 art$Art <- str_c("[", art$Art, "]", urls$Theme)
 
 artTable <- kableExtra::kable(art)
 
-artTable  # by genre and then chrono
-artTablebyTheme <- art %>% arrange(Theme)
-
-artTable.tab <- kableExtra::kable(artTablebyTheme)
-
-artTable.tab # by theme
+artTable  # by Theme, then Genre, with URL
 
 ```
 
@@ -143,6 +136,12 @@ artTable.tab # by theme
 <!-- (https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/  (https://bit.ly/2QQD62s -->
 <!-- (https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/ (https://bit.ly/3xEen1Y -->
 <!-- (https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/ (https://bit.ly/2Sf7Pqj -->
+
+<!-- "(https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/  https://bit.ly/3cCGVAu -->
+<!-- "(https://themesfromart.com/post/2021-03-14-chancehap/chancehap/  https://bit.ly/39t2m5f -->
+<!-- "(https://themesfromart.com/post/2021-03-14-chancedeerhunter/chancedeer/ https://bit.ly/2O9QXje -->
+<!-- "(https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/    https://bit.ly/2PHUghU -->
+<!-- "(https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/   https://bit.ly/3sCJTKW -->
 
 <!-- # collected additional posts, not in proper format for strings -->
 <!-- # (https://themesfromart.com/post/2021-02-03-alcohol-wide-view/ -->
