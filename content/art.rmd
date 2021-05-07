@@ -62,7 +62,7 @@ art <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLI
 art <- art[  , c("Theme", "Genre", "Art", "Artist")]
 art <- art %>% arrange(Theme, Genre)
 
-# create URL for the Art
+# create URL for the Art 
 art$Art <- str_c("[", art$Art, "]", urls$Theme)
 
 artTable <- kableExtra::kable(art)
