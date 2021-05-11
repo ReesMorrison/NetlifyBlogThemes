@@ -29,7 +29,7 @@ As the stage for this cinematic recreation of a detective novel, Murder on the O
 
 If you are interested in subthemes of the concept “Trains,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 
-If you are interested in other movies discussed on this blog, and their themes, here they are: 
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 
 * Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
 * Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
