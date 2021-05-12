@@ -41,7 +41,7 @@ Trains have been and continue to be proud giants (*supercilious*) that surpass a
 
 **Speed**:  Given stretches of track with no stations, trains can build up speed.  Not so much commuter trains, which slow and stop at each station, but [long-distance trains](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/) can *lap the miles* at above 50 miles an hour.  In Dickinson’s imagination, trains could *lick the valleys up*, lickety-split.  Today, according to [Wikipedia](https://en.wikipedia.org/wiki/High-speed_rail), the Shanghai Maglev Train, opened in 2004, is the fastest magnetic levitation train in operation, at 258 mph (430 km/h). The Euroduplex TGV trains reached a record of 344 mph (574.8 km/h), making it the fastest conventional wheeled train.  In their glory days, before automobiles appeared, trains were by far the fastest form of transportation on land.  
 
-Because of that speed and weight, however, trains take a long time to slow and [come to rest](Lazare).  
+Because of that speed and weight, however, trains take a long time to slow and [come to rest](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/).  
 
 *Stop--docile and omnipotent--*  
 *At its own stable door.*  
@@ -61,7 +61,7 @@ because a heavy train can not climb more than a slight upward grade.  Brawny tra
 
 Remarkable when Dickinson wrote, and even to this day, trains embody a powerful force harnessed to the needs of humans.  They can outhaul anything and outrun most, yet they must obey the strictures of the level tracks on which they gallop.
 
-If you are interested in subthemes of the concept “Trains,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, see this article that explains [Themes from Art](http://bit.ly/3sRXopI).
+If you are interested in subthemes of the concept “Trains,” consider [other subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, see this article that explains [Themes from Art](http://bit.ly/3sRXopI).
 
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 

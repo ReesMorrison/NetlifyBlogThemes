@@ -28,7 +28,7 @@ Along with all that heavy-duty clearing and building, projects such as bridges t
 
 Monet’s study of light and smoke reminds us of the massive amount of man-made artifacts, related businesses, and massive spending that accompanied the flourishing of national railroads.  Over several decades from the mid-1850s, the development of rail networks represented economy-transforming allocations of resources.
 
-If you are interested in subthemes of the concept “Trains,”, consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+If you are interested in subthemes of the concept “Trains,”, consider [other subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 
 We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
 

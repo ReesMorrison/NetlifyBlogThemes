@@ -27,7 +27,7 @@ Shipping bulk freight kept trains profitable.  While the industry was ascendant 
 
 As the stage for this cinematic recreation of a detective novel, Murder on the Orient Express suggests to us stratification of wealth, loads of people and goods borne by trains, and the enormous workforce that allowed the trains to run and the mystery to be solved.
 
-If you are interested in subthemes of the concept “Trains,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+If you are interested in subthemes of the concept “Trains,” consider [other subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 
