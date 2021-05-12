@@ -58,7 +58,7 @@ This train's got the disappearing railroad blues
 
 [refrain]  
 
-Listen to the iconic version sung by [Willie Nelson](https://www.youtube.com/watch?v=6XyRdJr4LSc)
+Listen to the iconic version sung by [Willie Nelson](https://www.youtube.com/watch?v=6XyRdJr4LSc).
 
 ![City of New Orleans](/media/TrainsCity.jpg)
  
@@ -87,6 +87,8 @@ Once the trucking industry put thousands of big-wheelers on the road, trains los
 A folk-hero train has been memorialized for its grand shuttle through the middle of the country, between the Windy City and the Big Easy.  Yet railroads peaked in popularity and importance years before; despite continual improvements in every feature of their build and significant government backing, they were substantially displaced by cars, trucks, and transport planes.
 
 If you are interested in subthemes of the concept “Trains,” consider [other subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are: 
 
 * Alcohol:	[Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
 * Beauty:	[The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
