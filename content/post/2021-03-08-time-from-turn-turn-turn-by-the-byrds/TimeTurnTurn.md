@@ -1,5 +1,5 @@
 ---
-title: Time, from "Turn! Turn! Turn!" by The Byrds
+title: Time, from "Turn! Turn! Turn!," a rock song by The Byrds
 author: Rees Morrison
 date: '2021-03-08'
 slug: []

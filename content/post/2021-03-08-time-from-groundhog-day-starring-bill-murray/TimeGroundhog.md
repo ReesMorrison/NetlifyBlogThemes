@@ -1,5 +1,5 @@
 ---
-title: Time, from "Groundhog Day" starring Bill Murray
+title: Time, from "Groundhog Day," a movie starring Bill Murray
 author: Rees Morrison
 date: '2021-03-08'
 slug: []

@@ -7,8 +7,23 @@
 </head>
 
 <body>
-  <div id="wrapper">
+    <div id="wrapper">
     {{ partial "header.html" . }}
+    
+    <div class="themeSidebar" style="padding: 10px; border: 2px solid red">
+      {{ range (slice "[Alcohol](https://example.org)" "[Chance](https://example.com)") }}
+        {{ . | markdownify }} <br />
+      {{ end }}
+    </div>
+    
+    <div style="background: ghostwhite; 
+            font-size: 20px; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+  This is some dummy text.
+    </div>
+    
     <main id="main" class="post">
       <!-- sections -->
       {{ if ne .Section "post" }}

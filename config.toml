@@ -34,7 +34,7 @@ name = "author"
   name = "Themes"
   url = "/themes/"
   weight = 3
-[[menu.main]]
+[[menu.main]] 
   identifier = "subthemes"
   name = "Subthemes"
   url = "/subthemes/"
@@ -55,3 +55,4 @@ name = "author"
   favicon = "/favicon.ico"
   footnote = ""
   keywords = ["hugo", "latex", "theme"]
+  sidebar = ["[Org Link](https://example.org)", "[Com Link](https://example.com)"]
