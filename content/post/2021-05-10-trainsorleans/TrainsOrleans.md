@@ -26,7 +26,7 @@ Passin' trains that have no names
 Freight yards full of old black men  
 And the graveyards of the rusted automobiles  
 
-Good morning America how are you?  
+Good morning America how are you?   
 Don't you know me I'm your native son  
 I'm the train they call The City of New Orleans  
 I'll be gone five hundred miles when the day is done  
