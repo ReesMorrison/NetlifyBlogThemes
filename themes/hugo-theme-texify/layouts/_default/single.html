@@ -10,8 +10,11 @@
     <div id="wrapper">
     {{ partial "header.html" . }}
     
-    <div class="themeSidebar" style="padding: 10px; border: 2px solid red">
-      {{ range (slice "[Alcohol](https://example.org)" "[Chance](https://example.com)") }}
+    <div class="themeSidebar" style="padding: 10px; border: 2px gray;
+    font-size: 20px;
+    width: 25%;
+    vertical-align: middle;">
+      {{ range (slice "[Alcohol](https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/)" "[Beauty](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/)" "[Chance](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Death](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)"   "[Decisions](https://themesfromart.com/post/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/)" "[Destruction](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/)" "[Silence](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Time](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/)" "[Trains](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/)" "[Work](https://themesfromart.com/post/2021-02-26-workadditional/workperspective/)") }}
         {{ . | markdownify }} <br />
       {{ end }}
     </div>
@@ -21,7 +24,7 @@
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-  This is some dummy text.
+  Click on a Theme in the box above to go to posts about the Theme.
     </div>
     
     <main id="main" class="post">
