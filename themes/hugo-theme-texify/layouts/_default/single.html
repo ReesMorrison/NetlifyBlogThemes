@@ -6,11 +6,41 @@
   <link rel="stylesheet" href='{{ "css/single.css" | absURL }}'>
 </head>
 
+<style>
+  themeBox {  
+      text-align: center;
+      padding: 10px;
+      background-color: rgba(45, 45, 45, 0.2);
+  }
+  p {
+	text-align: justify;
+  }
+  .links {
+    margin-right: 20px;
+	  color: blue;
+  }
+  .fullCard {
+  	position: relative;
+  	background-color: rgba(45, 45, 45, 0.2);
+  	right: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 5px;
+    padding: 5px;
+  }
+  .cardContent {
+    padding: 5px;
+  }
+  .cardText {
+    margin-bottom: 5px;
+  }
+</style>
+
 <body>
     <div id="wrapper">
     {{ partial "header.html" . }}
     
-<!-- https://stackoverflow.com/questions/4108726/how-to-spread-elements-horizontally-evenly -->
+<!-- https://stackoverflow.com/questions/4108726/how-to-spread-elements-horizontally-evenly 
     
     <div class="themeSidebar" style="display: flex; 
     justify-content: space-evenly;
@@ -19,9 +49,9 @@
     font-size: 20px;
     width: 50%;
     vertical-align: middle;
-    text-align: center;">
-      {{ range (slice "[Alcohol,](https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/)" "[Beauty,](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/)" "[Chance,](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Death,](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)"   "[Decisions,](https://themesfromart.com/post/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/)" "[Destruction,](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/)" "[Silence,](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Time,](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/)" "[Trains,](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/)" "[Work,](https://themesfromart.com/post/2021-02-26-workadditional/workperspective/)") }}
-        {{ . | markdownify }} <br />
+    text-align: center;"
+      {{ range (slice "[Alcohol](https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/)" "[Beauty](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/)" "[Chance](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Death](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)" "[Decisions](https://themesfromart.com/post/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/)" "[Destruction](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/)" "[Silence](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)" "[Time](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/)" "[Trains](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/)" "[Work](https://themesfromart.com/post/2021-02-26-workadditional/workperspective/)") }}
+        {{ . | markdownify }} <br>
       {{ end }}
     </div>
     
@@ -31,7 +61,29 @@
             border: 1px solid lightgray; 
             margin: 5px;">
   Click on a Theme in the box above to go to a summary of the four posts about the Theme.
+    </div> -->
+    
+<div class="fullCard">
+  <div class="cardContent">
+    <div class="cardText">
+  <!--<themeBox>Alcohol Beauty Chance Death Decisions Destruction Silence Time Trains Work</themeBox>-->
+      <p> Click on a Theme below to go to a summary of the four posts about that Theme. </p>
     </div>
+    <div class="cardLinks">
+      	<a href="https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/" target="_blank" class="links">Alcohol</a>
+      	<a href="https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/" target="_blank" class="links">Beauty</a>  
+	<a href="https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/" target="_blank" class="links">Chance</a>  
+	<a href="https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/" target="_blank" class="links">Death</a>  
+	<a href="https://themesfromart.com/post/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/" target="_blank" class="links">Decisions</a>  
+	<a href="https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/" target="_blank" class="links">Destruction</a>
+	<a href="https://themesfromart.com/post/silenceadditional/" target="_blank" class="links">Silence</a>  
+	<a href="https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/" target="_blank" class="links">Time</a>  
+	<a href="https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/" target="_blank" class="links">Trains</a>  
+	<a href="https://themesfromart.com/post/2021-02-26-workadditional/workperspective/" target="_blank" class="links">Work</a>  
+    </div>
+  </div>
+</div>
+
     
     <main id="main" class="post">
       <!-- sections -->
