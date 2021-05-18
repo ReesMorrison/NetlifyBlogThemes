@@ -10,10 +10,10 @@
   themeBox {  
       text-align: center;
       padding: 10px;
-      background-color: rgba(45, 45, 45, 0.2);
+      background-color: rgba(45, 45, 45, 0.1);
   }
   p {
-	text-align: justify;
+	text-align: justify; 
   }
   .links {
     margin-right: 20px;
@@ -21,25 +21,33 @@
   }
   .fullCard {
   	position: relative;
-  	background-color: rgba(45, 45, 45, 0.2);
-  	right: 15px;
+  	background-color: rgba(250, 250, 211, 0.1);
+  	width: 60%;
+  	text-align: center;
+  	right: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    margin: 5px 5px;
-    padding: 5px;
+    margin: 0 auto;
+    padding: 1px;
   }
   .cardContent {
-    padding: 5px;
+    margin: auto;
+    text-align: center;
+    flex-flow: row wrap;
+  /* Then we define how is distributed the remaining space */
+    justify-content: space-around;
+    padding: 2px;
   }
   .cardText {
-    margin-bottom: 5px;
+    margin-bottom: 1px;
+    text-align: center;
   }
 </style>
 
 <body>
     <div id="wrapper">
     {{ partial "header.html" . }}
-    
+    <br>
 <!-- https://stackoverflow.com/questions/4108726/how-to-spread-elements-horizontally-evenly 
     
     <div class="themeSidebar" style="display: flex; 
