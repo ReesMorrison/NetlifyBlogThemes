@@ -54,14 +54,14 @@ title:
 ["The Sounds of Silence"](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)  
 [Additional Subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/)  
 
-**Beauty**
+**Beauty**  
 ["Garden-at-Sainte-Adresse"](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautysainteadress/)    
 ["Taxi Driver"](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)  
 ["She Walks in Beauty"](https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)  
 ["The First Time Ever I Saw Your Face"](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)  
 [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/)
 
-**Death**
+**Death**  
 ["Bonnie & Clyde"](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)  
 ["Death, be not proud"](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)  
 ["Honey"](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)  
