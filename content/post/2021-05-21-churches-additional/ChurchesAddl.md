@@ -9,7 +9,7 @@ tags: ["Sociology,", "Funerals and Cemeteries,", "Tithing", ]
 draft: 
 ---
 
-The other sections cover multiple aspects of Religion elicited from four works of art:   Pierre-August Renoir’s [The Church at Essoyes](), a [poem by Matthew Arnold, Dover Beach](), a [despondent interlude in a warm church](California), and [sanctuary and inspiration from a church’s priest](Waterfront) during a movie. Here are additional thoughts about the theme of Religion that don’t associate closely with any of those works.
+The other sections cover multiple aspects of Religion elicited from four works of art:   Pierre-August Renoir’s [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/), [Matthew Arnold's "Dover Beach""](https://themesfromart.com/post/2021-05-21-churches-from-dover-beach-a-poem-by-matthew-arnold/churchesarnold/), a [despondent interlude in a warm church](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/), and [sanctuary and inspiration from a church’s priest](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/) during a movie. Here are additional thoughts about the theme of Religion that don’t associate closely with any of those works.
 
 <!--more-->
 

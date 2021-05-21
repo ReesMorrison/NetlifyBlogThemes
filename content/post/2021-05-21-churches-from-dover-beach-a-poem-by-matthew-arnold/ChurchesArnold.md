@@ -56,7 +56,7 @@ And we are here as on a darkling plain
 Swept with confused alarms of struggle and flight,  
 Where ignorant armies clash by night.  
 
-**Familiar and Reliable Support**:   Once as regular as the *Begin, and cease, and then again begin,* of the waves, Arnold fears that the *bright girdle* of theological faith is coming undone, losing its power to [guide and succor the faithful](Waterfront).  
+**Familiar and Reliable Support**:   Once as regular as the *Begin, and cease, and then again begin,* of the waves, Arnold fears that the *bright girdle* of theological faith is coming undone, losing its power to [guide and succor the faithful](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/).  
 
 *But now I only hear*  
 *Its melancholy, long, withdrawing roar,*  
@@ -66,7 +66,7 @@ Where ignorant armies clash by night.
 
 The long-accustomed, reassuring faith was once *at the full* but has diminished and is in retreat.
 
-Like the traditional faith that Hardy bemoans has yielded its vitality, all church services offer congregations a steady, familiar, and comforting ritual of service.  The cadence, content, the measured steps and memorized words, smells of incense and the old favorite hymns, candles and flowers and icons all looking the same year after year manifest the message: God (or whatever is worshipped) is eternal and unchangeable and on your side.  You can rely on your steadfast religion, made tangible in the physical continuity of the [church building](Renoir).  You likewise depend on your rabbi, iman, shinshoku, or [preacher](California) who holds forth within.
+Like the traditional faith that Hardy bemoans has yielded its vitality, all church services offer congregations a steady, familiar, and comforting ritual of service.  The cadence, content, the measured steps and memorized words, smells of incense and the old favorite hymns, candles and flowers and icons all looking the same year after year manifest the message: God (or whatever is worshipped) is eternal and unchangeable and on your side.  You can rely on your steadfast religion, made tangible in the physical continuity of the [church building](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/).  You likewise depend on your rabbi, iman, shinshoku, or [preacher](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/) who holds forth within.
 
 **Ancient**:  Churches, as places to worship and share beliefs that determine the fate of humans, have played a vital role in all societies for thousands of years, at least for as long as artifacts suggest that role.  Where we have not uncovered evidence of burial rites, carvings of deities, sacrificial sites, or other indicators of religion (Stonehenge, for example, or even older, Newgrange in Ireland), the ubiquity of religions convinces us that it arose as humans evolved consciousness and an ability to speak.  Worship is as old as 
 
@@ -79,7 +79,7 @@ Moreover, where religions arose, so did holy sites and buildings.
 
 &nbsp;
 
-If you are interested in views of the concept “Religion,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in views of the concept “Religion,” consider [other subthemes](https://themesfromart.com/post/2021-05-21-churches-additional/churchesaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 
