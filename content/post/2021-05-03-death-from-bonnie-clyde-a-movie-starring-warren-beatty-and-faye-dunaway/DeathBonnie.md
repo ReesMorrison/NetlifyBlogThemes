@@ -21,10 +21,24 @@ Handsome romantic rebels (or dangerous, petty criminals) in the movie Bonnie & C
 
 **Civilian Jobs that Kill Workers**.  In civilian jobs, high-risk occupations include lumberjacks, small plane pilots, derrick operators, roofers, iron workers, commercial fishers, firefighters, lion tamers, miners, or any job that subjects workers to asbestos or coal dust.  Every year, thousands of American workers in those jobs die.  Employers in these occupations don’t want their employees to be injured or die, but the working conditions are inherently hazardous and accidents inevitably occur.  Members of the military and law enforcement accept that they may be put in harm’s way, but Death also stalks risky civilian job.
 
-
 &nbsp;
 
 In this final scene, a swashbuckling pair of bank robbers perish in a storm of police bullets – no trial or prison for them.  In a Faustian pack, they gambled an exhilarating life against the likelihood of death rather than submit to authority, conformity, or an un-adventurous life.
 
 To consider subthemes of Death that are not associated with this movie scene or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/).  See this for more about  [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)
+
 

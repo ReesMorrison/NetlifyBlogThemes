@@ -28,3 +28,17 @@ Cary Grant’s freedom was at risk, and only complete silence in hiding saved hi
 
 
 To consider subthemes of the concept Silence, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)

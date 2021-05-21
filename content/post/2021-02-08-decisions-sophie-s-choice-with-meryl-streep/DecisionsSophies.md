@@ -39,3 +39,17 @@ To follow one path confronts [Frost’s hiker](https://themesfromart.com/blog/20
 Although the movie title is “Sophie’s Choice,” the horror branded into this scene should not be considered a “choice” by the young mother.  Choice implies picking among favorable possibilities, such as “I’ll have chocolate ice cream,” which is far from the profoundly negative consequences forced so rapidly by the SS officer on the mother.  She had neither sufficient time, leverage, or knowledge to consider how to respond and she had to wrestle with her most profound values: her body, her life, her children. 
 
 To consider subthemes of Decisions that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)

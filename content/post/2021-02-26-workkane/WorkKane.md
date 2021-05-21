@@ -29,3 +29,17 @@ Here is one shot from a scene where he proclaims he is in charge by ![firing his
 Work and working hard permeates the career of Charles Foster Kane as he amassed power, wealth and fame.  Watching “Citizen Kane,” we are transfixed by the portrayal of the hard-driving, take-no-prisoners career of a gifted man who forged a stellar work career, but who also tragically foundered on arrogant egotism and bad judgment.  
 
 To consider subthemes of Work that are not closely associated with this movie scene, or the other three creative works, please visit [the post Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)

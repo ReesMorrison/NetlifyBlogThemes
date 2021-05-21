@@ -70,7 +70,19 @@ Difficult as it may be to endure this movie scene of marital enmity, the backgro
 
 To consider subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)
 
 Note 1.  Someone who is drunk to the point of being unable to stand up straight. The ‘sheets’ here refer to the sails of a windmill rather than bed linen. Windmill operators used to add or remove the number of sails according to the strength of the wind.  One basic rule that they had to follow was to always keep an even number of sails – either two or four – opposite each other in order to keep the windmill balanced and steady. [According to an English usage site](https://www.ecenglish.com/learnenglish/lessons/why-do-we-say-three-sheets-wind), if they ever had only three sheets out, the windmill became unstable and extremely wobbly, swaying from side to side very much like someone who has enjoyed a little too much alcohol!  
 
