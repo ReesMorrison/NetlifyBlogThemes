@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Defines the Proper Life,", "Hub of Social Life", "Outreach and Serving,", "Honoring Deity", ]
-draft: yes
+draft: 
 ---
 
 A pastoral depiction of a church’s tower and chancel fills the central portion of Renoir’s French landscape.  The bell tower glows in sunshine and the rest of the church at Essoyes nestles beneath it.  With a prominent tree in the foreground of the painting and a modest, partial cottage on the left, the painting symbolically offers a triptych of man, nature, and religion, with the church predominant.  Drawn from this impressionist painting, here are some thoughts on Church as a theme.
@@ -22,6 +22,7 @@ The Church at Essoyes, by Pierre-Auguste Renoir
 **Outreach and Serving**: Not only did a constant stream of social events take place under the roof of a church, but it also housed or promoted many forms of community service.  Food banks, schools, counseling services, donations to the poor, and other outreach were organized, sustained, and conducted by members of the congregation.  Churches did not pay property taxes, but they gave back to the surrounding area.  Towns served the church and the church served them.
 
 **Honoring Deity**:  In many societies, the grandeur and beauty of the church conveyed the adoration church members felt for whatever deity they worshiped.  Soaring buttresses, gorgeous stained glass, intricate mosaics and soaring minarets, statuary and carvings, all conveyed that depth of adoration.  Local populations for centuries poured funds into the construction, furnishing, staffing, and maintenance of their church.  Some came into being because a powerful person wanted to express gratitude, such as the Basilica of Sacré-Cœur in Paris.  The modest church in Renoir’s rendering shows none of the opulence and majesty of famous churches, but it probably matched the wealth and aspirations of its rural surroundings.
+
 ![SacreCouer](/media/ChurchesSacreCoeur.jpg)
  
 &nbsp;

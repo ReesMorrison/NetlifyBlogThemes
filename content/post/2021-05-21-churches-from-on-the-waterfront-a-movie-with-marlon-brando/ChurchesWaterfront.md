@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Sanctuary,", "Living Properly,", "Privilege of Clerics", ]
-draft: yes
+draft: 
 ---
 
 In a brutal movie, On the Waterfront, Terry Malloy (Marlon Brando) fights back against union crime and dockside violence, a brave Father Barry (Karl Malden) and his church stand up for Brando and hold together the frightened, downtrodden dockworkers.  Several subthemes of Churches appear in this movie.
