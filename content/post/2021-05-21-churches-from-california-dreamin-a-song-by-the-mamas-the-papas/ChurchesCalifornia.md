@@ -54,7 +54,7 @@ Image from [pixabay](https://pixabay.com/photos/winter-snow-cityscape-building-1
 
 **Absolution, Counseling**:  Catholics believe in confession and confessing their wrongs to a priest, who can absolve them.  Other Christian denominations acknowledge ministers as spiritual counsellors but don’t grant an equal power to their ministers to wipe away wrongdoing.  The preacher in “California Dreamin’” would have welcomed the chance to help the morose visitor.  Other religions believe their clerics possess a range of powers when it comes to addressing improper behavior.  
 
-**Welcoming**:  Most congregations embrace newcomers and would like to add them to their flock.  If a newcomer shows up, they are welcomed and made to feel at home.  New members events and classes are formal parts of the onboarding efforts.  As for the singer in the song, the *preacher knows he’s gonna stay*; I’m not sure that the preacher reads the situation correctly – the stay may be only until warmth rekindles.  But the warm embrace of the those in the pews and the pulpit is palpable.
+**Welcoming**:  Most congregations embrace newcomers and would like to add them to their flock.  If a newcomer shows up, they are welcomed and made to feel at home.  New members events and classes are formal parts of the onboarding efforts.  As for the singer in the song, the *preacher knows he’s gonna stay*; I’m not sure that the preacher reads the situation correctly – the stay may be only until warmth rekindles.  But the warm embrace of those in the pews and the pulpit is palpable.
 
 &nbsp;
 
