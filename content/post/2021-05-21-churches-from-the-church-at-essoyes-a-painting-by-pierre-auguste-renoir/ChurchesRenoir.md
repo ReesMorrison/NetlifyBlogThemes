@@ -36,6 +36,7 @@ We invite you to read about other paintings discussed on this blog, and their th
 * Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
 * Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
 * Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
 * Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)
 * Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)
 * Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)

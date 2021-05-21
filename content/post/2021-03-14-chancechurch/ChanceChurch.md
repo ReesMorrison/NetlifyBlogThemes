@@ -36,3 +36,18 @@ In these various ways, people try to face their fear of unknown chance and the b
 The famous cathedral in Paris reminds us of the determinism of religion and that everything that happens has significance if you believe in God’s omnipotence and oversight.   We have the Rosary and salah to protect us from the depredations of bad luck.  Others, who adhere to naturalism, ascribe what happens to natural causes, not supernatural forces.   The two camps also prepare differently when they face disturbing chances.
 
 To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
+* Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
+* Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
+* Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)
+* Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)
+* Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)
+* Silence: [Jane Avril Leaving the Moulin Rouge](https://themesfromart.com/post/silenceavril/)
+* Time:	[The Bellili Family](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)
+* Trains: [Gare St. Lazare](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/)     
+* Work:	 [The Floor Scrapers](https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)
+

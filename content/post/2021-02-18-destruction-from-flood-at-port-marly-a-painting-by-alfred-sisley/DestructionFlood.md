@@ -37,3 +37,18 @@ From the grey color of the building at the bottom, which could have been the hig
 While the upper portion of the masterful painting by Sisley exudes warmth and sunshine, the lower part starkly shows the widespread damage wrought by a flood.   Like other blows from nature, a flood overpowers people; it rises inexorably and then suddenly the levee breaks; the loss of life and property that follows the worst catastrophes of nature – be they storms, vulcanism, or virus – can keep killing and collapsing for months and months.  
 
 To consider subthemes of Destruction that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/post/2021-02-18-destruction-a-wider-angle/destructionwide/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+
+We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
+* Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
+* Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
+* Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)
+* Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)
+* Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)
+* Silence: [Jane Avril Leaving the Moulin Rouge](https://themesfromart.com/post/silenceavril/)
+* Time:	[The Bellili Family](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)
+* Trains: [Gare St. Lazare](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/)     
+* Work:	 [The Floor Scrapers](https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)
+

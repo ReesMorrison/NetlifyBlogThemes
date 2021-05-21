@@ -42,3 +42,18 @@ All decisions sow seeds: some sprout tiny growths but others towering trees; som
 
 To consider subthemes of Decisions that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
+We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
+* Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
+* Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
+* Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)
+* Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)
+* Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)
+* Silence: [Jane Avril Leaving the Moulin Rouge](https://themesfromart.com/post/silenceavril/)
+* Time:	[The Bellili Family](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)
+* Trains: [Gare St. Lazare](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/)     
+* Work:	 [The Floor Scrapers](https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)
+
+
