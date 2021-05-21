@@ -85,3 +85,18 @@ The poetry of this song, complemented by the elegance of the tune, makes a heart
 
 To consider subthemes of the concept Silence, consider [other subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, this article explains [Themes from Art](http://bit.ly/3sRXopI).
 
+We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are:
+
+* Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
+* Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
+* Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [California Dreamin'](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/) 
+* Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)
+* Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
+* Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)
+* Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)
+* Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)
+* Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)
+* Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/)
+
+

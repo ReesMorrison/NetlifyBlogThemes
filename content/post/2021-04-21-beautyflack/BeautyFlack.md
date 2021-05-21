@@ -42,6 +42,20 @@ Still, all of us have our individual likes and dislikes, our hot buttons and kin
 
 Sung slowly yet with smoldering passion, “The First Time Ever I Saw Your Face” reminds listeners of the magnetic pull of a beautiful person. Theirs is a force field that in particulars and composite gives enduring pleasure whether artfully worked on or naturally displayed.
 
-
 To consider subthemes of Beauty that are not associated with this song or the other three creative works discussed in this set, please visit [Additional Subthemes](https://themesfromart.com/post/2021-04-21-beauty-additional-subthemes/beautyaddl/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are:
+
+* Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
+* Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
+* Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [California Dreamin'](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/) 
+* Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)
+* Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
+* Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)
+* Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)
+* Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)
+* Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)
+* Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/)
+
 

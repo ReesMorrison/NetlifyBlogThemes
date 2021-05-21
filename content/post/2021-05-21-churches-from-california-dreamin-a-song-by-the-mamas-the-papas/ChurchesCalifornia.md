@@ -67,6 +67,7 @@ We invite you to read about other rock songs discussed on this blog, and their t
 * Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
 * Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
 * Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)
+* Churches: [California Dreamin'](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/) 
 * Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)
 * Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
 * Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)
