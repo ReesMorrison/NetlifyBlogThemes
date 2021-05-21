@@ -65,5 +65,5 @@ title:
 ["Bonnie & Clyde"](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)  
 ["Death, be not proud"](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)  
 ["Honey"](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)  
-https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)  
+["House of the Hanged Man"](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)  
 [Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)
