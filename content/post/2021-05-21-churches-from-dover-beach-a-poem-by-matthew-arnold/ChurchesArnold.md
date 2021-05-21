@@ -5,14 +5,15 @@ date: '2021-05-21'
 slug: []
 categories:
   - Poem
-tags: ["Familiar, Reliable Support,", "Ancient,", "Mystical",]
+tags: ["Familiar and Reliable Support,", "Ancient,", "Mystical",]
 draft: 
 ---
 
 As he gazes at the English Channel and responds to the waves *tremulous cadence slow*, Matthew Arnold slips into melancholic brooding.  He mourns that the high tide of religious faith, the all-encompassing oceanic belief in God represented by the *Sea of Faith* and sustained by churches, is weakening and receding, with a deep loss of beauty and pleasure in a secularizing world buffeted by chaotic, senseless conflict.
+
 <!--more-->
 
-"Dover Beach,"" by Matthew Arnold
+"Dover Beach," by Matthew Arnold
 
 The sea is calm tonight.  
 The tide is full, the moon lies fair  
@@ -55,7 +56,7 @@ And we are here as on a darkling plain
 Swept with confused alarms of struggle and flight,  
 Where ignorant armies clash by night.  
 
-**Familiar, Reliable Support**:   Once as regular as the *Begin, and cease, and then again begin,* of the waves, Arnold fears that the *bright girdle* of theological faith is coming undone, losing its power to [guide and succor the faithful](Waterfront).  
+**Familiar and Reliable Support**:   Once as regular as the *Begin, and cease, and then again begin,* of the waves, Arnold fears that the *bright girdle* of theological faith is coming undone, losing its power to [guide and succor the faithful](Waterfront).  
 
 *But now I only hear*  
 *Its melancholy, long, withdrawing roar,*  
