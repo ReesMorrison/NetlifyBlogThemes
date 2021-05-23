@@ -53,9 +53,23 @@ When life endows someone with many choices (education, careers, spouses, mobilit
 
 **Probability**:  When the possibilities can all be counted, the probability of a particular outcome can be calculated, such as rolling a six with a dice or [firing the one bullet in an otherwise empty chamber](https://themesfromart.com/post/2021-03-14-chancedeerhunter/chancedeer/).  That ratio of the number of specific outcomes (one six, one bullet) divided by number of total possible outcomes (six for both), is called a probability.   The results will exhibit a mathematical distribution if the die is rolled or the trigger pulled (after spinning the chamber) several times.  Similarly, we can calculate the odds that two people in a group of people share the same birthday.  We understand and can explain the chance's statistical likelihood.
 
-
 &nbsp; 
 
 Hardy’s poetic complains that he could withstand deliberate, inflicted unhappiness but less so brutal randomness – the continual sway of unpredictable events that permeates life.  Where is the morality in living in a world dictated and buffeted by chance? 
 
 To consider subthemes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/post/2021-03-14-chanceadditional/chanceaddl/). Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Mr. Flood’s Party](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
+* Beauty: [She Walks in Beauty](https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)
+* Chance: [Hap](https://themesfromart.com/post/2021-03-14-chancehap/chancehap/)
+* Death: [Death, be not proud](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)
+* Decisions: [The Road Not Taken](https://themesfromart.com/post/2021-02-08-decisions-from-the-road-not-taken-a-poem-by-robert-frost/decisionsroadfrost/)
+* Destruction: [Ozymandias](https://themesfromart.com/post/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)
+* Silence: [For Whom the Bell Tolls](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)
+* Time: [To His Coy Mistress](https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)
+* Trains: [The Railway Train](https://themesfromart.com/post/2021-05-10-trains-from-the-railway-train-a-poem-by-emily-dickineson/trainsdickinson/)   
+* Work: [Stopping by Woods on a Snowy Evening](https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)
+
+

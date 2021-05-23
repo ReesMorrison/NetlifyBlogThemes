@@ -63,7 +63,6 @@ Remarkable when Dickinson wrote, and even to this day, trains embody a powerful 
 
 If you are interested in subthemes of the concept “Trains,” consider [other subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview of this project, see this article that explains [Themes from Art](http://bit.ly/3sRXopI).
 
-
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 
 * Alcohol: [Mr. Flood’s Party](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
@@ -74,5 +73,7 @@ We invite you to read about other poems discussed on this blog, and their themes
 * Destruction: [Ozymandias](https://themesfromart.com/post/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)
 * Silence: [For Whom the Bell Tolls](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)
 * Time: [To His Coy Mistress](https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)
+* Trains: [The Railway Train](https://themesfromart.com/post/2021-05-10-trains-from-the-railway-train-a-poem-by-emily-dickineson/trainsdickinson/)   
 * Work: [Stopping by Woods on a Snowy Evening](https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)
+
 

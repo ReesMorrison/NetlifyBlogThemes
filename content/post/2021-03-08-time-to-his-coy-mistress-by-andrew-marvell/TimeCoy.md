@@ -123,5 +123,19 @@ According to the Norton Anthology of English Literature, "slow-chapped power" me
 
 Marvell’s passionate romancer fulminates against his mistress’ refusals and pace; acutely aware of the degradations of time and the inevitable loss of physical delight; he is aroused and wants to make love right now without all this extended foreplay.  Every minute not seized means pleasure delayed, diminished or possibly lost.  Time is of the essence.  
 
-
 To consider subthemes of Time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/post/2021-03-09-time-additional/timeadditional/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
+
+We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Mr. Flood’s Party](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
+* Beauty: [She Walks in Beauty](https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)
+* Chance: [Hap](https://themesfromart.com/post/2021-03-14-chancehap/chancehap/)
+* Death: [Death, be not proud](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)
+* Decisions: [The Road Not Taken](https://themesfromart.com/post/2021-02-08-decisions-from-the-road-not-taken-a-poem-by-robert-frost/decisionsroadfrost/)
+* Destruction: [Ozymandias](https://themesfromart.com/post/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)
+* Silence: [For Whom the Bell Tolls](https://themesfromart.com/post/2021-04-08-silencedonne/silencedonne/)
+* Time: [To His Coy Mistress](https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)
+* Trains: [The Railway Train](https://themesfromart.com/post/2021-05-10-trains-from-the-railway-train-a-poem-by-emily-dickineson/trainsdickinson/)   
+* Work: [Stopping by Woods on a Snowy Evening](https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)
+
+
