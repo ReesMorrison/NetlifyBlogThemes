@@ -5,15 +5,13 @@ date: '2021-02-08'
 slug: []
 categories:
   - Rock & Roll
-tags: ["Difficult, and Uncertain Timing,", "Inexplicable,", "Regret,", "Power and Pain,", "Life Changing But Slowly Develop", ]
-
+tags:
+  - girlfriend
+  - dating
 meta_img: images/image.png
 description: A teenager flits from girl to girl, but a father tells him to make up his mind.
 ---
 
-The 1960's song [“Do You Believe in Magic”](https://www.youtube.com/watch?v=txTEhgReZUA) sounds at first hearing like a light-hearted jibe at fickle teenage boys with a roving eye.   Now falling for this cute girl, next moment a glimpse of another girls captures his heart completely.  But underneath the flighty affections, the pop hit helps us consider aspects of decisions.
-
-<!--more-->
 
 “Do You Believe in Magic” (Lovin’ Spoonful)
 
@@ -45,6 +43,8 @@ And say yes to one and let the other one ride
 There's so many changes, and tears you must hide  
 Did you ever have to finally decide?  
 
+ 
+The 1960's song [“Do You Believe in Magic”](https://www.youtube.com/watch?v=txTEhgReZUA) sounds at first hearing like a light-hearted jibe at fickle teenage boys with a roving eye.   Now falling for this cute girl, next moment a glimpse of another girls captures his heart completely.  But underneath the flighty affections, the pop hit helps us consider aspects of decisions.
 
 ![Photo of Lovin' Spoonful](/media/DecisionsMagic.png)
 
@@ -54,8 +54,8 @@ Did you ever have to finally decide?
 
 **Regret**: Regret, such as “buyer’s remorse,” can trail along after the decisive deed is done.
 
-*There's so many changes, and tears you must hide*    
-*Did you ever have to finally decide?*  
+*There's so many changes, and tears you must hide*
+*Did you ever have to finally decide?*
 
 *[T]ears you must hide* points to the rueful retrospection that can dog a person after they stop bidding on the antique car they love, suffer through another sauna-like summer without air-conditioning, or marry a man who is never promoted to full Professor.  You wish you could erase the sorrowful memory of what you did [at the concentration camp](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/).  Alternatively, the tears might be those of another person who’s suffering you caused and who’s grief you would rather not think about.  When winners and losers clarify after a decision has settled, winners suffer pangs of guilt and losers sob.
 
@@ -65,23 +65,8 @@ Hurt feelings or emotional loss don’t necessarily line up with loss of power, 
 
 **Life Changing But Slowly Develop**:  Unlike the frivolousness of [deciding to play cards](https://themesfromart.com/blog/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/) and how to win, decisions about dating and marriage might very well shape a person’s life.  Such momentous decisions confront us very occasionally, or at least those decisions that we recognize at the time have the power to alter the arc of our lives.  To change religions, to undergo a transgender procedure, to adopt a child or divorce a spouse – rupturing decisions at this level build over time and subject the person to periods of difficult introspection and weighing of alternative courses of action or timing.   Completely unlike the urgency of a concentration camp confrontation, this song addresses decisions that can unfold over time.
 
-&nbsp;
+For subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).
+
+
 
 The most difficult decisions revolve around emotions and intuitions that we often can’t articulate.   That makes them hard, as our heart duels with our head.  Meanwhile, as this modest song intimates, other people lose out when we eventually make up our minds.
-
-To consider subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
-
-We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are:
-
-* Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
-* Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
-* Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)
-* Churches: [California Dreamin'](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/)   
-* Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)
-* Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
-* Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)
-* Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)
-* Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)
-* Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)
-* Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/)
-

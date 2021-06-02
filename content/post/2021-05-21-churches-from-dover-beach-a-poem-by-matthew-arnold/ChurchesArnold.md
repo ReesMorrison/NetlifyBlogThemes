@@ -79,6 +79,8 @@ Moreover, where religions arose, so did holy sites and buildings.
 
 &nbsp;
 
+Arnold senses that the cossetting deep faith of days past has given way to modern, securlar sensibilities, which he decries.    What used to be a mainstay of most people, an unwavering faith in God, is slipping away, and without that venerable and mysterious support, the world is doomed to disaster. 
+
 If you are interested in views of the concept “Religion,” consider [other subthemes](https://themesfromart.com/post/2021-05-21-churches-additional/churchesaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
