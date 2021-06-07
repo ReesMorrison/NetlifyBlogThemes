@@ -5,8 +5,8 @@ date: '2021-06-07'
 slug: []
 categories:
   - Rock & Roll
-tags: []
-draft: yes
+tags: ["Roaming Freely,", "Sudden, Darting, Frightened,", "Pets",]
+draft: 
 ---
 
 A young man explains his leaving a girlfriend, and exults in his choice, by invoking the image of a bird unfettered to come and go as it pleases.  He can’t help himself, he suggests, and he can’t change his behavior because, like a bird, he is destined to flit off to other places, other experiences, other women.  What else does this song suggest about Birds?
