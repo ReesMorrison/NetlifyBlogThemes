@@ -1,16 +1,18 @@
 ---
 title: Churches, from "The Church at Essoyes," a painting by Pierre-Auguste Renoir
-author: Rees Morrison
+author: Rees Morrison 
 date: '2021-05-21'
 slug: []
 categories:
   - Painting
-tags: ["Defines the Proper Life,", "Hub of Social Life", "Outreach and Serving,", "Honoring Deity", ]
-draft: 
+tags: ["Defines the Proper Life,", "Hub of Social Life,", "Outreach and Serving,", "Honoring Deity", ]
+draft: [no]
 ---
 
 A pastoral depiction of a church’s tower and chancel fills the central portion of Renoir’s French landscape.  The bell tower glows in sunshine and the rest of the church at Essoyes nestles beneath it.  With a prominent tree in the foreground of the painting and a modest, partial cottage on the left, the painting symbolically offers a triptych of man, nature, and religion, with the church predominant.  Drawn from this impressionist painting, here are some thoughts on Church as a theme.
+
 <!--more-->
+
 The Church at Essoyes, by Pierre-Auguste Renoir
  
 ![church at essoyes](/media/ChurchesRenoir.jpg)
