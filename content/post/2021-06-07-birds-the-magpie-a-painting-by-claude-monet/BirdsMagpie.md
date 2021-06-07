@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Flocks,", "Migrations,", "Feed,", "Nest and Eggs",]
-draft: yes
+draft: 
 ---
 
 Still and alone, perched above a snowy field on a gate formed in a wattle fence, sits a large, black magpie (with a blue belly).  The solitary bird mesmerizes viewers of Monet’s snowscape, once they notice it, and brings to mind a number of associations with Birds.
