@@ -5,7 +5,7 @@ date: '2021-06-07'
 slug: []
 categories:
   - Wide Angle
-tags: ["Food,", "Extinct, Mythical or Cartoon,", "Sayings",]
+tags: ["Food,", "Extinct or Mythical or Cartoon,", "Sayings",]
 draft: 
 ---
 
