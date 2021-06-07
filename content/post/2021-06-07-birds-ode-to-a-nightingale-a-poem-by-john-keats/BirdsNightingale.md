@@ -103,16 +103,16 @@ Adieu! adieu! thy plaintive anthem fades
                 Fled is that music:—Do I wake or sleep? 
 
  
-[Image of bird singing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F364%2F6438%2F340.2&psig=AOvVaw2mGtDG1eeNny26g2IQK9iE&ust=1622213896333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjB3OqP6vACFQAAAAAdAAAAABAD)
+![Image of bird singing](/media/BirdsNightingale.jpg)
 
-**Tuneful**:  Each species of bird chirps in a distinctive pattern so the world hears a chorus of bird “songs.”  One famed ornithologist could recognize more than 2,000 different calls of birds.  Undoubtedly, many more can be heard around the world.  Birds make their calls to attract mates, to locate other birds, to warn of cats, or perhaps to enjoy singing to the sky.  Along with recognizing a species of bird by its call, some people learn to imitate bird calls.  According to [Wikipedia]( https://en.wikipedia.org/wiki/Bird_vocalization), “The distinction between songs and calls is based upon complexity, length, and context. Songs are longer and more complex and are associated with territory and courtship and mating, while calls tend to serve such functions as alarms or keeping members of a flock in contact.”  For Keats, *The voice I hear this passing night* served as a possible therapeutic moment.
+**Tuneful**:  Each species of bird chirps in a distinctive pattern so the world hears a chorus of bird “songs.”  One famed ornithologist could recognize more than 2,000 different calls of birds.  Undoubtedly, many more can be heard around the world.  Birds make their calls to attract mates, to locate other birds, to warn of cats, or perhaps to enjoy singing to the sky.  Along with recognizing a species of bird by its call, some people learn to imitate bird calls.  According to [Wikipedia](https://en.wikipedia.org/wiki/Bird_vocalization), “The distinction between songs and calls is based upon complexity, length, and context. Songs are longer and more complex and are associated with territory and courtship and mating, while calls tend to serve such functions as alarms or keeping members of a flock in contact.”  For Keats, *The voice I hear this passing night* served as a possible therapeutic moment.
 
 **Cheerful**:  Nearly all bird calls sound cheerful and happy.  In the poem, the nightingale is 
 
 *pouring forth thy soul abroad* 
                         *In such an ecstasy!*
 
-The small creatures sing out a brief melody, over and over, the same mixture of sweet tones in *a plaintive anthem*.  A song has a high pitch and can be quite complicated. True, crows erupt with raucous calls and undoubtably the sounds other birds emit do not please everyone’s ears, but for the most part a bird trilling offers a sound thrilling.  
+The small creatures sing out a brief melody, over and over, the same mixture of sweet tones in *a plaintive anthem*.  A song has a high pitch and can be quite complicated. True, crows erupt with raucous calls and undoubtedly the sounds other birds emit do not please everyone’s ears, but for the most part a bird trilling offers a sound thrilling.  
 
 **Carefree**:  In a romanticized encounter with a nightingale, Keats contrasts its perceived happy and [carefree naturalness](Free Bird)  to the depressing, [frightening](The Birds) worries of humans.  
 
