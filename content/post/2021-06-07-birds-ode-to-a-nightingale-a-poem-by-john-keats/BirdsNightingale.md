@@ -5,8 +5,8 @@ date: '2021-06-07'
 slug: []
 categories:
   - Poem
-tags: ["Tuneful,", "Cheerful,", "Carefree", ]
-draft:
+tags: ["Tuneful,", "Cheerful,", "Carefree",]
+draft: yes
 ---
 
 Depressed, discouraged, even mulling suicide, Keats ruminates on the melodious happiness of a nightingale.  He finds short-lived solace from the woes of the world – even inspiration to carry on – from the chill bleakness when the bird *Singest of summer in full-throated ease*. But Keats can’t be sure he didn’t imagine the reprieve of happiness.  The poem suggests other implications of Birds. 
@@ -139,7 +139,7 @@ We invite you to read about other poems discussed on this blog, and their themes
 * Alcohol: [Mr. Flood’s Party](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
 * Beauty: [She Walks in Beauty](https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)
 * Chance: [Hap](https://themesfromart.com/post/2021-03-14-chancehap/chancehap/)
-* Churches: 
+* Churches: [Dover Beach](https://themesfromart.com/post/2021-05-21-churches-from-dover-beach-a-poem-by-matthew-arnold/churchesarnold/)
 * Death: [Death, be not proud](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)
 * Decisions: [The Road Not Taken](https://themesfromart.com/post/2021-02-08-decisions-from-the-road-not-taken-a-poem-by-robert-frost/decisionsroadfrost/)
 * Destruction: [Ozymandias](https://themesfromart.com/post/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)
