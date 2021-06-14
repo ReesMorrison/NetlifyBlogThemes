@@ -9,7 +9,7 @@ tags: ["Food,", "Extinct or Mythical or Cartoon,", "Sayings",]
 draft: no 
 ---
 
-The preceding sections cover multiple aspects of Birds elicited from four works of art:   Claude Monet’s [The Magpie](Monet), a [poem by John Keats, Ode to a Nightingale](Keats), a [rock song’s metaphor for a wanderlust male](Free Bird), and a movie’s [terrifying strafings by vicious birds](Hitchcock). Here are additional thoughts about the theme of Birds that don’t associate closely with any of those works. 
+The preceding sections cover multiple aspects of Birds elicited from four works of art:   Claude Monet’s [The Magpie](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/), a [poem by John Keats, Ode to a Nightingale](https://themesfromart.com/post/2021-06-14-birds-ode-to-a-nightingale-a-poem-by-john-keats/birdskeats/), a [rock song’s metaphor for a wanderlust male](https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/), and a movie’s [terrifying strafings by vicious birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/). Here are additional thoughts about the theme of Birds that don’t associate closely with any of those works. 
 
 <!--more-->
 

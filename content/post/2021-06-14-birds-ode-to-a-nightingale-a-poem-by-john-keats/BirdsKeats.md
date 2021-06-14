@@ -114,7 +114,7 @@ Adieu! adieu! thy plaintive anthem fades
 
 The small creatures sing out a brief melody, over and over, the same mixture of sweet tones in *a plaintive anthem*.  A song has a high pitch and can be quite complicated. True, crows erupt with raucous calls and undoubtedly the sounds other birds emit do not please everyone’s ears, but for the most part a bird trilling offers a sound thrilling.  
 
-**Carefree**:  In a romanticized encounter with a nightingale, Keats contrasts its perceived happy and [carefree naturalness](Free Bird)  to the depressing, [frightening](The Birds) worries of humans.  
+**Carefree**:  In a romanticized encounter with a nightingale, Keats contrasts its perceived happy and [carefree naturalness](https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/)  to the depressing, [frightening](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/) worries of humans.  
 
 *Thou wast not born for death, immortal Bird!*  
          *No hungry generations tread thee down;* 
@@ -126,7 +126,7 @@ The small creatures sing out a brief melody, over and over, the same mixture of 
                *Where but to think is to be full of sorrow*   
                *And leaden-eyed despairs,*
 
-But the actual life of most birds belies this joyous, Peter Pan image.  They have to find food constantly, they have to endure [cold winters](Monet), and they face predators of all kinds.  Birds in nature struggle to survive.
+But the actual life of most birds belies this joyous, Peter Pan image.  They have to find food constantly, they have to endure [cold winters](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/), and they face predators of all kinds.  Birds in nature struggle to survive.
 
 &nbsp;
 
