@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Food,", "Extinct or Mythical or Cartoon,", "Sayings",]
-draft: no
+draft: no 
 ---
 
 The preceding sections cover multiple aspects of Birds elicited from four works of art:   Claude Monet’s [The Magpie](Monet), a [poem by John Keats, Ode to a Nightingale](Keats), a [rock song’s metaphor for a wanderlust male](Free Bird), and a movie’s [terrifying strafings by vicious birds](Hitchcock). Here are additional thoughts about the theme of Birds that don’t associate closely with any of those works.
