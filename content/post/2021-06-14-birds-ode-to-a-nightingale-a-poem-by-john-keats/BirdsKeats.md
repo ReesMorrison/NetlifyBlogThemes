@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Tuneful,", "Cheerful,", "Carefree", ]
-draft: yes
+draft: no
 ---
 
 Depressed, discouraged, even mulling suicide, Keats ruminates on the melodious happiness of a nightingale.  He finds short-lived solace from the woes of the world – even inspiration to carry on – from the chill bleakness when the bird *Singest of summer in full-throated ease*. But Keats can’t be sure he didn’t imagine the reprieve of happiness.  The poem suggests other implications of Birds. 
