@@ -6,7 +6,7 @@ slug: []
 categories: 
   - Movie
 tags: ["Pests,", "Hunting and Shooting,", "Pretty,", "Symbols and Associations",]
-draft: 
+draft: no
 ---
 
 The fright of this cinematic horror movie by director Alfred Hitchcock is birds run amok.  Flocks of crows, seagulls and other birds descend en masse and slash at the frightened Tippi Hedren and other actors (Jessica Tandy, Rod Taylor).  Nature red in tooth and claw descends on the small coastal village, and the movie suggests various concepts about Birds.
