@@ -40,7 +40,7 @@ Cartoons feature such classics as Big Bird, Daffy Duck, Donald Duck, Road Runner
 
 Some of the sayings cast insults: “you turkey”, “he’s chicken”, or “you bird brain.” 
 
-Other bird-sayings on physical analogies:  “Eat like a bird”(eat lightly or be a picky eater), “skinny as a rail” (very slender, like the rail bird), “have an eagle eye” (watchful, having keen eyesight), “as scarce as hen's teeth”(limited or nonexistent).
+Other bird-sayings draw on physical analogies:  “Eat like a bird”(eat lightly or be a picky eater), “skinny as a rail” (very slender, like the rail bird), “have an eagle eye” (watchful, having keen eyesight), “as scarce as hen's teeth”(limited or nonexistent), "bald as a coot" (small bald spot.
 
 Sayings invoke the appearance of birds:  “Graceful as a swan” (serene, beautiful, long-necked), “proud as a peacock” (arrogant, vain, or prideful), “ugly duckling” (someone who is unattractive or out of place, though who becomes more beautiful or desirable as they mature), “crow’s feet” (small wrinkle lines around the eyes).
 
