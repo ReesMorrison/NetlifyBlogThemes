@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Emotions,", "Physical Touching and Sensing,", "Connections",]
-draft: yes
+draft: 
 ---
 
 "You’ve Got a Friend," written by Carol King and made famous by the singing of James Taylor, describes with everyday language how good friends respond immediately when they are needed.  If your predicament aches for some *lovin’ care*, soon you will be nursed and revived if you have a stalwart, reliable friend.  What else does this song suggest about friendships?  

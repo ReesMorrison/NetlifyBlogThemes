@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Common Values and Interests,", "Best Friends Forever,", "Psychology and Sociology", ]
-draft: yes
+draft: 
 ---
 
 The preceding sections cover multiple aspects of Friends elicited from four works of art:   Édouard Manet’s [Luncheon on the Grass](Manet), a [poem by Maya Angelou, Alone](Alone), James Taylor's [ballad about full-bore friendship](Taylor), and a [movie reunion of young adults](Chill). Here are additional thoughts about the theme of Friends that don’t associate closely with any of those works.

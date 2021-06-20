@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Support, Guide and Therapist,", "Acquaintances,", "Balanced Two-Way Street", "Women Compared to Men", ]
-draft: yes
+draft: 
 ---
 
 Édouard Manet’s painting, “Luncheon on the Grass” (Le Déjeuner sur l'herbe), shows two gentlemen reclining in comfort in a glade, munching and chatting amiably as good friends do.  They are enjoying themselves.  Jarringly a nude woman sits beside them and another splashes in a pool a bit behind them.  The two men appear oblivious to them, so let’s consider this surreal picnic scene for how it suggests several points about friendships. 

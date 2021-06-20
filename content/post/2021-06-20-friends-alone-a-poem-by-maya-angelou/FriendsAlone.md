@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Alone or Lonely,", "Wealthy or Celebrity,", "Loss and Grief",]
-draft: yes
+draft: 
 ---
 
 Maya Angelou’s “Alone” speaks to the difficulties for all of us if we lack friends.  All of us need support in this hard-hearted world.  Nobody can make it by themselves.  A friend, for her, would be a soul mate, a close companion who buffers you and strengthens you when water parches and bread hardens.  The poem raises several other points about friends.

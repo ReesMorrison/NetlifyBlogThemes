@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Boy Friends and Girl Friends,", "Movies and TV,", "Time to Develop",]
-draft: yes
+draft: 
 ---
 
 A movie about the reunion weekend of a group of seven friends, fraught with revelations, reevaluations, joy and pain.  Directed by Lawrence Kasdan, The Big Chill stars Tom Berenger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline, Mary Kay Place, and JoBeth Williams.  The movie highlights core aspects of friendship. 
