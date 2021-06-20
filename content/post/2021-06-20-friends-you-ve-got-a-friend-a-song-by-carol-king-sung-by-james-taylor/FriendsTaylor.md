@@ -74,7 +74,7 @@ Strong friendships go hand in hand with strong emotions.  When you care for some
 
 Friendships build best in person, not when you are [alone](alone).  [Picnics together](Grass), concerts, travel, sleepovers, dormitory debates, military service, long walks and talks – those are friendship’s bricks.  In "The Big Chill,"" the catalyst for so many revelations was the weekend in sight of each other, in the kitchen, and in each other’s arms.
 
-**Connections**: A signal characteristic of friends [gathered together](Chill) is a flurry of in-jokes, teasing, shared memories, networks, and sensitivities.  Friends share many connections, which they can weave into their conversations and build on continuously with anecdotes, remember-whens and embellished retellings.  A web of memories and stories, sometimes legends polished over time, binds a person to their friends.  The longer friendships last, the deeper and more entwined become those shared experiences.  “Remember the [picnic with those weird women](Grass) ….”    
+**Connections**: A signal characteristic of friends [gathered together](Chill) is a flurry of in-jokes, teasing, shared memories, networks, and sensitivities.  Friends share many connections, which they can weave into their conversations and build on continuously with anecdotes, remember-whens and embellished retellings.  A web of memories and stories, sometimes legends polished over time, binds a person to their friends.  The longer friendships last, the deeper and more entwined become those shared experiences.  “Remember the picnic with those weird women….”    
 
 &nbsp;
 
