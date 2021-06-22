@@ -1,5 +1,5 @@
 ---
-title: Churches, from "California Dreamin'", a song by the Mamas & the Papas
+title: Churches, from "California Dreamin'", a song by The Mamas & the Papas
 author: Rees Morrison
 date: '2021-05-21'
 slug: []
