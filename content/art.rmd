@@ -5,7 +5,7 @@ menu: main
 title: []
 ---
 
-Through Death, posted in early May, Themes from Art has discussed nine themes, eliciting subthemes from one poem, movie, rock song, and impressionist painting for each theme, a total of 36 artistic works.  The table below lists each of them by theme and within theme by genre.
+Through Birds, posted in mid-June, Themes from Art has discussed 12 themes, eliciting subthemes from one poem, movie, rock song, and impressionist painting for each theme, a total of 48 artistic works.  The table below lists each of them by theme and within theme by genre.
 
 ```{r packages, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
