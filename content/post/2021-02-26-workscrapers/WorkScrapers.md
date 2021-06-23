@@ -5,14 +5,12 @@ date: '2021-02-26'
 slug: []
 categories:
   - Painting
-tags: ["Manual Deterioration,", "Piecework,", "Little or No Education,", "Attention to Detail,", "Work vs. Career/Profession", ]
+tags: ["Manual Deterioration,", "Piecework,", "Little or No Education,", "Attention to Detail,", "Compared to Career or Profession", ]
 meta_img: images/image.png
 description: three men rubbing varnish off a floor
 ---
 
 The three young men in “The Floor Scrapers”, painted by Gustave Caillebotte, are laboriously removing varnish from a French floor.  The work demands painstaking care and fatiguing exertion; worse, the painting depicts them toiling on a warm day.  We can draw out of this evocative painting observations about work for hire.
-
-<!--more-->
 
 ![floor scrapers](/media/WorkScrapers.png)
 
@@ -24,25 +22,9 @@ The three young men in “The Floor Scrapers”, painted by Gustave Caillebotte,
 
 **Attention to Detail**:  Manual labor does not have to destroy a body; some lines of work are much safer, such as repairing cars in an auto shop or parking cars in a garage.  All the cooks in restaurants are engaged in manual labor.  But they require the worker to pay attention to what the hands are doing, such as knitting intricate patterns, weaving rugs, or painting trim.  Manual labor is the most menial job, farthest from the cerebral work of the professions.
 
-**Work vs. Career/Profession**:   Professionals, which could include [owners of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), occupy the most esteemed rung on the ladder of work, at least for most people.   In sharp contrast, the young men in the painting sweating through a backbreaking day of varnish peeling had no advanced education, they were not regulated by any governmental entity, no certificate of “Approved Varnish Remover” adorned their walls like a lawyer who has passed the bar proudly displays.  They had little likelihood of a doctor’s income, a lawyer’s regard, an architect’s pride, or a professor’s esteem; they were at the other end of the spectrum from the elite professions trudging day-by-day as fungible brawn.
+**Compared to Career or Profession**:   Professionals, which could include [owners of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), occupy the most esteemed rung on the ladder of work, at least for most people.   In sharp contrast, the young men in the painting sweating through a backbreaking day of varnish peeling had no advanced education, they were not regulated by any governmental entity, no certificate of “Approved Varnish Remover” adorned their walls like a lawyer who has passed the bar proudly displays.  They had little likelihood of a doctor’s income, a lawyer’s regard, an architect’s pride, or a professor’s esteem; they were at the other end of the spectrum from the elite professions trudging day-by-day as fungible brawn.
 
-&nbsp;
+To read about subthemes of work that are not closely associated with this painting or the other three creative works, please visit [the post on Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
 
-The glimpse of a tough life told by Caillebotte’s painting highlights arduous manual labor.  At an inevitable cost to themselves over time, the three workers have to concentrate on a physically difficult task.  They and other laborers who exchange their health and their bodies for pennies, which comes at irregular intervals as they happen to be signed on, have little else to offer.  Education, let alone professional recognition, never had a chance with them, as with the vast majority of workers in today’s world who slave along in modern serfdom.  
 
-To consider subthemes of Work that are not closely associated with this painting or the other three creative works, please visit [the post on Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).   Read this for more about [Themes from Art](http://bit.ly/3sRXopI).
-
-We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
-
-* Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
-* Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
-* Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/)
-* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
-* Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)
-* Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/)
-* Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/)
-* Silence: [Jane Avril Leaving the Moulin Rouge](https://themesfromart.com/post/silenceavril/)
-* Time:	[The Bellili Family](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/)
-* Trains: [Gare St. Lazare](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/)     
-* Work:	 [The Floor Scrapers](https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/)
-
+The glimpse of a tough life told by Caillebotte’s painting highlights arduous manual labor.  At an inevitable cost to themselves over time, the three workers have to concentrate on a physically difficult task.  They and other laborers who exchange their health and their bodies for pennies, which comes at irregular intervals as they happen to be signed on, have little else to offer.  Education, let alone professional recognition, never had a chance with them, as with the vast majority of workers in today’s world who slave along in modern serfdom.   
