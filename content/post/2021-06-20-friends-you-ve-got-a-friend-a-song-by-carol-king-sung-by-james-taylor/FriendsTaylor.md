@@ -11,9 +11,11 @@ draft:
 
 "You’ve Got a Friend," written by Carol King and made famous by the singing of James Taylor, describes with everyday language how good friends respond immediately when they are needed.  If your predicament aches for some *lovin’ care*, soon you will be nursed and revived if you have a stalwart, reliable friend.  What else does this song suggest about friendships?  
 
+<!--more-->
+
 Here it is, [sung by an older James Taylor.](https://www.youtube.com/watch?v=3WJ1cf3nrLE)
 
-<!--more-->
+
 When you're down and troubled  
 And you need some lovin' care  
 And nothin', nothin' is goin' right  
