@@ -1,5 +1,5 @@
 ---
-title: Friends, "The Big Chill," a movied directed by Lawrence Kasdan
+title: Friends, "The Big Chill," a movie directed by Lawrence Kasdan
 author: Rees Morrison
 date: '2021-06-20'
 slug: []

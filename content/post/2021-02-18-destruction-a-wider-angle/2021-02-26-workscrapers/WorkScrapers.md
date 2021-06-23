@@ -5,7 +5,7 @@ date: '2021-02-26'
 slug: []
 categories:
   - Painting
-tags: []
+tags: ["Manual Deterioration,", "Piecework,", "Little or No Education,", "Attention to Detail,", "Compared to Career or Profession", ]
 meta_img: images/image.png
 description: three men rubbing varnish off a floor
 ---
@@ -22,7 +22,7 @@ The three young men in “The Floor Scrapers”, painted by Gustave Caillebotte,
 
 **Attention to Detail**:  Manual labor does not have to destroy a body; some lines of work are much safer, such as repairing cars in an auto shop or parking cars in a garage.  All the cooks in restaurants are engaged in manual labor.  But they require the worker to pay attention to what the hands are doing, such as knitting intricate patterns, weaving rugs, or painting trim.  Manual labor is the most menial job, farthest from the cerebral work of the professions.
 
-**Work vs. Career/Profession**:   Professionals, which could include [owners of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), occupy the most esteemed rung on the ladder of work, at least for most people.   In sharp contrast, the young men in the painting sweating through a backbreaking day of varnish peeling had no advanced education, they were not regulated by any governmental entity, no certificate of “Approved Varnish Remover” adorned their walls like a lawyer who has passed the bar proudly displays.  They had little likelihood of a doctor’s income, a lawyer’s regard, an architect’s pride, or a professor’s esteem; they were at the other end of the spectrum from the elite professions trudging day-by-day as fungible brawn.
+**Compared to Career or Profession**:   Professionals, which could include [owners of newspapers](https://themesfromart.com/blog/2021-02-26-workkane/workkane/), occupy the most esteemed rung on the ladder of work, at least for most people.   In sharp contrast, the young men in the painting sweating through a backbreaking day of varnish peeling had no advanced education, they were not regulated by any governmental entity, no certificate of “Approved Varnish Remover” adorned their walls like a lawyer who has passed the bar proudly displays.  They had little likelihood of a doctor’s income, a lawyer’s regard, an architect’s pride, or a professor’s esteem; they were at the other end of the spectrum from the elite professions trudging day-by-day as fungible brawn.
 
 To read about subthemes of work that are not closely associated with this painting or the other three creative works, please visit [the post on Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/).
 
