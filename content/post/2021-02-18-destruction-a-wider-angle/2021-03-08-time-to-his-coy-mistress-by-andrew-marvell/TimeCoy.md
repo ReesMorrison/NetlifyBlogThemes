@@ -10,6 +10,10 @@ meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---
 
+Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
+
+<!--more-->
+
 “To His Coy Mistress” by Andrew Marvell 
 
 Had we but world enough and time,  
@@ -61,7 +65,6 @@ Through the iron gates of life:
 Thus, though we cannot make our sun   
 Stand still, yet we will make him run.  
 
-Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
 
 ![](/media/TimeCoy.jpg)
 
