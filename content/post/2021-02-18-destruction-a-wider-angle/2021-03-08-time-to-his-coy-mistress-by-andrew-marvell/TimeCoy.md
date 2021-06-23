@@ -5,7 +5,7 @@ date: '2021-03-08'
 slug: []
 categories:
   - Poem
-tags: []
+tags: ["Ampleness Suggests Leisure,", "Leads to Quality,", "Carpe Diem,", "Rate It Passes Varies by Pleasure,", "Never Stops" ]
 meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---
@@ -66,7 +66,7 @@ Marvell’s poem addresses time from two standpoints:  if endless amounts of tim
 ![](/media/TimeCoy.jpg)
 
 
-**Ample Time Suggests Leisure**:  Most people feel that they do not have enough time to accomplish what they need to get done nor to relish what they enjoy.  The leisurely admiration of his mistress’ various attributes in the first stanza stands for the luxury of being able to draw slowly and richly as much pleasure as possible from the fullness of activity.
+**Ampleness Suggests Leisure**:  Most people feel that they do not have enough time to accomplish what they need to get done nor to relish what they enjoy.  The leisurely admiration of his mistress’ various attributes in the first stanza stands for the luxury of being able to draw slowly and richly as much pleasure as possible from the fullness of activity.
   
 *An hundred years should go to praise *  
 *Thine eyes, and on thy forehead gaze;  * 
@@ -75,7 +75,7 @@ Marvell’s poem addresses time from two standpoints:  if endless amounts of tim
 
 To admire a decorated Grecian urn for hours spends time extravagantly, a promiscuity permitted by leisure  unavailable to many people who struggle along continually hounded and harried.  The Gatsby wealthy can languish and extend their pleasures as fully as they wish; nearly everyone else must husband their brief moments of fun.
 
-**Time Leads to Quality**:  From another perspective, we generally assume that a worker who lavishes time will craft a better artifact than will the worker who hastily completes the job.   The ceiling of the Sistine Chapel required more than four years and  “Les Misérables” took [Victor Hugo 12 years.]( https://www.writersdigest.com/there-are-no-rules/infographic-30-famous-books-long-took-write).  Had *he but world enough and time,* Marvell’s courting gentleman would have spread his “vegetable love” and admiration over the ages, as befitted the quality of his lady’s attributes.
+**Leads to Quality**:  From another perspective, we generally assume that a worker who lavishes time will craft a better artifact than will the worker who hastily completes the job.   The ceiling of the Sistine Chapel required more than four years and  “Les Misérables” took [Victor Hugo 12 years.]( https://www.writersdigest.com/there-are-no-rules/infographic-30-famous-books-long-took-write).  Had *he but world enough and time,* Marvell’s courting gentleman would have spread his “vegetable love” and admiration over the ages, as befitted the quality of his lady’s attributes.
 
 *An age at least to every part,*   
 *And the last age should show your heart.*   
@@ -96,11 +96,9 @@ Let’s devour our hours together, he pleads, and revel in what the seducer burn
 *Thus, though we cannot make our sun*   
 *Stand still, yet we will make him run.*  
 
-**Rate Time Passes Varies by Pleasure**:  For the poor soul chained on a medieval rack, time creeps; for the vacationer with suitcases on the car rack, time flies.  The subjective experience of time going by ranges from a crawl to a whoosh.  Here, the wooer in Marvell’s poem feels the drag of time acutely; he tries eloquently to persuade his recalcitrant mistress to shift into the faster gear of lovemaking.  When forced to keep our nose to the grindstone, when we quiver in anticipation of Christmas, or when Juliet bemoans the long hours until the Capulet’s party, time drags terribly; but when we are caught up in a movie, captured by the dance beat, immersed in a panoramic hike, or beside the love of our life, the clock hands spin too quickly.  Our pleasure sets the metronome of our inner clock. 
+**Rate It Passes Varies by Pleasure**:  For the poor soul chained on a medieval rack, time creeps; for the vacationer with suitcases on the car rack, time flies.  The subjective experience of time going by ranges from a crawl to a whoosh.  Here, the wooer in Marvell’s poem feels the drag of time acutely; he tries eloquently to persuade his recalcitrant mistress to shift into the faster gear of lovemaking.  When forced to keep our nose to the grindstone, when we quiver in anticipation of Christmas, or when Juliet bemoans the long hours until the Capulet’s party, time drags terribly; but when we are caught up in a movie, captured by the dance beat, immersed in a panoramic hike, or beside the love of our life, the clock hands spin too quickly.  Our pleasure sets the metronome of our inner clock. 
 
-**Never Stops**:
-
-Among the unstoppables we can include the tides, death, taxes, and time.
+**Never Stops**:  Among the unstoppables we can include the tides, death, taxes, and time.
 
 *But at my back I always hear*   
 *Time’s wingèd chariot hurrying near;*   
