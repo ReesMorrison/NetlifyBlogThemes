@@ -9,7 +9,7 @@ tags: ["Evolution,", "Jealousy,", "Brains or Beauty", ]
 draft: 
 ---
 
-The four sections before this address subthemes of Beauty as [love from the first glance](https://bit.ly/3sB967G), the [wonders of nature](https://bit.ly/3dDvI3g), a [beautiful woman walking](https://bit.ly/3sB967G), and [instant appeal in a movie scene](https://bit.ly/3er5yzI).  Here we add a few more subthemes that don’t related to any of the pieces of art.
+The four sections before this address subthemes of Beauty as [love from the first glance](https://bit.ly/3sB967G), the [wonders of nature](https://bit.ly/3dDvI3g), a [beautiful woman walking](https://bit.ly/3sB967G), and [instant appeal in a movie scene](https://bit.ly/3er5yzI).  Here we add a few more subthemes that don’t relate to any of the pieces of art.
 
 <!--more-->
 
