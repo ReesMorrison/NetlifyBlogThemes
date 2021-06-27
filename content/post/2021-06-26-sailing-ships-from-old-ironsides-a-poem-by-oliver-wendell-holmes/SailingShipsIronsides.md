@@ -9,7 +9,7 @@ tags: ["Navies,", "Privateers and Pirates,", "Shipwrecks",]
 draft: yes
 ---
 
-A poem by Oliver Wendell Holmes, intended to save the venerable warship, the USS Constitution, from being dismantled, conveys some of the blast and blood of naval warfare.  We can draw other concepts related to Sailing Ships from the poem.
+A poem by Oliver Wendell Holmes, intended to save the venerable warship, the USS Constitution, from being dismantled, conveys some of the blast and blood of naval warfare. Old Ironsides and its 44 guns holds the honor of being the world's oldest ship of any type still afloat.  This famous We can draw other concepts related to Sailing Ships from the poem.
 
 <!--more-->
 
@@ -44,9 +44,8 @@ And give her to the god of storms,—
 ![USS Constitution](/media/SailsIronsides.jpg) from [bpcr.net](http://www.bpcr.net/documents/Miscellaneous/Restoring_Old_Ironsides.htm)
 
 **Navies**:   The USS Constitution earned the nickname “Old Ironsides” in a War of 1812 brawl in the North Atlantic, when *burst the cannon’s roar* of the British line ships, but their balls appeared to bounce off her “iron” sides.  While armies battled in that war on land, as in other broad conflicts, the enemies’ navies clashed on the seas.  Here are three historic naval battles where ships that sailed battled and the outcomes changed history. 
-The Battle of Salamis in 480 BC pitted an alliance of Greek city-states under Themistocles against the Persian Empire under King Xerxes.  The momentous victory by the alliance helped to end the war between the Persians and the Greeks.
 
- 
+The Battle of Salamis in 480 BC pitted an alliance of Greek city-states under Themistocles against the Persian Empire under King Xerxes.  The momentous victory by the alliance helped to end the war between the Persians and the Greeks.
 
 A depiction of the ![Battle of Salamis](/media/SailsSalamis.jpg) comes from a [history site](https://medium.com/lessons-from-history/battle-of-salamis-that-ended-the-xerxes-ambitions-in-greece-797d6449a1cf).
 
