@@ -9,7 +9,7 @@ tags: ["Wind,", "Technology",]
 draft:
 ---
 
-The four sections before this address concepts related to Sailing Ships: [rebellion on a South Seas voyage]( ), a [vacation’s charter ruined](   ), a [paean to save an historic warship](), and [commercial sailing ships in port]().  Here we add subthemes that do not relate to any of the pieces of art.
+The four sections before this address concepts related to Sailing Ships: [rebellion on a South Seas voyage](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/), a [vacation’s charter ruined](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/), a [paean to save an historic warship](https://themesfromart.com/post/2021-06-26-sailing-ships-from-old-ironsides-a-poem-by-oliver-wendell-holmes/sailingshipsironsides/), and [commercial sailing ships in port](https://themesfromart.com/post/2021-06-26-sailing-ships-harbour-at-honfleur-a-painting-by-georges-seurat/sailinghonfleur/).  Here we add subthemes that do not relate to any of the pieces of art.
 
 <!--more-->
 

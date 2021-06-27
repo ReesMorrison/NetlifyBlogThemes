@@ -1,5 +1,5 @@
 ---
-title: Sailing Ships, "Harbour at Honfleur," a painting by Georges Seurat
+title: Sailing Ships, from "Harbour at Honfleur," a painting by Georges Seurat
 author: Rees Morrison
 date: '2021-06-26'
 slug: []
@@ -20,7 +20,7 @@ The primary ship in the painting looks to be iron-hulled, with such ships referr
 
 **Transported People**: For millennia, sails carried people from one place to another.  Think of the celebrated Kon-Tiki expedition that sought to show how people from Peru colonized the Pacific islands.   Back and forth across the English Channel; crisscrossing the Mediterranean; or refugees from Europe to the New World.  In the last 150 years or so, as a passenger you could splurge on First Class, travel comfortably in Second Class, or endure steerage.  The term steerage came to refer to the part of a passenger ship below-decks where third-class passengers crammed in.   On the tragic side, sailing ships locked below deck millions of Africans seized into slavery as they were transported across the Atlantic.  
 
-**Sustained Ports**:  Ports were the terminus of incoming wares to fill the holds of the ships and the destination of arriving cargo to be unloaded by stevedores and transported inland.   Ports built docks for sailing ships.  Where large numbers of ships docked to load or unload, to be repaired and provisioned, and to give their crew shore leave – especially fleets of [naval ships](Ironsides), districts near the docks turned seedy.   Con artists and gamblers thrived.  Brothels and prostitution embedded everywhere.  Saloons and taverns catered to the food and [alcohol](John B) cravings of seamen who had been stuck on board for months at a time.  All these sleazy pastimes separated sailors from their savings, as seamen were wont to “spend like a drunken sailor.”   The environs of ports settled into rough places that catered to [rough men](Mutiny).
+**Sustained Ports**:  Ports were the terminus of incoming wares to fill the holds of the ships and the destination of arriving cargo to be unloaded by stevedores and transported inland.   Ports built docks for sailing ships.  Where large numbers of ships docked to load or unload, to be repaired and provisioned, and to give their crew shore leave – especially fleets of [naval ships](https://themesfromart.com/post/2021-06-26-sailing-ships-from-old-ironsides-a-poem-by-oliver-wendell-holmes/sailingshipsironsides/), districts near the docks turned seedy.   Con artists and gamblers thrived.  Brothels and prostitution embedded everywhere.  Saloons and taverns catered to the food and [alcohol](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/) cravings of seamen who had been stuck on board for months at a time.  All these sleazy pastimes separated sailors from their savings, as seamen were wont to “spend like a drunken sailor.”   The environs of ports settled into rough places that catered to [rough men](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/).
 
 &nbsp;
 
