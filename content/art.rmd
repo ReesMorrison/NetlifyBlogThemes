@@ -65,7 +65,7 @@ art <- art %>% arrange(Theme, Genre)
 # create URL for the Art 
 art$Art <- str_c("[", art$Art, "]", urls$Theme)
 
-artTable <- kableExtra::kable(art)
+artTable <- kableExtra::kable(art) 
 
 artTable  # by Theme, then Genre, with URL
 
