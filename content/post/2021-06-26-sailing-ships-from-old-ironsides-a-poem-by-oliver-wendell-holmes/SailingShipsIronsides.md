@@ -67,7 +67,7 @@ Pirates were on their own.  Inevitably, with treasures floating across the seas,
 
 Holmes captured in his commemorative poem the heat of battles that earned the USS Constitution its praiseworthy nickname as a naval warship.  Its cannon duels on the high seas were more grand than the plundering and destruction of privateers or pirates, but not all the ships of history sank as many ships as did nature.  Shipwrecks were commonplace in the age of sailing.
 
-If you are interested in other thoughts on the concept “Sail Ships,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in other thoughts on the concept “Sail Ships,” consider [other subthemes](https://themesfromart.com/post/2021-06-27-sailing-ships-additional-subthemes/sailingships-addl/ ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 

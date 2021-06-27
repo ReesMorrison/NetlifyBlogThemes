@@ -26,7 +26,7 @@ The primary ship in the painting looks to be iron-hulled, with such ships referr
 
 The placid painting by Seurat belies the power and commercial heft of its sailing ships.  Their generation and their ancestors carried colossal manifests of passengers and cargo from port to port.  Until steam took over, sails shouldered the world’s loads.
 
-If you are interested in other thoughts on the concept “Sail Ships,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in other thoughts on the concept “Sail Ships,” consider [other subthemes](https://themesfromart.com/post/2021-06-27-sailing-ships-additional-subthemes/sailingships-addl/ ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
 
