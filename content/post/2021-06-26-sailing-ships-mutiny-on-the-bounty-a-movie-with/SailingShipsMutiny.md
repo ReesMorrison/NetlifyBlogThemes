@@ -9,7 +9,7 @@ tags: ["Mutiny,", "Exploration,", "Symbolism",]
 draft: yes
 ---
 
-In this movie re-enactment of one of the most notorious shipboard mutinies of all time, the crew of the HMAV Bounty expels their sociopathic Captain, Lt. William Bligh, with several of his colleagues.  The events leading to and surrounding the dramatic revolt bring up several aspects of Sailing Ships.
+In this movie re-enactment of one of the most notorious shipboard mutinies of all time, the crew of the HMAV Bounty expels their sociopathic captain, Lt. William Bligh, with several of his colleagues.  The events leading to and surrounding the dramatic revolt bring up several aspects of Sailing Ships.
 
 <!--more-->
 
