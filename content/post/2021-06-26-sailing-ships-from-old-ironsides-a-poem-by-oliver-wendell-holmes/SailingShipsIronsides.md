@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Navies,", "Privateers and Pirates,", "Shipwrecks",]
-draft: yes
+draft: 
 ---
 
 A poem by Oliver Wendell Holmes, intended to save the venerable warship, the USS Constitution, from being dismantled, conveys some of the blast and blood of naval warfare. Old Ironsides and its 44 guns holds the honor of being the world's oldest ship of any type still afloat.  This famous We can draw other concepts related to Sailing Ships from the poem.

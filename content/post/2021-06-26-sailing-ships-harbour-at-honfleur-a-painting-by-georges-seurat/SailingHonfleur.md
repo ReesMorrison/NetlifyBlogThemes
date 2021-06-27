@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Carried Cargo,", "Transported People,", "Sustained Ports",]
-draft: yes
+draft: 
 ---
 
 In 1886, Georges Seurat painted broad-beamed sailing ships docked at a pier of Honfleur Harbor.  The ocean-going vessels had reached that small port on the banks of the estuary where Seine River flows into the English Channel.  We can draw from this pointillist work of art several themes related to Sailing Ships.

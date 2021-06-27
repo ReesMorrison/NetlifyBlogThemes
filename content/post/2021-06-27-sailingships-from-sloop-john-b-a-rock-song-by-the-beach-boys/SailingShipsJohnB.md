@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Charters and Racing,", "Types of Sail Boats,", "Sailors' Job"]
-draft: yes
+draft: 
 ---
 
 For what turned out to be a regrettable vacation around the Bahamas, a grandfather and grandson chartered a sloop, the John B.  The sloop’s first mate and cook went rogue and the Captain is nowhere to be found.  The grandson, who drank his way into troubles with the law, begs to go home.  What else does this dejected ballad suggest about Sailing Ships?

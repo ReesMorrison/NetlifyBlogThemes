@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Wind,", "Technology",]
-draft: yes
+draft:
 ---
 
 The four sections before this address concepts related to Sailing Ships: [rebellion on a South Seas voyage]( ), a [vacation’s charter ruined](   ), a [paean to save an historic warship](), and [commercial sailing ships in port]().  Here we add subthemes that do not relate to any of the pieces of art.
