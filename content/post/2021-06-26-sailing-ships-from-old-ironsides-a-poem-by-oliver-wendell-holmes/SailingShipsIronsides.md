@@ -47,7 +47,7 @@ And give her to the god of storms,—
 
 The Battle of Salamis in 480 BC pitted an alliance of Greek city-states under Themistocles against the Persian Empire under King Xerxes.  The momentous victory by the alliance helped to end the war between the Persians and the Greeks.
 
-A depiction of the ![Battle of Salamis](/media/SailsSalamis.jpg) comes from a [history site](https://medium.com/lessons-from-history/battle-of-salamis-that-ended-the-xerxes-ambitions-in-greece-797d6449a1cf).
+A depiction of the ![Battle of Salamis](/media/SailsSalamis.jpg) comes from a [history site](https://medium.com/lessons-from-history/battle-of-salamis-that-ended-the-xerxes-ambitions-in-greece-797d6449a1cf). 
 
 The Battle of Lepanto took place on October 7, 1571.  A fleet of the Holy League, a coalition of Catholic states arranged by Pope Pius V, inflicted a major defeat in the Gulf of Patras of southwestern Greece on the fleet of the Ottoman Empire.
 
