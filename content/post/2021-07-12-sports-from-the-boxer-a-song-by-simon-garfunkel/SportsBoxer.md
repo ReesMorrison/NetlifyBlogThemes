@@ -9,9 +9,9 @@ tags: ["Errors and Losses,", "Rankings or Analytics and Records,", "Evolution an
 draft: yes
 ---
 
-Paul Simon compares the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after blow, but the [young boy](Athlete) *still remains*, because what are his choices, and what are his dreams?  The sports metaphor introduces several subthemes.
+Paul Simon compares the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after blow lands, like on the boxer, but the [young boy](Athlete) *still remains*, because what are his choices, and what are his dreams?  The sports metaphor introduces several subthemes.
 
-&nbsp;
+<!--more-->
 
 I am just a poor boy  
 Though my story's seldom told  
@@ -76,6 +76,10 @@ Every sport also overflows with statistics – earned run average, yards after c
 Related to tracking all aspects of play, sports have led to record books.  Hundreds of pages list the record holders of each sport and who trails them on the listing (no-hitters, 300s in bowling, centuries in cricket, triple doubles in basketball, [Kentucky Derbys entered](Degas) and on and on).  
 
 **Evolution and Change**: The rules of boxing and all sports are codified.  In serious competitions, judges, umpires, or referees make calls, determine whether a player has violated a rule, and sometimes impose penalties (such as for nudging a ball in golf before swinging).  Periodically the governing body of a sport, such as the [International Olympic Committee](Chariots), revises the rules.  They add the three-point arc in basketball, have a player start on second base in extra innings of baseball, specify tire changing protocols in NASCAR races, limit the frame of a tennis racket to 29 inches, move back the point-after-touchdown kick, or set the number of clubs permitted in an LPGA event.  Then there are sports strategies that change, such as shifting infielders in baseball or playing without a classic center in the paint. Sports, in other words, evolves with technology, with regulatory changes, and with views as to what works best. 
+
+&nbsp;
+
+The song compares the struggles of a poor young man in a brutal city to the painful endurance of the *fighter by his trade* who *carries the reminders Of every glove that laid him down*.  Both the young man and the boxer keep going, but the cost is high as the ugly side of a sport is bared.
 
 If you are interested in other thoughts on the concept “Sports,” consider [other subthemes](     ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
