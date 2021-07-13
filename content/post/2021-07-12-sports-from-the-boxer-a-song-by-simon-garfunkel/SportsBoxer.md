@@ -6,10 +6,10 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Errors and Losses,", "Rankings or Analytics and Records,", "Evolution and Change,",]
-draft: yes
+draft:
 ---
 
-Paul Simon compares the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after blow lands, like on the boxer, but the [young boy](Athlete) *still remains*, because what are his choices, and what are his dreams?  The sports metaphor introduces several subthemes.
+Paul Simon compares the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after blow lands, like on the boxer, but the [young boy](Athlete) *still remains*, because what are his meager choices, and what are his dreams?  The sports metaphor introduces several subthemes.
 
 <!--more-->
 
@@ -79,7 +79,7 @@ Related to tracking all aspects of play, sports have led to record books.  Hundr
 
 &nbsp;
 
-The song compares the struggles of a poor young man in a brutal city to the painful endurance of the *fighter by his trade* who *carries the reminders Of every glove that laid him down*.  Both the young man and the boxer keep going, but the cost is high as the ugly side of a sport is bared.
+The song compares the struggles of a poor young man in a brutal city to the painful endurance of the *fighter by his trade* who *carries the reminders Of every glove that laid him down*.  Both the youth and the boxer forge on, but the cost is high as the ugly side of a sport is bared.
 
 If you are interested in other thoughts on the concept “Sports,” consider [other subthemes](     ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 

@@ -6,10 +6,10 @@ slug: []
 categories:
   - Poem
 tags: ["Injuries,", "Diminishment of Skills from Aging,", "Stars and Megastars",]
-draft: yes
+draft: 
 ---
 
-A.E. Housman chose the metaphor from sports, but conveys more broadly a truth about reputation: celebrities often outlive their fame, and ungracefully, if *the name died before the man*. By ironic contrast, the young winner of a footrace -- *that early-laurelled head* -- died within a short time thereafter, while the laurel garland of his honor remained fresh.  The poem brings to mind other aspects of Sports.
+A.E. Housman chose a metaphor from sports, but his poem conveys more broadly a truth about reputation: celebrities often outlive their fame, and ungracefully, if *the name died before the man*. By ironic contrast, the young winner of a footrace -- *that early-laurelled head* -- died within a short time thereafter, while the laurel garland of his honor remained fresh.  The poem brings to mind other aspects of Sports.
 
 <!--more-->
 
@@ -58,7 +58,7 @@ The garland briefer than a girl’s.
 
 &nbsp;
 
-Accomplishment in sports bestows on an athlete a reputation, perhaps even renown, but life trundles on, the champion will *see the record cut,* as injuries or growing older and slower diminishes the feat.  A few standouts may prosper hugely, but most prominent athletes are left with dusty awards and faded cheers.
+Accomplishment in sports bestows on an athlete a reputation, perhaps even renown, but life trundles on, the champion will *see the record cut,* as injuries or growing older and slower diminishes abilities.  A few standouts may prosper hugely, but most prominent athletes are left with dusty awards and faded cheers.
 
 If you are interested in other thoughts on the concept “Sail Ships,” consider [other subthemes](https://themesfromart.com/post/2021-06-27-sailing-ships-additional-subthemes/sailingships-addl/ ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 

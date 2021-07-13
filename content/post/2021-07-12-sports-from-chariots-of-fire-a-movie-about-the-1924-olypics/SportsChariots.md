@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Tournaments,", "Sportsmanship,", "Practice and Coaches",]
-draft: yes
+draft: 
 ---
 
 Based on actual events, Chariots of Fire endearingly memorializes the individual and team exploits of the British track and field squad before and during the 1924 Olympic Games.  We can enjoy several subthemes of Sports from the movie.
@@ -21,7 +21,7 @@ Based on actual events, Chariots of Fire endearingly memorializes the individual
 
 &nbsp;
 
-An engrossing movie from 1981, Chariots of Fire brings out a number of aspects of Sports: the quadrennial Olympics captivate the entire world and its finest athletes, to perform at that elite level takes years of dedicated preparation, and yet the creed of dealing fairly with your opponents shines through.
+An engrossing movie from 1981 about an Olympic Games from a half century before brings out a number of aspects of Sports: the quadrennial Olympiad captivates the world and its finest athletes, to perform at that elite level takes years of dedicated preparation, and yet the creed of dealing fairly with your opponents shines through.
 
 
 If you are interested in other thoughts on the concept “Sports,” consider [other subthemes](   ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
@@ -42,4 +42,3 @@ We invite you to read about other movies discussed on this blog, and their theme
 * Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
 * Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
 * Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)
-

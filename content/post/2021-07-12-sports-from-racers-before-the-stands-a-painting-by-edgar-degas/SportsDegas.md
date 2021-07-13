@@ -6,10 +6,10 @@ slug: []
 categories:
   - Painting
 tags: ["Class and Cost,", "Gambling,", "Fans", "Selective Gushers of Money",]
-draft: yes
+draft:
 ---
 
-Edgar Degas captured the edgy anticipation before the start of a horse race.  The thoroughbreds shy and jockeys maneuver in front of the spectators as a frisson of excitement radiates from the painting. This sporting scene evokes other thoughts about Sports.
+Edgar Degas captured the edgy anticipation before the start of a horse race.  Thoroughbreds prance and shy and jockeys maneuver before the spectators as a frisson of excitement radiates from the painting. This elegant scene evokes other thoughts about Sports.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ If those are thousand-dollar sporting activities, hugely popular five-dollar spo
 
 &nbsp;
 
-Degas was fascinated by the energy and movement of racing horses.  The conspicuous wealth of owners, the growing excitement from wagers, and the costliness of the sport are all evident from the painting.
+Degas was fascinated by the energy, lines and movement of race horses.  The conspicuous wealth of owners, the growing excitement from wagers laid, and the costliness of the sport are all evident from the painting.
 
 If you are interested in other thoughts on the concept “Sports,” consider [other subthemes](     ) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 

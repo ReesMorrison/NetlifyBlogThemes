@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Games vs. Sports,", "eSports,", "Sports Expressions in General Use",]
-draft: yes
+draft: 
 ---
 
 The preceding sections consider concepts of Sports that arise from a painting of [race horses](Degas), a movie about [Olympic exploits](Chariots), a song with a [boxer metaphor](Boxer), and a poem about the death of a [young champion](Housman).  Other subthemes don’t fit closely to any of those works of art.
