@@ -9,7 +9,7 @@ tags: ["Games vs. Sports,", "eSports,", "Sports Expressions in General Use",]
 draft: 
 ---
 
-The preceding sections consider concepts of Sports that arise from a painting of [race horses](Degas), a movie about [Olympic exploits](Chariots), a song with a [boxer metaphor](Boxer), and a poem about the death of a [young champion](Housman).  Other subthemes don’t fit closely to any of those works of art.
+The preceding sections consider concepts of Sports that arise from a painting of [race horses](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/), a movie about [Olympic exploits](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/), a song with a [boxer metaphor](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/), and a poem about the death of a [young champion](https://themesfromart.com/post/2021-07-12-sports-from-to-an-athlete-dying-young-by-a-e-housman/sportsathlete/).  Other subthemes don’t fit closely to any of those works of art.
 
 <!--more-->
 
