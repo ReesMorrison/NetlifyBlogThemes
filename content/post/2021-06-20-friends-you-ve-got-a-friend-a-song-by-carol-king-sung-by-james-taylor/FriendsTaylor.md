@@ -65,12 +65,12 @@ And I'll be there, yes, I will
 
 Source: LyricFind
 
-**Emotions**:  James Taylor’s friend immediately responds to the call for help, *I'll be there, yes, I will*.  He sings calmly, but the warmth of reliable, deep affection glows.  Nobody can make it out here alone](Alone) and cold people will 
+**Emotions**:  James Taylor’s friend immediately responds to the call for help, *I'll be there, yes, I will*.  He sings calmly, but the warmth of reliable, deep affection glows.  Nobody can make it out here by themself and cold people will 
 
 *hurt you, yes, and desert you*  
 *And take your soul if you let them.*  
 
-Strong friendships go hand in hand with strong emotions.  When you care for someone deeply, they know secrets about you that can stab and you can stab back.  Anger can be the lava of loving friendships’ magma; it wells up from our core and when white hot it destroys.  On the positive side, the depth of feeling can be transporting.  We soar on a higher plane around that person: “I like you so very much.”  Powerful affect accompanies strong bonds of friendship, much like in marriages.  With great friendship comes great responsibility since the price of closeness is vulnerability and loss 
+Strong friendships go hand in hand with strong emotions.  When you care for someone deeply, they know secrets about you that can stab and you can stab back.  Anger can be the lava of loving friendships’ magma; it wells up from our core and when white hot it destroys.  On the positive side, the depth of feeling can be transporting.  We soar on a higher plane around that person: “I like you so very much.”  Powerful affect accompanies strong bonds of friendship, much like in marriages.  With great friendship comes great responsibility since the price of closeness is vulnerability and loss.
 
 **Physical Touching and Sensing**: The friend in this song shows up *knockin’ at your door* and hugs -- not for them the pallid brevity of text or email, the delay of a letter, or the sensory-deprivation of a phone call; they stand before you, embracing, in touch with you and your life.  *Ain't it good to know that you've got a friend*.  Yes, you can have pen pals and epistolary liaisons (Peter Tchaikovsky and his patron, Nadezhda von Meck would be a notable example).  But text messages and emojis don’t consummate relationships, and no one marries based on the blurb of a dating site.  To hold someone is to know them.
 

@@ -9,7 +9,7 @@ tags: ["Errors and Losses,", "Rankings or Analytics and Records,", "Evolution an
 draft:
 ---
 
-Paul Simon compares the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after blow lands, like on the boxer, but the [young boy](Athlete) *still remains*, because what are his meager choices, and what are his dreams?  The sports metaphor introduces several subthemes.
+Paul Simon matches the difficult life of a *poor boy* in the big city to the batterings a boxer suffers in the ring.  Blow after disappointing blow lands, like on the boxer, but the young boy *still remains*, because what are his meager choices, and what are his dreams?  The sports metaphor introduces several subthemes.
 
 <!--more-->
 

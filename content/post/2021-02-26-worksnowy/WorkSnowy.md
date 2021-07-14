@@ -41,7 +41,7 @@ And miles to go before I sleep,
 And miles to go before I sleep.  
 
 
-![WorkSnowy](/media/WorkSnowy.jpeg)
+![WorkSnowy](/media/WorkSnowy.jpg)
 
 **Gender**: Frost does not identify the gender of the person stopping by the bedecked forest, but almost certainly the person is male. A woman in the years of Frost’s poem, before motors put an end to horse-drawn carts, would not have been out on a chilly winter night alone guiding a horse.  More broadly, jobs and work divide into gender roles in much of the world, and even in developed countries discrimination on account of gender limits women’s access to or success in many jobs.  The disparaging term “pink-collar” jobs suggests some of the obstacles to women outside of the traditional roles of teachers and nurses.  Taking care of children and managing a home have been disparaged as “not real work.”
 
