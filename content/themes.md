@@ -66,4 +66,46 @@ title:
 ["Death, be not proud"](https://themesfromart.com/post/2021-05-03-death-from-death-be-not-proud-a-poem-by-john-donne/deathdonne/)  
 ["Honey"](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)  
 ["House of the Hanged Man"](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/)  
-[Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)
+[Additional Subthemes](https://themesfromart.com/post/2021-05-03-death-additional/deathaddl/)  
+
+**Trains**  
+["City of New Orleans"](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)  
+["Gare St. Lazare"](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/)  
+["Murder on the Orient Express"](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)  
+["The Railway Train"](https://themesfromart.com/post/2021-05-10-trains-from-the-railway-train-a-poem-by-emily-dickineson/trainsdickinson/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/)  
+
+**Churches**  
+["California Dreamin'"](https://themesfromart.com/post/2021-05-21-churches-from-california-dreamin-a-song-by-the-mamas-the-papas/churchescalifornia/)  
+["Dover Beach"](https://themesfromart.com/post/2021-05-21-churches-from-dover-beach-a-poem-by-matthew-arnold/churchesarnold/)  
+["On the Waterfront"](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)  
+["The Church at Essoys"](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-05-21-churches-additional/churchesaddl/)  
+
+**Birds**  
+["Ode to a Nightingale"](https://themesfromart.com/post/2021-06-14-birds-ode-to-a-nightingale-a-poem-by-john-keats/birdskeats/)  
+["Free Bird"](https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/)  
+["The Birds"](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/)  
+["The Magpie"](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-06-14-birds-additional-sub-themes/birdsadditional/)  
+
+**Friends**  
+["Alone"](https://themesfromart.com/post/2021-06-20-friends-alone-a-poem-by-maya-angelou/friendsalone/)  
+["Luncheon on the Grass"](https://themesfromart.com/post/2021-06-20-friends-luncheon-on-the-grass-a-painting-by-edouard-manet/friendsluncheon/)  
+["The Big Chill"](https://themesfromart.com/post/2021-06-20-friends-the-big-chill-a-movied-directed-by-lawrence-kasdan/friendschill/)  
+["You've Got a Friend"](https://themesfromart.com/post/2021-06-20-friends-you-ve-got-a-friend-a-song-by-carol-king-sung-by-james-taylor/friendstaylor/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-06-20-friends-additional-subthemes/friendsaddl/)  
+
+**Sailing Ships**  
+["Sloop John B"](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/)  
+["Harbour at Honfleur"](https://themesfromart.com/post/2021-06-26-sailing-ships-harbour-at-honfleur-a-painting-by-georges-seurat/sailinghonfleur/)    
+["Mutiny on the Bounty"](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/)  
+["Old Ironsides"](https://themesfromart.com/post/2021-06-26-sailing-ships-from-old-ironsides-a-poem-by-oliver-wendell-holmes/sailingshipsironsides/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-06-27-sailing-ships-additional-subthemes/sailingships-addl/)  
+
+**Sports**  
+["Chariots of Fire"](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/)  
+["Racers Before the Stands"](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/)  
+["The Boxer"](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/)  
+["From An Athlete Dying Young"](https://themesfromart.com/post/2021-07-12-sports-from-to-an-athlete-dying-young-by-a-e-housman/sportsathlete/)  
+[Additional Subthemes](https://themesfromart.com/post/2021-07-12-sports-additional-subthemes/sportsaddl/)  
