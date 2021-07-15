@@ -4,9 +4,9 @@ description: A list of the themes with links to their posts
 menu: main
 title: 
 ---
-# Urls of Themes from Art come from BlogGH.Rmd
+<!-- regular html comment # Urls of Themes from Art come from BlogGH.Rmd
 # Should I use quotes?   Put Additional Subthemes at the end
-# Type name of art with closing quote marks and close bracket.  Then can copy in opening bracket and quote, search and replace for closing bracket to add an open parenthesis, then add final paren
+# Type name of art with closing quote marks and close bracket.  Then can copy in opening bracket and quote, search and replace for closing bracket to add an open parenthesis, then add final paren --> 
 
 **Alcohol**  
 ["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/)  
