@@ -5,7 +5,7 @@ date: '2021-06-20'
 slug: []
 categories:
   - Wide Angle
-tags: []
+tags: ["Common Values and Interests,", "Best Friends Forever,", "Psychology and Sociology",]
 draft: 
 ---
 
