@@ -4,7 +4,7 @@ description: A list of the themes with links to their posts
 menu: main
 title: 
 ---
-
+# Urls of Themes from Art come from BlogGH.Rmd
 # Should I use quotes?   Put Additional Subthemes at the end
 # Type name of art with closing quote marks and close bracket.  Then can copy in opening bracket and quote, search and replace for closing bracket to add an open parenthesis, then add final paren
 
@@ -110,5 +110,5 @@ title:
 ["Chariots of Fire"](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/)  
 ["Racers Before the Stands"](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/)  
 ["The Boxer"](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/)  
-["From An Athlete Dying Young"](https://themesfromart.com/post/2021-07-12-sports-from-to-an-athlete-dying-young-by-a-e-housman/sportsathlete/)  
+["To An Athlete Dying Young"](https://themesfromart.com/post/2021-07-12-sports-from-to-an-athlete-dying-young-by-a-e-housman/sportsathlete/)  
 [Additional Subthemes](https://themesfromart.com/post/2021-07-12-sports-additional-subthemes/sportsaddl/)  
