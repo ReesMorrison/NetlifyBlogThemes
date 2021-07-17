@@ -1,5 +1,5 @@
 ---
-title: Death, Additional
+title: Death, Additional Subthemes
 author: Rees Morrison
 date: '2021-05-03'
 slug: []

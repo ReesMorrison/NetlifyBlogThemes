@@ -1,5 +1,5 @@
 ---
-title: Time, from "The Bellelli Family" by Edgar Degas
+title: Time, from "The Bellelli Family," a painting by Edgar Degas
 author: Rees Morrison
 date: '2021-03-08'
 slug: []

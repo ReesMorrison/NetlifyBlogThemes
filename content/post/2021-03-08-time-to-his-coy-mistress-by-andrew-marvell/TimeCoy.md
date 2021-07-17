@@ -1,11 +1,11 @@
 ---
-title: Time, from "To His Coy Mistress" by Andrew Marvell
+title: Time, from "To His Coy Mistress," a poem by Andrew Marvell
 author: Rees Morrison
 date: '2021-03-08'
 slug: []
 categories:
   - Poem
-tags: ["Ampleness Suggests Leisure,", "Leads to Quality,", "Carpe Diem,", "Rate It Passes Varies by Pleasure,", "Never Stops" ]
+tags: ["Ampleness Suggests Leisure,", "Leads to Quality,", "Carpe Diem,", "Rate It Passes Varies by Pleasure,", "Never Stops", ]
 meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---

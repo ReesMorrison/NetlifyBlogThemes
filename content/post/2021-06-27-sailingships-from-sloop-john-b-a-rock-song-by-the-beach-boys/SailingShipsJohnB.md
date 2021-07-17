@@ -1,5 +1,5 @@
 ---
-title: SailingShips, from "Sloop John B," a rock song by the Beach Boys
+title: Sailing Ships, from "Sloop John B," a rock song by The Beach Boys
 author: Rees Morrison
 date: '2021-06-27'
 slug: []
