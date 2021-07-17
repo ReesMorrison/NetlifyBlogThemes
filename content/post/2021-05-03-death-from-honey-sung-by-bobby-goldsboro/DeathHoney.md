@@ -1,5 +1,5 @@
 ---
-title: Death, from "Honey," sung by Bobby Goldsboro
+title: Death, from "Honey," a song sung by Bobby Goldsboro
 author: Rees Morrison
 date: '2021-05-03'
 slug: []

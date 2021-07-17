@@ -1,5 +1,5 @@
 ---
-title: Churches, Additional
+title: Churches, Additional Subthemes
 author: Rees Morrison
 date: '2021-05-21'
 slug: []
