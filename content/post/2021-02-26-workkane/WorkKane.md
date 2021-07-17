@@ -1,5 +1,5 @@
 ---
-title: Work, from "Citizen Kane" starring Orson Welles
+title: Work, from "Citizen Kane," a movie starring Orson Welles
 author: Rees Morrison
 date: '2021-02-26'
 slug: []

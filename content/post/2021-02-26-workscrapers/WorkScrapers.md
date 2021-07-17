@@ -1,5 +1,5 @@
 ---
-title: Work, from "The Floor Scrapers" by Gustave Caillebotte
+title: Work, from "The Floor Scrapers," a painting by Gustave Caillebotte
 author: Rees Morrison
 date: '2021-02-26'
 slug: []

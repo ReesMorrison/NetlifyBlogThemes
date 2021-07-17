@@ -1,5 +1,5 @@
 ---
-title: Work, from "Stopping by Woods on a Snowy Evening" by Robert Frost
+title: Work, from "Stopping by Woods on a Snowy Evening," a poem by Robert Frost
 author: Rees Morrison
 date: '2021-02-26'
 slug: []

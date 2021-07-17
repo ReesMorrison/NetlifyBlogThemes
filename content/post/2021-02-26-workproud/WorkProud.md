@@ -1,5 +1,5 @@
 ---
-title: Work, from "Proud Mary" by Creedance Clearwater Revival
+title: Work, from "Proud Mary," a rock song by Creedance Clearwater Revival
 author: Rees Morrison
 date: '2021-02-26'
 slug: []
