@@ -1,5 +1,5 @@
 ---
-title: Sports, from "Chariots of Fire," a movie about the 1924 Olympics
+title: Sports, from "Chariots of Fire," a movie about the 1924 Olympics 
 author: Rees Morrison
 date: '2021-07-12'
 slug: []
