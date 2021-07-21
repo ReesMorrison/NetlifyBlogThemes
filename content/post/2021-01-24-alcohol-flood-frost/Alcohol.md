@@ -78,7 +78,7 @@ Where strangers would have shut the many doors
 That many friends had opened long ago.  
 
 
-![JugPicture](/media/AlcoholFloodJug.png)
+![JugPicture](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/AlcoholFloodJug.png)
 
 **Social Disapproval**.  At the start (stanza 1, line 5), Eben Flood paused *warily*, self-conscious and a touch nervous about what he is about to do.  He is sensitive to the possibility that a town resident might spot him indulging and disapprove of him.  His small-town, late 19th century America included many advocates of temperance: they frowned at drinking alcoholic beverages, and one would suppose they frowned even more so at indulging in the Devil’s brew while alone.  Flood didn’t want the approbation of his community, but he had trudged into town for the purchase and wanted a drink, so he made sure no one else was around.  This caution hurts, given the emphasis in the poem on Flood’s loneliness:  he made sure he was alone before he sought out the balm of the bottle.
 
