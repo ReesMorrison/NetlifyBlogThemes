@@ -13,7 +13,7 @@ In this movie re-enactment of one of the most notorious shipboard mutinies of al
 
 <!--more-->
 
-Here is a clip of [the mutiny’s start.]( https://www.youtube.com/watch?v=t0oqEjxOUww)
+Here is a clip of [the mutiny’s start.](https://www.youtube.com/watch?v=t0oqEjxOUww)
 
 **Mutiny**:  Sailors could not go AWOL if they were on the high seas, so every now and then, if  opposition, resentments and anger overflowed, they rose up against their officers – they mutinied.  You can read about [six famous mutinies by sailors](https://www.history.com/news/6-famous-naval-mutinies) here.  Mutineers were branded as criminals and most of them ended up captured or dead.
 
