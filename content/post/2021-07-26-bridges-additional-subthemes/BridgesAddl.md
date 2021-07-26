@@ -55,9 +55,9 @@ Longest --  The Danyang-Kunshan Grand Bridge in China stretches 102 miles
 
 Widest – The Sydney Harbor Bridge at 160 feet not only carries traffic, but also it has two railroad tracks, a bicycle path, and a pedestrian walkway
 
-Oldest in use -- According to the [Guinness World Records](https://www.guinnessworldrecords.com/world-records/oldest-bridge), the slab-stone single-arch bridge over the river Meles in Izmir (formerly Smyrna), Turkey, dates from c. 850 BC.  [Others](https://www.oldest.org/structures/bridges/) cite the Arkadiko Bridge in  Argolis, Greece built c.1300 – 1190 BC.
+Oldest in use -- According to the [Guinness World Records](https://www.guinnessworldrecords.com/world-records/oldest-bridge), the slab-stone single-arch bridge over the river Meles in Izmir (formerly Smyrna), Turkey, dates from c. 850 BC.  [Others](https://www.oldest.org/structures/bridges/) cite the Arkadiko Bridge in  Argolis, Greece built c.1300 – 1190 BC., shown below.
 
-Click here to see the [Arkadiko Bridge from Wikimedia Commons.](https://www.oldest.org/structures/bridges/)
+![Arkadiko Bridge from Wikimedia Commons.](/media/BridgesArkimika.jpg) 
 
 Most expensive -- Not even a whole bridge, the eastern part of the Oakland Bay Bridge in San Francisco was replaced at a cost of $6.4 billion according to [Thor Technology](https://www.thortechnology.co.uk/bridges/the-7-most-expensive-bridges-built-2/).
 

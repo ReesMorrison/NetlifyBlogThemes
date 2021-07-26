@@ -30,18 +30,18 @@ If you are interested in further thoughts on the concept “Bridges,” consider
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 
-* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/)
-* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/)
-* Birds: [The Birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/)
-* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/)
-* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/)
-* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/)
-* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/)
-* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)
-* Friends: [The Big Chill](https://themesfromart.com/post/2021-06-20-friends-the-big-chill-a-movied-directed-by-lawrence-kasdan/friendschill/)
-* Sailing Ships: [Mutiny on the Bounty](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/)
-* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/)
-* Sports: [Chariots of Fire](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/)
-* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/)
-* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/)   
-* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/)
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/), with Elizabeth Taylor and Richard Burton
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/), with Robert de Niro and Cybill Shepher
+* Birds: [The Birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/), directed by Alfred Hitchcock
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/), with Robert de Niro and Meryl Streep
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/), with Marlon Brando and Eva Marie Saint
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/), with Faye Dunaway and Warren Beatty
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/), with Meryl Streep
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), with Tom Hanks
+* Friends: [The Big Chill](https://themesfromart.com/post/2021-06-20-friends-the-big-chill-a-movied-directed-by-lawrence-kasdan/friendschill/), with Kevin Kline, Meg Tilly, Jeff Goldblum, Glenn Close
+* Sailing Ships: [Mutiny on the Bounty](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/), with Marlon Brando
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/), with Eva Marie Saint and Cary Grant
+* Sports: [Chariots of Fire](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/), with music by Vangelis Papathanassiou
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/), with Bill Murray
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/), with Kenneth Branagh, Johnny Depp, Michelle Pfeiffer, Judy Dench, Penelope Cruz
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/), with Orson Welles
