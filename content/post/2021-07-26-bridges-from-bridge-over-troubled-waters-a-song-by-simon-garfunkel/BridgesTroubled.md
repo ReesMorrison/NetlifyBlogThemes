@@ -73,17 +73,17 @@ If you are interested in further thoughts on the concept “Bridges,” consider
 
 We invite you to read about other songs discussed on this blog, and their themes.  Here they are: 
 
-* Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
-* Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
-* Birds: [Free Bird]( https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/)
-* Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)
-* Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/)
-* Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/)
-* Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/)
-* Friends: [You've Got a Friends](https://themesfromart.com/post/2021-06-20-friends-you-ve-got-a-friend-a-song-by-carol-king-sung-by-james-taylor/friendstaylor/)
-* Sailing Ships: [Sloop John B](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/)
-* Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/)
-* Sports: [The Boxer](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/)
-* Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)
-* Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)
-* Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/)
+* Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/), by Jimmy Buffet
+* Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/), by Roberta Flack
+* Birds: [Free Bird]( https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/), by Lynyrd Skynyrd
+* Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/), by ABBA
+* Death: [Honey](https://themesfromart.com/post/2021-05-03-death-from-honey-sung-by-bobby-goldsboro/deathhoney/), by Bobby Goldsboro
+* Decisions: [Do You Believe in Magic?](https://themesfromart.com/post/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/), by The Lovin' Spoonful
+* Destruction:	[My Hometown](https://themesfromart.com/post/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/), by Bruce Springsteen
+* Friends: [You've Got a Friends](https://themesfromart.com/post/2021-06-20-friends-you-ve-got-a-friend-a-song-by-carol-king-sung-by-james-taylor/friendstaylor/), by James Talor
+* Sailing Ships: [Sloop John B](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/), by The Beach Boys
+* Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/), by Simon & Garfunkel
+* Sports: [The Boxer](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/), by Simon & Garfunkel
+* Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/), by The Byrds
+* Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/), by Willie Nelson
+* Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/), by Creedence Clearwater Revival
