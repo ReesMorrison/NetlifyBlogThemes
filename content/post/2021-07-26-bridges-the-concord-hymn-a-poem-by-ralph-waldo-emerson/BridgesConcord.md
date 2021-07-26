@@ -37,9 +37,9 @@ Bid Time and Nature gently spare
 
 ![Domenick D'Andrea](/media/BridgesConcord.jpg).  
 
-In his visualization, it was made of lumber, small and the planks were supported by wood pilings anchored in the [*soft stream*](Troubled).  
+In his visualization, it was made of lumber, small and the planks were supported by wood pilings anchored in the [*soft stream*](https://themesfromart.com/post/2021-07-26-bridges-from-bridge-over-troubled-waters-a-song-by-simon-garfunkel/bridgestroubled/).  
  
-The bridge was painted as a traditional, simple, beam bridge put in place to get the job done.  According to the [Encyclopedia Britannica](https://www.britannica.com/technology/bridge-engineering), that is one of six basic bridge forms have developed: the beam, the truss, the arch, the suspension, the cantilever, and the cable-stayed.  The [Monet bridge](Monet) would also be classified as a beam design while the [Kwai River bridge](Kwai) was a cantilever style.  Below you can see the six styles.
+The bridge was painted as a traditional, simple, beam bridge put in place to get the job done.  According to the [Encyclopedia Britannica](https://www.britannica.com/technology/bridge-engineering), that is one of six basic bridge forms have developed: the beam, the truss, the arch, the suspension, the cantilever, and the cable-stayed.  The [Monet bridge](https://themesfromart.com/post/2021-07-26-bridges-from-the-railway-bridge-at-argenteuill-a-painting-by-claude-monet/bridgesmonet/) would also be classified as a beam design while the [Kwai River bridge](https://themesfromart.com/post/2021-07-26-bridges-from-the-bridge-over-the-river-kwai-a-movie-by-david-lean/bridgeskwai/) was a cantilever style.  Below you can see the six styles.
  
 ![Six basic designs of bridges](/media/BridgesDesigns.jpg)
 
@@ -59,7 +59,7 @@ Eye-catching aesthetics, however, distinguish many bridges.  The Golden Gate Bri
 
 The humble bridge that Emerson’s poem helped to make famous had no design pretensions; rough-hewn wood serviceable for modest weight, it was hardly beautiful, unlike modern bridges that aspire to combine construction quality with architectural drama and visual elegance.  The firefight was a skirmish in the outbreak of war rather than unifying groups to a common goal.
 
-If you are interested in further thoughts on the concept “Bridges,” consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in further thoughts on the concept “Bridges,” consider [other subthemes](https://themesfromart.com/post/2021-07-26-bridges-additional-subthemes/bridgesaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 

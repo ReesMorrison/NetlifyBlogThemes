@@ -9,7 +9,7 @@ tags: ["Famous Bridges,", "Expressions,", "World Records", ]
 draft: 
 ---
 
-The four sections before this one consider a [poem in honor of a skirmish at a bridge](Concord), a [song likening friendship to a bridge](Troubled), a [World War II movie drama](Kwai) and an Impressionist painting of a [railway bridge](Monet).  Here are a few other subthemes of Bridges.
+The four sections before this one consider a [poem in honor of a skirmish at a bridge](https://themesfromart.com/post/2021-07-26-bridges-the-concord-hymn-a-poem-by-ralph-waldo-emerson/bridgesconcord/), a [song likening friendship to a bridge](https://themesfromart.com/post/2021-07-26-bridges-from-bridge-over-troubled-waters-a-song-by-simon-garfunkel/bridgestroubled/), a [World War II movie drama](https://themesfromart.com/post/2021-07-26-bridges-from-the-bridge-over-the-river-kwai-a-movie-by-david-lean/bridgeskwai/) and an Impressionist painting of a [railway bridge](https://themesfromart.com/post/2021-07-26-bridges-from-the-railway-bridge-at-argenteuill-a-painting-by-claude-monet/bridgesmonet/).  Here are a few other subthemes of Bridges.
 
 <!--more-->
 
