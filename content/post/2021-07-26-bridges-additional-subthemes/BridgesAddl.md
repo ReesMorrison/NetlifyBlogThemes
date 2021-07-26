@@ -49,6 +49,8 @@ Click here for a panorama of the [Duge Beipanjiang Bridge.](https://www.sciencea
 
 Tallest Towers – the Millau Viaduct in France stands 343 meter (1,125 feet) tall   
 
+![Millau Viaduct](/media/BridgesTallest.jpg)
+
 Longest --  The Danyang-Kunshan Grand Bridge in China stretches 102 miles
 
 Widest – The Sydney Harbor Bridge at 160 feet not only carries traffic, but also it has two railroad tracks, a bicycle path, and a pedestrian walkway
