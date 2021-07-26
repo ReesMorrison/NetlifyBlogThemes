@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Design,", "Dramatic Beauty,", "Transition or Unifier",]
-draft: yes
+draft: 
 ---
 
 Ralph Waldo Emerson’s poem, sung at the opening of the Battle Monument, July 4, 1837, commemorated a simple bridge in Concord, Massachusetts.  Six decades before, a homespun structure stood between the muskets of the British regulars and the colonial militia and for a series of volleys became the center of action and inspiration for the colonies.  The poem stimulates a few subthemes of Bridges.

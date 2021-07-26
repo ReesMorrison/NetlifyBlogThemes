@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Famous Bridges,", "Expressions,", "World Records", ]
-draft: yes
+draft: 
 ---
 
 The four sections before this one consider a [poem in honor of a skirmish at a bridge](Concord), a [song likening friendship to a bridge](Troubled), a [World War II movie drama](Kwai) and an Impressionist painting of a [railway bridge](Monet).  Here are a few other subthemes of Bridges.

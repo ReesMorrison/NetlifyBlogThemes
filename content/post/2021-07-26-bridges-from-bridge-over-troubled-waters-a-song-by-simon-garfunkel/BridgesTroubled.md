@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Safety,", "Lengthy Delays and Obstacles,", "Suicides", ]
-draft: yes
+draft:
 ---
 
 Paul Simon chose as his metaphor for protection, guidance, and comfort a bridge over roiling waters, to represent a stalwart and supportive friend who carries us above the troubles of life.  Like a coat gallantly spread on a puddle for a gentlewoman, a friend serves as a bridge over life’s bleak times.  On the clip you can [hear the song](https://www.youtube.com/watch?v=4G-YQA_bsOU).  More subthemes of Bridges come from the emotional lyrics.

@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Military Significance,", "Cost,", "Civilian Collapses",]
-draft: yes
+draft:
 ---
 
 This 1957 movie centers on brutal, forced labor of U.S. and British prisoners of war by Japanese soldiers to construct a vital railroad bridge.   In 1942-43, more than 65,000 Allied P.O.W.s battled torture, starvation, and disease to hack a 255-mile railway out of the harsh Thai jungle under killing conditions.  The movie suggests several subthemes related to Bridges.

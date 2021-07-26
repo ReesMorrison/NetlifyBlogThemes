@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Speed and Efficiency,", "Traffic,", "Engineering Feat", ]
-draft: yes
+draft: 
 ---
 
 Uncharacteristically for an impressionist painting, Monet emphasized an industrial, concrete-and-metal bridge that carried trains across the Seine River.  Located about eight miles outside of Paris and complete a few years before approximately 1871 when Monet painted it, it is one of seven Monet completed that included the bridge.  What concepts of Bridges does the painting suggest?
