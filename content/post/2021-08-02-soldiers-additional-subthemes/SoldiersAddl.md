@@ -9,7 +9,7 @@ tags: ["Military Bases,", "Service Lines,", "Elite Units",]
 draft:
 ---
 
-The preceding four sections have considered a [poem regretting a doomed cavalry charge](Charge), a [song of a young soldier lost](Chicks), a [movie with Private Forrest Gump](Gump), and a painting of soldiers [executing traitors](Manet).  Here are a few other subthemes of Soldiers.
+The preceding four sections have considered a [poem regretting a doomed cavalry charge](https://themesfromart.com/post/2021-08-02-soldiers-from-the-charge-of-the-light-brigade-by-alfred-lord-tennyson/soldierscharge/), a [song of a young soldier lost](https://themesfromart.com/post/2021-08-02-soldiers-from-travellin-soldier-a-song-by-the-chicks/soldierschicks/), a [movie with Private Forrest Gump](https://themesfromart.com/post/2021-08-02-soldiers-from-forrest-gump-a-movie-starring-tom-hanks/soldiersgump/), and a painting of soldiers [executing traitors](https://themesfromart.com/post/2021-08-02-soldiers-the-execution-of-maximilian-a-painting-by-edouard-manet/soldiersmanet/).  Here are a few other subthemes of Soldiers.
 
 <!--more-->
 
