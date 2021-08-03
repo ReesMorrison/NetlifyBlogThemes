@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Conscription or Enlistment,", "Honoring Veterans,", "Guerrilla Warfare", ]
-draft: yes
+draft:
 ---
 
 A moving song, “Travellin’ Soldier” shares the small-bore story of a broken-hearted girl who befriended a young soldier shipping out to Vietnam.  Its simplicity, poignancy, and heartfelt loss well up tears for listeners.  The Chicks (known until 2020 as The Dixie Chicks) made this sad ballad about soldiers famous. It suggests subthemes of Soldiers.

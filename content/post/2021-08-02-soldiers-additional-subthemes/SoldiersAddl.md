@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Military Bases,", "Service Lines,", "Elite Units",]
-draft: yes
+draft:
 ---
 
 The preceding four sections have considered a [poem regretting a doomed cavalry charge](Charge), a [song of a young soldier lost](Chicks), a [movie with Private Forrest Gump](Gump), and a painting of soldiers [executing traitors](Manet).  Here are a few other subthemes of Soldiers.

@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Training,", "Weapons and Equipment,", "Medals", ]
-draft: yes
+draft:
 ---
 
 One of the most beloved movies of all time, “Forrest Gump” follows the endearing Forrest (Tom Hanks) through Army boot camp, where he befriends Bubba Blue (Mykelti Williamson), on to his medal-winning bravery during a firefight in Vietnam, and through recovery in a military hospital.  Several subthemes of Soldiers can be drawn from the movie that won six Oscars (and also starred Robin Wright, Sally Field, and Gary Sinise).

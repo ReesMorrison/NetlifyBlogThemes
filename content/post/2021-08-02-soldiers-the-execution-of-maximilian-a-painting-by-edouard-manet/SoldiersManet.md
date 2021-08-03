@@ -1,12 +1,12 @@
 ---
-title: Soldiers, "The Execution of Maximilian," a painting by Edouard Manet
+title: Soldiers, from "The Execution of Maximilian," a painting by Edouard Manet
 author: Rees Morrison
 date: '2021-08-02'
 slug: []
 categories:
   - Painting
 tags: ["Military Justice,", "Atrocities,", "Rules of War", ]
-draft: yes
+draft: 
 ---
 
 An Austrian archduke, Maximilian had been installed by Napoleon III of France as the puppet emperor of Mexico to succeed the republican president Benito Juárez.  The Mexican’s captured him, overthrew his government, and sentenced him to death.  In the early morning of June 19, 1867, along with two of his generals Maximilian was executed by military firing squad.  The commanding officer’s sword is visible in the upper middle, and the soldier assigned to carry out the coup de grâce calmly loads his rifle on the right.  
