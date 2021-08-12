@@ -26,6 +26,7 @@ The subthemes above arise from four works of art: a [movie that relies on a torn
 •	Fastest Atlantic hurricane wind speed -- Hurricane Allen in 1980 reached maximum sustained winds of 190 mph (310 km/h)
 
 •	Highest U.S. storm surge -- Hurricane Katrina's 27.8 feet in Pass Christian, Mississippi in 2005
+
 •	Fastest moving hurricane -- “The Long Island Express” in 1938, a category 3 storm, travelled between 60 and 70 miles per hour
 
 •	Deadliest typhoon -- The Great Bhola Cyclone smashed into Bangladesh	on Nov. 12, 1970, from the Bay of Bengal and took 300,000-500,000 lives
