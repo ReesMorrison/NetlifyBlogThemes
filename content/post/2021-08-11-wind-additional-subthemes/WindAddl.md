@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Records,", "Expressions in General Use",]
-draft: yes
+draft: 
 ---
 
 The subthemes above arise from four works of art: a [movie that relies on a tornado](Oz), a [Shelley poem about spirit](Ode), a Bob Dylan song that [looks for answers in the wind](Dylan), and a [painting of a boat in off-shore wind](Helm).  We have a few more subthemes to present.

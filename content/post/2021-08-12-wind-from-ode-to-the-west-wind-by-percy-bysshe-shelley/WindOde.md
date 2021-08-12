@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Weather,", "Comfort,", "Speed and Direction,", ]
-draft: yes
+draft: 
 ---
 
 Percy Bysshe Shelley’s “Ode to the West Wind” likens the powers and grandeur of the Autumn Wind -- *Wild spirit* -- to his own overwrought genius.  He sees himself as kindred, as *tameless, and swift, and proud.*   Depressed by the world, he wrestles with the paradox of wind:  *Destroyer and preserver*.  But Shelley summons the image of the mighty and transformative Autumn wind to convey the power of his *words among mankind* if they could be spread around the world.  This beautiful and laden poem suggests several aspects of Wind.

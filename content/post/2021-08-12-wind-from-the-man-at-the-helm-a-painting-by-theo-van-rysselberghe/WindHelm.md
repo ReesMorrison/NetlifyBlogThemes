@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Meteorology,", "Ships Under Sail,", "Power", "Jobs",]
-draft: yes
+draft:
 ---
 
 Van Rysselberghe’s “The Man at the Helm” (L’Homme á la barre) captures salty sea air whipping the wave tops white and filling the sails.  The wind has freshened, and the stolid sailor at the helm steers so that it pushes his craft rapidly. The scene looks stormy, especially around the frigate on the horizon.  Several subthemes of Wind waft from this painting.

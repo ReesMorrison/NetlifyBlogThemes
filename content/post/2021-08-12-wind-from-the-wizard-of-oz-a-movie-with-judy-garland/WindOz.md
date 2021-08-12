@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Extreme Weather,", "Landscape Change,", "Other Consequences",]
-draft: yes
+draft: 
 ---
 
 A book by L. Frank Baum became a movie classic, “The Wizard of Oz,” starring Judy Garland, Bert Lahr and others.  Dorothy Gates and her dog, Toto, reach the land of Oz at the start courtesy of a scary (but benign) tornado.  That powerful twister brings to mind other subthemes.

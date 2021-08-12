@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Psychology and Sociology,", "Musical Instruments,", "Tracking and Gliding",]
-draft: yes
+draft: 
 ---
 
 Bob Dylan’s “Blowin’ in the Wind” suggests that guidance on the most profound, unknowable questions -- when will justice and equality prevail -- is metaphorically as clear or as likely as the blowing of the wind is enigmatic.  We can and should strive for right, but powerful and chaotic forces swirl around us and obscure any answers as to when or if the battle will be one.  A despairing song, if the answers *my friend* to eternal questions about what is right and wrong are forever *blowin’ in the wind*.  What are other subthemes about Wind can we draw out of this song? 
