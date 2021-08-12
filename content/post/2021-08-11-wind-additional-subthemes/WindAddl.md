@@ -9,7 +9,7 @@ tags: ["Records,", "Expressions in General Use",]
 draft: 
 ---
 
-The subthemes above arise from four works of art: a [movie that relies on a tornado](Oz), a [Shelley poem about spirit](Ode), a Bob Dylan song that [looks for answers in the wind](Dylan), and a [painting of a boat in off-shore wind](Helm).  We have a few more subthemes to present.
+The subthemes above arise from four works of art: a [movie that relies on a tornado](https://themesfromart.com/post/2021-08-12-wind-from-the-wizard-of-oz-a-movie-with-judy-garland/windoz/), a [Shelley poem about spirit](https://themesfromart.com/post/2021-08-12-wind-from-ode-to-the-west-wind-by-percy-bysshe-shelley/windode/), a Bob Dylan song that [looks for answers in the wind](https://themesfromart.com/post/2021-08-12-wind-from-blowin-in-the-wind-a-song-by-bob-dylan/windblowin/), and a [painting of a boat in off-shore wind](https://themesfromart.com/post/2021-08-12-wind-from-the-man-at-the-helm-a-painting-by-theo-van-rysselberghe/windhelm/).  We have a few more subthemes to present.
 
 <!--more-->
 
