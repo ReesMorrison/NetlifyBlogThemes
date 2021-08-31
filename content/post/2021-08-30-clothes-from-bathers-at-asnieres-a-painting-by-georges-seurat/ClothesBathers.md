@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Stupendous Variety,", "Specific Occasions,", "Uniforms,", Protection from the Elements", ]
-draft: yes
+draft: 
 ---
 
 Bathers at Asnières, a pointillist painting by Georges Seurat that graces the National Gallery in London, fills its canvas with --- clothes!  The seven boys and men enjoying the sunshine on the banks of the Seine River have on a variety of outfits that prompt several subthemes.

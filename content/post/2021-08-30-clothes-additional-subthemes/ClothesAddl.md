@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Personality,", "Records,", "Expressions", ]
-draft: yes
+draft: 
 ---
 
 The penumbral subthemes of Clothes discussed above arise from four works of art: a [movie culminating with a stunningly dressed Audrey Hepburn](Fair), a [Herrick poem about silken sheen](Ode), a Rolling Stones rebuke of [expensive clothes](Fire), and a painting of variously-clad [bathers and sunbathers](Seurat).  We have a few more subthemes to present.

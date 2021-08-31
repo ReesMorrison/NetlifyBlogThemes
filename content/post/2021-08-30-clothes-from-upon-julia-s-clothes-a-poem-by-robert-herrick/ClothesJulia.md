@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Quality,", "Person Plus,", "Mighty Apparel Industry", ] 
-draft: yes
+draft: 
 ---
 
 Robert Herrick’s poetic adoration of Julia and the wonders of her expensive silks captures the handsomeness of fine clothes.  Long ago, in 1648, he created a timeless, memorable image of flowing, glowing loveliness.  We can draw from the six lines of “Upon Julia's Clothes” several subthemes of Clothes.

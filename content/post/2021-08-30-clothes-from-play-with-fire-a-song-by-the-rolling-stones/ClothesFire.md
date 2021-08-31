@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: []
-draft: yes
+draft: 
 ---
 
 The Rolling Stones start their tough-guy song, Play with Fire, by highlighting a woman’s expensive jewelry and *pretty clothes*, or more precisely the stylish and expensive outfits of an heiress who is attracted to the singer’s machismo.  What she wears marks her as wealthy, educated, and upper class, but immaterial if she flirts with the aggressive tough.  What she wears conveys other subthemes about Clothes.

@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Socioeconomic Class,", "Cultural Norms,", "Budgets and Spending,", "Costumes and Disguises", ]
-draft: yes
+draft: 
 ---
 
 "My Fair Lady," a blockbuster starring Audrey Hepburn (Eliza Dolittle) and Rex Harrison (Prof. Henry Higgins), won eight Academy Awards, including Best Picture, Best Actor, and Best Director.  Toward the end of the movie, in the scene shown below, the uneducated waif in rags has transformed into a regal beauty in a stunning gown, replete with long white gloves, a tiara, slippers and jewels.  The sartorial do-over symbolizes the entire project of Prof. Higgins.  It also suggests more subthemes of Clothes.
