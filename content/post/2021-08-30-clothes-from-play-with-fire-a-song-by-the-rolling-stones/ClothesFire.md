@@ -44,8 +44,8 @@ Promoting varying degrees of sexual attractiveness guides a part of choosing fro
 
 **Charity, Hand-me-down**:  As for the song’s rich mother shafted by her husband, unable to afford [silk](Julia), 
 
-*Now she gets her kicks in Stepney  
-*Not in Knightsbridge anymore
+*Now she gets her kicks in Stepney*  
+*Not in Knightsbridge anymore*
 
 as she has to resort to the humble shops in the poor neighborhood of Stepney rather than the glitzy emporia of Knightsbridge.  If you are poor, you get by on old clothes, gifts, worn outfits, schmatta, Good Will, Salvation Army and its piles of rejected garments, whatever you can manage of tatters that can be foraged.  Consignment shops handle higher-end outfits, but people without money sew repairs, put on patches, and make do with worn-out clothes.  Poverty wears rags.
 
