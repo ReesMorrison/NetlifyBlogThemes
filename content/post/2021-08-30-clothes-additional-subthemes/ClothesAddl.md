@@ -9,7 +9,7 @@ tags: ["Personality,", "Records,", "Expressions", ]
 draft: 
 ---
 
-The penumbral subthemes of Clothes discussed above arise from four works of art: a [movie culminating with a stunningly dressed Audrey Hepburn](Fair), a [Herrick poem about silken sheen](Ode), a Rolling Stones rebuke of [expensive clothes](Fire), and a painting of variously-clad [bathers and sunbathers](Seurat).  We have a few more subthemes to present.
+The penumbral subthemes of Clothes discussed above arise from four works of art: a [movie culminating with a stunningly dressed Audrey Hepburn](https://themesfromart.com/post/2021-08-30-clothes-from-my-fair-lady-a-movie-starring-audrey-hepburn/clothesfair/), a [Robert Herrick poem about silken sheen](https://themesfromart.com/post/2021-08-30-clothes-from-upon-julia-s-clothes-a-poem-by-robert-herrick/clothesjulia/), a Rolling Stones rebuke of [expensive clothes](https://themesfromart.com/post/2021-08-30-clothes-from-play-with-fire-a-song-by-the-rolling-stones/clothesfire/), and a painting of variously-clad [bathers and sunbathers](https://themesfromart.com/post/2021-08-30-clothes-from-bathers-at-asnieres-a-painting-by-georges-seurat/clothesbathers/).  We have a few more subthemes to present.
 
 <!--more-->
 
