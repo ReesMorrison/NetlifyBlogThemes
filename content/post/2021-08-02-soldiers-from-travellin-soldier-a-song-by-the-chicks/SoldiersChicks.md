@@ -61,6 +61,8 @@ But a pretty little girl with a bow in her hair
 
 Source: LyricFind
 
+# <poem lyric end>
+
 **Conscription or Enlistment**:  We aren’t told why a boy, *two days past 18*, has joined the Army, but he probably enlisted.  He was just of age, may or may not have graduated high school, but he was recruited to serve in the military.  Signing bonuses, recruitment stations, and ads on television entice young adults to join our all-volunteer forces.  Conscription, by contrast, is the compulsory induction of individuals into the armed services, where the draft is the procedure by which individuals are chosen for conscription.  During the Vietnam War, between 1964 and 1973, the U.S. military drafted 2.2 million American men out of an eligible pool of 27 million.  If your draft number was low enough, you were subject to conscription.  Many draftees fled the country, sheltered with deferments in college, or sought exemptions of various kinds to avoid service.  A few went to prison, such as Cassius Clay (later, Muhammed Ali), to protest the war in Vietnam and the draft.  In Israel, preferential treatment and privilege is less because nearly everyone who turns 18 must serve two years in the military.  
 
 **Honoring Veterans**:   The young letter-writing soldier died in the jungles or paddies of Vietnam.  For him, recognition of the ultimate sacrifice was brief mention 

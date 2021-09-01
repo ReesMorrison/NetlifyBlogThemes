@@ -63,6 +63,8 @@ But the fighter still remains
 
 [refrain omitted]  
 
+# <poem lyric end>
+
 Listen to [The Boxer by Simon & Garfunkel.](https://www.youtube.com/watch?v=l3LFML_pxlY)
 
 **Errors and Losses**: As the song says, boxers sometimes drop their hands and take punches or the gloves *cut him*.  Contestants in sports are human, and no matter how practiced and experienced they are, they make mistakes.  Sometimes the swing, pitch, or speed of your opponent overcomes you; but you stumble much worse if you commit a so-called unforced error (a mistake in play due to your own failure rather than to the skill or effort of your opponent): the routine volley is botched, the tight end drops the easy pass, the distracted bowler scratches, the forward double dribbles, or the shortstop fires wide to first on a plain vanilla infield roller. Such mistakes especially frustrate athletes when they misfire under pressure. The truth is, sports is a mental game at the upper levels where everyone has strong abilities so both our heads and our hands sometimes betray us.  

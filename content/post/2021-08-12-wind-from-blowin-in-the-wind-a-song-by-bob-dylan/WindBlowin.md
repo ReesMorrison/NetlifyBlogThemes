@@ -44,6 +44,7 @@ That too many people have died?
 
 Source: Musixmatch
 
+# <poem lyric end>
 
 ![Bob Dylan and a remastered version of an album](/media/WindDylan.jpg) 
 Bob Dylan on a remastered version of an album from [Napster] (https://gb.napster.com/artist/bob-dylan/album/blowinin-the-wind-digitally-remastered).

@@ -40,6 +40,7 @@ Nail to the mast her holy flag,
 And give her to the god of storms,—  
    The lightning and the gale!  
 
+# <poem lyric end>
 
 ![USS Constitution](/media/SailsIronsides.jpg) from [bpcr.net](http://www.bpcr.net/documents/Miscellaneous/Restoring_Old_Ironsides.htm)
 

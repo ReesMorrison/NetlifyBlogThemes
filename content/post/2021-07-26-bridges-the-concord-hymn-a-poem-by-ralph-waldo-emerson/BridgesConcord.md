@@ -32,6 +32,8 @@ Spirit, that made those heroes dare
    To die, and leave their children free,  
 Bid Time and Nature gently spare  
    The shaft we raise to them and thee.
+   
+# <poem lyric end>
 
 **Design**:  If we can rely on an artist’s rendering done more than two centuries later, the subsequently *ruined bridge* at Concord barely qualified as a bridge, certainly in comparison to today’s majestic structures.  Here is the painting of the scene recreated by Domenick D'Andrea.
 

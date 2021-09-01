@@ -43,6 +43,8 @@ I will ease your mind
 
 Source: Musixmatch
 
+# <poem lyric end>
+
 **Safety**:  Bridges provide security *when times get rough*, when passage without the bridge would be difficult.  Many people can’t swim across a broad river, and fording one that is tumbling with water could ruin your wagon and load.  Or the bridge passes over difficult terrain to cover.  Above, however, the predictable solidity of the bridge *will lay me down* for you and will *comfort you* and *you’re your part* no matter that white water of life thunders below.  
 
 ![White water under a bridge](/media/BridgesTroubled.jpg) White water under a bridge, from [Dreamstime](https://www.dreamstime.com/stock-photo-bridge-over-troubled-water-above-class-rapids-niagara-river-image71383127).

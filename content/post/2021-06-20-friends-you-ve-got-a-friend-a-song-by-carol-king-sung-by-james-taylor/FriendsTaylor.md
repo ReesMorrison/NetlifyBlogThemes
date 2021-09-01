@@ -65,6 +65,8 @@ And I'll be there, yes, I will
 
 Source: LyricFind
 
+# <poem lyric end>
+
 **Emotions**:  James Taylor’s friend immediately responds to the call for help, *I'll be there, yes, I will*.  He sings calmly, but the warmth of reliable, deep affection glows.  Nobody can make it out here by themself and cold people will 
 
 *hurt you, yes, and desert you*  

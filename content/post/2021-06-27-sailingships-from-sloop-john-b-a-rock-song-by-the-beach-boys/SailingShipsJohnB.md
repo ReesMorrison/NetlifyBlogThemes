@@ -57,6 +57,8 @@ This is the worst trip I've ever been on
 
 Source: LyricFind  
 
+# <poem lyric end>
+
 **Charters and Racing**:  What a wonderful idyl to hire a handsome sloop and a small crew for a vacation in the balmy waters of the Bahamas!   To be sure, accommodations on the John B were tight.  According to Wikipedia, a sloop is a sailboat with a single mast typically having only one headsail in front of it and one mainsail aft of (behind) it.  Offering hardly a yacht or cruise line’s luxury, to be sure, but a wonderful way to enjoy quiet, the salt air, and sunny warm weather.  
  
 ![Here is a modern sloop.](/media/SailsJohnB.jpg) from [TripSavvy]( https://www.tripsavvy.com/types-of-sailboats-and-rigs-2915593).

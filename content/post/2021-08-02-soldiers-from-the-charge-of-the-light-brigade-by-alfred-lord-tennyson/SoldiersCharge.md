@@ -74,6 +74,8 @@ O the wild charge they made!
 Honour the charge they made!  
 Honour the Light Brigade,  
    Noble six hundred!
+   
+# <poem lyric end>
 
 ![Charge of the Light Brigade](/media/SoldiersCharge.jpg) from [Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Charge-Of-The-Light-Brigade/).
 

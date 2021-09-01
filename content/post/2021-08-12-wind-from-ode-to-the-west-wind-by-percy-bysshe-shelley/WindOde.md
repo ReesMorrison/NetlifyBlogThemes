@@ -113,6 +113,8 @@ Be through my lips to unawaken'd earth
 The trumpet of a prophecy! O Wind,   
 If Winter comes, can Spring be far behind?
 
+# <poem lyric end>
+
 **Weather**:   The second stanza of the poem sketches weather with windy references such as *Angels of rain and lightning* as well as *Black rain, and fire, and hail will burst*.  Our local weather depends crucially on wind flows.  Currents of air can lead to parched land or flooded land; they can disperse smog or tiptoe in fog, or can clog us with dust and perfume the air.  Thunderstorms, hail, [tornadoes](https://themesfromart.com/post/2021-08-12-wind-from-the-wizard-of-oz-a-movie-with-judy-garland/windoz/) and blizzards, thermal inversions and polar vertexes are all wind-borne or wind-caused.  Wind spreads above us heat domes and *Loose clouds*.  Updrafts of warm humid air burden those clouds that cool and condense the water which then “droppeth as the gentle rains from heaven.”  What we feel, see and hear when we step outside we owe to wind.
 
 **Comfort**:  Thank goodness for the cooling boon of the wind!  Languid waving fronds refreshed Cleopatra.   Breezes evaporating a wet cloth hung at a window cooled people years ago, before electricity powered fans, ceiling fans and air conditioners.   Air conditioning would confer no relief without the artificially chilled air blowing through our buildings.  In the U.S., the South thrives because of, indeed could hardly function in the summer without, vast streams of chilled wind.  Now too, handheld fans that run on batteries spritz and cool us individually.  
