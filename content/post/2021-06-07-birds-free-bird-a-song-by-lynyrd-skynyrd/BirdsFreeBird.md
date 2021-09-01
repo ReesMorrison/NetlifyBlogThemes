@@ -47,6 +47,8 @@ Lord help me, I can't change
 Lord, I can't change  
 Won't you fly high, free bird, yeah  
 
+# <poem lyric end>
+
 [Here is an 11-minute performance of Free Bird by Lynyrd Skynyd way back in 1977 at the Oakland Coliseum](https://www.youtube.com/watch?v=QxIWDmmqZzY).
 
 **Roaming Freely**: Birds fly anytime, anywhere, and any distance for as long as they have energy.  In their natural habitat the flits and flights of birds are completely unfettered: “free as a bird” goes the saying.  Like the singer, they move on whenever they choose *’Cause I’m as free as a bird as a bird now*.  Unlike a plane, car or [train](https://themesfromart.com/post/2021-05-10-trains-additional-subthemes/trainsaddl/), no roads, railway tracks, or airports restrict where they start and end or how they travel.  Because birds can fly, they are symbols of freedom with their ability to quickly and easily escape from troubles, dangers, or complications.  This boy leaves his girlfriend even though he *knows, I’m to blame*.
@@ -62,6 +64,7 @@ A rock song heavier on music and live performance than on the quality of its lyr
 If you are interested in other thoughts on the concept “Birds,” consider [other subthemes](Add) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are: 
+
 * Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
 * Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)
 * Chance: [The Winner Takes It All](https://themesfromart.com/post/2021-03-14-chancechurch/chancechurch/)

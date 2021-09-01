@@ -5,7 +5,7 @@ date: '2021-08-30'
 slug: []
 categories:
   - Rock & Roll
-tags: []
+tags: ["Attractiveness, Sex Appeal,", "Nakedness,", "Charity, Hand-me-down", ] 
 draft: 
 ---
 
@@ -35,6 +35,8 @@ Here are the [official video](https://www.youtube.com/watch?v=l3LFML_pxlY) and t
 *Or start living with your mother*  
 *So don't play with me, 'cause you're playing with fire*  
 *So don't play with me, 'cause you're playing with fire*  
+
+# <poem lyric end>
 
 **Attractiveness, Sex Appeal**:   The song starts with admiration for a woman’s *pretty clothes*.  We all want to look our best, and our clothing, if clean, chosen well and worn to complement our physical features, goes a long way.  Maybe it’s a [white suit of Cybill Shepherd](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/) or posh spectators at [horse races](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/).  Whatever Warren Beaty [as Clyde Barrow wore](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/), the ladies liked it.  Knowing your outfit looks good to the people you care about gives you confidence;  you too can demurely float down a staircase in movie-star looks(https://themesfromart.com/post/2021-08-30-clothes-from-my-fair-lady-a-movie-starring-audrey-hepburn/clothesfair/).  Marketing campaigns, magazines by the shelf-full, bloggers and other influencers devote themselves to maximizing the appeal of clothes and those who wear them.
 
