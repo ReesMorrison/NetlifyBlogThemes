@@ -56,6 +56,7 @@ Yes, and some people claim
 That there's a woman to blame  
 And I know, it's my own damn fault  
 
+# <poem lyric end>
 
 ![margarita in glass](/media/AlcoholMargarita.jpg)
 
@@ -113,9 +114,9 @@ Why he has sunk to this forlorn state we never learn, but the constant theme is 
 This slice-of-life song brings up positives of alcohol.  It tastes good and it brings a pleasant buzz to people as it dulls the sharp edges of life.  But the song also vividly conveys or hints at the deleterious effects of too much alcohol: poor health, increased risks, sloppy decisions, diminished self-control, and physical addiction.
 
 
-To consider subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
-We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are:
+We invite you to read about other rock songs discussed on this blog, and their themes.  Here are some of them:
 
 * Alcohol: [Margaritaville](https://themesfromart.com/post/2021-02-01-alcohol-margaritaville-buffet/alcoholmargarita/)
 * Beauty: [The First Time Ever I Saw Your Face](https://themesfromart.com/post/2021-04-21-beautyflack/beautyflack/)

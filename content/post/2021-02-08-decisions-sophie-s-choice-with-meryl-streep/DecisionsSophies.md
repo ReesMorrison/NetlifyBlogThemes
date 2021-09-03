@@ -38,7 +38,7 @@ To follow one path confronts [Frost’s hiker](https://themesfromart.com/blog/20
 
 Although the movie title is “Sophie’s Choice,” the horror branded into this scene should not be considered a “choice” by the young mother.  Choice implies picking among favorable possibilities, such as “I’ll have chocolate ice cream,” which is far from the profoundly negative consequences forced so rapidly by the SS officer on the mother.  She had neither sufficient time, leverage, or knowledge to consider how to respond and she had to wrestle with her most profound values: her body, her life, her children. 
 
-To consider subthemes of Decisions that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of Decisions that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 

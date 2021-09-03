@@ -11,10 +11,7 @@ description: How a scene from the movie "Who's Afraid of Virginia Woolf", direct
 ---
 
 At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  
-
 <!--more-->
-
-If you would like to watch the 1:41 scene as it was directed by Mike Nichols, [here it is on YouTube.](https://www.youtube.com/watch?v=nInE5TITzE8 "Scene on YouTube").  The dialogue below comes from [script-o-rama.](http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html) 
 
 Martha: I actually fell for him.  It! That! There!  
 
@@ -53,6 +50,9 @@ George: I said stop it!  [Smashes fist down and sound of glass breaking]
   
 Martha: I hope that was an empty bottle.  You can't afford to waste good liquor.  Not on your salary! Not on an associate professor's salary!
 
+# <poem lyric end>
+
+If you would like to watch the 1:41 scene as it was directed by Mike Nichols, [here it is on YouTube.](https://www.youtube.com/watch?v=nInE5TITzE8 "Scene on YouTube").  The dialogue above comes from [script-o-rama.](http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html) 
 
 Martha’s scorning tirade against her husband holds nothing back; the liquor in her has unloosed her raging anger and biting attacks.  She will say anything, including the most hurtful charges against his capabilities (*A great big, fat flop!*) and indeed his manhood (*Georgie-boy*). Her diminished or non-existent inhibition characterizes many people who drink more alcohol than they can handle.  They can say or do things that when sober they wouldn’t contemplate.
 
@@ -68,7 +68,7 @@ Martha’s scorning tirade against her husband holds nothing back; the liquor in
 
 Difficult as it may be to endure this movie scene of marital enmity, the background messages regarding alcohol seep through. Often when people drink they unearth aspects of themselves that they keep hidden under normal circumstances.  Anger, attacks and irrationality bubble to the surface and drinkers can’t control blurting them out.  Sometimes, lack of self-control degenerates into physical or verbal abuse.  Someone who is drunk can’t be reasoned with and may sink to the most primal modes of might makes right and anything goes.  Finally, while it is easy to find cheap versions of any liquor, if someone savors brands and quality distilled spirits, they must be prepared to pay handsomely for the pleasure.  The conviviality, good feeling and smooth taste of emptying the glass, as well as the negative mood and behavior changes, empties the pocket.
 
-To consider subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of alcohol that are not closely associated with this movie scene or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 

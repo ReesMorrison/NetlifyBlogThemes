@@ -77,6 +77,7 @@ And there was nothing in the town below—
 Where strangers would have shut the many doors   
 That many friends had opened long ago.  
 
+# <poem lyric end>
 
 ![JugPicture](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/AlcoholFloodJug.png)
 
@@ -104,9 +105,9 @@ Old Eben Flood filled with regret as he considered another quaff, perhaps becaus
 In this foray into the sociology, physiology, and psychology of drinking alcohol, the poem delves into the guilty pleasure that elicits concerns about being criticized by non-drinkers, the bonhomie of raising a glass to and with others, the disinhibition of song that often mixes with drink, and the pleasure while the glow lasts.  Toward the end of his lonely life, Eben Flood finds solace and escape in the jug, but reality takes over at the end.
 
 
-To consider subthemes of Alcohol that do not associate closely with this poem or the other three genre of art, read [additional subthemes](https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of Alcohol that do not associate closely with this poem or the other three genre of art, read [additional subthemes](https://themesfromart.com/post/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
-We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
+We invite you to read about other poems discussed on this blog, and their themes.  Here are some of them: 
 
 * Alcohol: [Mr. Flood’s Party](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)
 * Beauty: [She Walks in Beauty](https://themesfromart.com/post/2021-04-21-beauty-she-walks-in-beauty-a-poem-by-lord-byron/beautybyron/)
@@ -118,5 +119,3 @@ We invite you to read about other poems discussed on this blog, and their themes
 * Time: [To His Coy Mistress](https://themesfromart.com/post/2021-03-08-time-to-his-coy-mistress-by-andrew-marvell/timecoy/)
 * Trains: [The Railway Train](https://themesfromart.com/post/2021-05-10-trains-from-the-railway-train-a-poem-by-emily-dickineson/trainsdickinson/)   
 * Work: [Stopping by Woods on a Snowy Evening](https://themesfromart.com/post/2021-02-26-worksnowy/worksnowy/)
-
-==

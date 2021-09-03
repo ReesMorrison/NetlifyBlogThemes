@@ -40,6 +40,7 @@ Two roads diverged in a wood, and I—
 I took the one less traveled by,  
 And that has made all the difference.  
 
+# <poem lyric end>
 
 **Coin Flips**:  *Long I stood*.  When pros and cons feel balanced and the traveler is on the fence, so to speak, we can flip a coin or let a random event rule: “Whichever path has the next bird call will be the one I head off on.”  When it’s a toss-up, yet we have to do one or the other, if we don’t care about seemingly comparable choices, we can cast lots.   This walker in the woods couldn’t decide which way to go, but a perception of the comparative yellowness of grass tipped the delicate balance.
 
@@ -62,7 +63,7 @@ On the other hand, when we regret decisions we took, we find it easier to blame 
 Frost’s poem of the seemingly innocuous option by the traveler reveals deeper aspects of decisions.   People sometimes can’t see their way clear so they do “eeny, meeny, miney, moe” and then conjure up something defensible to say about a justification other than a tie breaker picked the one.  Whether deeply pondered or quickly decided, decisions foreclose what might have happened and can make all the difference.
 
 
-To consider subthemes of Decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of Decisions that are not closely associated with this poem or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 

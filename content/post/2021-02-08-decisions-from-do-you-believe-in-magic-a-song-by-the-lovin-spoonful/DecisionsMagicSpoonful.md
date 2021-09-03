@@ -45,6 +45,7 @@ And say yes to one and let the other one ride
 There's so many changes, and tears you must hide  
 Did you ever have to finally decide?  
 
+# <poem lyric end>
 
 ![Photo of Lovin' Spoonful](/media/DecisionsMagic.png)
 
@@ -69,7 +70,7 @@ Hurt feelings or emotional loss don’t necessarily line up with loss of power, 
 
 The most difficult decisions revolve around emotions and intuitions that we often can’t articulate.   That makes them hard, as our heart duels with our head.  Meanwhile, as this modest song intimates, other people lose out when we eventually make up our minds.
 
-To consider subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of decisions that are not closely associated with this rock song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
 We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are:
 

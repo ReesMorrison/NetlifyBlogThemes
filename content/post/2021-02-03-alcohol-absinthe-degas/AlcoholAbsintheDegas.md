@@ -48,9 +48,9 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
 
 Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.
 
-To consider subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
+If you are interested in subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/alcohol-wide-angle/).  Read this for more about [Themes from Art](http://bit.ly/3sRXopI). 
 
-We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
+We invite you to read about other paintings discussed on this blog, and their themes.  Here are some of them: 
 
 * Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/)
 * Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/)
