@@ -9,7 +9,7 @@ tags: ["In Art and Literature,", "Records,", "Expressions", ]
 draft: 
 ---
 
-The subthemes of Dancing discussed above arise from four works of art: a [movie soaked in fine dancing](Rain), a Roethke poem of a [father’s vigorous dancing](Ode), a seventeen-year-old girl who [blossoms when dancing](ABBA), and a [Renoir](Renoir) of a French couple on the dance floor. We have a few more subthemes to present.
+The subthemes of Dancing discussed above arise from four works of art: a [movie soaked in fine dancing](https://themesfromart.com/post/2021-09-10-dancing-from-singin-in-the-rain-a-movie-starring-gene-kelley-and-debbie-reynolds/dancingrain/), a Roethke poem of a [father’s vigorous dancing](https://themesfromart.com/post/2021-09-10-dancing-from-my-papa-s-waltz-a-poem-by-theodore-roethke/dancingroethke/), a seventeen-year-old girl who [blossoms when dancing](https://themesfromart.com/post/2021-09-10-dancing-from-dancing-queen-a-song-by-abba/dancingabba/), and a [Renoir](https://themesfromart.com/post/2021-09-09-dancing-from-dance-at-bougival-a-painting-by-pierre-august-renoir/dancingbougival/) of a French couple on the dance floor. We have a few more subthemes to present.
 
 <!--more-->
 

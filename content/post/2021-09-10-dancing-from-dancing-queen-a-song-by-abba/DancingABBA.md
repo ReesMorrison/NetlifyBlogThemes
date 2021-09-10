@@ -58,14 +58,14 @@ Source: LyricFind
 
 **Enjoyable**:  The *dancing queen* exults in her time on the dance floor.  She flourishes, *Having the time of your life*.  Such is the power and pull of dancing: it is flat-out fun.  It’s also often free, as folks dance around the living room or in the street.  Dancing gives people a way to meet, enjoy others, and be caught up in the moment while expressing their mood to throbbing music.  The memories of being whirled around by your [father](Roethke) in the kitchen never leave you.  Rules are minimal, flexibility is maximized, and the atmosphere of the dance floor can be electric.  
 
-Small kids prance, hop and spin when they are excited and happy; grown up kids, [perhaps transported in the rain](Rain), let it all hang out and forget their cares.  Just dance!  Snoopy of Peanuts fame flaps his ears and leaps!  Nearly everyone finds happiness dancing, and some of us revel in it.  Creative, expressive, together or apart – to dance is to enjoy.  
+Small kids prance, hop and spin when they are excited and happy; grown up kids, [perhaps transported in the rain](https://themesfromart.com/post/2021-09-10-dancing-from-singin-in-the-rain-a-movie-starring-gene-kelley-and-debbie-reynolds/dancingrain/), let it all hang out and forget their cares.  Just dance!  Snoopy of Peanuts fame flaps his ears and leaps!  Nearly everyone finds happiness dancing, and some of us revel in it.  Creative, expressive, together or apart – to dance is to enjoy.  
 
 **Sensual**:  Dancing for pleasure can be stimulating for the dancer, a turn-on for the partner, and arousing for observers.  The nubile Dancing Queen likes being lusted for:
 
 *You're a teaser, you turn 'em on*  
 *Leave 'em burning and then you're gone*
 
-In its twirls, bends, and reaches, in the swirl of hair and dramatic turns, bodies show off their charms and physical attraction comes into full play.  There can be excitement unselfconsciously delighting other or conscious exhibition and teasing.  Slow, holding tight or [cheek to cheek](Renoir), smoldering, raising pulses and body heat -- dancing is sexy.  
+In its twirls, bends, and reaches, in the swirl of hair and dramatic turns, bodies show off their charms and physical attraction comes into full play.  There can be excitement unselfconsciously delighting other or conscious exhibition and teasing.  Slow, holding tight or [cheek to cheek](https://themesfromart.com/post/2021-09-09-dancing-from-dance-at-bougival-a-painting-by-pierre-august-renoir/dancingbougival/), smoldering, raising pulses and body heat -- dancing is sexy.  
 
 To pulsing lights and primitive beats, swaying, sweating bodies, and clinging clothes add even a little alcohol -- not to mention MDMA (ecstasy) or other club drugs – and you’re caught up in the rave and electronic dance music scene.  The hypnotic ambiance winds everybody up.  It can be foreplay set to music.  Even more risqué, explicitly erotic dancing may be the among the world’s oldest form of entertainment: belly dancing, pole dancing, striptease to music, leggy can-cans, and the biblical Dance of the Seven Veils by Salome for Herod II come to mind.  They all exploit rhythm, enchanting movement, and good-looking bodies.
 
@@ -82,7 +82,7 @@ Proms are, well, prominent as the culmination of high school social life.  In tr
 
 A young girl, only 17, throbs with excitement as she awaits a night of dancing.  She loves the freedom of movement and expression, never gets tired even with the most energetic moves, cherishes the sexl appeal that she radiates, and hopes in an undefined way to meet the boy she will love.  This is a danceable song about the joy of dancing.
 
-If you are interested in further thoughts on the concept “Dancing,” consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in further thoughts on the concept “Dancing,” consider [other subthemes](https://themesfromart.com/post/2021-09-09-dancing-additional-subthemes/dancingaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other songs discussed on this blog, and their themes.  Here they are: 
 
@@ -98,7 +98,7 @@ We invite you to read about other songs discussed on this blog, and their themes
 * Friends: [You've Got a Friends](https://themesfromart.com/post/2021-06-20-friends-you-ve-got-a-friend-a-song-by-carol-king-sung-by-james-taylor/friendstaylor/), by James Talor
 * Sailing Ships: [Sloop John B](https://themesfromart.com/post/2021-06-27-sailingships-from-sloop-john-b-a-rock-song-by-the-beach-boys/sailingshipsjohnb/), by The Beach Boys
 * Silence: [The Sounds of Silence](https://themesfromart.com/post/2021-04-08-silencesounds/silencesounds/), by Simon & Garfunkel
-* Soldiers: [Travellin' Soldier], by the Chicks
+* Soldiers: [Travellin' Soldier](https://themesfromart.com/post/2021-08-02-soldiers-from-travellin-soldier-a-song-by-the-chicks/soldierschicks/), by the Dixie Chicks
 * Sports: [The Boxer](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/), by Simon & Garfunkel
 * Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/), by The Byrds
 * Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/), by Willie Nelson

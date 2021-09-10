@@ -33,24 +33,24 @@ With a palm caked hard by dirt,
 Then waltzed me off to bed   
 Still clinging to your shirt.
 
-**Ceremonies**:   Contrary to good child-raising technique, the boisterous dad gins up the small boy just before he *waltzed me off to bed.*  We surmise that that was a frequent form of horse-play in the household, nothing special, but a long-remembered, small, father-son ceremony: the off-to-bed waltz.  A wide variety of notable events include dancing.  Many wedding parties in the United States start with a father-daughter and mother-son turn around the floor.  Almost certainly reception party fills the dance floor with celebrants.  Wedding parties and dancing go together like Fred Astaire and Ginger Rogers.  Multi-day Indian weddings also feature dancing as do such celebrations as bar and bat mitzvahs.  In all these special events, reluctant or eager young attendees find themselves on the floor.  Let us not forget Inaugural Balls.     
+**Ceremonies**:   Contrary to good child-raising technique, the boisterous dad gins up the small boy just before he *waltzed me off to bed.*  We surmise that that was a frequent form of horse-play in the household, nothing special, but a long-remembered, small, father-son ceremony: the off-to-bed waltz.  In addition to [social dancing](https://themesfromart.com/post/2021-09-09-dancing-from-dance-at-bougival-a-painting-by-pierre-august-renoir/dancingbougival/), a wide variety of notable events include dancing.  Many wedding parties in the United States start with a father-daughter and mother-son turn around the floor.  Almost certainly the reception party fills the dance floor with celebrants.  Wedding parties and dancing go together like Fred Astaire and Ginger Rogers.  Multi-day Indian weddings also feature dancing as do such celebrations as bar and bat mitzvahs.  In all these special events, reluctant or eager young attendees find themselves on the floor.  Let us not forget Inaugural Balls.     
 
 **Rites**:  Readers appreciate that the poem represents more than just clomping around the kitchen table; the symbolic, emotional act by the father, deeply felt by the son was a familial rite.  Ethnographers and other social scientists have chronicled numerous examples of rites among indigenous people dancing for a purpose.  They might have been praying for fertile crops or plentiful buffalo, seeking rain, honoring a new chieftain, warding off evil or disease, or commemorating a rite of passage.  For example, originally, the hula was a mimetic, religious dance performed by trained dancers before the king or ordinary people to promote fecundity, to honor the gods, or to praise the chiefs.  Nothing like a celebratory rite that turns into a bacchanalia to get folks dancing!
 
 **Music**:  No one dances a capella; instead, music, energizing, frantic, or soothing, sets the tempo for dance moves as it touches our inner chord.  Music can be hypnotic as it permeates your body and sets the metronome for the fun.  It is the pulsing continuo that the feet and body follow.
 
-As the [Dancing Queen](Abba) feels acutely
+As the [Dancing Queen](https://themesfromart.com/post/2021-09-10-dancing-from-dancing-queen-a-song-by-abba/dancingabba/) feels acutely
 
 *Night is young and the music's high*  
 *With a bit of rock music*.
 
-The *music’s high* alludes to the intoxication and dopamine rush of a catchy tune plus a fetching partner.
+The *music’s high* alludes to the intoxication and dopamine rush of a catchy tune plus a fetching partner -- or the song and the tune in a [downpour](https://themesfromart.com/post/2021-09-10-dancing-from-singin-in-the-rain-a-movie-starring-gene-kelley-and-debbie-reynolds/dancingrain/).
 
 &nbsp;
 
 A father and a son waltzing around a kitchen before bedtime, Roethke’s imagery makes vivid the energy, the affection, and the emotional force of this nightly far-from routine.  It became invested with the status, the mythic role, of a rite even if the music was only his father’s humming and head percussion.  
 
-If you are interested in further thoughts on the concept “Dancing,” consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
+If you are interested in further thoughts on the concept “Dancing,” consider [other subthemes](https://themesfromart.com/post/2021-09-09-dancing-additional-subthemes/dancingaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, “About.”
 
 We invite you to read about other poems discussed on this blog, and their themes.  Here they are: 
 
