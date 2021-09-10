@@ -7,7 +7,7 @@ slug: []
 categories:
   - Movie
 tags: ["Physical and Mental Exertion,", "Performance,", "Instruments and Bands",]
-draft: yes
+draft: 
 ---
 
 The dance numbers in *Singing in the Rain* have reached iconic status.  Particularly, Don Lockwood’s (Gene Kelly) flamboyant and romantic traipsing through the rain expresses his valentine for Kathy Selden (Debbie Reynolds). Who minds the rain if you’re in love and can dance spectacularly?  More themes of Dancing follow from this movie.

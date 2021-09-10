@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Enjoyable,", "Sensual,", "Dating and Courting",]
-draft: yes
+draft:
 ---
 
 ABBA’s catchy hit, *Dancing Queen*, brings us into an eagerly anticipated Friday night where a teenage girl yearns to sparkle and be sultry under the disco ball.  Dancing gives her freedom, self-expression, and power.  Enjoy the [performance](https://www.youtube.com/watch?v=G8O79uP0JmM)!

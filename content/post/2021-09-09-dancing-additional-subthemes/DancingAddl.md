@@ -6,10 +6,10 @@ slug: []
 categories:
   - Wide Angle
 tags: ["In Art and Literature,", "Records,", "Expressions", ]
-draft: yes
+draft: 
 ---
 
-The subthemes of Dancing discussed above arise from four works of art: a [movie soaked in fine dancing](Rain), a Roethke poem of a [father’s vigorous dancing](Ode), a seventeen-year-old girl who [loves to dance](ABBA), and a [Renoir](Renoir) of a French couple on the  dance floor. We have a few more subthemes to present.
+The subthemes of Dancing discussed above arise from four works of art: a [movie soaked in fine dancing](Rain), a Roethke poem of a [father’s vigorous dancing](Ode), a seventeen-year-old girl who [blossoms when dancing](ABBA), and a [Renoir](Renoir) of a French couple on the dance floor. We have a few more subthemes to present.
 
 <!--more-->
 

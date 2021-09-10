@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Ceremonies,", "Rites,", "Music",]
-draft: yes
+draft:
 ---
 
 Theodore Roethke’s short poem, “My Papa’s Waltz,” recalls exuberant evening frolics in the kitchen with a Papa who is slightly tipsy.  The energy, the affection, the playfulness of the clumsy dance, frowned on by Mother, remains vivid for the little boy.  The poem engenders other sub-themes of Dancing.

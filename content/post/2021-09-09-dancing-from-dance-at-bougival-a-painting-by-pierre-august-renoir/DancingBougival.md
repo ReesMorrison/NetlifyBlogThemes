@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Norms and Styles,", "Dress,", "Associations with Nations", ]
-draft: yes
+draft: 
 ---
 
 Renoir’s canvas, Dance at Bougival, glows with a young couple in the close embrace of a slow dance.  Behind them, others at the outdoor event in that small French city are watching, talking and socializing while the two lovers are caught up in the intimacy of the music and the tender moment.  What are other themes of Dancing we can pick out from this painting?
