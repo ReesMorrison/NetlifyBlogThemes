@@ -56,6 +56,8 @@ And when you get the chance
 
 Source: LyricFind
 
+# <poem lyric end>
+
 **Enjoyable**:  The *dancing queen* exults in her time on the dance floor.  She flourishes, *Having the time of your life*.  Such is the power and pull of dancing: it is flat-out fun.  It’s also often free, as folks dance around the living room or in the street.  Dancing gives people a way to meet, enjoy others, and be caught up in the moment while expressing their mood to throbbing music.  The memories of being whirled around by your [father](Roethke) in the kitchen never leave you.  Rules are minimal, flexibility is maximized, and the atmosphere of the dance floor can be electric.  
 
 Small kids prance, hop and spin when they are excited and happy; grown up kids, [perhaps transported in the rain](https://themesfromart.com/post/2021-09-10-dancing-from-singin-in-the-rain-a-movie-starring-gene-kelley-and-debbie-reynolds/dancingrain/), let it all hang out and forget their cares.  Just dance!  Snoopy of Peanuts fame flaps his ears and leaps!  Nearly everyone finds happiness dancing, and some of us revel in it.  Creative, expressive, together or apart – to dance is to enjoy.  
