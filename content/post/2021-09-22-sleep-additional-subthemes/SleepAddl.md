@@ -9,7 +9,7 @@ tags: ["Research,", "Records,", "Expressions",]
 draft:
 ---
 
-The subthemes of Sleeping discussed above arise from a [movie about late-night romance](Sleepless), Yeats’ poetic vision of a [monster awakening](Second), a [lullaby for children in Africa](Lion), and a [van Gogh](Siesta) of reapers napping at mid-day.   We have a few more subthemes to present that don’t link so directly to any of the four works of art.
+The subthemes of Sleeping discussed above arise from a [movie about late-night romance](https://themesfromart.com/post/2021-09-22-sleep-from-sleepless-in-seattle-a-movie-starring-tom-hanks-and-meg-ryan/sleepsleepless/), Yeats’ poetic vision of a [monster awakening](https://themesfromart.com/post/2021-09-22-sleep-from-the-second-coming-a-poem-by-william-butler-yeats/sleepsecond/), a [lullaby for children in Africa](https://themesfromart.com/post/2021-09-22-sleep-from-the-lion-sleeps-tonight-a-song-by-the-tokens/sleeplion/), and a [van Gogh](https://themesfromart.com/post/2021-09-22-sleep-from-the-siesta-a-painting-by-vincent-van-gogh/sleepsiesta/) of reapers napping at mid-day.   We have a few more subthemes to present that don’t link so directly to any of the four works of art.
 
 <!--more-->
 

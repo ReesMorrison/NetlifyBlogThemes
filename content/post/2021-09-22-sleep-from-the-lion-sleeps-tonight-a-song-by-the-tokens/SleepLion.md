@@ -38,13 +38,13 @@ The lion sleeps tonight
 
 [refrain omitted]
 
-Source: Musixmatch  The Lion Sleeps Tonight lyrics © Abilene Music, T M B G Music, Luigi Creatore Music, Hugo Peretti Music, Abilene Music Inc, Hjp Music
+Source: Musixmatch  The Lion Sleeps Tonight lyrics © Abilene Music, TMBG Music, Luigi Creatore Music, Hugo Peretti Music, Abilene Music Inc, Hjp Music
 
 # <poem lyric end>
 
-**Children**:  Children want to be awake; they thrum with excitement and happiness so much that they reject going to sleep.  Worse, dark and quiet and being alone in a bed can be scary; who knows what monsters lurk underneath or outside?  Parents develop rituals and patterns to calm their children to settle down to sleep, perhaps by snuggling, telling them stories, or singing to them.  A child may have a favorite doll or blanket that soothes them if they worry about a lion or other [rough beast](Second).  Night lights reassure small ones as does hypnotic music.  When morning eventually comes, however, children tumble out of bed, ready to start their morning.
+**Children**:  Children want to be awake; they thrum with excitement and happiness so much that they reject going to sleep.  Worse, dark and quiet and being alone in a bed can be scary; who knows what monsters lurk underneath or outside?  Parents develop rituals and patterns to calm their children to settle down to sleep, perhaps by snuggling, telling them stories, or singing to them.  A child may have a favorite doll or blanket that soothes them if they worry about a lion or other [rough beast](https://themesfromart.com/post/2021-09-22-sleep-from-the-second-coming-a-poem-by-william-butler-yeats/sleepsecond/).  Night lights reassure small ones as does hypnotic music.  When morning eventually comes, however, children tumble out of bed, ready to start their morning.
 
-Not so with older children.  Teenagers are notorious for reversing the preferred sleep patterns of their younger siblings and parents.  Life offers too much fun to waste it with shut eye!   They easily and gladly stay up until the wee hours and snooze soundly ‘til noon; their dull parents retire at 9:30 PM and arise at 6:00 AM, may struggle with bouts of [insomnia during the night](Sleepless) and may even need a [siesta nap](Siesta).  College dorm excitement gets underway past 10:00 PM!
+Not so with older children.  Teenagers are notorious for reversing the preferred sleep patterns of their younger siblings and parents.  Life offers too much fun to waste it with shut eye!   They easily and gladly stay up until the wee hours and snooze soundly ‘til noon; their dull parents retire at 9:30 PM and arise at 6:00 AM, may struggle with bouts of [insomnia during the night](https://themesfromart.com/post/2021-09-22-sleep-from-sleepless-in-seattle-a-movie-starring-tom-hanks-and-meg-ryan/sleepsleepless/) and may even need a [mid-afternoon nap](https://themesfromart.com/post/2021-09-22-sleep-from-the-siesta-a-painting-by-vincent-van-gogh/sleepsiesta/).  College dorm excitement gets underway past 10:00 PM!
 
 **Hibernation**:  Lions don’t hibernate, but many animals sleep through the cold months when food is scarce.  Their metabolism drops dramatically, and they stay curled in their lair until warmth revives them.   Hibernation may last days, weeks, or months—depending on the species, ambient temperature, time of year, and the animal's condition. Before entering hibernation, animals need to eat enough to last through the dormant period.  
 
@@ -58,7 +58,7 @@ So-called “energy drinks” combine big dollops of caffeine with stunning amou
 
 When the big cat sleeps, the village can relax, and children can fall asleep.  Lions never hibernate so constant watchfulness in the nearby villages is crucial.   Better than keeping awake because of a fear of felines, coffee brings alertness, energy drinks concentrate bulk caffeine and sugar, and some prescription drugs keep the midnight oil burning even longer.
 
-If you are interested in further thoughts on the concept Sleeping, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept Sleeping, consider [other subthemes](https://themesfromart.com/post/2021-09-22-sleep-additional-subthemes/sleepaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other songs discussed on this blog, and their themes.  Here they are: 
 
