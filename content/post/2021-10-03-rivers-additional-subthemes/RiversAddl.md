@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Miscellaneous Associations,", "Records,", "Expressions",]
-draft: yes
+draft: 
 ---
 
 The subthemes of Rivers discussed above arise from a [movie symbolized by fly fishing](Runs), Coleridge’s vision of a [capital city and its river Alph](Khan), a [symbolic ferry](Ferry), and a [Pissarro painting](Pissarro) of the Seine River in central Paris.   We consider more subthemes that do not link so directly to any of the four works of art.

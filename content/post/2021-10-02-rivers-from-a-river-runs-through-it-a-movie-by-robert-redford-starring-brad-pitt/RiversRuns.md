@@ -7,7 +7,7 @@ slug: []
 categories:
   - Movie
 tags: ["Boundaries,", "Potable Water,", "Drying Up,", "Pollution",]
-draft: yes
+draft: 
 ---
 
 *A River Runs Through It*, directed by Robert Redford and starring Brad Pitt, gifts us with scenes of  pristine Montana rivers in Edenic grandeur.  Beautiful vistas abound of fly fishing by the rocks and eddies of inviting waters.  Here is a [trailer](https://www.youtube.com/watch?v=OsIolBViUmc) to remind you of the movie.  And, here are subthemes of Rivers we reeled in.

@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Transportation,", "Floods,", "Entertainment and Sports",]
-draft: yes
+draft: 
 ---
 
 Camille Pissarro painted the Seine River in Paris as it languidly passed before the Louvre.  We see levees, barges, bridges, and piers among the accessories of that famous river.  Several aspects of Rivers as a theme emerges from this impressionist work of art.

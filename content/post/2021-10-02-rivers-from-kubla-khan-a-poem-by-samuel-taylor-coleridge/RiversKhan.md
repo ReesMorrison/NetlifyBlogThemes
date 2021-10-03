@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Mythology and Religion,", "Government Regulation,", "Battles,", "Hydroelectric Power",]
-draft: yes
+draft: 
 ---
 
 Supposedly while under the influence of laudanum, Samuel Taylor Coleridge dreamed about a lengthy, but upon recovering could only recall the 54 lines of his famous poem, *Kubla Khan*.  It begins with a river, a river invested with portentous power and divine significance.  We can draw out various sub-themes of River.

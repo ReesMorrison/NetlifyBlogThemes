@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Bridges, Ferries and Fords,", "Cities and Industry,", "Irrigation, Farming and Fishing",]
-draft: yes
+draft: 
 ---
 
 In 1965, a British band released a song with a name and lyrics referring to the river that flows through Liverpool, the Mersey, and a ferry service that crosses it.  The song simply and powerfully speaks of home, of comfort, of friends and feeling safe in a harsh world.   Click here to listen to the [song](https://www.youtube.com/watch?v=08083BNaYcA).  Other river-related subthemes emerge.
