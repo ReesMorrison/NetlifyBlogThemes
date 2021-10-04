@@ -9,7 +9,7 @@ tags: ["Miscellaneous Associations,", "Records,", "Expressions",]
 draft: 
 ---
 
-The subthemes of Rivers discussed above arise from a [movie symbolized by fly fishing](Runs), Coleridge’s vision of a [capital city and its river Alph](Khan), a [symbolic ferry](Ferry), and a [Pissarro painting](Pissarro) of the Seine River in central Paris.   We consider more subthemes that do not link so directly to any of the four works of art.
+The subthemes of Rivers discussed above arise from a [movie symbolized by bucolic fly fishing](https://themesfromart.com/post/2021-10-02-rivers-from-a-river-runs-through-it-a-movie-by-robert-redford-starring-brad-pitt/riversruns/), Coleridge’s vision of a [capital city and its river Alph](https://themesfromart.com/post/2021-10-02-rivers-from-kubla-khan-a-poem-by-samuel-taylor-coleridge/riverskhan/), a [symbolic ferry](https://themesfromart.com/post/2021-10-02-rivers-from-ferry-cross-the-mersey-a-song-by-gerry-the-pacemakers/riversferry/), and a [Pissarro painting](https://themesfromart.com/post/2021-10-03-rivers-from-the-seine-and-the-louvre-a-painting-by-camille-pissarro/riversseine/) of the Seine River in central Paris.   We consider more subthemes that do not link so directly to any of the four works of art.
 
 <!--more-->
 
