@@ -5,7 +5,7 @@ date: '2021-05-03'
 slug: []
 categories:
   - Wide Angle
-tags: ["Survivor Guilt,", "Funerals and Eulogies,", "Alter History", "Expressions",]
+tags: ["Survivor Guilt,", "Funerals and Eulogies,", "Alter History,", "Expressions",]
 draft: 
 ---
 
@@ -26,7 +26,7 @@ The preceding sections cover multiple subthemes of Death identified from four wo
 figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources:  
 
 [7esl](https://7esl.com/), [ABCEnglish](https://www.abcenglish.nl/), [befluentnyc](https://befluentnyc.tumblr.com/post/), [Cambridge](Https://dictionary.cambridge.org/topics/), [Free Dictionary](https://idioms.thefreedictionary.com/), [Grammar](https://grammar.yourdictionary.com/),  [Learn English Today](https://www.learn-english-today.com/idioms/idiom-categories/), [Literacy at Work](https://www.literacyatwork.net/), [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/),  [Merriam-Webster](https://www.merriam-webster.com/), [My English Pages](https://www.myenglishpages.com/), [Owlcation]( https://owlcation.com/), 
-[Phrases](https://www.phrases.com/psearch/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/), [PowerThesaurus](https://www.powerthesaurus.org/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/), [Twining English Centres](https://www.twinenglishcentres.com/blog/), [Using English](https://www.usingenglish.com/reference/idioms/cat/), and [Your Dictionary](https://www.yourdictionary.com/)  .
+[Phrases](https://www.phrases.com/psearch/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/), [PowerThesaurus](https://www.powerthesaurus.org/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/), [Twining English Centres](https://www.twinenglishcentres.com/blog/), [Using English](https://www.usingenglish.com/reference/idioms/cat/), and [Your Dictionary](https://www.yourdictionary.com/).
 
 “A death blow” (An action or an event which causes something to end or fail)   
 “A death trap” (A building, a road or vehicle which is very dangerous and which could cause people to die)   
