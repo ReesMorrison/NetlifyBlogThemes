@@ -5,7 +5,7 @@ date: '2021-02-18'
 slug: []
 categories:
   - Wide Angle
-tags: ["Pandemics and Drugs,", "Indiscriminate, Civilians,", "Entropy,", "Humans Cope", ]
+tags: ["Pandemics and Drugs,", "Indiscriminate, Civilians,", "Entropy,", "Humans Cope", "Expressions", ]
 meta_img: images/image.png
 description: Destruction, damage, destroy and extra subthemes
 ---
@@ -25,3 +25,55 @@ We also die at horrific rates from illicit drugs.  Indiscriminate prescriptions 
 **Entropy**:  Everything physical wears down, loses energy, slides toward entropy – the inevitable disorganization of physical matter.  We can view that inevitable descent to eventual total cold as the ultimate destruction.  Entropy is a way of life.  In terms of physics and chemistry, eventually the universe may be totally cold, dark, and silent.  The entropic push of nature will win and destroy all.
 
 **Humans Cope**:  Whatever the scale of destruction, even to the levels of Holocausts, collectivization and genocides, people survive.  Sisley placed two men in the skiff perhaps to remind us of our remarkable capacity as humans to survive.  They may be shattered by the nightmare of natural or man-made destruction, but people repeatedly live with toughness in the face of unremitting fire bombings, V2s and B-52s, machetes, and terrifying locusts.  We all endure the (hopefully) slow-moving destruction of growing older.  Yet despite the chaos of natural and man-made destructiveness, people emerge from the rubble, ride out the storm, live through the contagion.  We endure.
+
+**Expressions**: The 47 idiomatic sayings presented alphabetically below refer to destruction in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources:
+[7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/), [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history), [Free Dictionary](https://idioms.thefreedictionary.com/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Drinks Business](https://www.thedrinksbusiness.com/2015/01/top-10-drinking-phrases-and-their-origins/), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), [Literacy at Work](https://www.literacyatwork.net/), and [Your Dictionary](https://www.yourdictionary.com/hangover). 
+
+acceptable damage (reasonable destruction or casualties due to war or military attack)    
+an umbrella policy (additional protection in case of a loss or damage)    
+bash about (to physically damage someone or something)    
+be in ruins (to be completely destroyed)    
+blot one’s copy book (to damage one’s own reputation)    
+blow out of the water (to destroy or defeat something utterly)    
+blow to smithereens (broken into very small pieces)    
+blowing up (to destroy something through an explosion)  
+bring to naught (ruin or foil)  
+cancel someone's Christmas (to kill or destroy someone)  
+character assassination (verbal assault)  
+collateral damage (hurting people or harming buildings that are not military)  
+cook someone’s goose (spoil someone’s plans)  
+cut a swathe through (cause a lot of change or destruction)  
+damage control (efforts made to reduce or negate damage or loss)  
+do a number on (deliberately do something that has a negative effect)  
+do away with (remove or put an end to)  
+ethnic cleansing (mass expulsion or killing of members of one ethnic or religious group)  
+finish off (kill, destroy or defeat someone or something)  
+foul one’s own nest (do something to ruin one’s own situation)  
+going down the tubes (falling into the state of failure or ruin)  
+gum up the works (to destroy something or cause damage)  
+hatchet job (a strong attack on someone’s reputation)  
+kill the goose that lays the golden eggs (destroy something that yields a lot of money)  
+lay waste (to devastate or destroy)  
+loose cannon (an uncontrollable person causing damage to his own friends and faction)  
+make a hash of something (to ruin something by making many mistakes)  
+nine lives (managing devastating situations without being harmed or hurt)  
+nip in the bud (to stop when something is so small)  
+play havoc with (disrupt, damage or destroy something)  
+put an end to (to stop existing or die)  
+put the kibosh on (to impede, spoil, or prevent something from happening)  
+put to the sword (to slay or execute someone)  
+queer the pitch (destroy or ruin a plan)  
+rack and ruined (to become destroyed or ruined)  
+raze to the ground (to completely demolish buildings to the ground level)  
+reduce to ashes (to completely destroy)  
+reduce to ruins (to completely destroy or devastate)  
+scorched earth tactics (ruthless, extremely destructive)  
+shoot oneself in the foot (do something that damages oneself)  
+take its toll (to affect negatively, to cause destruction)  
+tear to ribbons (to destroy or badly damage by cutting or tearing)  
+the damage is done (too late to do something)  
+train wreck (a total disaster)  
+upset the apple cart (spoil a plan)  
+wiping out (eliminate something)  
+wrecking ball (a heavy metal ball swung by a crane to demolish a building)  
+

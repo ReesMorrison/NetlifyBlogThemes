@@ -5,7 +5,7 @@ date: '2021-02-04'
 slug: []
 categories:
   - Wide Angle
-tags: ["Loneliness,", "Despondency,", "Handicaps,", "Flight,", "Positive and Negative",]
+tags: ["Loneliness,", "Despondency,", "Handicaps,", "Flight,", "Positive and Negative", "Expressions",]
 ---
 
 Four posts have discussed sub-themes of the broader theme of alcohol:
