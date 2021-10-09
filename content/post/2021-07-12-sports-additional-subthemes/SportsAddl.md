@@ -1,3 +1,14 @@
+---
+title: Sports, Additional Sub-Themes
+author: Rees Morrison
+date: '2021-07-12'
+slug: []
+categories:
+  - Wide Angle
+tags: ["Games vs. Sports,", "Esports,", "Expressions",]
+draft: no 
+---
+
 The preceding sections consider concepts of Sports that arise from a painting of [race horses](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/), a movie about [Olympic exploits](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/), a song with a [boxer metaphor](https://themesfromart.com/post/2021-07-12-sports-from-the-boxer-a-song-by-simon-garfunkel/sportsboxer/), and a poem about the death of a [young champion](https://themesfromart.com/post/2021-07-12-sports-from-to-an-athlete-dying-young-by-a-e-housman/sportsathlete/).  Other subthemes don’t fit closely to any of those works of art.
 
 **Games vs. Sports**:  The website [Steemit](https://steemit.com/sport/@sportspodium/how-many-sports-are-there-in-the-world) claims that roughly 200 sports have an international governing body and that an estimated 8,000 sports are played worldwide.  Still, what is a “sport” as compared to a “game”?  Both terms refer to a pleasure, an entertainment for participants, spectators, and followers.  My sense is that the basic elements that define a “sport” rest on a significant physical exertion and skill in which an individual or team competes for pleasure, entertainment, or gain.  
@@ -10,7 +21,7 @@ Many sports match a person (or team) against a person (or team); others pit a pe
 
 **Esports**:   In the last decade, tens of millions around the world have enjoyed playing online games such as League of Legends.   Players undergo grueling, intense preparation to reach the top flights. Teams compete for millions of dollars of prize money, in arenas crammed with thousands of paying viewers in person and countless others watching the contest stream online.  College teams compete against each other and award scholarships.
 
-**Sports Expressions in General Use**:  Phrases that originated in sports have been adopted in English for widespread use.  From my own efforts as well as from [Grammarly](https://www.grammarly.com/blog/sports-jargon-in-the-workplace/), [Lingoda](https://blog.lingoda.com/en/20-popular-sports-idioms-in-english/), [My English Teacher](https://www.myenglishteacher.eu/blog/sports-idioms/), [English Live]( https://englishlive.ef.com/blog/english-in-the-real-world/english-idioms-sports/), [7ESL]( https://7esl.com/sport-idioms/) as well as [Phrases](https://www.phrases.org.uk/meanings/sport-and-games-phrases.html), here are more than 110 sayings from a sport that have entered general use outside the sports’ setting.  I have organized them alphabetically by the sport that originated the expression and offer a brief definition.
+**Expressions**:  Phrases that originated in sports have been adopted in English for widespread use.  From my own efforts as well as from [Grammarly](https://www.grammarly.com/blog/sports-jargon-in-the-workplace/), [Lingoda](https://blog.lingoda.com/en/20-popular-sports-idioms-in-english/), [My English Teacher](https://www.myenglishteacher.eu/blog/sports-idioms/), [English Live](https://englishlive.ef.com/blog/english-in-the-real-world/english-idioms-sports/), [7ESL]( https://7esl.com/sport-idioms/) as well as [Phrases](https://www.phrases.org.uk/meanings/sport-and-games-phrases.html), here are more than 110 sayings from a sport that have entered general use outside the sports’ setting.  I have organized them alphabetically by the sport that originated the expression and offer a brief definition.
 
 American Football - “back to square one” (start from the beginning), “cross the goal line” (finish a project), “Hail Mary pass” (last second, low-odds attempt to prevail), “Monday morning quarterback” (someone with 20/20 hindsight second-guessing another person’s decision), “punt” (delay, fall back and hope to win another chance later) 
 

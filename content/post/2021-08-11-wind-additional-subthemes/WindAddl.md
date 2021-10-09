@@ -5,7 +5,7 @@ date: '2021-08-11'
 slug: []
 categories:
   - Wide Angle
-tags: ["Records,", "Expressions in General Use",]
+tags: ["Records,", "Expressions",]
 draft: 
 ---
 
@@ -31,7 +31,7 @@ The subthemes above arise from four works of art: a [movie that relies on a torn
 
 •	Deadliest typhoon -- The Great Bhola Cyclone smashed into Bangladesh	on Nov. 12, 1970, from the Bay of Bengal and took 300,000-500,000 lives
 
-**Expressions in General Use**:  Here is a gale of expressions that use “wind” in more generalized senses.  Several came from the website [Phrases](https://www.phrases.com/psearch/wind) and the [Free Dictionary](https://idioms.thefreedictionary.com/wind).  The 32 are listed in alphabetical order.
+**Expressions**:  Here is a gale of expressions that use “wind” in more generalized senses.  Several came from the website [Phrases](https://www.phrases.com/psearch/wind) and the [Free Dictionary](https://idioms.thefreedictionary.com/wind).  The 32 are listed in alphabetical order.
 
 “a breath of wind“ (respite from a bad time)
 

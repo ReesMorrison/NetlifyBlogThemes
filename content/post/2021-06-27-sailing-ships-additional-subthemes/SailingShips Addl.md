@@ -5,7 +5,7 @@ date: '2021-06-27'
 slug: []
 categories:
   - Wide Angle
-tags: ["Wind,", "Technology",]
+tags: ["Wind,", "Technology,", "Expressions"]
 draft:
 ---
 
@@ -24,3 +24,5 @@ Figuring out a ship’s longitude was harder, until a device called a chronomete
 A much earlier technology, a steering oar was a basic lever – typically an oversized oar or board – attached amidship on the starboard (an etymological derivation of the original ‘steerboard’) side of the vessel or at the stern. The innovation allowed a helmsman to pilot the craft more accurately.  This background and the following two come from [Yachting & Boating World](https://www.ybw.com/features/10-top-innovations-in-the-history-of-sailing-17358).
 
 A structural beam that runs from a ship’s bow to its stern and sits lower than the rest of the hull, the keel was invented by the Vikings.  Because their sailing ships were square-rigged, they were prone to sliding off course when tacking close to the wind.  A keel prevented this slide, increased speed, and made Viking ships more stable.  The invention of the lateen or latin-rig sail, a triangular sail mounted at an angle and running in a fore-and-aft direction, permitted a maneuver called ‘tacking.’  Skillful tacking allows boats to make way to windward in a zig-zagging fashion.  We might also think of lighthouses as a sailing technology.  For millennia, coastal people built lighthouses so that ships could be warned about dangerous coasts or outcroppings.  According to Lighthouse Directory, there are more than 18,600 lighthouses worldwide.  Finally, hats off to the anonymous inventors and improvers of anchors.   An anchor appears conspicuously in the Seurat painting.
+
+**Expressions**:  Here are more than 200 expressions that use sailing terms in more generalized senses. Several came from the website .  The expressions are listed in alphabetical order.

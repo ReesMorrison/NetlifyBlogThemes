@@ -5,7 +5,7 @@ date: '2021-06-14'
 slug: []
 categories:
   - Wide Angle
-tags: ["Food,", "Extinct or Mythical or Cartoon,", "Sayings",]
+tags: ["Food,", "Extinct or Mythical or Cartoon,", "Expressions",]
 draft: no 
 ---
 
@@ -36,7 +36,7 @@ Birds appear in myths.  For example, the roc is an enormous legendary bird of pr
 
 Cartoons feature such classics as Big Bird, Daffy Duck, Donald Duck, Road Runner, and Tweety Bird that have become icons in cartoons and annotated movies.   The list goes on, including Woody Woodpecker and Owl (in Winnie the Pooh). 
 
-**Sayings**:  Nested in the English language are a covey of idioms that refer to birds.  Here are more than 40, many of which came from [bird idioms](https://www.thespruce.com/bird-idioms-explained-386739).
+**Expressions**:  Nested in the English language are a covey of idioms that refer to birds.  Here are more than 40, many of which came from [bird idioms](https://www.thespruce.com/bird-idioms-explained-386739).
 
 Some of the sayings cast insults: “you turkey”, “he’s chicken”, or “you bird brain.” 
 
