@@ -1,5 +1,5 @@
 ---
-title: Money, from "Wall Street," a movie starring Michael Douglas and Michael Sheen
+title: Money, from "Wall Street," a movie starring Michael Douglas and Charlie Sheen
 author: Rees Morrison
 date: '2021-10-15'
 slug: []
@@ -9,7 +9,7 @@ tags: ["Intangible Money,", "Gambling,", "Counterfeiting",]
 draft: 
 ---
 
-*Wall Street*, a movie starring Michael Douglas and Michael Sheen, glorifies (and horrifies) the obsession with making money that dominates some people, like Gordon Gekko (played by Douglas, who won an Oscar).  Here is a [trailer](https://www.youtube.com/watch?v=oDD1tW59Mjg).   Those for whom “greed is good” strive to amass ever more money; financial specialists such as venture capitalists, buy-out specialists, money managers, and hedge fund managers track their success by the digits of their earnings and investments.  *Wall Street* vividly portrays these and other subthemes of Money.
+*Wall Street*, a movie starring Michael Douglas and Charlie Sheen, glorifies (and horrifies) the obsession with making money that dominates some people, like Gordon Gekko (played by Douglas, who won an Oscar).  Here is a [trailer](https://www.youtube.com/watch?v=oDD1tW59Mjg).   Those for whom “greed is good” strive to amass ever more money; financial specialists such as venture capitalists, buy-out specialists, money managers, and hedge fund managers track their success by the digits of their earnings and investments.  *Wall Street* vividly portrays these and other subthemes of Money.
 
 <!--more-->
 
