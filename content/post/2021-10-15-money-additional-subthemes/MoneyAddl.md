@@ -10,7 +10,7 @@ tags: ["Miscellaneous,", "Records,", "Expressions",]
 draft: 
 ---
 
-The subthemes of Money discussed above arise from a [a poem about poverty and true friends](Money), a painting from a [town market](Pork), the lament of a [poor boy in love](Town), and a movie about [raw greed and financial chicanery](Wall). We have a few more subthemes to present that don’t link so directly to any of the four works of art.
+The subthemes of Money discussed above arise from a [a poem about poverty and true friends](https://themesfromart.com/post/2021-10-15-money-from-money-o-a-poem-by-w-h-davies/moneymoneyo/), a painting from a [town market](https://themesfromart.com/post/2021-10-15-money-from-the-pork-butcher-a-painting-by-camille-pissarro/moneypork/), the lament of a [poor boy in love](https://themesfromart.com/post/2021-10-15-money-from-poor-side-of-town-a-song-by-johnny-rivers/moneypoor/), and a movie about [raw greed and financial chicanery](https://themesfromart.com/post/2021-10-15-money-from-wall-street-a-movie-starring-michael-douglas-and-michael-sheen/moneywall/). We have a few more subthemes to present that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
