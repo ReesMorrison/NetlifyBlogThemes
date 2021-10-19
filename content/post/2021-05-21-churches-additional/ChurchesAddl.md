@@ -24,6 +24,8 @@ The other sections cover multiple aspects of Religion elicited from four works o
 [7esl](https://7esl.com/), [ABCEnglish](https://www.abcenglish.nl/), [befluentnyc](https://befluentnyc.tumblr.com/post/), [Cambridge](Https://dictionary.cambridge.org/topics/), [Free Dictionary](https://idioms.thefreedictionary.com/), [Grammar](https://grammar.yourdictionary.com/),  [Learn English Today](https://www.learn-english-today.com/idioms/idiom-categories/), [Literacy at Work](https://www.literacyatwork.net/) [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/),  [Merriam-Webster](https://www.merriam-webster.com/), [My English Pages](https://www.myenglishpages.com/), [Owlcation]( https://owlcation.com/), 
 [Phrases](https://www.phrases.com/psearch/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/), [PowerThesaurus](https://www.powerthesaurus.org/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/), [Twining English Centres](https://www.twinenglishcentres.com/blog/), [Using English](https://www.usingenglish.com/reference/idioms/cat/), and [Your Dictionary](https://www.yourdictionary.com/).  
 
+<!--Here are the sayings.-->
+
 “a Mecca for someone” (a place which is often visited by people with common interests)  
 “bear or carry one’s cross” (to carry on with life despite going through much difficulty)  
 “broad church” (referring to a wide scope of philosophies and ideas)  

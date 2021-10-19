@@ -9,7 +9,7 @@ tags: ["Food,", "Extinct or Mythical or Cartoon,", "Expressions",]
 draft: no 
 ---
 
-The preceding sections cover multiple aspects of Birds elicited from four works of art:   Claude Monet’s [The Magpie](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/), a [poem by John Keats, Ode to a Nightingale](https://themesfromart.com/post/2021-06-14-birds-ode-to-a-nightingale-a-poem-by-john-keats/birdskeats/), a [rock song’s metaphor for a wanderlust male](https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/), and a movie’s [terrifying strafings by vicious birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/). Here are additional thoughts about the theme of Birds that don’t associate closely with any of those works. 
+The preceding sections cover multiple aspects of Birds elicited from four works of art:   Claude Monet’s [The Magpie](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/) a [poem by John Keats, Ode to a Nightingale](https://themesfromart.com/post/2021-06-14-birds-ode-to-a-nightingale-a-poem-by-john-keats/birdskeats/) a [rock song’s metaphor for a wanderlust male](https://themesfromart.com/post/2021-06-07-birds-free-bird-a-song-by-lynyrd-skynyrd/birdsfreebird/) and a movie’s [terrifying strafings by vicious birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/). Here are additional thoughts about the theme of Birds that don’t associate closely with any of those works. 
 
 <!--more-->
 
@@ -36,17 +36,58 @@ Birds appear in myths.  For example, the roc is an enormous legendary bird of pr
 
 Cartoons feature such classics as Big Bird, Daffy Duck, Donald Duck, Road Runner, and Tweety Bird that have become icons in cartoons and annotated movies.   The list goes on, including Woody Woodpecker and Owl (in Winnie the Pooh). 
 
-**Expressions**:  Nested in the English language are a covey of idioms that refer to birds.  Here are more than 40, many of which came from [bird idioms](https://www.thespruce.com/bird-idioms-explained-386739).
+**Expressions**:  Nested in the English language are a covey of idioms that refer to birds.  Here are 39, many of which came from [bird idioms](https://www.thespruce.com/bird-idioms-explained-386739). Some of the sayings cast insults (the first three); others draw on physical analogies (the next group of five).  Then we have a group of four sayings that invoke the appearance of birds.  Many psychological observations (13 below) draw on avian characteristics.  Commonsense advice finds expression with birds.  And, then a flock of expressions (16) that roost everywhere.
 
-Some of the sayings cast insults: “you turkey”, “he’s chicken”, or “you bird brain.” 
+<!--Here are the sayings.-->  
 
-Other bird-sayings draw on physical analogies:  “Eat like a bird”(eat lightly or be a picky eater), “skinny as a rail” (very slender, like the rail bird), “have an eagle eye” (watchful, having keen eyesight), “as scarce as hen's teeth”(limited or nonexistent), "bald as a coot" (small bald spot.
+“you turkey” (insult based on general characteristics)  
+“he’s chicken” (insult based on alleged fear)  
+“you bird brain” (insult based on lack of intelligence)  
 
-Sayings invoke the appearance of birds:  “Graceful as a swan” (serene, beautiful, long-necked), “proud as a peacock” (arrogant, vain, or prideful), “ugly duckling” (someone who is unattractive or out of place, though who becomes more beautiful or desirable as they mature), “crow’s feet” (small wrinkle lines around the eyes).
+“eat like a bird”(eat lightly or be a picky eater)   
+“skinny as a rail” (very slender, like the rail bird)   
+“have an eagle eye” (watchful, having keen eyesight)   
+“as scarce as hen's teeth”(limited or nonexistent)   
+“bald as a coot” (small spot of no hair on the head)  
 
-Psychological truths draw on avian characteristics:  “A bird in the hand is worth two in the bush” (possession counts for more than hope), “birds of a feather flock together” (groups usually are made up of similar members), “feather your nest” (pad financial gain or collect favors from others), “pushed out of the nest” (to make children leave home and make it as an adult), “take someone under your wing” (offer protective guidance or mentoring), “like water off a duck's back” (easily shrug off, shed, or disregard), “happy as a lark” (joyous, openly enjoying life), “crazy as a loon” (insane, totally out of it),“that’s nothing to crow about” (no basis for self-credit and praise), “an albatross around the neck”(heavy burden or difficult obstacle), “get your ducks in a row” (prepare for an event),“bird on a wire” (limited freedom of a bird whose leg is tied to something with a string or wire), “running around like a chicken with its head cut off” (crazy, panicked behavior), “cuckoo” (insane, very stupid, or crazy).
+“graceful as a swan” (serene, beautiful, long-necked)   
+“proud as a peacock” (arrogant, vain, or prideful)   
+“ugly duckling” (unattractive or out-of-place person, who becomes desirable eventually)   
+“crow’s feet” (small wrinkle lines around the eyes)  .
 
-Commonsense advice finds expression with birds: “Don’t count your chickens before they hatch” (don’t claim success until you are sure of the outcome), “don’t put all your eggs in one basket” (diversify your opportunities and reduce your risks), “the early bird catches the worm”(the benefits of acting promptly, not procrastinating), “what’s good for the goose is good for the gander” (equal rights and treatment for all in the same position).
+“birds of a feather flock together” (groups usually are made up of similar members)  
+“feather your nest” (pad financial gain or collect favors from others)  
+“pushed out of the nest” (to make children leave home and make it as an adult)  
+“take someone under your wing” (offer protective guidance or mentoring)  
+“like water off a duck's back” (easily shrug off, shed, or disregard)  
+“happy as a lark” (joyous, openly enjoying life)  
+“crazy as a loon” (insane, totally out of it)  
+“that’s nothing to crow about” (no basis for self-credit and praise)  
+“an albatross around the neck”(heavy burden or difficult obstacle)  
+“get your ducks in a row” (prepare for an event)  
+“bird on a wire” (limited freedom like a bird whose leg is tied with a wire)  
+“running around like a chicken with its head cut off” (crazy, panicked behavior)  
+“cuckoo” (insane, very stupid, or crazy)  .
 
-And then a flock of expressions that roost everywhere.  A person is a “magpie” (likes collecting bright, shiny things), “sings like a canary” (a mobster turns cooperating witness), golfers relish a “birdie” (golf term for one under par on a hole), “eagle” (two strokes under par on a golf hole), "stool pigeon" (a hunter’s lure of a passenger pigeon fastened to a small stool to attract brethren) who became "sitting ducks" (easily shot or netted), “put a feather in your cap” (deserve acclaim, a recognized accomplishment), “canary in a coal mine” (early warning of danger), “fly the coop” (escape), “as the crow flies” (a straight-line path, the most direct route), “dead as a dodo” (extinct, no longer existing), “a night owl” (a person who likes to stay up late), at the racetrack you see “railbirds” (leaning on the guardrails, watching the horses), “vulture capitalists” (seek to make money from companies in decline), “let’s just wing it” (plunge in to an activity without preparation), “goose someone” (pinch someone’s rear end).
+“Don’t count your chickens before they hatch” (don’t boast until you know the outcome)  
+“don’t put all your eggs in one basket” (diversify opportunities and reduce risks)  
+“the early bird catches the worm”(the benefits of acting promptly, not procrastinating)  
+“what’s good for the goose is good for the gander” (equal treatment for all in the same position)  .
+
+“a birdie” (golf term for one under par on a hole)  
+“as the crow flies” (a straight-line path, the most direct route)  
+“canary in a coal mine” (early warning of danger)  
+“dead as a dodo” (extinct, no hope)   
+“a night owl” (a person who likes to stay up late)  
+“eagle” (two strokes under par on a golf hole)  
+“fly the coop” (escape)  
+“goose someone” (pinch someone’s rear end, urge someone to act)  
+“let’s just wing it” (plunge in to an activity without preparation)  
+“magpie” (a person likes collecting bright, shiny things)  
+“put a feather in your cap” (deserve acclaim, a recognized accomplishment)  
+“railbirds” (leaning on the guardrails, watching the racers)  
+“sings like a canary” (a mobster turns cooperating witness)  
+“sitting ducks” (easily shot or netted)  
+“stool pigeon” (a lure of a pigeon fastened to a small stool to attract brethren)  
+“vulture capitalists” (seek to make money from companies in decline)  
 

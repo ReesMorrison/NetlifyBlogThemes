@@ -18,3 +18,8 @@ The four sections before this address subthemes of Beauty as [love from the firs
 **Jealousy**:  Whoever dates or marries a very attractive person may suffer pangs of jealousy.  They imagine or see that others covet their beautiful man or woman and that can end badly.  The “green-eyed monster” gnaws at almost all couples somewhere in their relationship.  “If you want to be happy for the rest of your life, never make a pretty woman your wife” may be flippant, but it touches on an uncertainty about fidelity.
 
 **Brains or Beauty**:  Sexists might believe that a woman cannot be both beautiful and intelligent.  Wrong.  Nothing could be further from the truth.  In fact, an intelligent woman, if she chooses to, may be more able to figure out how to look as attractive as possible given her physical attributes.  Physical qualities do not correlate to mental abilities.
+
+<!--Here are the sayings.-->
+
+"a real looker" (very attractive)
+"stops traffic" (va va voom)

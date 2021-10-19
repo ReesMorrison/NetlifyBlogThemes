@@ -39,6 +39,8 @@ Most people served breakfast in bed at once—418 people in 113 beds set up on t
 
 **Expressions**:  Let’s rouse idiomatic sayings that refer to sleep in a figurative sense. The 71 below come from various sources and my own experience.  I exclude direct uses of the theme word, such as “It's time to sleep” as well as proverbs, such as “All are not asleep who have their eyes shut.” Online sources for the sayings listed alphabetically below include [The Free Dictionary](https://idioms.thefreedictionary.com/sleep), [Spell Zone](https://www.spellzone.com/blog/Twenty_Five_Idioms_about_Sleep.htm), and [English by Day](https://englishbyday.com/sleep-idioms/).
 
+<!--Here are the sayings.-->
+
 40 winks (a short nap)  
 a roll in the hay (casual sex)  
 a sleep over (when children spend the night at a friend’s house)  

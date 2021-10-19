@@ -10,7 +10,7 @@ meta_img: images/image.png
 description: More subthemes of chance
 ---
 
-The previous four posts considered associations with “Chance”:  the [agony of Russian Roulette](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/), [religion and churches](https://themesfromart.com/blog/2021-03-14-chancechurch/chancechurch/), the absence of vengeful gods and [only crass chance](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/), and [unimagined divorce](https://themesfromart.com/blog/2021-03-14-chancewinner/chancewinner/).   Here we consider a few other observations about chance.
+The previous four posts considered associations with “Chance”: the [agony of Russian Roulette](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/), [religion and churches](https://themesfromart.com/blog/2021-03-14-chancechurch/chancechurch/), the absence of vengeful gods and [only crass chance](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/), and [unimagined divorce](https://themesfromart.com/blog/2021-03-14-chancewinner/chancewinner/).   Here we consider a few other observations about chance.
 
 <!--more-->
 
@@ -22,6 +22,7 @@ The previous four posts considered associations with “Chance”:  the [agony o
 
 **Expressions**: The 62 idiomatic sayings presented alphabetically below refer to Chance in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources:  [7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/),  [Free Dictionary](https://idioms.thefreedictionary.com/),  [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Learn English Today](https://www.learn-english-today.com/idioms/idiom-categories/luck/luck-opportunity1.html),  [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/in-all-probability),  [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), [Literacy at Work](https://www.literacyatwork.net/), [Your Dictionary](https://www.yourdictionary.com/hangover). [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history). 
 
+<!--Here are the sayings.-->
 
 a kick at the can (an opportunity)  
 a sign of things to come (the form or style that is likely to develop in the future)  
@@ -43,9 +44,9 @@ foot in the door (gaining an opportunity to start doing something)
 get a free ride (receiving an opportunity or advantage without making less or no effort)  
 go all in (hazard everything on a result)  
 golden ticket (an extremely valuable opportunity)  
-happen (up)   on someone/something (to encounter someone or something randomly)  
+happen on someone/something (to encounter someone or something randomly)  
 happen across (to discover or encounter someone or something by chance)  
-have a vested interest (being interested in something because of the high probability of success)  
+have a vested interest (caring about something because of the high probability of success)  
 in all likelihood (very probably)  
 in all probability (something is very likely)  
 in the cards (likely to happen)  
@@ -58,7 +59,7 @@ leap in the dark (doing something without knowing the consequences)
 long shot (something that is not likely to succeed)  
 lucky streak (concurrent fortunate outcomes)  
 more by accident than by design (something happens purely by chance)  
-murphy’s law (anything can possibly go wrong)  
+Murphy’s law (anything can possibly go wrong)  
 new lease on life (a chance to continue living/ a chance to get more enjoyment)  
 nick of time (last possible moment)  
 no such luck (something is unlikely to happen)  
@@ -73,7 +74,7 @@ shoot the moon (try for a very ambitious outcome)
 strike while the iron is hot (make use of an opportunity)  
 that ship has sailed (missed opportunity)  
 the luck of the draw (the result of something depends on chance)  
-to get a second bite at the cherry (apple)   (to get a second chance)  
+to get a second bite at the cherry/apple (get a second chance)  
 to have something drop/fall into one’s lap (something of great value granted to someone without having been requested)  
 to luck out (have something good happen by chance)  
 to make hay while the sun shines (make the most of an opportunity)  

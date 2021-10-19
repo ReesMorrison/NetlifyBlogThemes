@@ -40,90 +40,92 @@ Most movies danced in by an American actor – Approximately 38 by Fred Astaire 
 
 **Expressions**: Dancing has spawned idiomatic sayings that refer to it in a figurative sense.  Here are 44 sayings that refer to dancing or were based on dancing that now have a broader meaning.  They come from various sources and my own experience.  The online source includes [Dictionary.com](https://www.dictionary.com/e/s/wild-dance-idioms-will-get-moving/#dancing-to-someone-elses-tune).
 
-“all-singing, all-dancing” (high-tech gadgets with the latest technology and features)
+<!--Here are the sayings.-->
 
-“burn up the dance floor” (energetic, dance a lot)
+“all-singing, all-dancing” (high-tech gadgets with the latest technology and features)  
 
-“catch someone flat-footed” (take someone by surprise)
+“burn up the dance floor” (energetic, dance a lot)  
 
-“dance all night long” (enjoy a wonderful night of partying) 
+“catch someone flat-footed” (take someone by surprise)  
 
-“dance around the topic” (ignore a controversial or difficult subject)
+“dance all night long” (enjoy a wonderful night of partying)   
 
-“dance attendance on someone” (try to please someone by obeying their every wish)
+“dance around the topic” (ignore a controversial or difficult subject)  
 
-“dance the night away” (have a fantastic date evening)
+“dance attendance on someone” (try to please someone by obeying their every wish)  
 
-“dance to someone’s tune” (comply with someone’s demands and whims)
+“dance the night away” (have a fantastic date evening)  
 
-“dance up a storm” (do something with lots of energy)
+“dance to someone’s tune” (comply with someone’s demands and whims)  
 
-“dance with death” (attempt something that’s very risky)
+“dance up a storm” (do something with lots of energy)  
 
-“dancing in the streets” (ecstatic about something that’s happened)
+“dance with death” (attempt something that’s very risky)  
 
-“dancing on air” (be extremely happy)
+“dancing in the streets” (ecstatic about something that’s happened)  
 
-“do a cha cha” (someone who's a talented socialite who works smoothly with others)
+“dancing on air” (be extremely happy)  
 
-“drag one’s feet/heels” (stall, be deliberately slow or reluctant to act)
+“do a cha cha” (someone who's a talented socialite who works smoothly with others)  
 
-“fall/land on one’s feet” (achieve a fortunate outcome from a difficult situation)
+“drag one’s feet/heels” (stall, be deliberately slow or reluctant to act)  
 
-“follow in someone’s footsteps” (do the same thing/make the same choices as someone else did)
+“fall/land on one’s feet” (achieve a fortunate outcome from a difficult situation)  
 
-“footloose and fancy-free” (without any commitments or responsibilities)
+“follow in someone’s footsteps” (do the same thing/make the same choices as someone else did)  
 
-“get in a groove” (warm up/get used doing something)
+“footloose and fancy-free” (without any commitments or responsibilities)  
 
-“get off on the wrong foot” (make a bad start to a project or relationship)
+“get in a groove” (warm up/get used doing something)  
 
-“get your groove on” (enjoy yourself by dancing)
+“get off on the wrong foot” (make a bad start to a project or relationship)  
 
-“give it a whirl” (try something out)
+“get your groove on” (enjoy yourself by dancing)  
+
+“give it a whirl” (try something out)  
 
 
-“has two left feet” (a person who is not a very good dancer)
-“horizontal dance” (getting busy under the sheets)
+“has two left feet” (a person who is not a very good dancer)  
+“horizontal dance” (getting busy under the sheets)  
 
-“it takes two to tango” (both people/parties are responsible for the argument/problem or solution)
+“it takes two to tango” (both people/parties are responsible for the argument/problem or solution)  
 
-“keep one’s feet on the ground” (be/remain practical and sensible)
+“keep one’s feet on the ground” (be/remain practical and sensible)  
 
-“keep someone on their toes” (keep someone on the alert)
+“keep someone on their toes” (keep someone on the alert)  
 
-“land/fall on one’s feet” (have good luck)
+“land/fall on one’s feet” (have good luck)  
 
-“lead someone a merry dance” (mislead someone; cause someone a great deal of worry)
+“lead someone a merry dance” (mislead someone; cause someone a great deal of worry)  
 
-“light on one’s feet” (nimble)
+“light on one’s feet” (nimble)  
 
-“out of step” (not up to date as someone or something, not matching smoothly)
+“out of step” (not up to date as someone or something, not matching smoothly)  
 
-“kick up your heels” (live exuberantly)
+“kick up your heels” (live exuberantly)  
 
-“put a foot wrong” (make a mistake while performing an action)
+“put a foot wrong” (make a mistake while performing an action)  
 
-“put on your dancing shoes” (get ready to perform)
+“put on your dancing shoes” (get ready to perform)  
 
-“put your best foot forward” (begin an endeavor with effort and determination)
+“put your best foot forward” (begin an endeavor with effort and determination)  
 
-“song and dance” (make a fuss about something, exaggerate, make up a story)
+“song and dance” (make a fuss about something, exaggerate, make up a story)  
 
-“step out (put a toe out) of line” (behave inappropriately/break the rules)
+“step out/put a toe out of line” (behave inappropriately/break the rules)  
 
-“strut one’s stuff” (show off, behave confidently and enthusiastically)
+“strut one’s stuff” (show off, behave confidently and enthusiastically)  
 
-“sweep someone off their feet” (charm someone with romantic gestures)
+“sweep someone off their feet” (charm someone with romantic gestures)  
 
-“tap dance like mad” (get out of a sticky situation; act fast to distract someone)
+“tap dance like mad” (get out of a sticky situation; act fast to distract someone)  
 
-“think on one’s feet” (react unexpected events in a decisive and practical manner) 
+“think on one’s feet” (react unexpected events in a decisive and practical manner)   
 
-“tread/step on someone’s toes” (offend someone by interfering with their responsibilities)
+“tread/step on someone’s toes” (offend someone by interfering with their responsibilities)  
 
-“trip the light fantastic” (go out dancing)
+“trip the light fantastic” (go out dancing)  
 
-“twinkle toes” (someone who is nimble and quick on their feet) 
+“twinkle toes” (someone who is nimble and quick on their feet)   
 
-“you can’t dance at two weddings” (you can’t do two things at once)
+“you can’t dance at two weddings” (you can’t do two things at once)  

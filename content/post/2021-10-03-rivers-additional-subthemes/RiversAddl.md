@@ -33,6 +33,8 @@ Largest hydroelectric power dam --  Three Gorges Dam in China has a generating c
 
 **Expressions**:  Consider a collection of sayings that refer to rivers or related ideas in a figurative sense.   The 20 below come from various sources and my own experience.  I exclude direct uses of the theme word as well as proverbs Online sources for the sayings listed alphabetically below include [Phrases](https://www.phrases.com/psearch/River), [Phrases.org](https://www.phrases.org.uk/phrase-thesaurus/related/river.html), and [The Free Dictionary](https://idioms.thefreedictionary.com/river).
 
+<!--Here are the sayings.-->
+
 *cross the Rubicon (take an irreversible step)  
 *cry me a river (weep profusely or excessively in the presence of another person)  
 *don't change horses in mid-stream (stick with your leaders in a crisis)  

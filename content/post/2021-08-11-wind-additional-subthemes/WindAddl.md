@@ -33,15 +33,17 @@ The subthemes above arise from four works of art: a [movie that relies on a torn
 
 **Expressions**:  Here is a gale of expressions that use “wind” in more generalized senses.  Several came from the website [Phrases](https://www.phrases.com/psearch/wind) and the [Free Dictionary](https://idioms.thefreedictionary.com/wind).  The 32 are listed in alphabetical order.
 
+<!--Here are the sayings.-->
+
 “a breath of wind“ (respite from a bad time)
 
 “a candle in the wind“ (something that is quite vulnerable or fragile, and could fail at any moment)
 
-“a reed before the wind lives on (while mighty oaks do fall)” (sometimes the less powerful succeed)
+“a reed before the wind lives on/while mighty oaks do fall” (sometimes the less powerful succeed)
 
 “a straw in the wind” (indication of what might happen in the future)
 
-“an ill wind that blows no good” (one person's misfortune is often another person's good luck)
+“an ill wind that blows no good” (one person's misfortune is often another's good luck)
 
 “bend with the wind” (yield to a more powerful person or organization)
 
@@ -91,7 +93,7 @@ The subthemes above arise from four works of art: a [movie that relies on a torn
 
 “twist in the wind” (leave others in doubt about what will happen)
 
-“whistle in the wind  (attempt something futile; say something that is not heeded)
+“whistle in the wind"" (attempt something futile; say something that is not heeded)
 
 “willow in the wind” (one who easily and regularly changes views by the persuasion of others)
 

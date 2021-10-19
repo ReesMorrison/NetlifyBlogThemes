@@ -24,13 +24,15 @@ figurative sense. I exclude direct uses of the theme word and proverbs. The idio
 [Learn English Today](https://www.learn-english-today.com/vocabulary/), [Lemon Grad](https://lemongrad.com/idioms-with-meanings-and-examples/), [Literacy at Work](https://www.literacyatwork.net/), [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/),  [Merriam-Webster](https://www.merriam-webster.com/), [MMMEnglish](https://www.mmmenglish.com/),  [My English Pages](https://www.myenglishpages.com/), [Online Teachers](https://onlineteachersuk.com/english-idioms/), [Owlcation]( https://owlcation.com/),  [PerformDigi](https://performdigi.com/idioms-and-phrases/),
 [Phrases](https://www.phrases.com/psearch/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/), [PowerThesaurus](https://www.powerthesaurus.org/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/), [Twining English Centres](https://www.twinenglishcentres.com/blog/), [Using English](https://www.usingenglish.com/reference/idioms/cat/), and [Your Dictionary](https://www.yourdictionary.com/).
 
+<!--Here are the sayings.-->
+
 “boulder-train” (A line or fan of rocks caused by a glacier)  
-“bring (something)   in its train“ (Cause something to happen)   
+“bring in its train“ (Cause something to happen)   
 “crazy train” (Idiotic antics, silly enthusiasm)   
-“ghost train” (A ride in an amusement park’s dark tunnel where sounds, lights, and objects scare riders)   
-“gravy train” (A job that pays an excessive amount of money without expending much effort)   
-“have (one’s) sights trained on (someone or something)” (Focus on a goal)   
-“in the train of (someone)” (Following closely behind)   
+“ghost train” (A ride in an amusement park’s dark tunnel where effects scare riders)   
+“gravy train” (A job that pays much money without demaning much effort)   
+“have one’s sights trained on (someone or something)” (Focus on a goal)   
+“in the train of someone” (Following closely behind)   
 “in train” (In an active state or condition)   
 “it is not the whistle that pulls the train” (Boasting should not be mistaken for the work that produces real achievements)    
 “lay a train” (Create a trap or snare for catching wild animals)  
@@ -47,12 +49,12 @@ figurative sense. I exclude direct uses of the theme word and proverbs. The idio
 “set in train” (Start a sequence of events, to set in motion)   
 “smoke train” (a trail of dust and gas left by an exploding meteorite in its passage through the atmosphere)   
 “step in front of a moving train” (Sacrifice a life for a cause)   
-“that train has left the station” (An option, choice or opportunity is no longer available or possible)   
+“that train has left the station” (An choice or opportunity is no longer available)   
 “time train” (A set of wheels that drives the balance and escapement of a timepiece)   
 “train of events” (A series of events or actions that are connected)   
 “train of thought” (A person’s progression of thinking)   
 “train smash” (Cooked tinned tomatoes, usually with bacon)   
-“train tea” (A tea party at which formal dress is worn, specifically on the occasion of a debutante's presentation at court)   
+“train tea” (A tea party at which formal dress is worn, often a debutante's presentation at court)   
 “train wreck” (Total disaster, catastrophe)   
 “trainspotter” (Person obsessed with trivia)    
 

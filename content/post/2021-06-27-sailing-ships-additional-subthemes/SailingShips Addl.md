@@ -27,7 +27,9 @@ A structural beam that runs from a ship’s bow to its stern and sits lower than
 
 **Expressions**:  Here are 178 expressions that use sailing terms in more generalized senses. Nearly all of them came from [Tall Tales](https://talltelltales.com/2021/06/12/nautical-idioms-and-sailing-terms-201-250/) but I have modified several of the definitions that blogger offered and omitted a few of his expressions.  The expressions are listed in alphabetical order.
 
- A dressing down (tell people in no uncertain terms that their performance was inadequate or inappropriate often with aggression and belligerence)  
+<!--Here are the sayings.-->
+
+ A dressing down (tell people directly that their performance was inadequate)  
  A shot across the bow (give someone a warning; next time, it is worse)  
  A square meal (an excellent, filling meal)   
  A1 condition (in excellent shape)  
@@ -112,7 +114,7 @@ A structural beam that runs from a ship’s bow to its stern and sits lower than
  Having both oars in the water (calm, collected and moving forward with purpose)   
  Hazing (an initiation ceremony or rite)  
  Hasn't got a clue (ignorant about something)  
- High and dry
+ High and dry (abandoned in your time of need)
  In his wake (behind, things left behind by someone or something)   
  In the offing (not happening in the next few moments but imminently)   
  Jack Tar (low rank sailor)  
@@ -141,7 +143,7 @@ A structural beam that runs from a ship’s bow to its stern and sits lower than
  Mayday/SOS (need help urgently)   
  Mind your P's and Q's (behave in a manner acceptable for the occasion)  
  Not enough room to swing a cat (cramped and too small)  
- Off to a flying start (an auspicious beginning)   of something
+ Off to a flying start (an auspicious beginning of something)
  On an even keel (a situation is under control, well balanced and running smoothly)  
  On the right tack (your reasoning is leading to the correct conclusion or outcome)   
  On your beam ends (in imminent danger)  
