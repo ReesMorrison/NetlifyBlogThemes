@@ -79,7 +79,7 @@ The penumbral subthemes of Clothes discussed above arise from four works of art:
 “skirt chaser” (synecdoche for a man who pursues women for sex)  
 “caught with your pants down” (surprised and embarrassed because not ready for something)  
 “fly by the seat of your pants” (do by instinct or trial and error, not by plan or practice)  
-“have ants in your pants” (can’t keep still because of excitement or worry)
+“have ants in your pants” (can’t keep still because of excitement or worry)  
 "keep his zipper shut" (wants to have sex often)  
 “wear the pants in the family” (a woman who is the breadwinner and runs the family)  
 “don’t wet your pants” (don’t be afraid, or get to excited)  

@@ -13,7 +13,7 @@ A movie about the reunion weekend of a group of seven friends, fraught with reve
 
 <!--more-->
 
-Watch some scenes to remind you of ["The Big Chill".]( https://www.youtube.com/watch?v=hHUwAZdQFBg)
+Watch some scenes to remind you of ["The Big Chill".](https://www.youtube.com/watch?v=hHUwAZdQFBg)
  
 ![Poster of The Big Chill](/media/FriendsBigChill.jpg)
 
