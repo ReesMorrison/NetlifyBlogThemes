@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Nightmares,", "Scary,", "Streetlights",]
-draft: yes
+draft: 
 ---
 
 Invictus, an assertive poem by William Ernest Henley, starts with a striking image of darkness and night.  Despite the *pit from pole to pole* -- a terrifying world without light and with its *fell clutch of circumstance*, the brave soul of the poem holds firm to his belief in himself – he makes decisions, he controls his own thoughts, he sustains his spirit.  The subthemes of Night emanate mostly from the first stanza.

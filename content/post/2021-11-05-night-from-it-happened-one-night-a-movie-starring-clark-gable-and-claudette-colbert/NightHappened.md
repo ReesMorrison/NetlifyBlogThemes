@@ -7,7 +7,7 @@ slug: []
 categories:
   - Movie
 tags: ["Sleep, Insomnia,", "Illumination,", "Party Time and Entertainment",]
-draft: yes
+draft:
 ---
 
 *It Happened One Night*, starring Clark Gable and Claudette Colbert, includes many scenes at night during the unlikely escape to New York City by a journalist and a wealthy heiress.  Colbert dives off her father’s yacht at night, the bus pulls over at night, and the two stars memorably spend several nights together.   Those scenes suggest several subthemes of Night.

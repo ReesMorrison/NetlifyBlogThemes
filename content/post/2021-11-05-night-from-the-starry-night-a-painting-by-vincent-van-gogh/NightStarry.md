@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Quieted Tempo,", "Night and Shift Workers,", "Nocturnal Animals,", "The Moon",]
-draft: yes
+draft: 
 ---
 
 The Starry Night, painted by Vincent Van Gogh near the end of his life, mystically and magically depicts a small hamlet at night with a teeming mélange of swirling stars overhead.   From this famous painting we can amplify several subthemes of Night.

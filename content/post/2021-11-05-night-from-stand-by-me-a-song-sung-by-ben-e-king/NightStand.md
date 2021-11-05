@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Astronomy,", "The Changing Length of Days,", "Darkness, Despair and Death", ]
-draft: yes
+draft: 
 ---
 
 *Stand by Me*, sung by Ben E. King, starts with the darkness of night as the metaphor for difficult times in life (much like the start of [Invictus](Invictus)).   But if you can stand shoulder to shoulder with the one you love, even the fearsome dark won’t frighten you. [Here](https://www.google.com/search?client=firefox-b-1-d&q=stand+by+me+ben+e+king) is the song.  Other subthemes of Night brighten this rock song hit.
