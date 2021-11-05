@@ -9,7 +9,7 @@ tags: ["Injuries,", "Diminishment of Skills from Aging,", "Stars and Megastars",
 draft: 
 ---
 
-A.E. Housman chose a metaphor from sports, but his poem conveys more broadly a truth about reputation: celebrities often outlive their fame, and ungracefully, if *the name died before the man*. By ironic contrast, the young winner of a footrace -- *that early-laurelled head* -- died within a short time thereafter, while the laurel garland of his honor remained fresh.  The poem brings to mind other aspects of Sports.
+A. E. Housman chose a metaphor from sports, but his poem conveys more broadly a truth about reputation: celebrities often outlive their fame, and ungracefully, if *the name died before the man*. By ironic contrast, the young winner of a footrace -- *that early-laurelled head* -- died within a short time thereafter, while the laurel garland of his honor remained fresh.  The poem brings to mind other aspects of Sports.
 
 <!--more-->
 

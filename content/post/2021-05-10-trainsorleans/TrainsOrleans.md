@@ -60,6 +60,8 @@ This train's got the disappearing railroad blues
 
 Listen to the iconic version sung by [Willie Nelson](https://www.youtube.com/watch?v=6XyRdJr4LSc).
 
+# <poem lyric end>
+
 ![City of New Orleans](/media/TrainsCity.jpg)
  
 **Train Travel**:  The length of the trip on the City of New Orleans, between that city and Chicago, is approximately 835 miles (1344 kilometers).  In this decade, the average train ride between those two cities takes almost 20 hours.  

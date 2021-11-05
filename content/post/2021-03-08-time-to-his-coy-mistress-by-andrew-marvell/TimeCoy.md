@@ -65,6 +65,7 @@ Through the iron gates of life:
 Thus, though we cannot make our sun   
 Stand still, yet we will make him run.  
 
+# <poem lyric end>
 
 ![](/media/TimeCoy.jpg)
 

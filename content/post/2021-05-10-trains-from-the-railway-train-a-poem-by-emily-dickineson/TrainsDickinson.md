@@ -32,6 +32,9 @@ Then, punctual as a star,
 Stop--docile and omnipotent--  
 At its own stable door.   
 
+
+# <poem lyric end>
+
 **Formidable Power**:   Trains in the 19th century embodied power; Dickinson chose the apt word *prodigious*.  They loomed above people, bellowed sound, poured out smoke, created a rush of wind, sped across the countryside, and hauled unimaginable tonnage.   For hours a train could pull not only a string of [passenger carriages](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/) but also tons of lumber, coal, grains, and other freight.   Trains pass loudly, or as Dickinson put it *neigh like Boanerges*, referring to Jesus’ nickname for a disciple who preached loudly.  The full-throated roar of a train blustering by reminded the poet of that stentorian voice.  To this day, the blur and commotion of an Amtrak train plummeting by calls out its visceral power and dynamism.  Or the stolid parade of a 100-car freight train in the Midwest signals a beast with scale and momentum almost too much to stop – one that is *omnipotent*.  In the poem, the train stallion is easily able to 
 
 *step*   
