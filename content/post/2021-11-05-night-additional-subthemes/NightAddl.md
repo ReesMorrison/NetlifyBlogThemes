@@ -9,7 +9,7 @@ tags: ["Records,", "Expressions", ]
 draft:
 ---
 
-The subthemes of Night discussed above were animated by a [a poem about surmounting the dark of life](https://themesfromart.com/post/2021-11-05-night-from-invictus-a-poem-by-william-ernest-henley/nightinvictus/), a painting from a [sleepy town](starry) ablaze with stars overhead, a recognition in song of the [power of support](stand), and a movie with [comic night scenes](https://themesfromart.com/post/2021-11-05-night-from-it-happened-one-night-a-movie-starring-clark-gable-and-claudette-colbert/nighthappened/). Here are two more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Night discussed above were animated by a [a poem about surmounting the dark of life](https://themesfromart.com/post/2021-11-05-night-from-invictus-a-poem-by-william-ernest-henley/nightinvictus/), an exhuberant painting of a [sleepy hamlet](https://themesfromart.com/post/2021-11-05-night-from-the-starry-night-a-painting-by-vincent-van-gogh/nightstarry/) ablaze with stars overhead, a recognition in song of the [power of support](https://themesfromart.com/post/2021-11-05-night-from-stand-by-me-a-song-sung-by-ben-e-king/nightstand/), and a movie with [comic night scenes](https://themesfromart.com/post/2021-11-05-night-from-it-happened-one-night-a-movie-starring-clark-gable-and-claudette-colbert/nighthappened/). Here are two more subthemes that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
