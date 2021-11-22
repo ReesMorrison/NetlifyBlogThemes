@@ -9,7 +9,7 @@ tags: ["Formal Logic,", "Records,", "Expressions", ]
 draft: 
 ---
 
-The subthemes of Thinking discussed above came to mind from [Pope’s views on human cognition](raven), a painting of a [person  thinking](Aracharon), a claim in song that strong love coexists with [weak academics](wonderful), and a movie with [genius almost destroyed](beautiful). Here are more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Thinking discussed above came to mind from [Pope’s views on human cognition](raven), a painting of a [person  thinking](Aracharon), a claim in song that strong love coexists with [weak academics](wonderful), and a movie with [genius almost destroyed](https://themesfromart.com/post/2021-11-22-thinking-from-a-beautiful-mind-a-movie-starring-russell-crowe/thinkingmind/). Here are more subthemes that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
