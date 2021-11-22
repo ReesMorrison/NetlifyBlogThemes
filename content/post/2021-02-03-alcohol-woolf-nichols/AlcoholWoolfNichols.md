@@ -11,6 +11,7 @@ description: How a scene from the movie "Who's Afraid of Virginia Woolf", direct
 ---
 
 At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  
+
 <!--more-->
 
 Martha: I actually fell for him.  It! That! There!  
