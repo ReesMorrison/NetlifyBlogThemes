@@ -25,7 +25,7 @@ draft:
 
 A brilliant mathematician tragically lost his mental compass; he slipped from reality; let alone the basic capability to think in the real world.  For a period of time, Nash fell from a math genius to an asylum resident unable to connect to what was happening around him.
 
-If you are interested in further thoughts on the concept of Thinking, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept of Thinking, consider [other subthemes](https://themesfromart.com/post/2021-11-05-night-additional-subthemes/nightaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 

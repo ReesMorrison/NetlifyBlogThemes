@@ -56,7 +56,7 @@ Auguste Rodin, The Thinker
 An adolescent acknowledges academic weaknesses, an inability to retain and understand typical high school subjects.  But lack of book learning or structured reasoning skills doesn’t keep him from fervently loving his girlfriend.  Mental alacrity has little place in his dream of a *wonderful world*.  Where emotions and hormones rein, the disciplines of a stocked mind matter not at all.
 
 
-If you are interested in further thoughts on the concept of Thinking, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept of Thinking, consider [other subthemes](https://themesfromart.com/post/2021-11-05-night-additional-subthemes/nightaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are: 
 

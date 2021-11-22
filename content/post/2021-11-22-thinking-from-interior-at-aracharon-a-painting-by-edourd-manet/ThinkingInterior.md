@@ -25,7 +25,7 @@ draft:
 
 This Manet painting radiates thinking.  Quiet, books, notepaper, and engaged minds appear before us.  Enlightened and stimulated by the open books, the young man contemplates and organizes his thoughts.  He is thinking embodied.
 
-If you are interested in further thoughts on the concept of Thinking, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept of Thinking, consider [other subthemes](https://themesfromart.com/post/2021-11-05-night-additional-subthemes/nightaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
 
