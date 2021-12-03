@@ -10,7 +10,7 @@ tags: ["Electro-Magnetic Spectrum,", "Mythology,", "Specialized Glasses", ]
 draft: 
 ---
 
-An Alfred Hitchcock classic, Rear Window focuses on eyes watching:  Jimmy Stewart and Grace Kelly peer intently, obsessively, through the windows across the courtyard at the assorted activities and try to prove that Raymond Burr ghoulishly murdered his wife.  Here is one sequence from [the movie](https://www.youtube.com/watch?v=w5pn48wzBuw).  Rear Window is well worth watching, including for its Themes of eyesight.
+An Alfred Hitchcock classic, Rear Window focuses on eyes watching:  Jimmy Stewart and Grace Kelly peer intently, [obsessively](https://themesfromart.com/post/2021-12-03-vision-from-i-ll-be-watching-you-a-song-by-the-police/visionwatching/), through the windows across the courtyard at the assorted activities and try to prove that Raymond Burr ghoulishly murdered his wife.  Here is one sequence from [the movie](https://www.youtube.com/watch?v=w5pn48wzBuw).  Rear Window is well worth watching, including for its Themes of eyesight.
 
 <!--more-->
 
@@ -18,13 +18,13 @@ An Alfred Hitchcock classic, Rear Window focuses on eyes watching:  Jimmy Stewar
 
 **Mythology**:   Stewart’s private detective friend concluded that Stewart was imagining a crime; the detective tried to disabuse his friend’s presumed myth.  Mythology is sprinkled with eyes in many roles.  The eye on the United States dollar bill is the Eye of Providence.  The Greek monster Cyclops had only a single eye, whereas Argus Panoptes was a many-eyed giant in Greek mythology.  The cuegle is a monster in [Cantabrian folklore](https://en.wikipedia.org/wiki/Cuegle).  Walking on two legs and roughly humanoid in shape, it displays three eyes in its head: one yellow, one red, and one blue.  The Gorgon Medusa and cockatrices were believed able to turn people to stone with their eyes.  In ancient Egypt, the [Eye of Horus](https://ophthalmologybreakingnews.com/ophthalmologynews-apollo-thefirst-ophthalmologist) was a sign of prosperity and protection, derived from the myth of Isis and Osiris.
 
-**Specialized Glasses**:  Eyeglasses can be a fashion statement (think Sir Elton John) or may be protective lenses for certain purposes: sunglasses, welding masks, arc-welders goggles, safety glasses, medical face shields, or protective sports gear such as ski goggles.  Other kinds of protective eyewear include swimming goggles, scuba masks, and miners’ visors.  They protect against flying objects, harmful  liquids, sparks and other risks.  The special glasses might be prescription glasses or generic.  Jewelers wear loupes and philatelists hold up magnifying glasses.  
+**Specialized Glasses**:  Eyeglasses can be a fashion statement (think Sir Elton John) or may be protective lenses for certain purposes: sunglasses, welding masks, arc-welders goggles, safety glasses, medical face shields, [opera glasses](https://themesfromart.com/post/2021-12-03-vision-from-at-the-opera-a-painting-by-mary-cassatt/visionopera/), or protective sports gear such as ski goggles.  Other kinds of protective eyewear include swimming goggles, scuba masks, and miners’ visors.  They protect against flying objects, harmful  liquids, sparks and other risks.  The special glasses might be prescription glasses or generic.  Jewelers wear loupes and philatelists hold up magnifying glasses.  
 
 &nbsp;
 
 Vision (along with reasoning) plays a key role in this sophisticated murder-mystery film.  Jimmy Stewart watches from his back window with increasing horror as he strongly suspects a killing.   He couldn’t penetrate the stuffed trunk shipped by Burr but his eyes and wits told him enough to see into the ghastly crime.
 
-If you are interested in further thoughts on the concept of Thinking, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept of Thinking, consider [other subthemes](https://themesfromart.com/post/2021-12-03-thinking-additional-subthemes/visionaddl/) that don’t fit as directly to the [poem](https://themesfromart.com/post/2021-12-03-vision-from-sonnet-xix-on-his-blindness-a-poem-by-john-milton/visionmilton/), painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
 

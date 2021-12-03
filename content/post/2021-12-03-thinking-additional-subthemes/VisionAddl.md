@@ -9,7 +9,7 @@ tags: ["Records,", "Expressions", ]
 draft:  
 ---
 
-The subthemes of Eyesight discussed above came to mind from a [a poem about blindness in a poet](milton), a painting of [an opera house and spectating](opera), an assertion of panopticon vigilance](police), and a movie with [eye witnesses to a crime](rear).   Here are more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Eyesight discussed above came to mind from a [a poem about blindness in a poet](https://themesfromart.com/post/2021-12-03-vision-from-sonnet-xix-on-his-blindness-a-poem-by-john-milton/visionmilton/), a painting of [an opera house and spectating](https://themesfromart.com/post/2021-12-03-vision-from-at-the-opera-a-painting-by-mary-cassatt/visionopera/), an assertion of panopticon vigilance](https://themesfromart.com/post/2021-12-03-vision-from-i-ll-be-watching-you-a-song-by-the-police/visionwatching/), and a movie with [eye witnesses to a crime](https://themesfromart.com/post/2021-12-03-vision-from-rear-window-by-alfred-hitchcock-with-jimmy-stewart-and-grace-kelly/visionrear/).   Here are more subthemes that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
