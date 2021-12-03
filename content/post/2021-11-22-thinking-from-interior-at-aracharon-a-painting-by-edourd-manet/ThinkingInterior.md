@@ -1,5 +1,5 @@
 ---
-title: Thinking, from "Interior at Aracharon," a painting by Edourd Manet
+title: Thinking, from "Interior at Aracharon," a painting by Edouard Manet
 author: Rees Morrison
 date: '2021-11-22'
 slug: []
