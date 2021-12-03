@@ -1,5 +1,5 @@
 ---
-title: Thinking, Additional Subthemes
+title: Vision, Additional Subthemes
 author: Rees Morrison
 date: '2021-12-03'
 slug: []
