@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Good Eyesight,", "Blindness,", "Degeneration, Disease, and Injury,", ]
-draft: yes
+draft: 
 ---
 
 John Milton fell totally blind by age 43.  Brilliant, erudite, and with years ahead of him to write and create inimitable poetry, he laments in Sonnet XIX, On His Blindness, how his *light is spent*, plunging him into *this dark world*.  Nevertheless, his deep religious beliefs bolstered him despite his misfortune.  Other themes of Vision emerge.

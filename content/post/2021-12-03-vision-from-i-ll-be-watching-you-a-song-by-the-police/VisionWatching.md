@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Insight into a Person,", "Crying and Tears,", "Physical Marvel", ]
-draft: yes
+draft: 
 ---
 
 Every Breath You Take, throbbingly but threatenly sung by The Police, obsesses with jealous observation.  For every action of the other person, the singer’s lover warns, *I'll be watching you*.  It seems to be romantic until the creepiness seeps in as a perverse fixation, as jealous mistrust, and indeed possibly as an abusive threat – “I will judge everything you do.”  Other themes of Vision appear in the song.

@@ -7,7 +7,7 @@ slug: []
 categories:
   - Movie
 tags: ["Electro-Magnetic Spectrum,", "Mythology,", "Specialized Glasses", ]
-draft: yes
+draft: 
 ---
 
 An Alfred Hitchcock classic, Rear Window focuses on eyes watching:  Jimmy Stewart and Grace Kelly peer intently, obsessively, through the windows across the courtyard at the assorted activities and try to prove that Raymond Burr ghoulishly murdered his wife.  Here is one sequence from [the movie](https://www.youtube.com/watch?v=w5pn48wzBuw).  Rear Window is well worth watching, including for its Themes of eyesight.

@@ -6,14 +6,12 @@ slug: []
 categories:
   - Painting
 tags: []
-draft: yes
+draft: 
 ---
 
 Mary Cassatt’s painting, At the Opera, focuses on an elegant young woman at a theater or symphony hall.  Before the lights go down, she is intent on spotting who else has attended.  From her upper ring seat, she peers through opera glasses across the hall at other attendees; meanwhile, a gentleman in the background appears to be eyeing her!   A few subthemes of Vision can be spotted from this painting.
 
 <!--more-->
-
- 
 
 ![Cassatt painting](\media\EyesightOpera.jpg) The painting hangs at the Boston Museum of Fine Arts.
 
