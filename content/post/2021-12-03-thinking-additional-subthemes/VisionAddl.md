@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Records,", "Expressions", ]
-draft: 
+draft:  
 ---
 
 The subthemes of Eyesight discussed above came to mind from a [a poem about blindness in a poet](milton), a painting of [an opera house and spectating](opera), an assertion of panopticon vigilance](police), and a movie with [eye witnesses to a crime](rear).   Here are more subthemes that don’t link so directly to any of the four works of art.
