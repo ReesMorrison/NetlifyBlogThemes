@@ -25,7 +25,7 @@ Longest period by a human without sleep:  For scientific research, seventeen-yea
 
 Loudest human snore:  In 1993, Swedish resident Kare Walkert set the record at 93 decibels. [Tuft and Needle](https://www.tuftandneedle.com/resources/whats-the-longest-someone-has-slept-tuft-needle/)
 
-Best-selling energy drink in the world: Red Bull, manufactured by an Austrian company, sold 7.5 billion cans in 2019. [Wikipedia]( https://en.wikipedia.org/wiki/Red_Bull)
+Best-selling energy drink in the world: Red Bull, manufactured by an Austrian company, sold 7.5 billion cans in 2019. [Wikipedia](https://en.wikipedia.org/wiki/Red_Bull)
 
 Most expensive bed:  The floating bed is regarded as visual art, with a price tag of $1.6 million.  Invented by a Dutch architect named Janjaap Ruijssenaars, the bed gives the impression of  floating, but it is actually suspended by a magnet system that hovers it approximately 16 inches off the ground.  [Money](https://moneyinc.com/expensive-mattresses-entire-world/)
 

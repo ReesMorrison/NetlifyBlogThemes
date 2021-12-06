@@ -27,7 +27,7 @@ Brightest lighthouse:  The Phare du Créac'h, on the island of Ouessant, in Fran
 
 Brightness of the sun:  For each square meter on Earth, our sun lavishes 127,000 lumens.  16.24 quintillion lumens of sunlight hit here every second [Kogalla](https://kogalla.com/blogs/tech-trail/how-many-lumens-is-the-sun).
 
-Brightest event in the universe:  A super-luminous supernova is a type of stellar explosion with a luminosity 10 or more times higher than that of standard supernovae.[1]  In June 2018, AT2018cow was detected and found to blaze 10–100 times brighter than a normal supernova. [Wikipedia]( https://en.wikipedia.org/wiki/Superluminous_supernova)
+Brightest event in the universe:  A super-luminous supernova is a type of stellar explosion with a luminosity 10 or more times higher than that of standard supernovae.[1]  In June 2018, AT2018cow was detected and found to blaze 10–100 times brighter than a normal supernova. [Wikipedia](https://en.wikipedia.org/wiki/Superluminous_supernova)
 
 **Expressions**:  Below are a few score figurative sayings that relate to Night.  For a master list of online sources that have contributed idioms to the various Themes, see Work Additional Subthemes(  ).  For this collection of 60, aside from identifying candidate expressions myself, I drew heavily on [The Free Dictionary](https://idioms.thefreedictionary.com/night).
 

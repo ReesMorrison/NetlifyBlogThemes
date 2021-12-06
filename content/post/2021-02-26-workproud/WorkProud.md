@@ -39,14 +39,7 @@ Bet you gonna find some people who live
 You don't have to worry cause you have no money  
 People on the river are happy to give  
 
-Big wheel keep on turnin'  
-Proud Mary keep on burnin'  
-Rollin', rollin', rollin' on the river  
-Rollin', rollin', rollin' on the river  
-
-Rollin', rollin', rollin' on the river  
-Rollin', rollin', rollin' on the river  
-Rollin', rollin', rollin' on the river  
+[remainder omitted]
 
 # <poem lyric end>
 

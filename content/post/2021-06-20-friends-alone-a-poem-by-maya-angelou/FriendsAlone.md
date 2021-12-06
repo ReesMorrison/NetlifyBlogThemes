@@ -13,8 +13,6 @@ Maya Angelou’s “Alone” speaks to the difficulties for all of us if we lack
 
 <!--more-->
 
-“Alone” by Maya Angelou
- 
 Lying, thinking  
 Last night  
 How to find my soul a home  
@@ -54,9 +52,11 @@ Can make it out here alone.
 
 [refrain omitted]
 
+# <poem lyric end>
+
 **Alone or Lonely**:  Angelou suggests that being alone – which I take to mean friendless – hurts the most, as you are lonely in a cruel world.  “Alone” and “lonely,” however, are not synonyms.  Being alone simply means no one else is present; being lonely means you wish you had a companion (a pet or a person).  Introverts can be alone, all by themselves, and be perfectly happy without a thought to being lonely.  A solitary existence does not mean a sad existence for those who are self-reliant.  They are more self-sufficient and independent than extroverts, who draw energy from and flourish around other people.  Introverts relish their Walden Pond and deny feeling isolated or lonely.  Extroverted people [thrive in groups](https://themesfromart.com/post/2021-06-20-friends-the-big-chill-a-movied-directed-by-lawrence-kasdan/friendschill/) or at least hanging out with buddies and they fret if no one else is around.  Robinson Crusoe was alone and might certainly have been lonely.  In his book, Bowling Alone, Robert Putnam argues that in the United States, a malaise spreads because we have become increasingly disconnected from one another as social structures that held us together have weakened.  The cure for loneliness is friendship.  
 
-**Wealthy or Celebrity**: Money can’t buy the reassurance and pleasure of a beloved friend who will [*come runnin’*](Taylor).  Angelou knows that millionaires can be friendless, with *hearts of stone*, and wretched because:
+**Wealthy or Celebrity**: Money can’t buy the reassurance and pleasure of a beloved friend who will [*come runnin*](https://themesfromart.com/post/2021-06-20-friends-you-ve-got-a-friend-a-song-by-carol-king-sung-by-james-taylor/friendstaylor/).  Angelou knows that millionaires can be friendless, with *hearts of stone*, and wretched because:
 
 *But nobody*  
 *No, nobody*  

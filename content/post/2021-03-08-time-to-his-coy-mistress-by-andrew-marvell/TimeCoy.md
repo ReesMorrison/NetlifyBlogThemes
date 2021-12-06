@@ -10,11 +10,9 @@ meta_img: images/image.png
 description: a poem by a wooer who rejects his mistress's delays
 ---
 
-Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
+Marvell’s poem, “To His Coy Mistress,” addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about Time.
 
 <!--more-->
-
-“To His Coy Mistress” by Andrew Marvell 
 
 Had we but world enough and time,  
 This coyness, lady, were no crime.   
@@ -68,7 +66,6 @@ Stand still, yet we will make him run.
 # <poem lyric end>
 
 ![](/media/TimeCoy.jpg)
-
 
 **Ampleness Suggests Leisure**:  Most people feel that they do not have enough time to accomplish what they need to get done nor to relish what they enjoy.  The leisurely admiration of his mistress’ various attributes in the first stanza stands for the luxury of being able to draw slowly and richly as much pleasure as possible from the fullness of activity.
   

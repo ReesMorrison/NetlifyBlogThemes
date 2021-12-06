@@ -18,7 +18,7 @@ At the focus spot of a well-known painting by Edgar Degas, "The Absinthe" ["L?  
 
 **Legal Restrictions**: Its growing popularity and its negative social effects led to absinthe being banned in much of Europe and America."  More broadly, alcohol for consumption swirls in a cloud of legal restrictions.  You must be of majority age to drink, certain kinds of alcohol are illegal, driving under the influence carries heavy penalties, sales are regulated and highly taxed.   At the extreme, the Eighteenth Amendment of the United States Constitution prohibited alcohol in the United States starting January 16, 1919.   Much of the animus against drinking alcohol arises from moralistic prudery, but also awareness of drunken misbehavior.  
 
-The woman stares down into space with heavy eyes, her shoulders drooped and the pale absinthe on the table in front of her. The painting exudes melancholy, with its palette of muted greys and soft earth tones suggesting stale air and melancholy.  She looks sad, with hardly enough strength to pick up the goblet.  Small wonder.
+The woman stares down into space with heavy eyes, her shoulders drooped and the pale absinthe on the table in front of her. The painting exudes melancholy, with its palette of muted greys and soft earth tones suggesting stale air and melancholy.  She looks sad, with hardly enough strength to pick up the goblet.
 
 **Depressant**:Alcohol is a central nervous system depressant, meaning that it slows down brain functioning and neural activity. Alcohol does this by enhancing the effects of the neurotransmitter GABA. Alcohol can slur speech, unsteady movement, disturb perceptions, and slow reactions. Alcohol impairs the ability to think rationally, lessens inhibitions, and distorts judgment. 
 

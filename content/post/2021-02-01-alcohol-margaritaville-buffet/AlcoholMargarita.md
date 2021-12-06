@@ -10,11 +10,9 @@ meta_img: images/image.png
 description: Drinking alcohol -- margaritas -- in a Mexican resort, with a disconsolate beachcomber figuring out his life
 ---
 
-A beach bum, awash in margaritas [Note 1], boozily staggers through this ballad of rueful retrospection.  He concludes that he is to blame for his plight, not some unnamed woman.  But the connotations we concentrate on in Jimmy Buffet’s “Margaritaville” emanate from alcohol.  The blended deliciousness of margaritas cozens him yet robs him of clear thinking and sucks mature control from his life.  The alcohol, we will see, gives him refuge but removes his agency.
+A beach bum, awash in margaritas, boozily staggers through this ballad of rueful retrospection.  He concludes that he is to blame for his plight, not some unnamed woman.  But the connotations we concentrate on in Jimmy Buffet’s “Margaritaville” emanate from alcohol.  The blended deliciousness of margaritas cozens him yet robs him of clear thinking and sucks mature control from his life.  The alcohol, we will see, gives him refuge but removes his agency.
 
 <!--more-->
-
-“Margaritaville” (written and sung by Jimmy Buffet)
 
 Nibblin' on sponge cake  
 Watchin' the sun bake  
@@ -94,7 +92,7 @@ Blotto, out of it, he impulsively paid for a tattoo that afterwards he can’t a
 
 The seduction of warmth, low costs, and the siren-like beckoning of potent fruity drinks have robbed the singer of his ability to make longer-term decisions.   Or perhaps the singer had already lost his bearings, so it was easy to submerge in tropical indolence and abandonment in the cups.
 
-**Physical Risks**:  After another refrain, which subtly shows him narrowing in on the truth, the fifth stanza reminds us that if you over-consume alcohol you run a greater risk of getting hurt.  Your balance, reactions and judgment are out of kilter. [Note 2] He doesn’t take care of his meager possessions (*I blew out my flip flop*) so when he stepped on a sharp bottle top (probably from a can, a pop top) he cut his foot badly enough to make him turn back to where he stays.  Note the unurgent *cruised back home* to the comforting nurse of his favorite beverage (a bit like the [jug for Eben Flood](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)).  
+**Physical Risks**:  After another refrain, which subtly shows him narrowing in on the truth, the fifth stanza reminds us that if you over-consume alcohol you run a greater risk of getting hurt.  Your balance, reactions and judgment are out of kilter. He doesn’t take care of his meager possessions (*I blew out my flip flop*) so when he stepped on a sharp bottle top (probably from a can, a pop top) he cut his foot badly enough to make him turn back to where he stays.  Note the unurgent *cruised back home* to the comforting nurse of his favorite beverage (a bit like the [jug for Eben Flood](https://themesfromart.com/post/2021-01-24-alcohol-flood-frost/alcohol/)).  
  
 *But there's booze in the blender*  
 *And soon it will render*  
@@ -129,14 +127,3 @@ We invite you to read about other rock songs discussed on this blog, and their t
 * Time:	[Turn, Turn, Turn](https://themesfromart.com/post/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/)
 * Trains: [City of New Orleans](https://themesfromart.com/post/2021-05-10-trainsorleans/trainsorleans/)
 * Work:	 [Proud Mary](https://themesfromart.com/post/2021-02-26-workproud/workproud/)
-
-
-Note 1. The ingredients of a margarita might be of interest.  Nothing nutritious, except you won’t get scurvy.
-•	2 ounces blanco tequila 
-•	1/2 ounce orange liqueur 
-•	1 ounce lime juice, freshly squeezed 
-•	1/2 ounce agave syrup 
-•	Garnish: lime wheel 
-•	Garnish: kosher salt (optional) [Click here for much more about its history, etc.](https://www.liquor.com/recipes/margarita/)
-
-Note 2: In the United States [drunk-driving crashes claim more than 10,000 lives per year](https://www.nhtsa.gov/risky-driving/drunk-driving). 

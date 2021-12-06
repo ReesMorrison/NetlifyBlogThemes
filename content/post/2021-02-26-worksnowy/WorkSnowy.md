@@ -10,15 +10,14 @@ meta_img: images/image.png
 description: Robert Frost poem, Stopping by Woods on a Snowy Day
 ---
 
-This quiet poem murmurs a small vignette of a person pausing while making deliveries or pickups far from farmhouses one winter evening.   
+A quiet poem by Robert Frost, “Stopping by Woods on a Snowy Evening,” murmurs a small vignette of a person pausing while making deliveries or pickups far from farmhouses one winter evening.   
 
 *My little horse must think it queer*
 *to stop without a farmhouse near*
 
-His few minutes of appreciation for the scenery give insight into several aspects of work.  
+His few minutes of appreciation for the scenery give insight into several aspects of Work.  
 
-
-“Stopping by Woods on a Snowy Evening” (Robert Frost)
+<!--more-->
 
 Whose woods these are I think I know.     
 His house is in the village though;     
