@@ -9,7 +9,7 @@ tags: ["Mythology,", "Records,", "Expressions", ]
 draft: 
 ---
 
-The subthemes of Fire discussed above came to mind from a [poem on aging and the embers of love](Old), a painting with an [industrial smokestack](Sisley), a burning, passionate [plea for lovemaking](light), and a movie about [a skyscraper ravaged by fire](inferno).   Here are more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Fire discussed above came to mind from a [poem on aging and the embers of love](https://themesfromart.com/post/2021-12-17-fire-from-when-you-are-old-a-poem-by-william-butler-yeats/fireold/), a painting with an [industrial smokestack](https://themesfromart.com/post/2021-12-17-fire-from-the-flood-banks-of-the-seine-bougival-a-painting-by-alfred-sisley/fireflood/), a burning, passionate [plea for lovemaking](https://themesfromart.com/post/2021-12-17-fire-from-light-my-fire-a-song-by-the-doors/firedoors/), and a movie about [a skyscraper ravaged by fire](https://themesfromart.com/post/2021-12-17-fire-from-the-towering-inferno-a-film-with-paul-newman-steve-mcqueen-fred-astaire-and-faye-dunaway/firetowering/). Here are more subthemes that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
@@ -23,12 +23,13 @@ The subthemes of Fire discussed above came to mind from a [poem on aging and the
 
 *Deadliest U.S. fire – The Peshtigo forest fire on Oct. 8, 1871, burned approximately 1.2 million acres and killed 1,500 to 2,500 people. [Wikipedia](https://en.wikipedia.org/wiki/Peshtigo_fire)  
 
-*Deadliest Wildland Fire for Firefighters – 78 in the Devil’s Broom Wildland Fire, St. Joe Valley, Idaho August 20, 1910.  [National Fire Protection Association](https://www.nfpa.org/News-and-Research/Data-research-and-tools/Emergency-Responders/Firefighter-fatalities-in-the-United-States/Top-10-Deadliest-Wildland-Firefighter-Fatality-Incidents)  
-*Most expensive U.S. fire -- Oakland Fire, California, Oct. 20-21, 1991: $2.6 billion as it killed 25 people and devoured 2,843 homes and 433 apartments. [Insure](https://www.insure.com/home-insurance/costliest-wildfires.html)  
+*Deadliest Wildland Fire for Firefighters – 78 in the Devil’s Broom Wildland Fire, St. Joe Valley, Idaho August 20, 1910.  [National Fire Protection Association](https://www.nfpa.org/News-and-Research/Data-research-and-tools/Emergency-Responders/Firefighter-fatalities-in-the-United-States/Top-10-Deadliest-Wildland-Firefighter-Fatality-Incidents)
+
+*Most expensive U.S. fire -- Oakland Fire, California, Oct. 20-21, 1991: \$2.6 billion as it killed 25 people and devoured 2,843 homes and 433 apartments. [Insure](https://www.insure.com/home-insurance/costliest-wildfires.html)  
 
 *Most lightning strikes -- South America's largest lake, Lake Maracaibo absorbs an average of 233 flashes per square kilometer every year, thousands per night.  [Phys Org](https://phys.org/news/2021-09-lake-maracaibo-lightning-capital-world.html)  
 
-*Most arson convictions (serial burner)   --  Thomas A. Sweatt, a convicted serial arsonist, set over 350 fires in and around Washington, D.C., most of which occurred in 2003 and 2004.  Arrested in April 2005, Sweatt admitted to setting fires for more than 30 years. [Wikipedia]](https://en.wikipedia.org/wiki/Thomas_Sweatt)  
+*Most arson convictions (serial burner)   --  Thomas A. Sweatt, a convicted serial arsonist, set over 350 fires in and around Washington, D.C., most of which occurred in 2003 and 2004.  Arrested in April 2005, Sweatt admitted to setting fires for more than 30 years. [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Sweatt)  
 
 **Expressions**: Sometimes a heated topic, Fire has lit many related figurative sayings.  For a master list of online sources that have contributed idioms to the various Themes on this blog, see Work Additional Subthemes.  For this collection of 65, aside from identifying expressions myself, I drew on [The Free Dictionary](https://idioms.thefreedictionary.com/fire) and [SpellZone](https://www.spellzone.com/blog/25_Idioms_about_Fire.htm).  Expressions do not include proverbs, such as “Where there’s smoke, there’s fire.”
 
