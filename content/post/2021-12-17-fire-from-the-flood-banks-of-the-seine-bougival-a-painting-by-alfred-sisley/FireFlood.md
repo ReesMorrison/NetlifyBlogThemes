@@ -7,7 +7,7 @@ slug: []
 categories:
   - Painting
 tags: ["Industry,", "Pottery and Bricks,", "Insurance,", "Nature's Matches",]
-draft: yes
+draft:
 ---
 
 Alfred Sisley’s painting, “The Flood. Banks of the Seine, Bougival” incongruously (and probably unintentionally) pictures too much water in the front against a background of billowing smoke from an industrial chimney.   Fire and water, classic opposites, contrasted on one canvas.  Other subthemes of uses of Fire can be elicited.

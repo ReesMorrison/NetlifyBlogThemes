@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Home Heating and Lighting,", "Cooking,", "Fuels,", "Astronomical Heat",]
-draft: yes
+draft: 
 ---
 
 “When You Are Old,” by William Butler Yeats, serenely and poignantly evokes how old age banks the fires of life.  With sadness, suggesting a long-ago widowhood, it refers to *how Love fled,* but the lines of the poem have blown gently on the embers of remembered admiration and love.  The glow has greyed, but the feelings have not been completely extinguished.  A few other subthemes of Fire arise.

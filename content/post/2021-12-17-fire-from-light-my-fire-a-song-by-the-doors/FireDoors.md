@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Chemistry,", "Rust from Oxidation,", "Harm",]
-draft: yes
+draft:
 ---
 
 In early 1967, “Light My Fire,” sung by The Doors, flared onto the rock scene.  The sexual allusions blaze out.  Metaphorically, fire flickers with excitement and danger, as do erotic liaisons.  Have a [listen](https://www.youtube.com/watch?v=4sb27l41e6E).  What else can we associate to this song about Fire?

@@ -7,7 +7,7 @@ slug: []
 categories:
   - Movie
 tags: ["Government Regulations,", "Firefighters,", "Infamous Urban Conflagrations",]
-draft: yes
+draft: 
 ---
 
 “The Towering Inferno” tracks a fire that ravaged a massive skyscraper on the night of its gala opening.  Steve McQueen, Paul Newman, Faye Dunaway, and a litany of other actors struggle to respond to a modest smolder from shoddy wiring that spread dramatically to engulf much of the brand-new building and threatened to kill the celebrants.  Here is a [clip from the movie](https://www.youtube.com/watch?v=zsRnQQpklPM).  Let’s tease out other themes of Fire.
