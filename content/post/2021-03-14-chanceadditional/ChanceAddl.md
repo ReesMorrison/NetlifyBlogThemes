@@ -20,7 +20,9 @@ The previous four posts considered associations with “Chance”: the [agony of
 
 **Risk Aversion**:  Behavioral economists have demonstrated repeatedly that most people fear a loss of a given amount more than they welcome the reward of the same amount.  Humans tend to be less likely to take a chance when we might lose something, than boldly venture to gain the same amount.  We don’t perceive symmetric positive and negative chances as equivalents.  Most of us won’t accept an offer that amounts to a fifty-fifty chance of gaining one-hundred dollars or of having to pay one hundred.  Put briefly, humans have evolved to view chance as a risky proposition.
 
-**Expressions**: The 62 idiomatic sayings presented alphabetically below refer to Chance in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources:  [7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/),  [Free Dictionary](https://idioms.thefreedictionary.com/),  [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Learn English Today](https://www.learn-english-today.com/idioms/idiom-categories/luck/luck-opportunity1.html),  [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/in-all-probability),  [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), [Literacy at Work](https://www.literacyatwork.net/), [Your Dictionary](https://www.yourdictionary.com/hangover). [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history). 
+**Expressions**: The 91 idiomatic sayings presented alphabetically below refer to Chance in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources: 
+
+[7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/),  [Free Dictionary](https://idioms.thefreedictionary.com/),  [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Learn English Today](https://www.learn-english-today.com/idioms/idiom-categories/luck/luck-opportunity1.html),  [MacMillan Dictionary](https://www.macmillandictionary.com/dictionary/british/in-all-probability),  [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), [Literacy at Work](https://www.literacyatwork.net/), [Your Dictionary](https://www.yourdictionary.com/hangover). [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history). 
 
 <!--Here are the sayings.-->
 
@@ -87,3 +89,33 @@ when pigs fly (something that will never happen)
 while the going is good (while an opportunity lasts)  
 window of opportunity (short time for a chance to do something)  
 
+another take (another attempt)  
+beyond the realm(s) of possibility (impossible)  
+bump into (meeting someone unexpectedly)  
+by the skin of one's teeth (barely)  
+catch someone off guard (surprise someone)  
+final moment (final chance or opportunity)  
+hang by a thread (barely surviving or carrying on; at risk)  
+happen along (to come to or by place by chance)  
+have an accident (unintentionally do something, with unpleasant consequences)  
+lap of the gods (not yet decided or certain)  
+last ditch (a desperate final attempt)  
+leave open the possibility of something (to not to prevent something)  
+not a hope in hell (no chance at all)  
+not have a prayer (to have no chance whatsoever)  
+out of nowhere (appearing suddenly)  
+out of the blue (unexpectedly)  
+second bite of the apple (a second chance or opportunity)  
+second shot (second attempt)  
+spring something on someone (announce something suddenly)  
+taken by surprise (attack or capture by surprise)  
+thank one's lucky stars (express appreciation for a beneficial occurrence)  
+the eleventh hour (the latest possible time before it is too late)  
+the long arm of coincidence (far-reaching power or influence of coincidence)  
+third time lucky (the third attempt at something will be successful)  
+turn up (available unexpectedly)  
+under the wire (at the last possible opportunity)  
+up in the air (things are highly uncertain)  
+wing and a prayer (doing something with hope, but very little chance of success)  
+wish for the moon (want something that is impossible)  
+within the bounds of possibility (most likely possible)  
