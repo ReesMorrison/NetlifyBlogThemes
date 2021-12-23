@@ -37,7 +37,7 @@ When scrutinized and unpacked, these four particular sips of alcohol through art
 
 The more you ponder these connotations of alcohol in our society, the more you realize the English language spills over with colloquial expressions for overdoing: cockeyed, hammered, inebriated, out of it smashed, tipsy, toasted.  They all point to the same conclusion:  Drinking profoundly alters an individuals mood, behavior, and neuropsychological functioning. 
 
-**Expressions**: The 74 idiomatic sayings presented alphabetically below refer to drinking alcohol in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources: [7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/), [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history), [Free Dictionary](https://idioms.thefreedictionary.com/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Drinks Business](https://www.thedrinksbusiness.com/2015/01/top-10-drinking-phrases-and-their-origins/), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), and [Your Dictionary](https://www.yourdictionary.com/hangover). 
+**Expressions**: The 105 idiomatic sayings presented alphabetically below refer to drinking alcohol in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources: [7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/), [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history), [Free Dictionary](https://idioms.thefreedictionary.com/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Drinks Business](https://www.thedrinksbusiness.com/2015/01/top-10-drinking-phrases-and-their-origins/), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), and [Your Dictionary](https://www.yourdictionary.com/hangover). 
 
 <!--Here are the sayings.-->
 
@@ -115,3 +115,36 @@ wet your beak (take money through extortion)
 wet your whistle (have a drink)  
 whiskey tenor (a husky or guttural voice due to prolonged alcohol abuse)  
 wine and dine (to entertain someone with lavish drinks and meals)  
+
+a cold one (a chilled can of beer)  
+a drink on the rocks (an alcoholic drink on ice)  
+angel's share (an amount of alcoholic drink evaporated while storing)  
+boiled in the bag (one has had too much of alcohol)  
+bottle shock (wine with lousy taste)  
+bring a bottle (bring alcoholic drink to the party)  
+bug juice (inferior whiskey or other strong liquor)  
+Codd’swallop (derogatory term for weak beer)  
+cult wines (wines for dictated groups of enthusiasists)  
+dead man (an empty beer bottle)  
+do the drink thing (drink alcohol in excessive amounts)  
+draft beer (beer served from the keg, rather than a bottle)  
+drink on the house (free drink)  
+drink with the flies (drink alone)  
+get hammered (extremely intoxicated from alcoholic liquor)  
+get steaming (get drunk) 
+good to the last dregs (all the way to the end, something was enjoyable)  
+Half-seas Over (drunk)  
+knock back (drink alcohol in excess amounts)  
+nurse a drink (consuming alcohol slowly)  
+out of one's tree (to behave crazy after alcohol consumption)  
+pick your poison (choose a alcohic drink)  
+pigeon-eyed (very drunk)  
+pissed as a newt (inebriated)  
+pop and pour (wine is ready to consume)  
+pot valiant (being brave under the influence of alcohol)  
+pub crawl (drinking from pub to pub)  
+slam back (drink alcohol all in one go)  
+stiff drink (a strong alcoholic drink)  
+top-heavy with drink (staggering walk when drunk)  
+top-shelf liquor (the most expensive alcohol)  
+wine o' clock (the ideal time to have a glass of wine)  
