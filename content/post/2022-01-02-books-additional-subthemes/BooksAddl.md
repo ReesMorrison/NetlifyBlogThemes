@@ -9,7 +9,7 @@ tags: ["Records,", "Expressions", ]
 draft: 
 ---
 
-The subthemes of Books discussed above came to mind from a [poem by an author reflecting on her book](author), a painting with [books piled on a table](stillife), a [plea by a writer of paperback novels](paperback), and a movie about [book informed youth](Goodwill).   Here are more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Books discussed above came to mind from a [poem by an author reflecting on an  unauthorized book](https://themesfromart.com/post/2022-01-01-books-from-the-author-to-her-book-a-poem-by-anne-bradstreet/booksbradstreet/), a painting of [books piled on a table](https://themesfromart.com/post/2022-01-02-books-from-still-life-with-books-a-painting-by-vincent-van-gogh/booksstill/), a [plea by a writer of paperback novels](https://themesfromart.com/post/2022-01-02-books-from-paperback-rider-by-the-beatles/bookspaperback/), and a movie about [book informed youth](https://themesfromart.com/post/2022-01-02-books-from-good-will-hunting-a-movie-with-matt-damon-robin-williams-and-ben-afleck/bookshunting/).   Here are more subthemes that don’t link so directly to any of the four works of art.
 
 <!--more-->
 
