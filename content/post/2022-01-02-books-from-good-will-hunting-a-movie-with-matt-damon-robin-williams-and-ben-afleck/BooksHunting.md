@@ -1,0 +1,61 @@
+---
+title: Books, from "Good Will Hunting," a movie with Matt Damon, Robin Williams, and
+  Ben Afleck
+author: Rees Morrison
+date: '2022-01-02'
+slug: []
+categories:
+  - Movie
+tags: ["Autodidacts,", "Sacred Texts,", "Software,", "Lost Books"]
+draft: yes
+---
+
+A polymath, self-taught by voluminous reading, total recall, and precocious understanding, Matt Damon’s character (Will Hunting) harbors deep seated, troubling psychological pain.  Books stuffed him with knowledge but it took the perspicacity of Robin Williams (playing the therapist Sean McGuire), the friendship of Ben Affleck (Chuckie Sullivan), and the love of Minnie Driver (Skylar) to salvage his intellectual gifts and life.  Here is a scene from the Oscar winning movie where [Damon crushes an arrogant Harvard show-off](https://www.youtube.com/watch?v=hIdsjNGCGz4).  Subthemes of Books emerge from this wonderful movie.
+
+<!--more-->
+
+**Autodidacts**:   Will Hunting was mostly self-taught; the public education in a poor neighborhood of Boston was paltry compared to the broad range of what he hoovered up from reading, rapidly, and not only retaining what he read but synthesizing the material.  Over the years, many people have educated themselves from books.  Advantages of that method include that you can read at your own pace, you can concentrate on what you don’t know, you can go over and over the material, you can note marginalia to your mind’s content, and you can merge the wisdom of multiple sources on the same topic.  [Before widespread public schooling](stilllife), books were the primary repositories of learning.  Readers who deeply explore a subject line shelves with their well-worn books.
+
+Literacy enables book learning.  Obviously if you can’t read, only the pictures in books might enlighten you.  “[T]he National Center for Educational Statistics (NCES) [estimates that] 21 percent of adults in the United States (about 43 million) fall into the illiterate/functionally illiterate category”, according to [Library Journal](https://www.libraryjournal.com/story/How-Serious-Is-Americas-Literacy-Problem).
+
+**Software**:  Will Hunting appears to have written and done his math wizardry without benefit of a computer.  However, since the earliest days, authors of books have improved from [quill pens](author) to word-processing programs such as Microsoft Word to draft and revise their books and from seats in libraries to the ubiquitous internet search for research.   With the power of computers and a range of software, writers can produce high quality books, with professional-looking typesetting, front and back matter, images, covers and bindings of hardcover or [paperback](paperback) books.  Writers make use of spellcheckers, online dictionaries and thesauruses, and grammar checkers.  LaTeX publishing software is free and extremely powerful for layouts.  LeanPub and other companies can handle distribution of versions of books and collection of royalties.  Electronic publishing has matured and allows many modes of distribution to e-book readers, such as the Nook.   PDF files have replaced bulky, at-risk manuscripts.  We could also include books on tape and Braille books.  Everywhere you look, software has encouraged the promiscuity of the corporate and self-publishing deluge.
+
+**Sacred Texts**:   Will Hunting displayed no religious side.  By contrast, during the past 2,000 years, the books most commonly read or read from were religious texts.  Venerated holy books include the Koran for Islam, The Vedas and The Upanishads for Hinduism, and the Tipitaka for Theravada Buddhism.  The Book of Mormon for the Church of Jesus Christ of Latter Day Saints would be included in this group as would the Torah and the Talmud for members of the Jewish religion.  And then there is the Bible, which was originally written in Hebrew, Aramaic, and Koine Greek.  Scholars have translated the source documents (themselves subject to controversies of age, authorships, and inclusion) numerous times.  The Bible is purportedly the best seller of all time.   [Wikipedia](https://en.wikipedia.org/wiki/Bible_translations) says that “As of September 2020 the full Bible has been translated into 704 languages, the New Testament has been translated into an additional 1,551 languages and Bible portions or stories into 1,160 other languages. Thus at least some portions of the Bible have been translated into 3,415 languages.”  That a small library in itself!
+
+**Lost Books**:  We have tantalizing references to entire books that have disappeared. Homer’s Margites, for one, or more than 20 books of the Bible.  It is believed that we have never found Shakespeare’s play, Cardenia.  According to The Smithsonian (https://www.smithsonianmag.com/arts-culture/the-top-10-books-lost-to-time-83373197/) “There is evidence that Shakespeare’s company, the King’s Men, performed the play for King James I in May 1613—and that Shakespeare and John Fletcher, his collaborator for Henry VIII and Two Noble Kinsmen, wrote it. But the play itself is nowhere to be found.”  Or from the same Smithsonian site: “In the 14th century, a Franciscan monk from Oxford, whose name is unknown, traveled the North Atlantic.  He described the geography of the Arctic, including what he presumed was the North Pole, in a book called Inventio Fortunata, or “The Discovery of the Fortunate Islands.” “He gave King Edward III a copy of his travelogue around 1360, and some say an additional five copies floated around Europe before the book was lost.”   The preceding three writings sank out of sight mysteriously, but others by accident.  “In 1922, Hadley Hemingway, the first of Ernest Hemingway’s four wives, put the longhand originals of several of her husband’s short stories and a partial novel in a suitcase. She left Paris on a train and met Ernest in Lausanne, Switzerland. But, en route, the suitcase and its priceless cargo were stolen.”  We will never read a word of countless works written by ancient scholars.  As one tiny example, the surviving works of Aeschylus, Sophocles and Euripides are [far outnumbered]( https://www.bloomsbury.com/us/lost-plays-of-greek-tragedy-volume-2-9781474276498/) by their lost plays. On a larger scale, entire libraries have been burned, accidentally or deliberately.  One of the most famous libraries in history was in Alexandria, Egypt; by legend its magnificent collection of irreplaceable pre-books was destroyed, but more likely it deteriorated over many years.
+
+&nbsp;
+
+Will Hunting suppressed his flashing intelligence, gained through broad, deep and effective reading of books.  Library books in his spongelike brain were his vade mecum, when he needed them, in the years before personal computers revolutionized the world of books.  
+
+If you are interested in further thoughts on the concept of Books, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+
+We invite you to read about other movies discussed on this blog, and their themes.  Here they are: 
+
+* Alcohol: [Who’s Afraid of Virginia Woolf](https://themesfromart.com/post/2021-02-03-alcohol-woolf-nichols/alcoholwoolfnichols/), with Elizabeth Taylor and Richard Burton
+* Beauty: [Taxi Driver](https://themesfromart.com/post/2021-04-21-beauty-taxi-driver-a-movie-with-robert-de-niro-and-cybill-shepherd/beautytaxi/), with Robert de Niro and Cybill Shepherd
+* Birds: [The Birds](https://themesfromart.com/post/2021-06-07-birds-the-birds-a-movie-directed-by-alfred-hitchcock/birdsthebirds/), directed by Alfred Hitchcock
+* Bridges: [The Bridge Over the River Kwai](https://themesfromart.com/post/2021-07-26-bridges-from-bridge-over-troubled-waters-a-song-by-simon-garfunkel/bridgestroubled/), directed by David Lean
+* Chance: [The Deerhunter](https://themesfromart.com/post/2021-03-14-chancewinner/chancewinner/), with Robert de Niro and Meryl Streep
+* Churches: [On the Waterfront](https://themesfromart.com/post/2021-05-21-churches-from-on-the-waterfront-a-movie-with-marlon-brando/churcheswaterfront/), with Marlon Brando and Eva Marie Saint
+* Clothes: [My Fair Lady](https://themesfromart.com/post/2021-08-30-clothes-from-my-fair-lady-a-movie-starring-audrey-hepburn/clothesfair/), with Audrey Hepburn and Rex Harrison
+* Dancing: [Singing in the Rain](https://themesfromart.com/post/2021-09-10-dancing-from-singin-in-the-rain-a-movie-starring-gene-kelley-and-debbie-reynolds/dancingrain/), with Gene Kelley and Debbie Reynolds
+* Death: [Bonnie & Clyde](https://themesfromart.com/post/2021-05-03-death-from-bonnie-clyde-a-movie-starring-warren-beatty-and-faye-dunaway/deathbonnie/), with Faye Dunaway and Warren Beatty
+* Decisions: [Sophie’s Choice](https://themesfromart.com/post/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/), with Meryl Streep
+* Destruction: [Saving Private Ryan](https://themesfromart.com/post/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), with Tom Hanks and Matt Damon
+* Fire [The Towering Inferno](https://themesfromart.com/post/2021-12-17-fire-from-the-towering-inferno-a-film-with-paul-newman-steve-mcqueen-fred-astaire-and-faye-dunaway/firetowering/), with Paul Newman, Steve McQueen, Fred Astaire and Faye Dunaway
+* Friends: [The Big Chill](https://themesfromart.com/post/2021-06-20-friends-the-big-chill-a-movied-directed-by-lawrence-kasdan/friendschill/), with Kevin Kline, Meg Tilly, Jeff Goldblum, Glenn Close
+* Money: [Wall Street](https://themesfromart.com/post/2021-10-15-money-from-wall-street-a-movie-starring-michael-douglas-and-michael-sheen/moneywall/), with Michael Douglas and Charlie Sheen
+* Night: [It Happened One Night](https://themesfromart.com/post/2021-11-05-night-from-it-happened-one-night-a-movie-starring-clark-gable-and-claudette-colbert/nighthappened/), with Clark Gable and Claudette Colbert
+* Rivers: [A River Runs Through It](https://themesfromart.com/post/2021-10-02-rivers-from-a-river-runs-through-it-a-movie-by-robert-redford-starring-brad-pitt/riversruns/), with Michael Douglas and Michael Sheen
+* Sailing Ships: [Mutiny on the Bounty](https://themesfromart.com/post/2021-06-26-sailing-ships-mutiny-on-the-bounty-a-movie-with/sailingshipsmutiny/), with Marlon Brando
+* Silence: [North by Northwest](https://themesfromart.com/post/silencenorthwest/), with Eva Marie Saint and Cary Grant
+* Sleep: [Sleepless in Seattle](https://themesfromart.com/post/2021-09-22-sleep-from-sleepless-in-seattle-a-movie-starring-tom-hanks-and-meg-ryan/sleepsleepless/), with Tom Hanks and Meg Ryan
+* Soldiers: [Forrest Gump](https://themesfromart.com/post/2021-08-02-soldiers-from-forrest-gump-a-movie-starring-tom-hanks/soldiersgump/), with Tom Hanks, Robin Wright and Sally Fields
+* Sports: [Chariots of Fire](https://themesfromart.com/post/2021-07-12-sports-from-chariots-of-fire-a-movie-about-the-1924-olypics/sportschariots/), with music by Vangelis Papathanassiou
+* Thinking: [A Beautiful Mind](https://themesfromart.com/post/2021-11-22-thinking-from-a-beautiful-mind-a-movie-starring-russell-crowe/thinkingmind/), with Russell Crowe
+* Time: [Groundhog Day](https://themesfromart.com/post/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/), with Bill Murray
+* Trains: [Murder on the Orient Express](https://themesfromart.com/post/2021-05-10-trains-from-murder-on-the-orient-express-a-movie-directed-by-sidney-lumet/trainsorient/), with Kenneth Branagh, Johnny Depp, Michelle Pfeiffer, Judy Dench, and Penelope Cruz
+* Vision: [Rear Window](https://themesfromart.com/post/2021-12-03-vision-from-rear-window-by-alfred-hitchcock-with-jimmy-stewart-and-grace-kelly/visionrear/), with Jimmy Stewart, Grace Kelly, and Aaron Burr
+* Wind: [The Wizard of Oz](https://themesfromart.com/post/2021-08-12-wind-from-the-wizard-of-oz-a-movie-with-judy-garland/windoz/), with Judy Garland and Bert Lahr 
+* Work: [Citizen Kane](https://themesfromart.com/post/2021-02-26-workkane/workkane/), directed by and starring Orson Welles
