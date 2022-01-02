@@ -6,7 +6,7 @@ slug: []
 categories:
   - Wide Angle
 tags: ["Records,", "Expressions", ]
-draft: yes
+draft: 
 ---
 
 The subthemes of Books discussed above came to mind from a [poem by an author reflecting on her book](author), a painting with [books piled on a table](stillife), a [plea by a writer of paperback novels](paperback), and a movie about [book informed youth](Goodwill).   Here are more subthemes that don’t link so directly to any of the four works of art.

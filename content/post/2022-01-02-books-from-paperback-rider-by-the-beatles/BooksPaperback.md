@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Book Publishing Industry,", "*Ghostwriters, Fabrications, Plagiarism, and Hacks;", "Author Earnings", ]
-draft: yes
+draft: 
 ---
 
 Paperback Writer, by The Beatles, mocks hack writers who crank out trash.  The singer has pounded the typewriter simply to make money from his novel, not for artistic expression, the eloquence of his prose, or higher values.   The opus he is flogging is far too long, especially for a paperback version, and lacks an original theme.  The pleading song of a wannabe writer offers other inferences of Books.

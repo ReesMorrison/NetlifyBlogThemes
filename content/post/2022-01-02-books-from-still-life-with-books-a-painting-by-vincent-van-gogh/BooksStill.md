@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Libraries,", "Physical Production,", "Historical Development,", ]
-draft: yes
+draft:
 ---
 
 Still Life with Books (Nature morte aux livres) by Vincent Van Gogh features 17 books, plus a pamphlet or two, all stacked or strewn on a table.  None of the books show titles or suggest their subject, but the one lying open has what appear to be colored markings.  What subthemes related to Books does this impressionist painting suggest?

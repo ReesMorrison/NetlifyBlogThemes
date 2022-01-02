@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Authors' Struggles,", "Prizes and Awards,", "Copyright and Screen Rights,", "Censorship",]
-draft: yes
+draft: 
 ---
 
 The Author to Her Book, by Anne Bradstreet, takes us back to the 1650’s, when to be able to write, spell and read was unusual; to have the time and financial resources to put quill to paper was even less frequent; and to be a woman possessed of both literary skills and money – well, Anne Bradstreet was singular.  A Puritan mother of eight, she herself never published a book, but she wrote poetry which was improperly collected by a relative and published in a book.  Her regretful poem touches on several subthemes of Books.
