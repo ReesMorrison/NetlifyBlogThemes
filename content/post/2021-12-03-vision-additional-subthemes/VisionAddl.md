@@ -29,6 +29,8 @@ The subthemes of Eyesight discussed above came to mind from a [a poem about blin
 
 **Expressions**:  English has a multitude of figurative sayings related to eyesight.  For a master list of online sources that have contributed idioms to the various Themes, see Work Additional Subthemes(  ).  For this collection of 164 idiomatic expressions, aside from identifying expressions myself, I drew on [ThoughtCo](https://www.thoughtco.com/eye-idioms-and-expressions-1209937) and [The Free Dictionary]( https://idioms.thefreedictionary.com/eye).
 
+<!--Here are the sayings.-->
+
 a beady eye on (carefully and suspiciously watching)  
 a beam in your eye (a large fault of yours vs. a lesser fault in one you criticize)  
 a bird's/God’s eye shot (a cinematic view from straight overhead)  

@@ -29,6 +29,8 @@ The subthemes of Thinking discussed above came to mind from [Pope’s views on h
 
 **Expressions**:  The act of thinking or people who are adept at thinking (or challenged) have spawned related figurative sayings.  For a master list of online sources that have contributed idioms to the various Themes, see [Work Additional Subthemes](https://themesfromart.com/post/2021-02-26-workadditional/workperspective/).  For this collection of 68, aside from identifying expressions myself, I drew on [The Free Dictionary](https://idioms.thefreedictionary.com/thinking), [English Lesson Via Skype](https://www.englishlessonviaskype.com/10-idioms-about-thinking-and-learning/), [SpellZone](https://www.spellzone.com/blog/25_idioms_about_thought_and_memory.htm), and [7 ESL](https://7esl.com/idioms-about-thinking-and-learning/).
 
+<!--Here are the sayings.-->
+
 a bee in your bonnet (preoccupied by something, to be obsessed with something)    
 a brain like a sieve (extremely forgetful)  
 a light-bulb moment (a flash of inspiration or enlightenment)  

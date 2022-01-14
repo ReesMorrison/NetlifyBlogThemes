@@ -33,6 +33,8 @@ The subthemes of Fire discussed above came to mind from a [poem on aging and the
 
 **Expressions**: Sometimes a heated topic, Fire has lit many related figurative sayings.  For a master list of online sources that have contributed idioms to the various Themes on this blog, see Work Additional Subthemes.  For this collection of 65, aside from identifying expressions myself, I drew on [The Free Dictionary](https://idioms.thefreedictionary.com/fire) and [SpellZone](https://www.spellzone.com/blog/25_Idioms_about_Fire.htm).  Expressions do not include proverbs, such as “Where there’s smoke, there’s fire.”
 
+<!--Here are the sayings.-->
+
 a ball of fire (hugely energetic or intense person)  
 a watched pot never boils (waiting for a much desired event seems interminable)  
 add fuel the fire (intensify a situation or conflict)   
