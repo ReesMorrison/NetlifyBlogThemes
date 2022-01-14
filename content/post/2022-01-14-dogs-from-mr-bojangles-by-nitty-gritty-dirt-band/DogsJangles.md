@@ -6,7 +6,7 @@ slug: []
 categories:
   - Rock & Roll
 tags: ["Service or Support,", "Food,", "Bites and Guards", ]
-draft: yes
+draft: 
 ---
 
 Mr. Bojangles, a ballad by Nitty Gritty Dirt Band, makes clear the continuing grief of an aging, alcoholic busker for his companion dog of 15 years.   Mr. Bojangles keeps on dancing, to scratch out a living, but his heart was still broken 20 years after that dog *up and died*.  I hope you apprreciate [the song](https://www.youtube.com/watch?v=GyS4V1QMKJM).  Subthemes of the canine variety are associated with the song.
