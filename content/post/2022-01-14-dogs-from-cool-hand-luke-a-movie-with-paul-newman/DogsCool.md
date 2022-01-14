@@ -6,7 +6,7 @@ slug: []
 categories:
   - Movie
 tags: ["Smelling,", "Working,", "Sports and Racing,", ]
-draft: yes
+draft: 
 ---
 
 In the movie Cool Hand Luke, Paul Newman (playing Luke Jackson) makes a run for it from his prison work detail.  The guards track him with a trio of barking bloodhounds.  As the pursuers draw near, Luke pours out a can each of red pepper, chili, and another pungent spice that devastates the sensitive noses of the dogs.  Take a look at this longish scene, where at about four minutes, the [trick takes place](https://www.youtube.com/watch?v=uMBOC9CWyww).  Newman’s ploy throws off the bloodhourds, and allows other subthemes of Dogs.

@@ -6,7 +6,7 @@ slug: []
 categories:
   - Poem
 tags: ["Pets,", "Expense,", "Shows and Competitions",]
-draft: yes
+draft: 
 ---
 
 Epitaph to a Dog, by George Gordon Byron, praises Boatswain, his five-year old Newfoundland dog, who had just died of rabies.  Byron compares the admirable traits of his dog – and dogs generally – to the sad and sordid mess of humans..  Unlike preening, boastful humans, the virtues of the dog were genuine and revered.  Other subthemes of Dogs appear from this poetic headstone.

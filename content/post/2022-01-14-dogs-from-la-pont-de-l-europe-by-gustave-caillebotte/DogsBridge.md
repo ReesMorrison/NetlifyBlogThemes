@@ -6,7 +6,7 @@ slug: []
 categories:
   - Painting
 tags: ["Strays and Ferals,", "Diseases and Maladies,", "Evolution and Domestication,", "Breeds",]
-draft: yes
+draft: 
 ---
 
 In La Pont de l’Europe by Gustave Caillebotte (1876), a dog approaches two elegant strollers on a bridge in Paris.  The dog wears a collar and the man in the top hat appears to be watching it, warily.  The man leaning on the bridge couldn’t care less.  Other subthemes of Dogs can be trotted out.
