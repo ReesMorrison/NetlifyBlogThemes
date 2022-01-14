@@ -32,6 +32,7 @@ Being poor, Van Gogh painted books that he might have borrowed, because there wa
 If you are interested in further thoughts on the concept of Books, consider [other subthemes](https://themesfromart.com/post/2022-01-02-books-additional-subthemes/booksaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other paintings discussed on this blog, and their themes.  Here they are: 
+
 * Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/), by Edgar Degas
 * Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/), by Claude Monet
 * Birds: [The Magpie](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/), by Claude Monet
