@@ -9,12 +9,11 @@ tags: ["Strays and Ferals,", "Diseases and Maladies,", "Evolution and Domesticat
 draft: yes
 ---
 
-in La Pont de l’Europe by Gustave Caillebotte (1876), a dog approaches two elegant strollers on a bridge in Paris.  The dog wears a collar and the man in the top hat appears to be watching it, warily.  The man leaning on the bridge couldn’t care less.  Other subthemes of Dogs can be trotted out.
+In La Pont de l’Europe by Gustave Caillebotte (1876), a dog approaches two elegant strollers on a bridge in Paris.  The dog wears a collar and the man in the top hat appears to be watching it, warily.  The man leaning on the bridge couldn’t care less.  Other subthemes of Dogs can be trotted out.
 
 <!--more-->
 
-![La Pont de l'Europe](\media\DogsPont.jpg)
-
+![La Pont de l'Europe](/media/DogsPont.jpg)
 Musée du Petit Palais in Geneva 
 
 **Strays and Ferals**:   From the lack of a human shadow nearby, the small dog crossing the bridge appears not to be with its [owner](epitaph).  But it does sport a collar and appears healthy and well-fed.  Many other dogs, sadly, struggle to survive on their own.  Approximately three million dogs a year enter shelters in the United States, of which around 710,000 are returned to their owners and 400,000 are euthanized (“put to sleep”) according to the [ASPCA](https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics).  But shelter dogs are at least cared for and, hopefully, adopted.  Shelters are typically operated and funded by local governments, and shelter animals are kept in a facility and housed with other animals.  Rescue dogs have usually been abused; rescue groups, which are generally operated by volunteers and funded by donations, save the dogs and try to place them with kinder owners.
