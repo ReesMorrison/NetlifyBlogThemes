@@ -1,5 +1,5 @@
 ---
-title: Dogs, from "Mr. Bojangles," by Nitty Gritty Dirt Band
+title: Dogs, from "Mr. Bojangles," a song by Nitty Gritty Dirt Band
 author: Rees Morrison
 date: '2022-01-14'
 slug: []
@@ -75,13 +75,13 @@ Emotional support dogs provide comfort just by being with a person. But, because
 
 Bojangles shared his food with his loyal companion and would never have considered eating him.  But in famines, starving people have eaten dogs, as the New York Times Book Review, Dec. 26, 2021, at 19 notes: during the Greek Revolution in the 1820’s “hungry townspeople [were] frying dogs in olive oil.”  But other parts of the world to this day consume dog meat.  [The BBC](https://www.bbc.com/news/newsbeat-39577557) reported in 2017 that “an estimated 30 million dogs across Asia, including stolen family pets, are still killed for human consumption every year.”  While the practice is not widespread, it is most common in China, South Korea, The Philippines, Thailand, Laos, Vietnam, Cambodia, and the region of Nagaland in India.
 
-**Bites and Guards**:  The dog who accompanied Mr. Bojangles on his wanderings was probably [mild mannered](Pont), but also stood ready to protect his master.  No matter how cute they are, and no matter how much they become part of the family, dogs are still animals, and when provoked they can bite.  Each year, dogs in the United States bite more than 4.5 million people, and more than 800,000 of those bitten receive medical attention, according to the U.S. Centers for Disease Control.  At least half of those bitten are children.  Worse yet, a [law firm](https://www.edgarsnyder.com/statistics/dog-bite-statistics.html) counted 39 dog bite-related fatalities in the U.S. in 2017.  Family dogs were responsible for 72 percent of all dog bite fatalities.  Beware of Dog, indeed!   Cynophobia is the term for an anxiety disorder based on overwhelming fear of dogs.  Dogs guarding properties and [prisoners](cool) can unleash their animal instincts.  Their bite can be much worse than their bite.
+**Bites and Guards**:  The dog who accompanied Mr. Bojangles on his wanderings was probably [mild mannered](https://themesfromart.com/post/2022-01-14-dogs-from-la-pont-de-l-europe-by-gustave-caillebotte/dogsbridge/), but also stood ready to protect his master.  No matter how cute they are, and no matter how much they become part of the family, dogs are still animals, and when provoked they can bite.  Each year, dogs in the United States bite more than 4.5 million people, and more than 800,000 of those bitten receive medical attention, according to the U.S. Centers for Disease Control.  At least half of those bitten are children.  Worse yet, a [law firm](https://www.edgarsnyder.com/statistics/dog-bite-statistics.html) counted 39 dog bite-related fatalities in the U.S. in 2017.  Family dogs were responsible for 72 percent of all dog bite fatalities.  Beware of Dog, indeed!   Cynophobia is the term for an anxiety disorder based on overwhelming fear of dogs.  Dogs guarding properties and [prisoners](https://themesfromart.com/post/2022-01-14-dogs-from-cool-hand-luke-a-movie-with-paul-newman/dogscool/) can unleash their animal instincts.  Their bite can be much worse than their bite.
 
 &nbsp;
 
 Years after his beloved dog died, Mr. Bojangles still pines and grieves.  He was closer to his buddy dog than to the people for whom he danced.  Animals that are pets, and service dogs particularly, become members of your family, eating and living with you, but every now and then biting.
 
-If you are interested in further thoughts on the concept of Dogs, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
+If you are interested in further thoughts on the concept of Dogs, consider [other subthemes](https://themesfromart.com/post/2022-01-14-dogs-additional-subthemes/dogsaddl/) that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, About.
 
 We invite you to read about other rock songs discussed on this blog, and their themes.  Here they are: 
 
