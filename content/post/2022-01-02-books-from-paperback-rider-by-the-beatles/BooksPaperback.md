@@ -1,5 +1,5 @@
 ---
-title: Books, from "Paperback Rider," by the Beatles
+title: Books, from "Paperback Rider," a song by the Beatles
 author: Rees Morrison
 date: '2022-01-02'
 slug: []

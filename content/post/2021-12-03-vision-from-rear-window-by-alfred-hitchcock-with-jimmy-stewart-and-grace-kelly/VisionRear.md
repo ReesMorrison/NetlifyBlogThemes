@@ -1,5 +1,5 @@
 ---
-title: Vision, from "Rear Window," by Alfred Hitchcock with Jimmy Stewart and Grace
+title: Vision, from "Rear Window," a movie by Alfred Hitchcock with Jimmy Stewart and Grace
   Kelly
 author: Rees Morrison
 date: '2021-12-03'
