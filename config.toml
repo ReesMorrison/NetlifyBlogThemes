@@ -1,0 +1,54 @@
+baseURL = "https://themesfromart.com/"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "en"
+paginate = 5 
+theme = "hugo-theme-texify"
+title = "Themes from Art"
+ignoreFiles=["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", ".DS_Store", "Thumbs.db"]
+
+disqusShortname = "themes-from-art"
+googleAnalytics = "G-WPRZXLGMHX"
+pygmentsUseClasses = true
+
+[author]
+name = "author"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+[[menu.main]]
+identifier = "art"
+name = "Art"
+url = "/art/"
+weight = 2
+[[menu.main]]
+identifier = "themes"
+name = "Themes"
+url = "/themes/"
+weight = 3
+[[menu.main]] 
+identifier = "subthemes"
+name = "Subthemes"
+url = "/subthemes/"
+weight = 4
+
+[params]
+customCSS = []
+dateFormat = "2006-01-02"
+description = "an example site for hugo theme TeXify"
+enableFullRSS = true
+enableHanEmph = true
+enableMathjax = true
+favicon = "/favicon.ico"
+footnote = ""
+keywords = ["hugo", "latex", "theme"]
+sidebar = ["[Org Link](https://example.org)", "[Com Link](https://example.com)"]
