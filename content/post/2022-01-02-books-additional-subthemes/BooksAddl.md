@@ -34,6 +34,8 @@ The subthemes of Books discussed above came to mind from a [poem by an author re
 
 **Expressions**:   Figurative sayings related to Books are not voluminous.  For a master list of online sources that have contributed idioms to the various Themes on this blog, see Work Additional Subthemes(). For this collection of 23, aside from identifying expressions myself, I drew on [Expresso English[(https://www.espressoenglish.net/10-english-expressions-with-the-word-book/), [English with a Twist](https://englishwithatwist.com/2015/03/11/10-idioms-about-books/), and [English on Your Mind](https://englishonyourmind.wordpress.com/2018/02/03/10-idioms-and-expressions-using-the-word-book/).  Expressions do not include proverbs, such as “Don’t judge a book by its cover.” Or similes: “His face is like an open book.”
 
+<!--Here are the sayings.-->
+
 an open book (a person easy to understand who doesn’t hide thoughts or emotions  
 book ends (to come before and after)  
 book someone (put someone's name in police records, along with the charge against them)  

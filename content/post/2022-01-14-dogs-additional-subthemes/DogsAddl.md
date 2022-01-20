@@ -19,7 +19,7 @@ The subthemes of Dogs discussed above came to mind from a [poem about a dear dog
 
 **Records**:  Paw your way through these superlatives related to Dogs.
 
-Tallest -- Zeus was a Great Dane from Otsego, Michigan, United States, named the "world's tallest dog" by the 2012 and 2013 Guinness Book of World Records.  Standing on his hind legs, Zeus stretched 7 feet 5 inches, and was 3 feet 8 inches from his foot to his withers.  [Wikipedia](https://en.wikipedia.org/wiki/Zeus_(dog))
+Tallest – Zeus was a Great Dane from Otsego, Michigan, United States, named the "world's tallest dog" by the 2012 and 2013 Guinness Book of World Records.  Standing on his hind legs, Zeus stretched 7 feet 5 inches, and was 3 feet 8 inches from his foot to his withers.  [Wikipedia](https://en.wikipedia.org/wiki/Zeus_(dog))
 
 Smallest – a Yorkshire terrier owned by Arthur Marples of Blackburn, England.  The teeny dog stood 2.5 inches high, stretched 3.5 inches from nose to butt, and weighed four ounces. [Life with Dogs](https://www.lifewithdogs.tv/15-amazing-world-record-holding-dogs/)
 
