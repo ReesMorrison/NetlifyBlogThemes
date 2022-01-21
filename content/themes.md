@@ -1,5 +1,5 @@
 ---
-title: "Themes"
+title: 
 # date: "`r Sys.Date()`"
 menu: main
 description: A list of the themes with links to their posts
