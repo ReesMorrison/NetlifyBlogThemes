@@ -1,15 +1,15 @@
 ---
-title: Part II -- Metrics Suggesting Centrality or Complexity of a Theme
+title: Part II -- Metrics Suggesting Centrality or Complexity of Themes
 author: Rees Morrison
 date: '2022-01-26'
 slug: []
 categories:
   - Analysis
-tags: ["Metrics Used for This Series of Posts and Analysis of Themes",]
+tags: ["Metrics Used for This Series of Posts and Analysis of Themes"]
 draft: yes
 ---
 
-```{r themelist, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
+```{r metricslist, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
 
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
@@ -173,7 +173,10 @@ Here are the four preceding plots, whose metrics share an emphasis on Theme freq
 
 ```{r frequency, fig.width = 8, fig.height = 9}
 
-wrap_plots(PlotSyn & theme_minimal(), PlotOED & theme_minimal(), PlotTop & theme_minimal(), PlotNgram & theme_minimal(), ncol = 2)
+patchFrequency <- wrap_plots(PlotSyn & theme_minimal(), PlotOED & theme_minimal(), PlotTop & theme_minimal(), PlotNgram & theme_minimal(), ncol = 2)
+
+patchFrequency
+
 
 ```
 
@@ -290,7 +293,9 @@ Here are the four preceding plots, whose metrics share an emphasis on Themes on 
 
 ```{r internet, fig.width = 8, fig.height = 9}
 
-wrap_plots(PlotNorvig & theme_minimal(), PlotSearch & theme_minimal(), PlotGTrend & theme_minimal(), PlotTracker & theme_minimal(), ncol = 2)
+patchInternet <- wrap_plots(PlotNorvig & theme_minimal(), PlotSearch & theme_minimal(), PlotGTrend & theme_minimal(), PlotTracker & theme_minimal(), ncol = 2)
+
+patchInternet
 
 ```
 
@@ -432,7 +437,9 @@ Here are the four preceding plots, whose metrics share an emphasis on how freque
 
 ```{r language, fig.width = 8, fig.height = 9}
 
-wrap_plots(PlotQuotes & theme_minimal(), PlotPoems & theme_minimal(), PlotExpress & theme_minimal(), PlotRead & theme_minimal(), ncol = 2)
+patchAppear <- wrap_plots(PlotQuotes & theme_minimal(), PlotPoems & theme_minimal(), PlotExpress & theme_minimal(), PlotRead & theme_minimal(), ncol = 2)
+
+patchAppear
 
 ```
 
@@ -569,7 +576,9 @@ Here are the four preceding plots, whose metrics apply to Themes that share a so
 
 ```{r commercial, fig.width = 8, fig.height = 9}
 
-wrap_plots(PlotBooks & theme_minimal(), PlotSongs & theme_minimal(), PlotMovies & theme_minimal(), PlotPlays & theme_minimal(), ncol = 2)
+patchComml <- wrap_plots(PlotBooks & theme_minimal(), PlotSongs & theme_minimal(), PlotMovies & theme_minimal(), PlotPlays & theme_minimal(), ncol = 2)
+
+patchComml
 
 ```
 
@@ -717,13 +726,9 @@ Here are the four preceding plots, whose metrics apply to Themes that lean towar
 
 ```{r complexity, fig.width = 8, fig.height = 9}
 
-wrap_plots(PlotPhDs & theme_minimal(), PlotCFR & theme_minimal(), PlotUN & theme_minimal(), PlotMajor & theme_minimal(), ncol = 2)
+patchComplex <- wrap_plots(PlotPhDs & theme_minimal(), PlotCFR & theme_minimal(), PlotUN & theme_minimal(), PlotMajor & theme_minimal(), ncol = 2)
 
-# library(cowplot)
-# https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html  Read the beginning about themes chosen for ggplot.  See minimal horizontal and cowplot
-# plot_grid(PlotExpress, PlotSyn, PlotRead, PlotUN, labels = c('', '', '', '')) # too small
-
-# plot_annotation(tag_levels = "I") # Uppercase roman numerics
+patchComplex
 
 ```
 
