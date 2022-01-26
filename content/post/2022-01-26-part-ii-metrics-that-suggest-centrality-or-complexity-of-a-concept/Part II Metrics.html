@@ -1,0 +1,492 @@
+---
+title: Part II - Metrics That Suggest Centrality or Complexity of a Concept
+author: Rees Morrison
+date: '2022-01-26'
+slug: []
+categories:
+  - Analysis
+tags: ["Metrics Used for This Series of Posts and Analysis of Themes",]
+draft: yes
+---
+
+<script src="Part II Metrics_files/kePrint/kePrint.js"></script>
+<link href="Part II Metrics_files/lightable/lightable.css" rel="stylesheet" />
+
+
+<p><a href="partI">Part I</a> of this series of five posts (working notes for myself) provides an overview of the Themes analyzed in this introductory treatment of centrality and complexity. This post lays out the metrics that underlie the analysis. I present all 20 of them, with the text covering similar topics and order: first, why I gathered the metric, next the source of the metric, then any calculations that were made, and finally a plot showing the results for the four preceding metrics.</p>
+<!--more-->
+<p>The table below lists each metric, its source and its (preliminary) classification regarding whether it suggests centrality, complexity or a n approximate balance between the two categories. The right-most column shows the basis for which I sorted the 20 metrics into five groups. The following pages present the metrics by groups of four.</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:metricsTable">Table 1: </span>20 Metrics
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;">
+Metric
+</th>
+<th style="text-align:left;">
+Source(s)
+</th>
+<th style="text-align:left;">
+Class
+</th>
+<th style="text-align:left;">
+Sort
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Book Titles
+</td>
+<td style="text-align:left;">
+<a href="https://www.worldcat.org/advancedsearch" class="uri">https://www.worldcat.org/advancedsearch</a>
+</td>
+<td style="text-align:left;">
+Mixture
+</td>
+<td style="text-align:left;">
+commercial art
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Song Titles
+</td>
+<td style="text-align:left;">
+<a href="http://www.mldb.org/" class="uri">http://www.mldb.org/</a>
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+commercial art
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Movie Titles
+</td>
+<td style="text-align:left;">
+<a href="https://www.imdb.com/search/title/" class="uri">https://www.imdb.com/search/title/</a>
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+commercial art
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Play Synopses
+</td>
+<td style="text-align:left;">
+<a href="http://www.playdatabase.com/" class="uri">http://www.playdatabase.com/</a>
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+commercial art
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+PhD Dissertations
+</td>
+<td style="text-align:left;">
+<a href="https://biblioboard.com/opendissertations/" class="uri">https://biblioboard.com/opendissertations/</a>
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Code of Fed. Regs.
+</td>
+<td style="text-align:left;">
+<a href="https://www.ecfr.gov/search" class="uri">https://www.ecfr.gov/search</a>
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+UN Documents
+</td>
+<td style="text-align:left;">
+<a href="https://digitallibrary.un.org/search" class="uri">https://digitallibrary.un.org/search</a>?
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+College Majors
+</td>
+<td style="text-align:left;">
+author classification
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Synonyms
+</td>
+<td style="text-align:left;">
+<a href="https://thesaurus.com" class="uri">https://thesaurus.com</a>
+</td>
+<td style="text-align:left;">
+Mixture
+</td>
+<td style="text-align:left;">
+frequency
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+OED Frequency Bands
+</td>
+<td style="text-align:left;">
+<a href="https://www.oed.com/" class="uri">https://www.oed.com/</a>
+</td>
+<td style="text-align:left;">
+Mixture
+</td>
+<td style="text-align:left;">
+frequency
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1000 Most Common Words
+</td>
+<td style="text-align:left;">
+three combined
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+frequency
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Google Book Ngrams
+</td>
+<td style="text-align:left;">
+<a href="https://books.google.com/ngrams" class="uri">https://books.google.com/ngrams</a>
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+frequency
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Google Trillion Words
+</td>
+<td style="text-align:left;">
+<a href="https://norvig.com/ngrams/count_1w.txt" class="uri">https://norvig.com/ngrams/count_1w.txt</a>
+</td>
+<td style="text-align:left;">
+Mixture
+</td>
+<td style="text-align:left;">
+internet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Google Search Results
+</td>
+<td style="text-align:left;">
+browser search with Google
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+internet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Google Trend Pcts.
+</td>
+<td style="text-align:left;">
+<a href="https://support.google.com/trends/" class="uri">https://support.google.com/trends/</a>
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+internet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Hashtags from WordTracker
+</td>
+<td style="text-align:left;">
+<a href="https://www.wordtracker.com/" class="uri">https://www.wordtracker.com/</a>
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+internet
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Quotations
+</td>
+<td style="text-align:left;">
+<a href="http://www.quotationspage.com/" class="uri">http://www.quotationspage.com/</a> + kaggle data
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+language
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Poem Titles
+</td>
+<td style="text-align:left;">
+three combined
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+language
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Expressions
+</td>
+<td style="text-align:left;">
+multiple online sources
+</td>
+<td style="text-align:left;">
+Centrality
+</td>
+<td style="text-align:left;">
+language
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Readability
+</td>
+<td style="text-align:left;">
+R program functions
+</td>
+<td style="text-align:left;">
+Complexity
+</td>
+<td style="text-align:left;">
+language
+</td>
+</tr>
+</tbody>
+</table>
+<div id="synonyms" class="section level2">
+<h2>Synonyms</h2>
+<p>One attribute of a Theme is the number of words in English that are deemed to have a similar meaning. The more synonyms that exist, therefore, the more people have used the idea and developed nuances; thus both centrality and complexity could correlate to the number of synonyms available.</p>
+<p>For each Theme, we found the number of synonyms that a leading dictionary gives for the concept. The source, <a href="https://thesaurus.com">Thesaurus.com</a>, identifies “most relevant” synonyms (colored red on the website) and less-close synonyms (colored orange). The metric for this analysis consists of the sum of both kinds of synonyms for each Theme.</p>
+<!-- A naive hypothesis might maintain that concepts (i.e., words) that have more synonyms represent more nuanced ideas, because various words exist that denote or connote close but different meanings or shades of meanings. Not use antonyms; not use double source (OED?) and add or average -->
+<p>The plot in the quartet plot below depicts for each Theme the aggregated number of its synonyms.<br />
+</p>
+</div>
+<div id="oxford-english-dictionary-oed-frequency-bands" class="section level2">
+<h2>Oxford English Dictionary (OED), Frequency Bands</h2>
+<p>As with Google Trillion words, frequency of use could correspond to centrality as well as complexity. Centrality because it is much discussed and written about, and complexity because relatively many ideas, implications, extensions, comparisons, and applications come to mind about the concept.</p>
+<p>The Oxford English Dictionary (OED) assigns each of its words a band from 1 to 8 according to how frequently the OED determines that the term appears per million words. Specifically, Frequency Band 6 contains words that occur between 10 and 100 times per million words in typical modern English usage. Frequency Band 7 contains words that occur between 100 and 1,000 times per million words (i.e., at least ten times more frequently than Band 6 words appear), while Frequency Band 8 covers words that occur more than 1,000 times per million words. This highest band includes the most common English words, such as determiners (e.g., the, a, an, this, that), pronouns, principal prepositions, and conjunctions (e.g., and, but, that, if).</p>
+<p>For each Theme, the metric is its OED Frequency Band. We also compiled the earliest year the OED has found of written use of the Theme term, and plotted both year and band.<br />
+</p>
+</div>
+<div id="most-common-english-words-rank" class="section level2">
+<h2>1,000 Most Common English Words, Rank</h2>
+<p>The same reasoning that led to metrics from Google’s Trillion Word data base and the OED frequency bands supports the inclusion of rankings of Themes among the thousand most common words in English. A combination of three sources created the list used here. One is <a href="https://1000mostcommonwords.com/1000-most-common-english-words/">1000 Most Common Words</a>, a second was <a href="https://en.wikipedia.org/wiki/Most_common_words_in_English">Wikipedia</a>, and the third came from <a href="https://www.smart-words.org/500-most-commonly-used-english-words.html">Smart Words</a>.</p>
+<p>If the Theme was expressed as a plural, such as “Soldiers”, I determined the ranking of the singular form. Any Theme that was not included in the composite list received a ranking of 1001.</p>
+<p>For each Theme, the plot below shows its rank on the compiled list.<br />
+<!-- discuss truncation at top and bottom --></p>
+</div>
+<div id="google-ngram-viewer-percentage-of-book-references" class="section level2">
+<h2>Google NGram Viewer, Percentage of Book References</h2>
+<p>What people write about in books gives insight into what is important to their intellectual lives. For Themes, the metrics suggests complexity more than centrality.</p>
+<p>The <a href="https://books.google.com/ngrams">Google Ngram Viewer</a> charts the frequencies of search strings using a yearly count of n-grams found in sources printed between 1500 and 2019 in Google’s text corpora. I searched for each Theme and added together the percentages given for lower case, initial caps, and all caps of the word for the latest year, 2000.</p>
+<p>Here are the four preceding plots, whose metrics share an emphasis on Theme frequency.</p>
+<p><img src="/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/Part%20II%20Metrics_files/figure-html/frequency-1.png" width="768" /></p>
+</div>
+<div id="googles-trillion-word-database-frequency" class="section level2">
+<h2>Google’s Trillion-Word Database, Frequency</h2>
+<p>A metric of how common a Theme is on the internet could point us toward its centrality, because it is foremost in the minds of many writers, or its complexity, because more can be written about the concept than about a less-frequently used concept.</p>
+<p>One source of data about the frequency with which words have been used comes from the database created by Google’s <a href="https://norvig.com/ngrams/count_1w.txt">Peter Norvig</a>. In 2006, Google made available 1,024,908,267,229 words (one trillion, 24 billion words) and counts for words that appeared at least 40 times. The metric used here simply searched for each Theme word and included the count.</p>
+<p>The quartet plot after the next three metrics displays the count for each Theme word.<br />
+</p>
+<!-- discuss rank vs continuous numbers -->
+</div>
+<div id="google-search-results-number-returned" class="section level2">
+<h2>Google Search Results, Number Returned</h2>
+<p>Another hypothesis for the relative centrality of a Theme holds that the more people have written a term on the internet, the more relevant it is to their lives: the more central. Thus, the number of hits from a powerful search engine for a Theme crudely reflects its relative currency and salience.</p>
+<p>For this metric, I enter a search into Google for each Theme. When the results page returned, I recorded the number of results from the top left of my screen (e.g., for Thinking it says “About 992,000,000 results”. A later post will incorporate comparable search data results from Bing.</p>
+<!-- may need to keep searching: "alcohol" increased from 749 million to just over a billion! And what about drop off -->
+<p>The data collected appear in the plot below, where each Theme sits to the left of the point that shows the Google results hits.<br />
+</p>
+</div>
+<div id="google-trends-internet-search-requests" class="section level2">
+<h2>Google Trends, Internet Search Requests</h2>
+<p><a href="https://support.google.com/trends/answer/4365533?hl=en&amp;ref_topic=6248052">Google Trends</a> provides access to a largely unfiltered sample of actual search requests made using Google. To make comparisons between terms easier Google Trends normalizes the search results to the time and location of a query by the following process:</p>
+<p>Each data point is divided by the total searches of the geography and time range it represents to compare relative popularity. The resulting numbers are then scaled on a range of 0 to 100 based on a topic’s proportion to all searches on all topics.</p>
+<p>Numbers represent search interest relative to the highest point on the chart for the United States and the year. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for the term.</p>
+<p>The metrics are plotted in the corresponding chart below.<br />
+</p>
+</div>
+<div id="seo-hashtags-wordtracker" class="section level2">
+<h2>SEO Hashtags WordTracker</h2>
+<p>Marketers who maintain an online presence want their site or advertisement to attract viewers and persuade them to click and buy. Thus, among many Search Engine Optimization (SEO) techniques, they use hashtags and keywords to capture terms that will lure searches by search engines to display their company in the first page or so of results. SEO is the effort to game this interchange. Thus, a Theme term in prominent use online in the form of hashtags suggests centrality: what people want to buy, not anything heady like complexity.</p>
+<p>One of the online services that advises marketers regarding search terms, <a href="https://www.wordtracker.com/">WordTracker</a>, provides two sets of data for each Theme word search: <em>Volume</em> (“the number of times a search for each keyword appears in our database”) and <em>IAAT</em> (“The raw number of pages that have the keyword both in the title tag and also in anchor text in a backlink from an external domain.”). Because the correlation between these to numbers is only 0.500, I added them together.</p>
+<p>The lower right plot in the quartet presents the data.<br />
+</p>
+<p>Here are the four preceding plots, whose metrics share an emphasis on Themes on the internet.</p>
+<p><img src="/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/Part%20II%20Metrics_files/figure-html/internet-1.png" width="768" /></p>
+</div>
+<div id="quotations-number-of-appearances" class="section level2">
+<h2>Quotations, Number of Appearances</h2>
+<p>People say something quotable because they are witty and pithy, or because they deliberately craft something memorable in speech or writing. Quotations may derive from deep insights (complexity) or from a humorous twist on an everyday topic (centrality), but I lean toward the number of quotations using a Theme as an indicator more of complexity.</p>
+<p>The host of <a href="http://www.quotationspage.com/">The Quotations Page</a> has compiled seven sources of quotations. In the Fall of 2021, the home page claimed 28,000 quotations in English from more than 3,400 authors. Using the site’s search engine, I recorded how many quotes have each Theme term.</p>
+<p>A <a href="https://www.kaggle.com/akmittal/quotes-dataset">Kaggle dataset</a> includes a 22 MB dataset in JSON format of quotations. From its 36,937 unique quotes, I recorded how many have each Theme term. Adding the two results together for each Theme generated this metric.</p>
+<!-- Discuss correlated 0.997\ -->
+<p>The plot below displays the total of the counts from the two sources. </p>
+</div>
+<div id="poem-titles-count-of-instances" class="section level2">
+<h2>Poem Titles, Count of Instances</h2>
+<p>Poems, by their nature of compression, allusion, meter and rhyme, suggest that if a Theme appears in a title of a poem, it pertains to a thoughtful attribute of the poem: complexity.</p>
+<p>Three online databases of poems provided the data for this metric: <a href="https://www.poetry.com/psearch/">Poetry.com</a>, <a href="https://www.poetryfoundation.org/">Poetry Foundation</a>, and <a href="http://poetry.org/">Poetry.org</a>. I added together the results returned by searches on them.</p>
+<p>The plot that follows shows a point for each Theme corresponding to the number of combined results.<br />
+</p>
+<!-- Foundation truncates at 1,000  and includes all text in poem, plus articles etc. Explain or discuss combinations of sources, yet Bing issue.  Suggests correlations-->
+</div>
+<div id="figurative-expressions-count" class="section level2">
+<h2>Figurative Expressions, Count</h2>
+<!-- All the expression sources, compiled in WorkAddl.Rmd are in the metrics/Expressions -->
+<p>Theme terms appear in figurative, idiomatic expressions. For example, from the Theme of Clothes, “hung out to dry” refers literally to drying clothes on a line, but the expression conveys metaphorically abandoning someone in a fraught situation. For each Theme I compiled idiomatic expressions that use the term or an associated term (such as “shirt” for Clothes, or “barn burner” for Fire). The terms came from more than 38 online sources. Expressions become commonplace because they point toward centrality.</p>
+<p>Counting the number of unique expressions (combining slight variations on them) resulted in the 1661shown in the graphic below.</p>
+<!-- Subjectivity and duplication of expressions, not proverbs or quotes -->
+</div>
+<div id="readability-of-posts-school-grade-level" class="section level2">
+<h2>Readability of Posts, School Grade Level</h2>
+<p>It seemed plausible to me that how people write about Themes might match to some degree the centrality or the complexity of the theme. Thus, I searched for algorithms that assess the level of a piece of writing. Of the multiplicity of readability measures that have been developed, I chose three that make sense for adult non-fiction writing: Flesch-Kincaid Grade Level, SMOG, and Coleman-Liau Index. I calculated the scores of those three measures for each Theme’s blog posts (with some adjustments to the content), converted them all to level of schooling (such as 10.2 for into 10th grade), and averaged the levels. The higher the grade level, the more complex the treatment. This assumes that I write consistently, with a similar vocabulary breadth and style, so it is very subjective and unlikely to be included in the next round of analysis.</p>
+<!-- Could add Gunning-Fog based on article below: -->
+<!-- https://medium.com/mlearning-ai/4-popular-techniques-to-measure-the-readability-of-a-text-document-32a0882db6b2 gives formulas -->
+<p>This metric appears in the lower right plot.<br />
+</p>
+<p>Here are the four preceding plots, whose metrics share an emphasis on how frequently Themes appear on the Internet.</p>
+<p><img src="/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/Part%20II%20Metrics_files/figure-html/language-1.png" width="768" /></p>
+</div>
+<div id="book-titles-count-of-instances" class="section level2">
+<h2>Book Titles, Count of Instances</h2>
+<p>When an author and publisher come up with a book’s title, it may be an effort primarily to appeal to the market segment that is likely to buy the book (tends toward centrality) or it may be a title chosen by the author (might be complexity, e.g., “The Color Purple” or “Catcher in the Rye”).</p>
+<p>The online site <a href="https://www.worldcat.org/advancedsearch">WorldCat.org</a> lets users search Format “Book”, Language “English” and specify Audience “Any Audience”, Content “Any Content.” Before running searches on Themes, I removed Dissertations (because I have a separate metric for them) and used singular versions of Theme terms, except Trains. The results appear in this format: “Results 1-10 of about 95,810”.<br />
+</p>
+<p>The metrics collected are the number of titles found on WorldCat.org and the plot in the group below presents them.<br />
+</p>
+<!-- ## Newspapers, Count of Instances -->
+<!-- An online [site](https://chicagotribune.newspapers.com/choose-a-plan/?iid=619) permits you to sign up for a month of unlimited access to 21,800+ newspapers!  -->
+<!-- My original thought was to search databases of three prominent newspapers: [The New York Times](https://www.nytimes.com/search/?date_select=full&query=beauty&type=nyt&x=21&y=13), [The Washington Post](https://www.washingtonpost.com/wp-srv/world/digitalarchive/index.html), and [The Wall Street Journal](https://www.wsj.com/search?query=beauty&mod=searchresults_viewallresults). -->
+<!-- The graphic below plots the data.\ -->
+</div>
+<div id="song-titles-count-of-instances" class="section level2">
+<h2>Song Titles, Count of Instances</h2>
+<p>As with the titles of books, the choice of a title for a song may be artistic or it may be commercial: what will attract a prospective buyer of the record. If the title caters to the pragmatic, money-making style, centrality reins; if the title derives from a less facile, more complicated source, it could point toward the complexity of the Theme. On the whole, given the competitive pressures surrounding the efforts to produce hit songs, I favor centrality. Obviously, too, those who pick song titles do not want to duplicate an earlier title.</p>
+<p>To obtain a metric for how often Theme terms have appeared in the titles of songs, I searched <a href="http://www.mldb.org/">The Music Lyrics Database</a>. On the header you click “Search” and then pick “title.” On July 26, 2021 MLDB.org claimed “Lyrics: 236,453, Albums: 23,932, Artists: 11,115.” Multiple pages of results show at the bottom of the page, but the highest number on the bottom right provides the data (I multiplied the total pages of results [less 1] by 30 and added the number of results on the final page).</p>
+<p>Plotted below are the results.<br />
+</p>
+</div>
+<div id="movie-titles-count-of-instances" class="section level2">
+<h2>Movie Titles, Count of Instances</h2>
+<p>In the same vein as song titles, the use of a Theme term in a movie title might have several motivations. But metrics based on a huge number of movie titles suggest that centrality drives more of the decisions – the title should resonate immediately with many prospective movie-goers. To the degree that titles of movies derive from the title of the book (or play or musical) the movie adapts, we will see overlap with book titles (or play synopses, as per below).</p>
+<p>The source of these metrics is the database of more than 80,000 movies maintained by <a href="https://www.imdb.com/search/title/">IMDb.com</a>. The search looked only in Titles, Feature Films (not TV, series, etc) and excluded Adult Films.</p>
+<!-- Kaggle scraped them at one point -->
+<p>Below is a plot of the resulting data.<br />
+</p>
+</div>
+<div id="play-synopses-count-of-instances" class="section level2">
+<h2>Play Synopses, Count of Instances</h2>
+<p>To our hypotheses of centrality, complexity, or both, we can add synopses of plays. Plays suggest more commonly an indicator of complexity as they deal with human psychology and emotions. Here we deal not with titles, but with brief overviews of the plays.</p>
+<p>The source for summaries of plays in English is <a href="http://www.playdatabase.com/">Play Database</a> which stated in early Winter of 2021 that its “Current Totals” included 12,498 plays by 5,653 playwrites. The Navigation Bar offers a choice for “Search.” I entered each of the Theme terms into that search function and accepted all defaults. The maximum results returned is 200, so the data is truncated.<br />
+</p>
+<p>Here are the four preceding plots, whose metrics apply to Themes that share a source in commercial art.</p>
+<p><img src="/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/Part%20II%20Metrics_files/figure-html/commercial-1.png" width="768" /></p>
+</div>
+<div id="phd-dissertations-count-of-instances" class="section level2">
+<h2>PhD Dissertations, Count of Instances</h2>
+<p>The title of the exhaustive research paper that becomes a dissertation, of a depth, coverage and quality that merits the award of a doctorate decree, surely suggests complexity.</p>
+<p>For this metric, <a href="https://biblioboard.com/opendissertations/">EBSCO Open Dissertations</a> provides searchable access from 320+ universities around the world to more than 1.4 million theses and dissertations. For each Theme term, EBSCO returned results in the form of “Search Results: 1 - 10 of 3,527”. I used the final figure.</p>
+<!-- Try and compare WorldCat -->
+<p>The quartet below displays the findings.<br />
+</p>
+</div>
+<div id="code-of-federal-regulations-cfr-count-of-instances" class="section level2">
+<h2>Code of Federal Regulations (CFR), Count of Instances</h2>
+<p>Government regulations and laws focus mostly on serious topics (by which I mean to compare their topics to the more emotional or psychological topics of songs and poems for example). Thus, in classifying this metric, I lean toward complexity.</p>
+<p>On the United States government’s <a href="https://www.ecfr.gov/search">website for the Code of Federal Regulations</a> you can query the contents of the entire 70,000+ pages of the CFR. I searched Find, Title “All titles,” and Date “current.” The search engine returns, for example, “Showing the most relevant 50 of 454 matching results.” The final figure became the metric for the Theme term. The maximum values returned are 10,000 matching results. Another iteration of research might look at Eurolex, an online compendium of European Union documents.</p>
+<!-- Max 10,000 results.  I could search only certain documents to keep below the 10,000 cap.\ -->
+<p>The graph shows the results for all Themes.<br />
+</p>
+</div>
+<div id="united-nations-documents-count-of-instances" class="section level2">
+<h2>United Nations Documents, Count of Instances</h2>
+<p>My reasoning for how to interpret documents published in the Code of Federal Regulations applies similarly to documents published by the United Nations. That is, complex topics dominate quotidian topics.</p>
+<p>For this metric, I searched the <a href="https://digitallibrary.un.org/search?">Digital Library</a> maintained by the United Nations. I chose all document types and added all the results that displayed on the left side window (it breaks the results down by several kinds of documents).</p>
+<!-- https://eur-lex.europa.eu/ -->
+<!-- should I take the logs of these, since two are so out of proportion? -->
+<p>The metric lends itself to a scatter-plot, as below, sorted by increasing numbers of documents.</p>
+</div>
+<div id="college-majors-distribution" class="section level2">
+<h2>College Majors, Distribution</h2>
+<!-- See "subthemes.rmd" for the calculations in subTMajorPlot and Gini coefficient -->
+<p>As of this writing, Themes from Art had written about 412 Subthemes. I categorized each Subtheme according to which of 13 college major I thought would be most likely to address it. The table below lists the Themes, subthemes, major, and the blog post where they are discussed, all sorted alphabetically by major. I regard this metric as weakly complex.</p>
+<p>The analysis calculated for each Theme the result of dividing its number of Subthemes by its number of majors. A Theme with seven majors and 14 Subthemes has a score of 2 (14 divided 7); a theme with six majors and 14 Subthemes has a score of 2.33. My hypothesis is that the higher the score, the more complex the theme, since on this normalized basis, a higher score means more diverse academic areas of interest.</p>
+<p>After all my work to figure out the ten most common majors, standardize their names, classify subthemes by those ten majors – a process I did again after waiting a month, and then picking the consensus major – I tested my process with two friends. So many disputes arose, and different interpretations of the task, that I have concluded this metric as compiled is not reliable. To compound the shakiness of the foundational data by calculating a complexity score makes even less sense. Nevertheless, I have left it in for this series as a record.<br />
+</p>
+<p>Here are the four preceding plots, whose metrics apply to Themes that lean toward complexity.</p>
+<p><img src="/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/Part%20II%20Metrics_files/figure-html/complexity-1.png" width="768" /></p>
+<div id="normalize-the-metrics" class="section level3">
+<h3>Normalize the Metrics</h3>
+<p>Once all of the data described above had been collected for the 24 Themes, I created a single dataframe and converted the raw numbers of each metric into a normalized score. This is an important step so that numbers which vary significantly in size, such as the frequency band digits of the Oxford English dictionary, which range from 0 to 8, can be compared to the number of Google search hits, which soar into the billions. The base R function scale() subtracts the average of the metric (the mean) from each value and divides that result by the standard deviation of the metric. By that technique, the metrics (a.k.a. variables or features) are centered around zero and have roughly a variance of one (unit variance).</p>
+<p>Another method of normalization converts each value into a score from 0 to 1, where the highest value would have the highest normalized score and the lowest would have the lowest normalized score – but all of them would fall into the zero-to-one range. Another series may consider alternative methods of standardizing the metrics.<br />
+</p>
+<!-- see https://www.pluralsight.com/guides/normalizing-data-r -->
+</div>
+</div>
