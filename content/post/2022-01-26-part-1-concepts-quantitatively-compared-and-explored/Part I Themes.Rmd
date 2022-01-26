@@ -1,5 +1,5 @@
 ---
-title: Part I -- Concepts Quantitatively Compared and Explored
+title: Part I - Concepts Quantitatively Compared and Explored
 author: Rees Morrison
 date: '2022-01-26'
 slug: []

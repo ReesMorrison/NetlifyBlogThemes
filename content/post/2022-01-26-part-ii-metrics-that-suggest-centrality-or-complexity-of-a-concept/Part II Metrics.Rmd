@@ -1,5 +1,5 @@
 ---
-title: Part II - Metrics That Suggest Centrality or Complexity of a Concept
+title: Part II -- Metrics Suggesting Centrality or Complexity of a Theme
 author: Rees Morrison
 date: '2022-01-26'
 slug: []
@@ -8,7 +8,6 @@ categories:
 tags: ["Metrics Used for This Series of Posts and Analysis of Themes",]
 draft: yes
 ---
-
 
 ```{r themelist, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
 
@@ -39,7 +38,7 @@ library(kableExtra)
 
 The table below lists each metric, its source and its (preliminary) classification regarding whether it suggests centrality, complexity or a n approximate balance between the two categories.  The right-most column shows the basis for which I sorted the 20 metrics into five groups.  The following pages present the metrics by groups of four.
 
-```{r metricsTable}
+```{r metricstable}
 
 MetricsList <- read_excel("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Metrics of Themes.xlsx", sheet = "MetricsSummary", range = "A1:D21")
 
