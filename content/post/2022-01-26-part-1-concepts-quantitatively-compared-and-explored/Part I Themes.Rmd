@@ -5,7 +5,7 @@ date: '2022-01-26'
 slug: []
 categories:
   - Analysis
-tags: ["Introduction to Themes, for Analysis",]
+tags: ["Introduction to Themes, for Analysis"]
 draft: yes
 ---
 
