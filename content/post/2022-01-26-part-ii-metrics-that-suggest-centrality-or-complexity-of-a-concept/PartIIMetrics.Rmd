@@ -32,7 +32,7 @@ library(kableExtra)
 
 ```
 
-[Part I](partI) of this series of five posts (working notes for myself) provides an overview of the Themes analyzed in this introductory treatment of centrality and complexity.  This post lays out the metrics that underlie the analysis. I present all 20 of them, with the text covering similar topics and order: first, why I gathered the metric, next the source of the metric, then any calculations that were made, and finally a plot showing the results for the four preceding metrics.  
+[Part I](partI) of this series of five posts (working notes for myself in fact) provides an overview of the Themes analyzed in this introductory treatment of centrality and complexity.  This post lays out the metrics that underlie the analysis. I present all 20 of them, with the text covering similar topics and order: first, why I gathered the metric, next the source of the metric, then any calculations that were made, and finally a plot showing the results for the four preceding metrics. 
 
 <!--more-->
 
