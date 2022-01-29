@@ -92,6 +92,8 @@ HierDF <- left_join(x = HierDF, y = ThemeLookup[  , c(1, 2)], by = c("Abs2" = "C
 HierDF$Order <- seq(1:nrow(HierDF)) 
 HierDF <- HierDF[  , c(1, 2, 3, 6, 7, 8, 4, 5)]  # to make it easier to read below
 
+# writexl::write_xlsx(x = HierDF, path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/HierDF.xlsx")
+
 # Plotting dendrogram
 plot(Hierar_cl, label=comboData$Theme, hang = -1, xlab = NULL, ylab = NULL)  # how can I trust the labels? did by hand above
 
