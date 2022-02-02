@@ -10,23 +10,39 @@ draft: no
 
 In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
 
-![Olive Trees](/media/SunOlive.jpg)
+<!--more-->
+
+![Olive Trees](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
 
 50%
 
 ```{r, olive, out.width = "50%"}
-knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+library(jpeg)
+# dim(readJPEG("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg"))
+# attr(source = readJPEG("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg"))
+
+# http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures
+
+knitr::include_graphics("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
-40width 50 height, tried pt instead of %
-```{r, olive2, out.width="400pt", out.height="500pt"}
+25% and no quotes  
+
+```{r, olive4, out.width = "25%"}
+knitr::include_graphics(C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
+```
+
+40width 50 height (don't change output to fig since not dynamic plot), tried pt instead of %
+
+```{r, olive2, fig.width="400pt", fig.height="500pt", eval="TRUE"}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
 removed spaces around "="
 
-out.xtra, right, be sure ; at end  what about eval="TRUE"  used pt
-```{r, olive3, out.width="400pt", out.height="500pt", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"'}
+out.xtra, right, be sure ; at end  tried , eval="TRUE"  used pt
+
+```{r, olive3, out.width="400pt", out.height="500pt", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"', eval="TRUE"}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
