@@ -13,6 +13,13 @@ In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although h
 <!--more-->
 
 ![Olive Trees](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
+note spaces around width
+
+![drawing](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg){ width=30% }  
+
+{width=80%} 
+
+![drawing](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg){width=80%}  
 
 out.width = 50%
 
@@ -34,9 +41,23 @@ knitr::include_graphics(C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Them
 
 400pt width 500pt height (don't change output to fig since not dynamic plot), instead of %
 
-```{r, olive2, out.width="400pt", fig.height="500pt", eval=TRUE}
+```{r, olive2, out.width="400pt", out.height="500pt", eval=TRUE}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
+width="400pt" height="500pt",  no comma between per
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown at the bottom
+
+```{r, olive2, width="400pt" height="500pt", eval=TRUE}
+knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+```
+
+LaTeX style
+
+
+\begin{figure}
+ \includegraphics[width=300pt, height = 125 pt]{C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg}
+\end{figure}
+
 
 removed spaces around "="
 
