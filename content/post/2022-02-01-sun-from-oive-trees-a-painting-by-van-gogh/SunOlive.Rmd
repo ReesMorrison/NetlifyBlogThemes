@@ -23,6 +23,8 @@ knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIE
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
+removed spaces around "="
+
 out.xtra, right
 ```{r, olive3, out.width="40%", out.height="50%", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block"'}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
