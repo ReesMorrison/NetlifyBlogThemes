@@ -10,7 +10,7 @@ draft: no
 
 In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
 
-<!-- ![Olive Trees](/media/SunOlive.jpg) -->
+![Olive Trees](/media/SunOlive.jpg)
 
 50%
 
@@ -19,12 +19,12 @@ knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIE
 ```
 
 40width 50 height
-```{r, olive2, out.width = "40%", out.height="50%"}
+```{r, olive2, out.width="40%", out.height="50%"}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
-out.xtra
-```{r, olive3, out.width = "40%", out.height="50%", out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"'}
+out.xtra, right
+```{r, olive3, out.width="40%", out.height="50%", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block"'}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
