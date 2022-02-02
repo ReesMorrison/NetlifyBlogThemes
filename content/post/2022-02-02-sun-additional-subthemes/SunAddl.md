@@ -9,7 +9,7 @@ tags: ["Records,", "Expressions",]
 draft: 
 ---
 
-The subthemes of Sun discussed above derived from a [a poem complaining about the Sun’s interruption](Donne), a painting with the [Sun over olive trees](Olives), a song punctuated by melancholy [sunrises](Tequila), and a movie with roasting in [desert heat](Arabia). Here are two more subthemes that don’t link so directly to any of the four works of art.
+The subthemes of Sun discussed above derived from a [a poem complaining about the Sun’s interruption](https://themesfromart.com/post/2022-02-01-sun-from-the-sun-rising-a-poem-by-john-donne/sundonne/), a painting with the [Sun over olive trees](https://themesfromart.com/post/2022-02-01-sun-from-oive-trees-a-painting-by-van-gogh/sunolive/), a song punctuated by melancholy [sunrises](https://themesfromart.com/post/2022-02-02-sun-from-tequila-sunrise-by-the-eagles/suntequila/), and a movie with roasting in [desert heat](https://themesfromart.com/post/2022-02-02-sun-from-lawrence-of-arabia-a-movie-with-peter-o-toole-omar-sharif-and-others/sunarabia/). Here are two more subthemes that don’t link so directly to any of the four works of art.
 
 <span style="font-variant:small-caps;"> Records </span>: In the realm of the Sun, highests, lowests, and other superlatives abound.  Here are a few: 
 
