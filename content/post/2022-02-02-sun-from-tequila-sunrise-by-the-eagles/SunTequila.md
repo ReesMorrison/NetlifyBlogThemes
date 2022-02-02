@@ -1,5 +1,5 @@
 ---
-title: Sun, from "Tequila Sunrise," by The Eagles
+title: Sun, from "Tequila Sunrise," by The Eagles 
 author: Rees Morrison
 date: '2022-02-02'
 slug: []

@@ -1,6 +1,5 @@
 ---
 title: Sun, from "Lawrence of Arabia," a movie with Peter O'Toole, Omar Sharif and Alec Guinness
-  others
 author: Rees Morrison
 date: '2022-02-02'
 slug: []

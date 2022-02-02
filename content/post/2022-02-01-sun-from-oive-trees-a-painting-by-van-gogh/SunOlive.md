@@ -1,5 +1,5 @@
 ---
-title: Sun, from "Olive Trees," a painting by Van Gogh
+title: Sun, from "Olive Trees," a painting by Van Gogh 
 author: Rees Morrison
 date: '2022-02-01'
 slug: []
