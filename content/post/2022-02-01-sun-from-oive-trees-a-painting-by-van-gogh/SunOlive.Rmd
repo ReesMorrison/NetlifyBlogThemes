@@ -12,17 +12,19 @@ In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although h
 
 <!-- ![Olive Trees](/media/SunOlive.jpg) -->
 
+50%
+
 ```{r, olive, out.width = "50%"}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
-
-```{r, olive2, out.width = "50%"}
+40width 50 height
+```{r, olive2, out.width = "40%", out.height="50%"}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
-
-```{r, olive3, out.width = "40%", out.height="50pt", out.extra='style="background-color: #9ecff7; padding:10px; display: inline-block;"'}
+out.xtra
+```{r, olive3, out.width = "40%", out.height="50%", out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"'}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
