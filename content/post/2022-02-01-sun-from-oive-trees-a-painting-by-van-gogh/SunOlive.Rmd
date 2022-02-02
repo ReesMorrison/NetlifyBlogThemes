@@ -1,19 +1,32 @@
 ---
-title: Sun, from "Olive Trees," a painting by Van Gogh 
-author: Rees Morrison
+title: "Sun, from 'Olive Trees,' a painting by Van Gogh"
+author: "Rees Morrison"
 date: '2022-02-01'
 slug: []
-categories:
-  - Painting
+categories: "Painting"
 tags: ["Agriculture,", "Solar Power,", "Global Warming",]
-draft: 
+draft: no
 ---
 
 In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
 
-![Olive Trees](/media/SunOlive.jpg)
+<!-- ![Olive Trees](/media/SunOlive.jpg) -->
 
-<span style="font-variant:small-caps;"> Agriculture </span>:  Olive trees luxuriate in sunshine.  All plants that humans eat or feed to animals, for that matter, grow and produce their fruits by a process called photosynthesis.  By that process they use the power of sunlight to synthesize nutrients from carbon dioxide and water.  Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.   Organisms in the ocean also rely on the Sun as, for example, the surface layer of the ocean is teeming with photosynthetic plankton.  [Scientists estimate](https://oceanservice.noaa.gov/facts/ocean-oxygen.html) that 50-80% of the oxygen production on Earth comes from the photosynthesis in the ocean; at the other aquatic extreme, cactus in the [desert](https://themesfromart.com/post/2022-02-02-sun-from-lawrence-of-arabia-a-movie-with-peter-o-toole-omar-sharif-and-others/sunarabia/) similarly rely on the Sun.
+```{r, olive, out.width = "50%"}
+knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+```
+
+
+```{r, olive2, out.width = "50%"}
+knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+```
+
+
+```{r, olive3, out.width = "40%", out.height="50pt", out.extra='style="background-color: #9ecff7; padding:10px; display: inline-block;"'}
+knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+```
+
+<span style="font-variant:small-caps;"> Agriculture </span>:  Olive trees luxuriate in sunshine.  All plants that humans eat or feed to animals, for that matter, grow and produce their fruits by a process called photosynthesis.  By that process they use the power of sunlight to synthesize nutrients from carbon dioxide and water.  Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.   Organisms in the ocean also rely on the Sun as, for example, the surface layer of the ocean is teeming with photosynthetic plankton.  [Scientists estimate](https://oceanservice.noaa.gov/facts/ocean-oxygen.html) that 50-80% of the oxygen production on Earth comes from the photosynthesis in the ocean; at the other aquatic extreme, cactus in the [desert](https://themesfromart.com/post/2022-02-02-sun-from-lawrence-of-arabia-a-movie-with-peter-o-toole-omar-sharif-and-others/sunarabia/) similarly rely on the Sun.^[Test footnote]
 
 <span style="font-variant:small-caps;"> Solar Power </span>:  Over the past few decades, generating electricity through solar panels has swollen into an enormous industry.   The United States consumed more than 1.2 quadrillion British thermal units (BTUs) of solar thermal and photovoltaic energy in [2020](https://www.statista.com/statistics/197254/consumption-of-solar-thermal-and-pv-energy-in-the-us-since-2006/). This was the highest amount ever and an increase of nearly 200 trillion BTUs from the previous year – the generous Sun supplied 3% of U.S. electricity generation from all sources in 2020.  
 
