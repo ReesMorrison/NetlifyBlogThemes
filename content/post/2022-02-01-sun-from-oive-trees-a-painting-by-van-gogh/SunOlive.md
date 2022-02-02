@@ -1,0 +1,62 @@
+---
+title: Sun, from "Olive Trees," a painting by Van Gogh
+author: Rees Morrison
+date: '2022-02-01'
+slug: []
+categories:
+  - Painting
+tags: ["Agriculture,", "Solar Power,", "Global Warming",]
+draft: 
+---
+
+In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
+
+![Olive Trees](/media/SunOlive.jpg)
+
+<span style="font-variant:small-caps;"> Agriculture </span>:  Olive trees luxuriate in sunshine.  All plants that humans eat or feed to animals, for that matter, grow and produce their fruits by a process called photosynthesis.  By that process they use the power of sunlight to synthesize nutrients from carbon dioxide and water.  Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.   Organisms in the ocean also rely on the Sun as, for example, the surface layer of the ocean is teeming with photosynthetic plankton.  [Scientists estimate](https://oceanservice.noaa.gov/facts/ocean-oxygen.html) that 50-80% of the oxygen production on Earth comes from the photosynthesis in the ocean; at the other aquatic extreme, cactus in the [desert](Arabia) similarly rely on the Sun.
+
+<span style="font-variant:small-caps;"> Solar Power </span>:  Over the past few decades, generating electricity through solar panels has swollen into an enormous industry.   The United States consumed more than 1.2 quadrillion British thermal units (BTUs) of solar thermal and photovoltaic energy in [2020](https://www.statista.com/statistics/197254/consumption-of-solar-thermal-and-pv-energy-in-the-us-since-2006/). This was the highest amount ever and an increase of nearly 200 trillion BTUs from the previous year – the generous Sun supplied 3% of U.S. electricity generation from all sources in 2020.  
+
+The pace of solarization is breathtaking.  More than three million installations have been built across the country—with 1 million being built in [just two years](https://www.energy.gov/solar).  The [U.S. installed](https://www.seia.org/us-solar-market-insight) 5.4 gigawatts (GWdc) of solar photovoltaic capacity in Q3 2021 to reach 113.5 GWdc of total installed capacity, enough to power 21.8 million American homes.  No one has to await sunrise to [leave their sleeping place](Donne).  Residential solar installations exceeded 1 GWdc and more than 130,000 systems in a single quarter for the first time in the industry's history, while utility-scale installations set another third quarter record at 3.8 GWdc.
+
+<span style="font-variant:small-caps;"> Global Warming </span>:  Van Gogh died before the cumulative effects of mankind burning fossil fuels began to turn up Earth’s thermostat.  The Sun influences Earth's climate, but [it isn't responsible for the warming trend](https://climate.nasa.gov/faq/14/is-the-sun-causing-global-warming/) over recent decades.  The Sun itself has grown no hotter nor nearer to Earth.  Instead, as humans over the past century have burned hydrocarbons, they have released carbon dioxide into the air.  Along with other airborne materials, the carbon dioxide has trapped more of the Earth and Sun’s heat within the atmosphere.  The global increases in temperature are wreaking havoc on a worldwide scale.   It’s a dispiriting, existentially threatening [Tequila sunrise](tequila) every morning.  But we must blame humans (and methane producers), not the glowing orb.
+
+&nbsp;
+
+Beaming over the gnarled olive trees, the Sun in Van Gogh’s painting is a supporting actor, albeit its role in the fertility of the grove is primary.  The energy distilled from the Sun powers swathes of our ever-warming planet.
+
+If you are interested in further thoughts on the concept of the Sun, consider [other subthemes]() that don’t fit as directly to the poem, painting, rock song, and movie written about in this series.  For an overview, this article explains [Themes from Art](http://bit.ly/3sRXopI) or click on the navigation bar, [About](https://themesfromart.com/about/).  Or other [Themes](https://themesfromart.com/themes) might intrigue you, or you might want to explore particular [subthemes](https://themesfromart.com/subthemes).
+
+We invite you to read about other impressionist paintings discussed on this blog for their themes.  Here they are: 
+
+* Alcohol: [The Absinthe](https://themesfromart.com/post/2021-02-03-alcohol-absinthe-degas/alcoholabsinthedegas/), by Edgar Degas
+* Beauty: [Garden at Sainte Adresse](https://themesfromart.com/post/2021-04-21-beauty-garden-at-sainte-adresse-from-a-painting-by-claude-monet/beautystadress/), by Claude Monet
+* Birds: [The Magpie](https://themesfromart.com/post/2021-06-07-birds-the-magpie-a-painting-by-claude-monet/birdsmagpie/), by Claude Monet
+* Books: [Still Life with Books](https://themesfromart.com/post/2022-01-02-books-from-still-life-with-books-a-painting-by-vincent-van-gogh/booksstill/), by Vincent Van Gogh
+* Bridges: [The Railway Bridge at Argenteuil](https://themesfromart.com/post/2021-07-26-bridges-from-the-railway-bridge-at-argenteuill-a-painting-by-claude-monet/bridgesmonet/), by Claude Monet
+* Chance: [The Quai Saint-Michel and Notre-Dame](http://localhost:4321/post/2021-03-14-chancechurch/chancechurch/), by Luce Maximilien
+* Churches: [The Church at Essoyes](https://themesfromart.com/post/2021-05-21-churches-from-the-church-at-essoyes-a-painting-by-pierre-auguste-renoir/churchesrenoir/), by Pierre-Auguste Renoir 
+* Clothes: [Bathers at Asniers](https://themesfromart.com/post/2021-08-30-clothes-from-bathers-at-asnieres-a-painting-by-georges-seurat/clothesbathers/), by Georges Seurat
+* Dancing: [Dance at Bougival](https://themesfromart.com/post/2021-09-09-dancing-from-dance-at-bougival-a-painting-by-pierre-august-renoir/dancingbougival/), by Pierre-August Renoir
+* Death: [The House of the Hanged Man](https://themesfromart.com/post/2021-05-03-death-from-house-of-the-hanged-man-a-painting-by-paul-cezanne/deathhanged/), by Paul Cezanne
+* Decisions: [The Card Players](https://themesfromart.com/post/2021-02-08-decisions-the-card-players-a-painting-by-paul-cezanne/decisionscardplayerscezanne/), by Paul Cezanne
+* Destruction: [The Flood at Port-Marley](https://themesfromart.com/post/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/), by Alfred Sisley
+* Dogs: [La Pont de l'Europe](https://themesfromart.com/post/2022-01-14-dogs-from-la-pont-de-l-europe-by-gustave-caillebotte/dogsbridge/), by Gustave Caillebotte
+* Fire: [The Flood Banks of the Seine, Bougival](https://themesfromart.com/post/2021-12-17-fire-from-the-flood-banks-of-the-seine-bougival-a-painting-by-alfred-sisley/fireflood/), by Alfred Sisley
+* Friends: [Luncheon on the Grass](https://themesfromart.com/post/2021-06-20-friends-luncheon-on-the-grass-a-painting-by-edouard-manet/friendsluncheon/), by Edouard Manet
+* Money: [The Pork Butcher](https://themesfromart.com/post/2021-10-15-money-from-the-pork-butcher-a-painting-by-camille-pissarro/moneypork/), by Camille Pissarro
+* Night: [Starry Night](https://themesfromart.com/post/2021-11-05-night-from-the-starry-night-a-painting-by-vincent-van-gogh/nightstarry/), by Vincent Van Gogh
+* Rivers: [The Seine and the Louvre](https://themesfromart.com/post/2021-10-03-rivers-from-the-seine-and-the-louvre-a-painting-by-camille-pissarro/riversseine/), by Camille Pissarro
+* Sailing Ships: [Harbour at Honfleur](https://themesfromart.com/post/2021-06-26-sailing-ships-harbour-at-honfleur-a-painting-by-georges-seurat/sailinghonfleur/), by Georges Seurat
+* Silence: [Jane Avril Leaving the Moulin Rouge](https://themesfromart.com/post/silenceavril/), by Henri de Toulouse-Lautrec
+* Sleep: [The Siesta](https://themesfromart.com/post/2021-09-22-sleep-from-the-siesta-a-painting-by-vincent-van-gogh/sleepsiesta/), by Vincent Van Gogh
+* Soldiers: [The Execution of Maximilian](https://themesfromart.com/post/2021-08-02-soldiers-the-execution-of-maximilian-a-painting-by-edouard-manet/soldiersmanet/), by Edouard Manet 
+* Sports: [Racers Before the Stands](https://themesfromart.com/post/2021-07-12-sports-from-racers-before-the-stands-a-painting-by-edgar-degas/sportsdegas/), by Edgar Degas
+* Thinking: [Interior at Aracheron](https://themesfromart.com/post/2021-11-22-thinking-from-interior-at-aracharon-a-painting-by-edourd-manet/thinkinginterior/), by Edouard Manet
+* Time:	[The Bellili Family](https://themesfromart.com/post/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/), by Edgar Degas
+* Trains: [Gare St. Lazare](https://themesfromart.com/post/2021-05-10-trainslazare/trainslazare/), by Claude Monet
+* Vision: [At the Opera](https://themesfromart.com/post/2021-12-03-vision-from-at-the-opera-a-painting-by-mary-cassatt/visionopera/), a painting by Mary Cassatt
+* Wind: [The Man at the Helm](https://themesfromart.com/post/2021-08-12-wind-from-the-man-at-the-helm-a-painting-by-theo-van-rysselberghe/windhelm/), by Theo van Rysselberghe
+* Work:	[The Floor Scrapers](https://themesfromart.com/post/2021-02-26-workscrapers/workscrapers/), by Gustave Caillebotte
+
+

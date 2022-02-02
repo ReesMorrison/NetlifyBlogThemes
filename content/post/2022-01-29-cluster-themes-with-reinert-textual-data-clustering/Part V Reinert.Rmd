@@ -56,7 +56,7 @@ Concluding this fifth post in my notes on centrality and complexity, the Reinert
 * it is better suited for small “homogeneous” documents
 * it uses a *singular value decomposition* (SVD) of a *document-term matrix* (DTM) created from the corpus of all texts [more on those two methods in later posts]
 
-The Reinert algorithm carries out $\text{\underline{divisive}}$ hierarchical clustering with the goal to maximise the inter-cluster $\text{\underline{Chi-squared distance}}$ between clustered texts.  The algorithm is applied to the DTM, which only stores the presence or absence of terms, not their frequencies. 
+The Reinert algorithm carries out <span style="text-decoration: underline">divisive</span> hierarchical clustering with the goal to maximise the inter-cluster <u> Chi-squared distance <\u> between clustered texts.  The algorithm is applied to the DTM, which only stores the presence or absence of terms, not their frequencies. 
 
 The algorithm splits the DTM into two clusters by maximizing the **Chi-squared distance** between them. It carries out the following steps:
 
@@ -119,101 +119,10 @@ colnames(ClusCombo) <- c("Theme1", "Theme2", "Theme3", "Theme4")
 
 ClusCombo$Method <- "Rainette"
 
-HierDF <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/HierDF.xlsx")
-
-# set up for bind row the method's results to Rainette and k-means
-HierClus <- HierDF[  , c("Theme.x", "Theme.y")]
-HierClus <- as.data.frame(str_split(string = HierClus$Theme.y, pattern = "&", simplify = TRUE))
-HierClus$Theme1 <- HierDF$Theme.x
-HierClus$Method <- "Hierarchical"
-colnames(HierClus) <- c("Theme2", "Theme3", "Theme4", "Theme5", "Theme1", "Method")
-HierClus <- HierClus[  , c(5, 1:4, 6)]
-
-# ClusCombo = Rainette ("nights"); MinDist = k-means ("night"); HierClus = hiearchical dendrogrm
-ClusAllCombo <- bind_rows(ClusCombo, MinDist[  , c("Theme1", "Theme2", "Method")], HierClus)
-
-#remove blank rows
-ClusAllCombo <- ClusAllCombo %>% filter(nchar(Theme1) > 1) %>% arrange(Theme1, Theme2)
-ClusAllCombo$Theme2Rev <- ClusAllCombo$Theme2
-ClusAllCombo$Theme1Rev <- ClusAllCombo$Theme1
-ClusAllCombo$MethodRev <- ClusAllCombo$Method
-ClusAllRevd <- ClusAllCombo[   , c(1,2, 5, 7:9)] # rearrange to ressemble and drop 3:5s
-colnames(ClusAllRevd) <- c("Theme1", "Theme2", "Method", "Theme1", "Theme2", "Method")
-
-ClusAllRev2 <- data.frame(Theme1 = c(ClusAllRevd[   , 1], ClusAllRevd[   , 4]),
-                          Theme2 = c(ClusAllRevd[   , 2], ClusAllRevd[   , 5]),
-                          Method = c(ClusAllRevd[   , 3], ClusAllRevd[   , 6]))
-
-ClusAllRev2 <- ClusAllRev2 %>% arrange(Theme1)
-
-# do similar for Theme1s and Theme3s
-ClusAllCombo$Theme31 <- ClusAllCombo$Theme1
-ClusAllCombo$Theme33 <- ClusAllCombo$Theme3
-ClusAllCombo$Method3 <- ClusAllCombo$Method
-
-ClusAllThird <- ClusAllCombo %>% select(Theme31, Theme33, Method3)
-ClusAllThird <- ClusAllThird[!(is.na(ClusAllThird$Theme33) | ClusAllThird$Theme33 == ""), ] # remove blanks  15 rows remain --- now , create the reverse of the Themes
-ClusAllThird$Theme33Rev <- ClusAllThird$Theme33
-ClusAllThird$Theme31Rev <- ClusAllThird$Theme31
-ClusAllThird$MethodRev <- ClusAllThird$Method
-
-ClusAll3rd <- data.frame(Theme1 = c(ClusAllThird[   , 1], ClusAllThird[   , 4]),
-                         Theme2 = c(ClusAllThird[   , 2], ClusAllThird[   , 5]),
-                         Method = c(ClusAllThird[   , 3], ClusAllThird[   , 6]))
-
-colnames(ClusAll3rd) <- c("Theme1", "Theme2", "Method")
-ClusAllRev2and3 <- bind_rows(ClusAllRev2, ClusAll3rd)
-ClusAllRev2and3 <- ClusAllRev2and3 %>% arrange(Theme1, Theme2)
+```  
 
 
-# do similar for Theme2s and Theme3s
-ClusAllCombo$Theme23 <- ClusAllCombo$Theme2
-ClusAllCombo$Theme323 <- ClusAllCombo$Theme3
-ClusAllCombo$Method23 <- ClusAllCombo$Method
-
-ClusAllThird2 <- ClusAllCombo %>% select(Theme23, Theme323, Method23)  #47 obs
-ClusAllThird2 <- ClusAllThird2[!(is.na(ClusAllThird2$Theme323) | ClusAllThird2$Theme323 == ""), ] # no blanks  15 rows so, create the reverse of the Themes
-ClusAllThird2$Theme23Rev <- ClusAllThird2$Theme323
-ClusAllThird2$Theme323Rev <- ClusAllThird2$Theme23
-ClusAllThird2$MethodRev <- ClusAllThird2$Method
-
-ClusAll23rd <- data.frame(Theme1 = c(ClusAllThird2[   , 1], ClusAllThird2[   , 4]),
-                         Theme2 = c(ClusAllThird2[   , 2], ClusAllThird2[   , 5]),
-                         Method = c(ClusAllThird2[   , 3], ClusAllThird2[   , 6]))
-
-
-colnames(ClusAll23rd) <- c("Theme1", "Theme2", "Method")
-ClusAllRev1to3 <- bind_rows(ClusAllRev2, ClusAll3rd, ClusAll23rd)
-ClusAllRev1to3 <- ClusAllRev1to3 %>% arrange(Theme1, Theme2)
-
-# combine first three variables and keep uniques, because k-means has duplicates (two Themes are closest to each other), and hierarchical may have the same (two Themes merge with each other)
-
-ClusAllRev1to3$concat <- paste(ClusAllRev1to3$Theme1, ClusAllRev1to3$Theme2, ClusAllRev1to3$Method)
-
-ClusAllRev1to3.Uniq <- data.frame(Uniques = unique(ClusAllRev1to3$concat))
-
-ClusAllRev1to3.Uniq$Uniques <- str_replace_all(string = ClusAllRev1to3.Uniq$Uniques, pattern = "sailing ships", replacement = "sailing")
-
-ClusAllRev1to3.Uniq$Uniques <- str_replace_all(string = ClusAllRev1to3.Uniq$Uniques, pattern = "work  Rainette", replacement = "work work Rainette")
-
-ClusAllRev1to3.Uniq$Uniques[1] <- "work work Rainette"
-
-# write_xlsx(ClusAllRev1to3.Uniq, "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/ClusAllRev1to3Unique.xlsx")
-
-Themes <- c("alcohol", "chance", "beauty", "silence", "work", "decisions", "destruction", "time", "death", "trains", "churches", "birds", "friends", "sailing", "sports", "wind", "soldiers", "clothes", "bridges", "dancing", "sleep", "rivers", "money", "night")
-
-ClusAllSplit <- str_split(string = ClusAllRev1to3.Uniq$Uniques, pattern = " ", n = 3, simplify = TRUE)
-
-ClusAllSplit <- as.data.frame(ClusAllSplit)  #124
-
-# count of pairs per clustering method
-ClusAllMethod <- ClusAllSplit %>% group_by(V3) %>% summarise(MethodCount = n())
-
-ClusCount <- ClusAllSplit %>% group_by(V1, V2) %>% summarise(Freq = n()) %>% arrange(desc(Freq)) 
-
-# write_xlsx(ClusCount, "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/ClusCount.xlsx")
-# in the Excel file I cleaned it and created a table, to read in below
-
+```{r combineClosest}
 ClusTable <- read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/ClusCount.xlsx")
 
 ClusTable <- ClusTable[1:13, 10:14]
@@ -224,40 +133,6 @@ kableExtra::kable(ClusTable, caption = 'Close Themes', align = "l",) %>%
   kable_styling(latex_options = "HOLD_position")
 ```
 
-
-```{r cluscombo2, message=FALSE, echo=FALSE, warnings=FALSE}
-# create a data frame after table, drop zero frequencies
-ClusDF <- data.frame(table(ClusAllSplit$V1, ClusAllSplit$V2)) %>% filter(Freq > 0)
-
-# ThemeA ThemeB is same as ThemeB ThemeA, drop dupes
-ClusDF$Var1 <- as.character(ClusDF$Var1)
-Var1Order <- ClusDF %>% arrange(Var1)  # need to do Var2 separately, not vectorized, or they simply match perfectly
-
-ClusDF$Var2 <- as.character(ClusDF$Var2)
-Var2Order <- ClusDF %>% arrange(Var2)
-
-Var1Order$TwoThemes <- str_c(Var1Order$Var1, Var1Order$Var2, sep = " ")
-Var2Order$TwoThemesRev <- str_c(Var2Order$Var2, Var2Order$Var1, sep = " ")
-
-ClusDFUnique <- data.frame(A = Var1Order$TwoThemes, B = Var2Order$TwoThemesRev)
-
-ClusDFUnique <- cbind(Var1Order[ , 3:4], Var2Order[  , 3:4])
-
-# ClusDFUnique <- rbind(Var1Order[ , 4], Var2Order[  , 4])
-
-# RevPairs <- ClusDF$TwoThemesRev
-# ClusDF$Pair <- ifelse(str_detect(string = ClusDF$TwoThemes, pattern = RevPairs), "Pair", "NoPair")
-
-# ClusDFUnique <- cbind(ClusDF$TwoThemes, ClusDF$TwoThemesRev)
-# ClusDFUnique <- dplyr::bind_rows(ClusDF$TwoThemes, ClusDF$TwoThemesRev)
-
-# arrange both variables and test for identify of pairs
-TwoThemesOrder <- sort(ClusDF$TwoThemes)
-TwoThemesRevOrder <- sort(ClusDF$TwoThemesRev)
-
-ClusDFUnique <- data.frame(A = TwoThemesOrder, B = TwoThemesRevOrder)
-
-```
 
 ## Upcoming Post Series
 

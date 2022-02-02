@@ -1,14 +1,303 @@
 ---
-title: 'Cluster Themes with Reinert Textual Data Clustering '
+title: Part V - Cluster Themes with Reinert Textual Data Clustering
 author: Rees Morrison
 date: '2022-01-29'
 slug: []
 categories:
   - Analysis
-tags: []
+tags: ["Reinert Textual Data Clustering"]
 draft: yes
 ---
 
+<script src="Part V Reinert_files/kePrint/kePrint.js"></script>
+<link href="Part V Reinert_files/lightable/lightable.css" rel="stylesheet" />
 
 
-
+<p>Concluding this fifth post in my notes on centrality and complexity, the Reinert textual clustering method dates to Max Reinert’s articles in 1983. After removing portions of blog posts that are similar to all posts, as well as blogdown header material, I combined all the posts for a Theme into a single “text.” Then I used R’s rainette package to perform a Reinert textual clustering on those 24 texts. Here are some characteristics of the method:</p>
+<ul>
+<li>it assigns each text (Theme) to only one cluster<br />
+</li>
+<li>it is better suited for small “homogeneous” documents</li>
+<li>it uses a <em>singular value decomposition</em> (SVD) of a <em>document-term matrix</em> (DTM) created from the corpus of all texts [more on those two methods in later posts]</li>
+</ul>
+<p>The Reinert algorithm carries out <span style="text-decoration: underline">divisive</span> hierarchical clustering with the goal to maximise the inter-cluster <u>Chi-squared distance&lt; between clustered texts. The algorithm is applied to the DTM, which only stores the presence or absence of terms, not their frequencies.</p>
+<p>The algorithm splits the DTM into two clusters by maximizing the <strong>Chi-squared distance</strong> between them. It carries out the following steps:</p>
+<ul>
+<li><p>first, texts (Themes) are ordered according to their coordinates on the first axis of the <strong>correspondence analysis</strong> (CA) of the binary matrix (see<a href="https://www.displayr.com/how-correspondence-analysis-works/">DisplayR</a> for a clear explanation of CA;</p></li>
+<li><p>next, Themes are grouped in two clusters based on this order, and the grouping with the maximum inter-cluster <strong>Chi-squared distance</strong> is kept;</p></li>
+<li><p>based on this grouping, each Theme is in turn assigned to the other cluster. If this new assignment gives a higher inter-cluster Chi-squared value, the Theme is kept in the other cluster. The operation is repeated until no new assignment gives a higher Chi-squared value;</p></li>
+<li><p>on the resulting clusters’ binary matrices, features are selected based on their frequency and on a contingency coefficient minimum value; and</p></li>
+<li><p>the largest of the two resulting clusters is then split with the same algorithm.</p></li>
+</ul>
+<p><img src="/post/2022-01-29-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainette-1.png" width="672" /></p>
+<div id="combine-the-pairings-from-the-three-clustering-methods" class="section level3">
+<h3>Combine the pairings from the three clustering methods</h3>
+<p>Once the closest-pair are produced from k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe so that we can find out whether any Theme is closest to any other Theme more than once (or even three times).<br />
+</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:combineClosest">Table 1: </span>Close Themes
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;">
+Theme
+</th>
+<th style="text-align:left;">
+Two
+</th>
+<th style="text-align:left;">
+One
+</th>
+<th style="text-align:left;">
+Theme
+</th>
+<th style="text-align:left;">
+One
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+birds
+</td>
+<td style="text-align:left;">
+A
+</td>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+money
+</td>
+<td style="text-align:left;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+chance
+</td>
+<td style="text-align:left;">
+A
+</td>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+alcohol
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+bridges
+</td>
+<td style="text-align:left;">
+B
+</td>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+beauty
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+rivers
+</td>
+<td style="text-align:left;">
+B, F
+</td>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+decisions
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+death
+</td>
+<td style="text-align:left;">
+C
+</td>
+<td style="text-align:left;">
+5
+</td>
+<td style="text-align:left;">
+friends
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+churches
+</td>
+<td style="text-align:left;">
+C
+</td>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+soldiers
+</td>
+<td style="text-align:left;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+dancing
+</td>
+<td style="text-align:left;">
+D
+</td>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+clothes
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+wind
+</td>
+<td style="text-align:left;">
+D
+</td>
+<td style="text-align:left;">
+3
+</td>
+<td style="text-align:left;">
+nights
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+destruction
+</td>
+<td style="text-align:left;">
+E
+</td>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+silence
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+sailing
+</td>
+<td style="text-align:left;">
+E
+</td>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+sports
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+sleep
+</td>
+<td style="text-align:left;">
+F
+</td>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+trains
+</td>
+<td style="text-align:left;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+work
+</td>
+<td style="text-align:left;">
+G
+</td>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+time
+</td>
+<td style="text-align:left;">
+G
+</td>
+<td style="text-align:left;">
+1
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="upcoming-post-series" class="section level2">
+<h2>Upcoming Post Series</h2>
+<p>Once the blog Themes from Art reaches 30 Themes (early February 2022), incorporates new metrics (e.g., newspaper references and Bing searches), drops the most dubious metrics (college majors and readability), and reconsiders the rank metrics (OED Bands and Top 1000 Words), the second series of five posts is likely to address:</p>
+<p>*Part VI: Further Observations on Themes and Metrics</p>
+<p>*Part VII: Cosine Similarity of Themes</p>
+<p>*Part VIII: Latent Dirichelet Allocation (LDA)</p>
+<p>*Part IX: Embeddings and Transformations</p>
+<p>*Part X: Including Results of Above Algorithms into Theme Pairs Analysis</p>
+<p> </p>
+<p>Around April 2022, a third series of five posts may encompass 36 Themes, a further modified set of metrics, and the following topics:</p>
+<p>*Part XI: Critique of Quantifying Centrality and Complexity</p>
+<p>*Part XII: Principal Components Analysis (PCA)</p>
+<p>*Part XIII: Latent Semantic Analysis (LSA) or Uniform Manifold Approximation of Proportion (UMAP)</p>
+<p>*Part XIV: Correspondence Analysis (CA)</p>
+<p>*Part XV: Further Extensions of Theme Pairs and Analysis</p>
+<p> </p>
+<p>A fourth series of posts, in the early Summer of 2022, may incorporate as many as 40 Themes. Among its potential topics, we envision:</p>
+<p>*Part XVI: More Clustering Techniques</p>
+<p>*Part XVII: Metaclustering, Validation tests, Assumptions of the Models</p>
+<p>*Part XVIII: Structural Topic Models (STM)</p>
+<p>*Part XIX: Other Tools for Analyzing Relationships between Themes</p>
+<p>*Part XX: Applications of Theme-Pair Findings to Centrality and Complexity</p>
+</div>
