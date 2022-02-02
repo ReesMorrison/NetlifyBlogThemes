@@ -5,7 +5,7 @@ date: '2022-02-01'
 slug: []
 categories: "Painting"
 tags: ["Agriculture,", "Solar Power,", "Global Warming",]
-draft: no
+draft: 
 ---
 
 In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
@@ -14,7 +14,7 @@ In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although h
 
 ![Olive Trees](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
 
-50%
+out.width = 50%
 
 ```{r, olive, out.width = "50%"}
 library(jpeg)
@@ -26,15 +26,15 @@ library(jpeg)
 knitr::include_graphics("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
-25% and no quotes  
+out.width = 25% and no quotes on path, added eval=TRUE
 
-```{r, olive4, out.width = "25%"}
+```{r, olive4, out.width = "25%", eval=TRUE}
 knitr::include_graphics(C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
 ```
 
-40width 50 height (don't change output to fig since not dynamic plot), tried pt instead of %
+400pt width 500pt height (don't change output to fig since not dynamic plot), instead of %
 
-```{r, olive2, fig.width="400pt", fig.height="500pt", eval="TRUE"}
+```{r, olive2, out.width="400pt", fig.height="500pt", eval=TRUE}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
@@ -42,7 +42,7 @@ removed spaces around "="
 
 out.xtra, right, be sure ; at end  tried , eval="TRUE"  used pt
 
-```{r, olive3, out.width="400pt", out.height="500pt", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"', eval="TRUE"}
+```{r, olive3, out.width="400pt", out.height="500pt", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"', eval=TRUE}
 knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
 ```
 
