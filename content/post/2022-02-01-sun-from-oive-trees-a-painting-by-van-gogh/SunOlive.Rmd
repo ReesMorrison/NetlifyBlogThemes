@@ -1,71 +1,33 @@
 ---
-title: "Sun, from 'Olive Trees,' a painting by Van Gogh" 
+title: "Sun, from 'Olive Trees,' a painting by Van Gogh"
 author: "Rees Morrison"
 date: '2022-02-01'
-slug: []
-categories: "Painting"
-tags: ["Agriculture,", "Solar Power,", "Global Warming",]
+output: pdf_document
+categories: Painting
+tags: 
+- Agriculture,
+- Solar Power,
+- Global Warming
 draft: 
+slug: []
 ---
 
-In “The Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
+In “Olive Trees,” Vincent Van Gogh didn’t focus on the Sun, although he centered it in the upper middle and added an unnatural red rim.  Despite how fervently the impressionist painters relished en plein air painting, they didn’t include the Sun in many of their canvases, mostly its reflections, shadows, and illuminations.   But here is an example, and subthemes of Sun can be gleaned from this rocky orchard of olive trees.
 
-<!--more-->
 
-![Olive Trees](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
-note spaces around width
-
-![drawing](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg){ width=30% }  
-
-{width=80%} 
-
-![drawing](C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg){width=80%}  
-
-out.width = 50%
-
-```{r, olive, out.width = "50%"}
-library(jpeg)
-# dim(readJPEG("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg"))
-# attr(source = readJPEG("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg"))
+```{r, olive, out.width = "50%", fig.align = "center", warning=FALSE, message=FALSE, warning=FALSE, message=FALSE, echo=FALSE}
 
 # http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures
 
-knitr::include_graphics("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
+knitr::include_graphics(path = "/media/SunOlive.jpg", error = FALSE) # NOTE REES, error = FALSE
+
 ```
 
-out.width = 25% and no quotes on path, added eval=TRUE
 
-```{r, olive4, out.width = "25%", eval=TRUE}
-knitr::include_graphics(C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg)
-```
-
-400pt width 500pt height (don't change output to fig since not dynamic plot), instead of %
-
-```{r, olive2, out.width="400pt", out.height="500pt", eval=TRUE}
-knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
-```
-width="400pt" height="500pt",  no comma between per
-https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown at the bottom
-
-```{r, olive2, width="400pt" height="500pt", eval=TRUE}
-knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
-```
-
-LaTeX style
-
-
-\begin{figure}
- \includegraphics[width=300pt, height = 125 pt]{C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg}
-\end{figure}
-
-
-removed spaces around "="
-
-out.xtra, right, be sure ; at end  tried , eval="TRUE"  used pt
-
-```{r, olive3, out.width="400pt", out.height="500pt", out.align = “right”, out.extra = 'style="background-color: #9ecff7; padding:10px; display: inline-block;"', eval=TRUE}
-knitr::include_graphics(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/BlogThemes1/static/media/SunOlive.jpg")
-```
+<!-- ```{r, olive4, out.width="50%", fig.align = "center", out.extra = 'style="background-color: 9ecff7; padding:10px; "', eval=TRUE, warning=FALSE, message=FALSE, echo=FALSE}
+ knitr::include_graphics(path = "/media/SunOlive.jpg", error = FALSE) # display: inline-block;
+ ```
+-->
 
 <span style="font-variant:small-caps;"> Agriculture </span>:  Olive trees luxuriate in sunshine.  All plants that humans eat or feed to animals, for that matter, grow and produce their fruits by a process called photosynthesis.  By that process they use the power of sunlight to synthesize nutrients from carbon dioxide and water.  Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.   Organisms in the ocean also rely on the Sun as, for example, the surface layer of the ocean is teeming with photosynthetic plankton.  [Scientists estimate](https://oceanservice.noaa.gov/facts/ocean-oxygen.html) that 50-80% of the oxygen production on Earth comes from the photosynthesis in the ocean; at the other aquatic extreme, cactus in the [desert](https://themesfromart.com/post/2022-02-02-sun-from-lawrence-of-arabia-a-movie-with-peter-o-toole-omar-sharif-and-others/sunarabia/) similarly rely on the Sun.^[Test footnote]
 

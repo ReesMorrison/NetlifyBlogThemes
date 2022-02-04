@@ -1,5 +1,5 @@
 ---
-title: Sun, from "The Sun Rising," a poem by John Donne 
+title: Sun, from "The Sun Rising," a poem by John Donne
 author: Rees Morrison
 date: '2022-02-01'
 slug: []
