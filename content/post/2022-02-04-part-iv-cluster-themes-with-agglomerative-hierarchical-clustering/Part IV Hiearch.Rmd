@@ -5,8 +5,10 @@ date: '2022-02-04'
 categories:
   - Analysis
 tags:
-  - Agglomerative Hierarchical Clustering 
+  - Agglomerative Hierarchical Clustering
 output: pdf_document
+  html_document:
+    df_print: paged
 draft: no
 ---
 
