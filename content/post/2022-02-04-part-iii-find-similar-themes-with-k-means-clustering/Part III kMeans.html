@@ -1,0 +1,45 @@
+---
+title: Part III - Find Similar Themes with K-means Clustering
+author: Rees W. Morrison
+date: '2022-02-04'
+categories:
+  - Analysis
+tags:
+  - K-means clustering
+output:
+  html_document:
+    df_print: paged
+draft: no
+---
+
+
+
+<p>The <a href="first">first post in this series</a> of five explains the source of the 24 Themes written about on the blog <a href="https://themesfromart.com/">Themes from Art</a> and used in this series. The <a href="second">second post</a> describes the set of 20 metrics collected for each of those Themes. This work-in-process post starts with the Themes and metrics, and seeks to find most-similar Themes by software methodology called <strong>k-means clustering</strong>.</p>
+<!--more-->
+<p>Using the vector of metrics for each Theme (the values for the 20 metrics of a Theme, treated as a sequence of numbers), the k-means algorithm identifies clusters of Themes such that within a cluster the Themes are most similar to each other, while between clusters the Themes are most dissimilar to each other. Each Theme belongs to the cluster with the nearest vector mean. Nearness is calculated based on the Euclidean distances between Themes, and optimizing the squared Euclidean distances is the basis of k-means clustering. Accordingly, all the metrics must be (and are) quantitative, standardized variables (see <a href="postII">Post II</a> about standardizing the metrics).</p>
+<p>The algorithm begins by me specifying <em>k</em>, the number of clusters to create. I chose five. Eventually, each of the k (5) clusters is identified as the vector of the mean value of all of the variables for the Themes within the cluster. The algorithm starts by creating at random five new points, calculates their means (the mathematical “center” of the cluster, called the <strong>centroid</strong>), and then uses distance measures to “gravitate” each Theme to its nearest cluster mean. The means are then recalculated [the new value of a centroid is the sum of all the Themes belonging to that centroid divided by the number of Themes in the centroid’s group] and the points re-gravitate and so on until the means no longer change.</p>
+<p>The sum of the squared distance between a centroid and the Theme points within its cluster constitutes the “within sum of squares due to error” (SSE) value for that cluster. The k-means algorithm minimizes the SSE by moving around centroids and clustered points to reach an optimum. The SSE values for all the clusters added together become the “total within sum of square” value for the cluster solution. As the number of clusters increases, this value decreases.</p>
+<p>According to <a href="http://varianceexplained.org/r/kmeans-free-lunch/">Variance Explained</a>, the k-means algorithm has a few assumptions and drawbacks:</p>
+<ul>
+<li><p>it assumes the variance of the distribution of each metric is spherical;</p></li>
+<li><p>it assumes that all the metrics have the same variance; and</p></li>
+<li><p>it assumes the prior probability for all k clusters are the same, i.e., each cluster has roughly equal numbers of Themes. What if the clusters have an uneven number of Themes – does that doom k-means clustering? In its quest to minimize the SSSE (within-cluster sum of squares), the k-means algorithm gives more “weight” to larger clusters. In practice, that means it’s happy to let a small cluster end up far away from any center, while it “borrows” some from the smaller centers to “split up” a much larger cluster.</p></li>
+</ul>
+<p>If any one of these three assumptions is violated, k-means will fail or not deliver reliable results. Additionally,</p>
+<ul>
+<li><p>it is sensitive to outliers (unusually high or low values within a metric), and</p></li>
+<li><p>it is sensitive to the initial choice of centroids.</p></li>
+</ul>
+<p>The k-means algorithm works best if the clusters are easy to tell apart, have similar volumes, and include similar numbers of objects. At this point in my effort, those desiderata are problematic. For example, the 24 Themes did not end up with roughly five in each cluster. Rather, Work and Time were joined, but they were far apart from each other and from the other 22 Themes.<br />
+</p>
+<p>Here is the plot that depicts the five clusters. The horizontal axis, showing “Dim1,” refers to the first <strong>principal component</strong><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>; the vertical axis, showing “Dim2”, shows the second principal component. The sum of the two principal components tells approximately how much they explain of the original, full-dimensioned data.<br />
+</p>
+<p><img src="/post/2022-02-04-part-iii-find-similar-themes-with-k-means-clustering/Part%20III%20kMeans_files/figure-html/means3-1.png" width="672" /></p>
+<p>To determine for each Theme which other Theme is closest to it, I extracted the coordinates of all of them on the cluster plot and calculated the Euclidean distance between each pair to determine the closest pairs. Those closest-Theme pairs make up the first entries in my database of the pairings data set.<br />
+</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>To be explained in a post of a later series, addressing an algorithm called “Principal Component Analysis”<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>

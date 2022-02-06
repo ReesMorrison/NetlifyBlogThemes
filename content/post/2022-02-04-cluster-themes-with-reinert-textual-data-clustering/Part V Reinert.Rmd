@@ -10,7 +10,7 @@ output:
   pdf_document: default
   html_document:
     df_print: paged
-draft: yes
+draft: no
 ---
 
 ```{r packages, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}

@@ -1,14 +1,15 @@
 ---
-title: "Part II -- Metrics Suggesting Centrality or Complexity of Themes"
-author: "Rees W. Morrison"
-date: "`r Sys.Date()`"
+title: Part II -- Metrics Suggesting Centrality or Complexity of Themes
+author: Rees W. Morrison
+date: '2022-02-04'
+categories:
+  - Analysis
+tags:
+  - Metrics
 output:
   html_document:
     df_print: paged
-categories: Analysis
-tags: Metrics
-draft: yes
-slug: []
+draft: no
 ---
 
 ```{r metricslist, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}

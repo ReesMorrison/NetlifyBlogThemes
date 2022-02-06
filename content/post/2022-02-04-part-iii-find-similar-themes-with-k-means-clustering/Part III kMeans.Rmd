@@ -1,0 +1,147 @@
+---
+title: Part III - Find Similar Themes with K-means Clustering
+author: Rees W. Morrison
+date: '2022-02-04'
+categories:
+  - Analysis
+tags:
+  - K-means clustering
+output:
+  html_document:
+    df_print: paged
+draft: no
+---
+
+```{r packages, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)  
+library(ggthemes) 
+library(ggrepel) 
+library(readxl) 
+library(GGally)
+library(tidytext) 
+
+library(blogdown)
+ 
+library(rainette)  # had problem installing faststack
+library(cluster) # clustering algorithms and gap statistic
+library(factoextra) # distance matrix and plot k-means clusters
+
+library(kableExtra)
+
+```
+
+The [first post in this series](first) of five explains the source of the 24 Themes written about on the blog [Themes from Art](https://themesfromart.com/) and used in this series. The [second post](second) describes the set of 20 metrics collected for each of those Themes.  This work-in-process post starts with the Themes and metrics, and seeks to find most-similar Themes by software methodology called **k-means clustering**.
+
+<!--more-->
+
+Using the vector of metrics for each Theme (the values for the 20 metrics of a Theme, treated as a sequence of numbers), the k-means algorithm identifies clusters of Themes such that within a cluster the Themes are most similar to each other, while between clusters the Themes are most dissimilar to each other. Each Theme belongs to the cluster with the nearest vector mean. Nearness is calculated based on the Euclidean distances between Themes, and optimizing the squared Euclidean distances is the basis of k-means clustering.  Accordingly, all the metrics must be (and are) quantitative, standardized variables (see [Post II](postII) about standardizing the metrics). 
+
+The algorithm begins by me specifying *k*, the number of clusters to create. I chose five.  Eventually, each of the k (5) clusters is identified as the vector of the mean value of all of the variables for the Themes within the cluster. The algorithm starts by creating at random five new points, calculates their means (the mathematical "center" of the cluster, called the **centroid**), and then uses distance measures to "gravitate" each Theme to its nearest cluster mean. The means are then recalculated [the new value of a centroid is the sum of all the Themes belonging to that centroid divided by the number of Themes in the centroid's group] and the points re-gravitate and so on until the means no longer change.
+
+The sum of the squared distance between a centroid and the Theme points within its cluster constitutes the "within sum of squares due to error" (SSE) value for that cluster. The k-means algorithm minimizes the SSE by moving around centroids and clustered points to reach an optimum. The SSE values for all the clusters added together become the "total within sum of square" value for the cluster solution.  As the number of clusters increases, this value decreases.
+
+According to [Variance Explained](http://varianceexplained.org/r/kmeans-free-lunch/), the k-means algorithm has a few assumptions and drawbacks:
+
+* it assumes the variance of the distribution of each metric is spherical;
+
+* it assumes that all the metrics have the same variance; and
+
+* it assumes the prior probability for all k clusters are the same, i.e., each cluster has roughly equal numbers of Themes. What if the clusters have an uneven number of Themes -- does that doom k-means clustering? In its quest to minimize the SSSE (within-cluster sum of squares), the k-means algorithm gives more "weight" to larger clusters. In practice, that means it's happy to let a small cluster end up far away from any center, while it "borrows" some from the smaller centers to "split up" a much larger cluster.  
+
+If any one of these three assumptions is violated, k-means will fail or not deliver reliable results.  Additionally, 
+
+* it is sensitive to outliers (unusually high or low values within a metric), and
+
+* it is sensitive to the initial choice of centroids. 
+
+The k-means algorithm works best if the clusters are easy to tell apart, have similar volumes, and include similar numbers of objects.  At this point in my effort, those desiderata are problematic.  For example, the 24 Themes did not end up with roughly five in each cluster.  Rather, Work and Time were joined, but they were far apart from each other and from the other 22 Themes.\
+
+```{r means1, eval=TRUE, warning=FALSE, echo=FALSE}
+
+comboData <- read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/comboData.xlsx")
+
+# convert Theme to factor - why?  to try to add labels to corr matrix
+comboData$Theme <- as.factor(comboData$Theme)
+# comboData$Theme <- as.character(comboData$Theme)
+
+comboDataMtx <- as.matrix(comboData)  # all numeric, row names 1 to 20
+
+# compute and visualize the distance matrix: not useful as I don't understand
+# distance <- factoextra::get_dist(x = comboDataMtx, method = "euclidean") # label rows and cols?
+# head(distance, 40)
+
+# factoextra::fviz_dist(dist.obj = distance, show_labels = TRUE, gradient = list(low = "#00AFBB", mid = "white", high = "#FC4E07"))
+```
+
+Here is the plot that depicts the five clusters.  The horizontal axis, showing "Dim1," refers to the first **principal component**^[To be explained in a post of a later series, addressing an algorithm called "Principal Component Analysis"]; the vertical axis, showing "Dim2", shows  the second principal component.  The sum of the two principal components tells approximately how much they explain of the original, full-dimensioned data.\
+
+
+```{r normalize1}
+comboScaled <- scale(x = comboData[ , 2:20], center = TRUE, scale = TRUE)
+
+comboScaledDF <- as.data.frame(scale(x = comboData[ , 2:20]))
+comboScaledDF$Metric <- comboData[  , 1]
+
+```
+
+```{r means3}
+
+kcluster <- kmeans(x = comboScaled, centers = 5)
+
+factoextra::fviz_cluster(object = kcluster, data = comboScaled, main = "Cluster Plot of 24 Themes in Five Clusters", geom = "point") +
+  labs(subtitle = "Based on 20 normalized attributes of the Themes") +
+  geom_text_repel(label = comboData$Theme, size = 2.5) +
+  theme(legend.position = "none") +
+  theme_tufte(ticks = FALSE)
+
+```
+
+To determine for each Theme which other Theme is closest to it, I extracted the coordinates of all of them on the cluster plot and calculated the Euclidean distance between each pair to determine the closest pairs.  Those closest-Theme pairs make up the first entries in my database of the pairings data set.\
+
+```{r clusterdivided, eval=TRUE}
+
+kclustTwo <- kmeans(x = comboScaled, centers = 12, nstart = 25) 
+
+# easier to read plot if labels are upper right and close
+clusterTwoPlot <- factoextra::fviz_cluster(object = kclustTwo, data = comboScaled, main = "Cluster Plot of 24 Themes in Twelve Clusters", geom = "point") +
+  # labs(subtitle = "Based on 20 normalized attributes of the themes") +
+  geom_text_repel(label = comboData$Theme, size = 2.2, max.overlaps = 12) +
+  theme(legend.position = "none") +
+  theme_tufte(ticks = FALSE) 
+
+# clusterTwoPlot
+
+# find the coordinates of each theme, to calculate distances between them 
+build_object <- ggplot_build(clusterTwoPlot) # in the object lives the data, extracted into a dataframe below.from https://medium.com/@jireh/a-clever-use-of-ggplot-internals-bbb168133909
+
+ThemeCoords <- data.frame(Theme = comboData$Theme,
+                          x = build_object$data[[1]][ , 3],
+                          y = build_object$data[[1]][ , 4]) # x and y coordinates!
+
+# double the data to compare distances; calculate Euclidean distance between each point
+library(fields)
+
+df <- data.frame(Theme = comboData[  , 1],
+                 fields::rdist(x1 = ThemeCoords[ ,2:3],
+                               x2 = ThemeCoords[  , 2:3])) # above is [1, 2]
+
+
+books <- read_excel("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Metrics of Themes.xlsx", sheet = "BookTitles", range = "A1:B25")
+
+colnames(df) <- c("Col1", t(books[ , 1]))  # avoided comboData because themes are factors
+
+# gather to longer so I can filter out 1.000s
+df.gat <- gather(df, key = "theme", value = "b", -c("Col1"))
+
+# code below shows the distance of each Theme to its nearest Theme 
+MinDist <- df.gat %>% filter(b > 0) %>% group_by(theme) %>% filter(b == min(b)) %>% arrange(b)
+# identify the partitioning method used
+MinDist$clusterMeth <- rep("Kmeans", nrow(MinDist))
+colnames(MinDist) <- c("Theme1", "Theme2", "DistMeasure", "Method")
+
+# write_xlsx(MinDist, path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/kmeansPtDistances.xlsx")
+
+```

@@ -1,38 +1,66 @@
 ---
-title: Part V - Cluster Themes with Reinert Textual Data Clustering
-author: Rees Morrison
-date: '2022-01-29'
-slug: []
+title: Part V - Find Similar Themes with Reinert Textual Data Clustering
+author: Rees W. Morrison
+date: '2022-02-04'
 categories:
   - Analysis
-tags: ["Reinert Textual Data Clustering"]
-draft: yes
+tags:
+  - Reinert Textual Data Clustering
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+draft: no
 ---
 
 <script src="Part V Reinert_files/kePrint/kePrint.js"></script>
 <link href="Part V Reinert_files/lightable/lightable.css" rel="stylesheet" />
 
 
-<p>Concluding this fifth post in my notes on centrality and complexity, the Reinert textual clustering method dates to Max Reinert’s articles in 1983. After removing portions of blog posts that are similar to all posts, as well as blogdown header material, I combined all the posts for a Theme into a single “text.” Then I used R’s rainette package to perform a Reinert textual clustering on those 24 texts. Here are some characteristics of the method:</p>
+<p>Concluding this fifth post in a series of notes on Theme centrality and complexity, I turn to the Reinert textual clustering method. To prepare for its analysis, I removed portions of blog posts that are similar in all posts, as well as R’s blogdown headers and material I didn’t write, and then combined all the posts for a Theme into a single “text.” Accordingly, 24 texts. Then I used R’s rainette package to perform Reinert textual clustering of those 24 texts.</p>
+<p>Here are some characteristics of the method:</p>
 <ul>
-<li>it assigns each text (Theme) to only one cluster<br />
+<li>it uses a <strong>singular value decomposition</strong> (SVD) of the <strong>document-term matrix</strong> (DTM) created from the corpus (collection of all 24 texts) [more on those two methods in later posts];<br />
 </li>
-<li>it is better suited for small “homogeneous” documents</li>
-<li>it uses a <em>singular value decomposition</em> (SVD) of a <em>document-term matrix</em> (DTM) created from the corpus of all texts [more on those two methods in later posts]</li>
+<li>it assigns each text (Theme) to only one cluster; and<br />
+</li>
+<li>it is better suited for small “homogeneous” documents.</li>
 </ul>
-<p>The Reinert algorithm carries out <span style="text-decoration: underline">divisive</span> hierarchical clustering with the goal to maximise the inter-cluster <u>Chi-squared distance&lt; between clustered texts. The algorithm is applied to the DTM, which only stores the presence or absence of terms, not their frequencies.</p>
-<p>The algorithm splits the DTM into two clusters by maximizing the <strong>Chi-squared distance</strong> between them. It carries out the following steps:</p>
+<p>The Reinert algorithm carries out <span style="text-decoration: underline">divisive</span> hierarchical clustering (as distinct from Part IV’s agglomerative clustering) with the goal to maximise the inter-cluster <strong>Chi-squared distance</strong> between clustered texts. The algorithm works its magic on the DTM, which only stores 1’s or 0’s (to show the presence or absence of terms in a text), not the frequencies of terms.</p>
+<p>The algorithm splits the DTM into two clusters by maximizing the Chi-squared distance between them. To do so, it carries out the following steps:</p>
 <ul>
-<li><p>first, texts (Themes) are ordered according to their coordinates on the first axis of the <strong>correspondence analysis</strong> (CA) of the binary matrix (see<a href="https://www.displayr.com/how-correspondence-analysis-works/">DisplayR</a> for a clear explanation of CA;</p></li>
-<li><p>next, Themes are grouped in two clusters based on this order, and the grouping with the maximum inter-cluster <strong>Chi-squared distance</strong> is kept;</p></li>
-<li><p>based on this grouping, each Theme is in turn assigned to the other cluster. If this new assignment gives a higher inter-cluster Chi-squared value, the Theme is kept in the other cluster. The operation is repeated until no new assignment gives a higher Chi-squared value;</p></li>
-<li><p>on the resulting clusters’ binary matrices, features are selected based on their frequency and on a contingency coefficient minimum value; and</p></li>
-<li><p>the largest of the two resulting clusters is then split with the same algorithm.</p></li>
+<li>first, Themes are ordered according to their coordinates on the first axis of the <strong>correspondence analysis</strong> (CA) of the binary TDM (see <a href="https://www.displayr.com/how-correspondence-analysis-works/">DisplayR</a> for a clear explanation of CA);<br />
+</li>
+<li>next, Themes are grouped into two clusters based on the CA order, and the grouping with the maximum inter-cluster <strong>Chi-squared distance</strong> is kept;<br />
+</li>
+<li>based on this grouping, each Theme is assigned in turn to the other cluster. If the new assignment gives a higher inter-cluster Chi-squared value, the Theme remains in the other cluster. The operation is repeated until no new assignment gives a higher Chi-squared value;<br />
+</li>
+<li>from the resulting clusters’ binary matrices, terms are selected based on their frequency and on a contingency coefficient minimum value<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>; and<br />
+</li>
+<li>the largest of the two resulting clusters is then split with the same algorithm (hence, this is divisive hierarchical clustering) until it reaches the chosen number of clusters or a maximum of nine.</li>
 </ul>
-<p><img src="/post/2022-01-29-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainette-1.png" width="672" /></p>
+<p>According to the calculations of the rainette package, the strongest associations (the highest Chi-squared values) are between Night and Sleep (almost 1100, in Cluster 4). But any conclusions drawn from this exercise are unreliable because more text cleaning should precede the clustering. The next time I deploy the Reinert text clustering method I will standardize (lemmatize) the Theme variants, such as converting “dancing” to “dance” and adjust plurals, such as “soldiers” to “soldier.”</p>
+<p>The plot below displays the maximum of nine clusters that the algorithm can handle. The length of the bars visible behind the 10 terms that most represent a cluster correspond to the Chi-squared value, sorted in descending order. The “n =” row tells how many Themes comprise that cluster; for example, four Themes make up “Cl. 2”. The small dendrogram atop the cluster table visualizes the divisive, top-down methodology.</p>
+<p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainette-1.png" width="672" /></p>
+<p>In a different visualization of the same clustering determination, the next plot presents with a “wordcloud” style, where the size of the word matches its Chi-squared value relative to the cluster. It shows only 8 key terms, for legibility.</p>
+<p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainettePlot2-1.png" width="672" /></p>
+<pre><code>## TableGrob (3 x 9) &quot;arrange&quot;: 10 grobs
+##     z     cells    name           grob
+## 1   1 (1-1,1-9) arrange gtable[layout]
+## 2   2 (2-3,1-1) arrange gtable[layout]
+## 3   3 (2-3,2-2) arrange gtable[layout]
+## 4   4 (2-3,3-3) arrange gtable[layout]
+## 5   5 (2-3,4-4) arrange gtable[layout]
+## 6   6 (2-3,5-5) arrange gtable[layout]
+## 7   7 (2-3,6-6) arrange gtable[layout]
+## 8   8 (2-3,7-7) arrange gtable[layout]
+## 9   9 (2-3,8-8) arrange gtable[layout]
+## 10 10 (2-3,9-9) arrange gtable[layout]</code></pre>
+<p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/gtablecoerce-1.png" width="672" /></p>
 <div id="combine-the-pairings-from-the-three-clustering-methods" class="section level3">
 <h3>Combine the pairings from the three clustering methods</h3>
-<p>Once the closest-pair are produced from k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe so that we can find out whether any Theme is closest to any other Theme more than once (or even three times).<br />
+<p>Once the closest pairs were obtained by k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe. The first inquiry was whether any Theme is closest to any other Theme more than once (or even by all three algorithms). Each letter pair in column “Two” of the table below tells us that two algorithms found that pair of Themes to be closest, e.g., Birds and Chance (both A), Bridges and Rivers (both B). The “One” column tells how many other Themes were also identified for that Theme as closest. So, for example, Dancing paired twice with Wind (both marked with D in column “Two”) and with four other Themes – the “4” in column “One.” The Themes in column “Single Closest Themes” had no pair, only single instances of closest Themes. Thus, Money was “closest” to seven Themes, according to column “Single.”</p>
+<p>Bear in mind that my method of picking closest Themes from the agglomerative hiearchical clustering (Part IV)[IV] yielded multiple “closest” Themes as I tied each agglomerated Theme to each of the Themes already in a unit (if that were the case). In the series of posts to come, I will refine my method and thereby reduce the number of pairings.<br />
 </p>
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -41,7 +69,7 @@ draft: yes
 <thead>
 <tr>
 <th style="text-align:left;">
-Theme
+Two Closest Themes
 </th>
 <th style="text-align:left;">
 Two
@@ -50,10 +78,10 @@ Two
 One
 </th>
 <th style="text-align:left;">
-Theme
+Single Closest Themes
 </th>
 <th style="text-align:left;">
-One
+Single
 </th>
 </tr>
 </thead>
@@ -280,24 +308,38 @@ G
 </div>
 <div id="upcoming-post-series" class="section level2">
 <h2>Upcoming Post Series</h2>
-<p>Once the blog Themes from Art reaches 30 Themes (early February 2022), incorporates new metrics (e.g., newspaper references and Bing searches), drops the most dubious metrics (college majors and readability), and reconsiders the rank metrics (OED Bands and Top 1000 Words), the second series of five posts is likely to address:</p>
-<p>*Part VI: Further Observations on Themes and Metrics</p>
-<p>*Part VII: Cosine Similarity of Themes</p>
-<p>*Part VIII: Latent Dirichelet Allocation (LDA)</p>
-<p>*Part IX: Embeddings and Transformations</p>
-<p>*Part X: Including Results of Above Algorithms into Theme Pairs Analysis</p>
+<p>Once the blog Themes from Art reaches 30 Themes (which it did in early February 2022), incorporates new metrics (i.e., newspaper references and Bing searches), drops the most dubious metrics (college majors and readability), reconsiders the rank metrics (OED Frequency Bands and Top 1000 Words), and <strong>lemmatizes</strong> Theme terms (standardizes word forms), the second series of five posts is likely to address:</p>
+<ul>
+<li><p>Part VI: Further Observations on Themes and Metrics</p></li>
+<li><p>Part VII: Find Similar Themes with Cosines</p></li>
+<li><p>Part VIII: Find Similar Themes with Latent Dirichelet Allocation (LDA)</p></li>
+<li><p>Part IX: Find Similar Themes with Embeddings and Transformations</p></li>
+<li><p>Part X: Including Results of Above Algorithms into Closest Theme-Pairs Analysis</p></li>
+</ul>
 <p> </p>
-<p>Around April 2022, a third series of five posts may encompass 36 Themes, a further modified set of metrics, and the following topics:</p>
-<p>*Part XI: Critique of Quantifying Centrality and Complexity</p>
-<p>*Part XII: Principal Components Analysis (PCA)</p>
-<p>*Part XIII: Latent Semantic Analysis (LSA) or Uniform Manifold Approximation of Proportion (UMAP)</p>
-<p>*Part XIV: Correspondence Analysis (CA)</p>
-<p>*Part XV: Further Extensions of Theme Pairs and Analysis</p>
+<p>By the end of May 2022, a third series of five analytic posts may encompass 36 Themes, rely on a modified set of metrics (e.g., movie synopses, figurative expressions, improved consistency with singular and plural forms of the Themes), and address the following topics:</p>
+<ul>
+<li><p>Part XI: Critique of Quantifying Centrality and Complexity in Themes</p></li>
+<li><p>Part XII: Find Similar Themes with Principal Components Analysis (PCA)</p></li>
+<li><p>Part XIII: Find Similar Themes with Latent Semantic Analysis (LSA)
+<!-- or Uniform Manifold Approximation of Proportion (UMAP) --></p></li>
+<li><p>Part XIV: Find Similar Themes with Correspondence Analysis (CA)</p></li>
+<li><p>Part XV: Further Refinement of Closest Theme Pairs Analysis</p></li>
+</ul>
 <p> </p>
-<p>A fourth series of posts, in the early Summer of 2022, may incorporate as many as 40 Themes. Among its potential topics, we envision:</p>
-<p>*Part XVI: More Clustering Techniques</p>
-<p>*Part XVII: Metaclustering, Validation tests, Assumptions of the Models</p>
-<p>*Part XVIII: Structural Topic Models (STM)</p>
-<p>*Part XIX: Other Tools for Analyzing Relationships between Themes</p>
-<p>*Part XX: Applications of Theme-Pair Findings to Centrality and Complexity</p>
+<p>A fourth series of posts in the Summer of 2022 may incorporate as many as 40 Themes. Among its potential topics, we envision:</p>
+<ul>
+<li><p>Part XVI: More Clustering Techniques
+<!-- Rainette2 double clustering --></p></li>
+<li><p>Part XVII: Metaclustering, Validation Tests, Assumptions of the Models</p></li>
+<li><p>Part XVIII: Structural Topic Models (STM)</p></li>
+<li><p>Part XIX: Other Tools for Analyzing Relationships between Themes</p></li>
+<li><p>Part XX: Assessment Closest Theme-Pair Findings to Centrality and Complexity</p></li>
+</ul>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>A measure of association based on chi-square. The value ranges between 0 and 1, with 0 indicating no association between the text (row) and term (column) variables and values close to 1 indicating a high degree of association between the variables.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
 </div>

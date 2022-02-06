@@ -5,8 +5,7 @@ date: '2022-02-04'
 output: pdf_document
 categories: Analysis
 tags: Agglomerative Hierarchical Clustering
-draft: yes
-slug: []
+draft: 
 ---
 
 ```{r packages, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
