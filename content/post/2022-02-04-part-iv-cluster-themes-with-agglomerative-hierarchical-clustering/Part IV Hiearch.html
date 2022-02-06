@@ -5,13 +5,16 @@ date: '2022-02-04'
 categories:
   - Analysis
 tags:
-  - Agglomerative Hierarchical Clustering 
-output: pdf_document
+  - Agglomerative Hierarchical Clustering
+output: 
+  html_document:
+    df_print: paged
 draft: no
 ---
 
 
 
+<!-- 11:05:55 AM: ERROR 2022/02/06 16:05:55 render of "home" failed: "/opt/build/repo/themes/hugo-theme-texify/layouts/_default/index.html:28:26": execute of template failed: template: _default/index.html:28:26: executing "_default/index.html" at <.Params.tags>: range can't iterate over Agglomerative Hierarchical Clustering -->
 <!-- 10:13:24 AM: Build failed due to a user error: Build script returned non-zero exit code: 2 -->
 <p><a href="part1">Part I</a> of this working series introduced Themes, and <a href="part%20II">Part II</a> introduced certain metrics pertaining to those Themes. <a href="part%20III">Part III</a> started the analysis of Theme centrality and complexity by an unsupervised clustering algorithm, k-means clustering. It requires the analyst to specify the number of clusters, and figuring out the optimal number of clusters can often be hard. Part III side-stepped that challenge because the k-means algorithm produces data that allows you to calculate the Euclidean distance between closest, most-similar Themes. In this post we introduce a second algorithm for the same task. <strong>Agglomerative hierarchical clustering</strong> is an alternative unsupervised approach; it builds a hierarchy of closest Themes and in doing so creates data that reflects closeness of Themes. That orderly construction of clustering helps identify most-similar Themes, referred to as “closest pairs.”</p>
 <p>The hierarchical algorithm starts by putting each Theme in its own unit. It then identifies the closest other Theme by the Euclidean distance between them in a <strong>hyperspace</strong> of 20 dimensions (each Theme is point in that space as determined by the vector of its metrics). At first, a single Theme is clumped with another single Theme, if they are closest to each other, each clumping thereby creating a two-Theme unit as a combined point in hyperspace. Step-by-step the algorithm agglomerates each remaining Theme (or unit) to its closest Theme or unit (based on the chosen <strong>link method</strong>, where we used average linkage); if an already-agglomerated cluster is closest, it clusters the nearest Theme with that unit. Eventually, all the Themes end up in a single cluster.</p>

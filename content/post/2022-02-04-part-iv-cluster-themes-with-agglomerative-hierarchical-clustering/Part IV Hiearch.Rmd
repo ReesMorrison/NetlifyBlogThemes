@@ -6,11 +6,13 @@ categories:
   - Analysis
 tags:
   - Agglomerative Hierarchical Clustering
-output: pdf_document
+output: 
   html_document:
     df_print: paged
 draft: no
 ---
+
+<!-- 11:05:55 AM: ERROR 2022/02/06 16:05:55 render of "home" failed: "/opt/build/repo/themes/hugo-theme-texify/layouts/_default/index.html:28:26": execute of template failed: template: _default/index.html:28:26: executing "_default/index.html" at <.Params.tags>: range can't iterate over Agglomerative Hierarchical Clustering -->
 
 <!-- 10:13:24 AM: Build failed due to a user error: Build script returned non-zero exit code: 2 -->
 

@@ -7,7 +7,6 @@ categories:
 tags:
   - Reinert Textual Data Clustering
 output:
-  pdf_document: default
   html_document:
     df_print: paged
 draft: no
