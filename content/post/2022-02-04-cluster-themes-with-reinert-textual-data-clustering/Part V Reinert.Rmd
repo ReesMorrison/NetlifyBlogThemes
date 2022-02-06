@@ -1,0 +1,203 @@
+---
+title: Part V - Find Similar Themes with Reinert Textual Data Clustering
+author: Rees W. Morrison
+date: '2022-02-04'
+categories:
+  - Analysis
+tags:
+  - Reinert Textual Data Clustering
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+draft: yes
+---
+
+```{r packages, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)  
+library(ggthemes) 
+library(ggrepel) 
+library(readxl) 
+library(GGally)
+library(tidytext) 
+library(blogdown)
+library(rainette)  # had problem installing faststack
+library(cluster) # clustering algorithms and gap statistic
+library(factoextra) # distance matrix and plot k-means clusters
+library(kableExtra)
+
+```
+
+```{r means1, eval=TRUE, warning=FALSE, echo=FALSE}
+
+comboData <- read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/comboData.xlsx")
+
+# convert Theme to factor - why?  to try to add labels to corr matrix
+comboData$Theme <- as.factor(comboData$Theme)
+
+comboDataMtx <- as.matrix(comboData)  # all numeric, row names 1 to 20
+
+```
+
+```{r normalize1}
+comboScaled <- scale(x = comboData[ , 2:20], center = TRUE, scale = TRUE)
+
+comboScaledDF <- as.data.frame(scale(x = comboData[ , 2:20]))
+comboScaledDF$Metric <- comboData[  , 1]
+
+```
+
+Concluding this fifth post in a series of notes on Theme centrality and complexity, I turn to the Reinert textual clustering method.  To prepare for its analysis, I removed portions of blog posts that are similar in all posts, as well as R's blogdown headers and material I didn't write, and then combined all the posts for a Theme into a single "text."  Accordingly, 24 texts.  Then I used R's rainette package to perform Reinert textual clustering of those 24 texts.  
+
+Here are some characteristics of the method:
+
+* it uses a **singular value decomposition** (SVD) of the **document-term matrix** (DTM) created from the corpus (collection of all 24 texts) [more on those two methods in later posts];  
+* it assigns each text (Theme) to only one cluster; and    
+* it is better suited for small “homogeneous” documents.  
+
+The Reinert algorithm carries out <span style="text-decoration: underline">divisive</span> hierarchical clustering (as distinct from Part IV's agglomerative clustering) with the goal to maximise the inter-cluster **Chi-squared distance** between clustered texts.  The algorithm works its magic on the DTM, which only stores 1's or 0's (to show the presence or absence of terms in a text), not the frequencies of terms. 
+
+The algorithm splits the DTM into two clusters by maximizing the Chi-squared distance between them. To do so, it carries out the following steps:
+
+* first, Themes are ordered according to their coordinates on the first axis of the **correspondence analysis** (CA) of the binary TDM (see [DisplayR](https://www.displayr.com/how-correspondence-analysis-works/) for a clear explanation of CA);  
+* next, Themes are grouped into two clusters based on the CA order, and the grouping with the maximum inter-cluster **Chi-squared distance** is kept;  
+* based on this grouping, each Theme is assigned in turn to the other cluster. If the new assignment gives a higher inter-cluster Chi-squared value, the Theme remains in the other cluster. The operation is repeated until no new assignment gives a higher Chi-squared value;  
+* from the resulting clusters' binary matrices, terms are selected based on their frequency and on a contingency coefficient minimum value^[A measure of association based on chi-square. The value ranges between 0 and 1, with 0 indicating no association between the text (row) and term (column) variables and values close to 1 indicating a high degree of association between the variables.]; and  
+* the largest of the two resulting clusters is then split with the same algorithm (hence, this is divisive hierarchical clustering) until it reaches the chosen number of clusters or a maximum of nine.
+
+According to the calculations of the rainette package, the strongest associations (the highest Chi-squared values) are between Night and Sleep (almost 1100, in Cluster 4). But any conclusions drawn from this exercise are unreliable because more text cleaning should precede the clustering. The next time I deploy the Reinert text clustering method I will standardize (lemmatize) the Theme variants, such as converting "dancing" to "dance" and adjust plurals, such as "soldiers" to "soldier."
+
+The plot below displays the maximum of nine clusters that the algorithm can handle.  The length of the bars visible behind the 10 terms that most represent a cluster correspond to the Chi-squared value, sorted in descending order.  The "n = " row tells how many Themes comprise that cluster; for example, four Themes make up "Cl. 2".  The small dendrogram atop the cluster table visualizes the divisive, top-down methodology.
+
+```{r rainette, message=FALSE, echo=FALSE, warnings=FALSE}
+# read tidytext file, postWords, created in Themes/BlogNLPWriting.Rmd, with results saved in Themes as .xlsx.  I created PostCombo and then did tidytext to break out all the words
+
+postWords <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/postWords.xlsx")
+
+rainDFM <- postWords %>% group_by(Theme, word) %>% summarise(count = n()) %>% 
+  tidytext::cast_dfm(., document = Theme, term = word, value = count)
+
+library(rainette)
+# rainClus <- rainette(rainDFM, k = 5, min_segment_size = 5, doc_id = "Theme")
+rainClus <- rainette::rainette(rainDFM, k = 18, doc_id = "Theme")
+
+rainCut <- cutree_rainette(hres = rainClus, k = 9)
+
+library(quanteda)
+library(quanteda.textstats)
+rainStats <- rainette_stats(groups = rainCut, dtm = rainDFM, measure = c("chi2"), n_terms = 10, show_negative = TRUE, max_p = 0.05)
+
+rainDF <- data.frame(C1 = rainStats[[1]][1:2], C2 = rainStats[[2]][1:2], C3 = rainStats[[3]][1:2], C4 = rainStats[[4]][1:2], C5 = rainStats[[5]][1:2], C6 = rainStats[[6]][1:2], C7 = rainStats[[7]][1:2], C8 = rainStats[[8]][1:2], C9 = rainStats[[9]][1:2])
+
+colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.feature")
+colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.chi2")
+
+rainette_plot(res = rainClus, dtm = rainDFM, k = 9, type = "bar", n_terms = 10, free_scales = TRUE, measure = "chi2", show_negative = "FALSE", text_size = 8) 
+  # labs(title = "Rainert Text Clustering")
+
+```
+
+In a different visualization of the same clustering determination, the next plot presents with a "wordcloud" style, where the size of the word matches its Chi-squared value relative to the cluster.  It shows only 8 key terms, for legibility.
+
+```{r rainettePlot2}
+rainCloud <- rainette_plot(res = rainClus, dtm = rainDFM, k = 9, type = "cloud", n_terms = 8, free_scales = FALSE, measure = "chi2", text_size = 7) 
+
+rainCloud
+```
+
+```{r gtablecoerce}
+library("ggplotify")
+rainCloud.gg <- as.ggplot(rainCloud) + 
+  labs(x = "New", y = NULL, title = "Reinert Text Clustering")
+
+rainCloud.gg
+
+```
+
+
+
+### Combine the pairings from the three clustering methods
+
+Once the closest pairs were obtained by k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe. The first inquiry was whether any Theme is closest to any other Theme more than once (or even by all three algorithms).  Each letter pair in column "Two" of the table below tells us that two algorithms found that pair of Themes to be closest, e.g., Birds and Chance (both A), Bridges and Rivers (both B).  The "One" column tells how many other Themes were also identified for that Theme as closest.  So, for example, Dancing paired twice with Wind (both marked with D in column "Two") and with four other Themes -- the "4" in column "One."  The Themes in column "Single Closest Themes" had no pair, only single instances of closest Themes.  Thus, Money was "closest" to seven Themes, according to column "Single."
+
+Bear in mind that my method of picking closest Themes from the agglomerative hiearchical clustering (Part IV)[IV] yielded multiple "closest" Themes as I tied each agglomerated Theme to each of the Themes already in a unit (if that were the case).  In the series of posts to come, I will refine my method and thereby reduce the number of pairings. \
+
+```{r cluscombo, message=FALSE, echo=FALSE, warnings=FALSE}
+
+##  COMBINE THE CLUSTER RESULTS OF CLOSEST THEMES FROM KMEANS, HIERARCH AND RAINETTE
+
+ThemeLookup <- read_xlsx("C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Metrics of Themes.xlsx", sheet = "NoSThemes", range = "B1:D25")
+
+RainLookup <- data.frame(ClusterGroup = rainClus$group) %>% 
+  mutate(Alpha = seq(1:length(ClusterGroup))) %>% 
+  left_join(., ThemeLookup[  , c(1, 3)])
+
+RainClosest <- RainLookup %>% group_by(ClusterGroup) %>% summarise(closeThemes = paste0(Theme, collapse = "&")) 
+
+ClusCombo <- as.data.frame(str_split(string = RainClosest$closeThemes, pattern = "&", simplify = TRUE))
+colnames(ClusCombo) <- c("Theme1", "Theme2", "Theme3", "Theme4")
+
+ClusCombo$Method <- "Rainette"
+
+```  
+
+
+```{r combineClosest}
+ClusTable <- read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/ClusCount.xlsx")
+
+ClusTable <- ClusTable[1:13, 10:14]
+colnames(ClusTable) <- c("Two Closest Themes", "Two", "One", "Single Closest Themes", "Single")
+
+options(knitr.kable.NA = '') # remove NA in cells
+kableExtra::kable(ClusTable, caption = 'Close Themes', align = "l",) %>% 
+  kable_styling(latex_options = "HOLD_position")
+```
+
+
+## Upcoming Post Series
+
+Once the blog Themes from Art reaches 30 Themes (which it did in early February 2022), incorporates new metrics (i.e., newspaper references and Bing searches), drops the most dubious metrics (college majors and readability), reconsiders the rank metrics (OED Frequency Bands and Top 1000 Words), and **lemmatizes** Theme terms (standardizes word forms), the second series of five posts is likely to address:
+
+* Part VI: Further Observations on Themes and Metrics
+
+* Part VII: Find Similar Themes with Cosines
+
+* Part VIII: Find Similar Themes with Latent Dirichelet Allocation (LDA)
+
+* Part IX: Find Similar Themes with Embeddings and Transformations
+
+* Part X: Including Results of Above Algorithms into Closest Theme-Pairs Analysis
+
+&nbsp;
+
+By the end of May 2022, a third series of five analytic posts may encompass 36 Themes, rely on a modified set of metrics (e.g., movie synopses, figurative expressions, improved consistency with singular and plural forms of the Themes), and address the following topics:
+
+* Part XI: Critique of Quantifying Centrality and Complexity in Themes
+
+* Part XII: Find Similar Themes with Principal Components Analysis (PCA)
+
+* Part XIII: Find Similar Themes with Latent Semantic Analysis (LSA) 
+<!-- or Uniform Manifold Approximation of Proportion (UMAP) -->
+
+* Part XIV: Find Similar Themes with Correspondence Analysis (CA)
+
+* Part XV: Further Refinement of Closest Theme Pairs Analysis
+
+&nbsp;
+
+A fourth series of posts in the Summer of 2022 may incorporate as many as 40 Themes.  Among its potential topics, we envision:
+
+* Part XVI: More Clustering Techniques
+<!-- Rainette2 double clustering -->
+
+* Part XVII: Metaclustering, Validation Tests, Assumptions of the Models
+
+* Part XVIII: Structural Topic Models (STM)
+
+* Part XIX: Other Tools for Analyzing Relationships between Themes
+
+* Part XX: Assessment Closest Theme-Pair Findings to Centrality and Complexity
+

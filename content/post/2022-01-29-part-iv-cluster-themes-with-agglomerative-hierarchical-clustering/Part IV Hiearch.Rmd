@@ -1,17 +1,15 @@
 ---
-title: Part IV -- Cluster Themes with Agglomerative Hierarchical Clustering
-author: Rees Morrison
-date: '2022-01-29'
-slug: []
-categories:
-  - Analysis
-tags: ["Agglomerative Hierarchical Clustering"]
+title: "Part IV -- Find Similar Themes with Agglomerative Hierarchical Clustering"
+author: "Rees W. Morrison"
+date: '2022-02-04'
+output: pdf_document
+categories: Analysis
+tags: Agglomerative Hierarchical Clustering
 draft: yes
+slug: []
 ---
 
-
 ```{r packages, echo=F, warning=FALSE, message=FALSE, include=FALSE, results='hide'}
-
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 library(tidyverse)  
@@ -20,13 +18,10 @@ library(ggrepel)
 library(readxl) 
 library(GGally)
 library(tidytext) 
-
 library(blogdown)
- 
 library(rainette)  # had problem installing faststack
 library(cluster) # clustering algorithms and gap statistic
 library(factoextra) # distance matrix and plot k-means clusters
-
 library(kableExtra)
 
 ```
@@ -52,21 +47,19 @@ comboScaledDF$Metric <- comboData[  , 1]
 
 ```
 
+[Part I](part1) of this working series introduced Themes, and [Part II](part II) introduced certain metrics pertaining to those Themes. [Part III](part III) started the analysis of Theme centrality and complexity by an unsupervised clustering algorithm, k-means clustering.  It requires the analyst to specify the number of clusters, and figuring out the optimal number of clusters can often be hard. Part III side-stepped that challenge because the k-means algorithm produces data that allows you to calculate the Euclidean distance between closest, most-similar Themes. In this post we introduce a second algorithm for the same task. **Agglomerative hierarchical clustering** is an alternative unsupervised approach; it builds a hierarchy of closest Themes and in doing so creates data that reflects closeness of Themes.  That orderly construction of clustering helps identify most-similar Themes, referred to as "closest pairs."
 
-[Part I](part1) of this working series introduced Themes, and [Part II](part II) introduced the metrics for those Themes. [Part III](part III) started the analysis of centrality and complexity by an unsupervised clustering algorithm, k-means clustering.  It requires the analyst to specify the number of clusters, and figuring out the optimal number of clusters can often be hard. Part III side-stepped that challenge because the k-means algorithm was asked to find 12 clusters, ideally therefore identifying the closest, most-similar Themes. In this post we introduce a second algorithm for the same task. **Agglomerative hierarchical clustering** is an alternative unsupervised approach; it builds a hierarchy of closest Themes and doesn’t require a pre-specified number of clusters.  That orderly construction of clustering helps identify most-similar Themes, referred to as "closest pairs."
+The hierarchical algorithm starts by putting each Theme in its own unit.  It then identifies the closest other Theme by the Euclidean distance between them in a **hyperspace** of 20 dimensions (each Theme is point in that space as determined by the vector of its metrics). At first, a single Theme is clumped with another single Theme, if they are closest to each other, each clumping thereby creating a two-Theme unit as a combined point in hyperspace.  Step-by-step the algorithm agglomerates each remaining Theme (or unit) to its closest Theme or unit (based on the chosen **link method**, where we used average linkage); if an already-agglomerated cluster is closest, it clusters the nearest Theme with that unit.  Eventually, all the Themes end up in a single cluster.  
 
-The algorithm starts by putting each Theme in its own unit.  It then identifies the closest other Theme to a unit by the Euclidean distance between them in the hyperspace of metrics dimensions (each Theme is a vector in that 20-dimensional space). At first, a single Theme is clumped with another single Theme, each clumping thereby creating a two-Theme unit.  Step-by-step the algorithm agglomerates each remaining Theme (or unit) to its closest Theme or unit. The algorithm keeps combining Themes with their closest Themes or units (based on the chosen **link method**, e.g., average linkage); if an already-agglomerated cluster is closest, it clusters the nearest Theme with that unit.  Eventually, all the Themes rest in a single cluster.  
+Once the clustering ends, the results are usually visualized by a **dendrogram**.  On the dendrogram, you can tell that two Themes are most similar because they are close on the x axis and the height of the link that joins them together is short.  That height on the y-axis is the value of the distance metric between the two Theme points in hyperspace.  
 
-Once the clustering ends, the results are usually visualized by a **dendrogram**.  On the dendrogram, you can tell that two Themes are most similar because the height of the link that joins them together is short.  That height on the y-axis is the value of the distance metric between the two Themes.  so, Alcohol and Silence (second and third from the left on the x axis) are combined to form the first unit.  The next-to-last agglomeration puts Sports with Work and Time (far right).
-
+In a dendrogram, which subtree should go on the left and which on the right follows the rule that the tighter cluster is on the left (the last, i.e., most recent, merge of the left subtree is at a lower value than the last merge of the right subtree). Merges involving two Themes place them in order by their observation sequence number, which in this instance is the order in which the Themes were first posted on Themes from Art.
 
 ```{r hierarchicalPlot2, warning=FALSE, echo=FALSE, message=FALSE}
 # Finding distance matrix; what is p = power of the Minkowski distance
 distance_mat <- dist(comboData, method = 'euclidean')
 
 # labels and numbering are by observation sequence order
-# c("alcohol", "chance", "beauty", "silence", "work", "decisions", "destruction", "time", "death", "trains", "church", "birds", "friends", "sailing", "sports","bridges",  "soldiers", "wind","clothes",  "dancing", "sleep", "rivers", "money", "night")
-
 
 set.seed(240)  # Set seed for reproducibility   ALSO COULD USE Agnes package
 Hierar_cl <- hclust(distance_mat, method = "average")  # average = centroid of the cluster
@@ -75,8 +68,6 @@ Hierar_cl <- hclust(distance_mat, method = "average")  # average = centroid of t
 Hierar_cl$labels <- c("alcohol", "chance", "beauty", "silence", "work", "decisions", "destruction", "time", "death", "trains", "church", "birds", "friends", "sailing", "sports","bridges",  "soldiers", "wind","clothes",  "dancing", "sleep", "rivers", "money", "night")
 
 # Must use "seed" to stay consistent.  Interpretation: plot(Hierar_cl) without labels numbers the leafs. The merge element of the list [1] shows from the bottom up which mergers happened, in what order.  
-
-# In hierarchical cluster displays, which subtree should go on the left and which on the right. The algorithm used in hclust is to order the subtree so that the tighter cluster is on the left (the last, i.e., most recent, merge of the left subtree is at a lower value than the last merge of the right subtree). merges involving two observations place them in order by their observation sequence number.  OBSSEQ #!!!
 
 # create a data frame of merger order, obs, height; get abs value of obs to left_join
 HierDF <- data.frame(Height = Hierar_cl[2], ObsSeq = Hierar_cl[1])
@@ -95,17 +86,17 @@ HierDF <- HierDF[  , c(1, 2, 3, 6, 7, 8, 4, 5)]  # to make it easier to read bel
 # writexl::write_xlsx(x = HierDF, path = "C:/Users/Rees Morrison/Documents/R/Projects/CLIENTS/Themes/Analytics/HierDF.xlsx")
 
 # Plotting dendrogram
-plot(Hierar_cl, label=comboData$Theme, hang = -1, xlab = NULL, ylab = NULL)  # how can I trust the labels? did by hand above
+# plot(Hierar_cl, label=comboData$Theme, hang = -1, xlab = NULL, ylab = NULL)  # how can I trust the labels? did by hand above
 
 ```
 
-Let's use R's ggdendro package to plot the same data.  You can see that Chance and Beauty are closest, so they cluster very low on the Y axis, and then Alcohol agglomerates into them.\
-
+Let's use R's ggdendro package to visualize the hierarchical clustering results.  So, for example, Alcohol and Silence (second and third from the left on the horizontal) are combined to form the first unit.  The next-to-last agglomeration, because the vertical distance on the left axis is so large, joins Sports with Work and Time (far right).  You can see that Death and Churches are very close, so they cluster very low on the Y axis, and then Trains agglomerates into them.\
 
 ```{r hierarchicalPlotgg}
 library(ggdendro)
 
-ggdendrogram(Hierar_cl, rotate = FALSE, size = 2, labels = TRUE)
+ggdendrogram(Hierar_cl, rotate = FALSE, size = 2, labels = TRUE) + 
+  labs(x = "Distance", title = "         Cluster Dendrogram of Themes")
 
 #convert cluster object to use with ggplot
 dendr <- ggdendro::dendro_data(Hierar_cl, type="rectangle") 
@@ -122,6 +113,6 @@ DendPlot <- ggplot() +
   labs(x = NULL, y = NULL, title = "Dendrogram of Themes", subtitle = "Hierarchical agglomerative clustering of metrics") +
   theme_tufte(ticks = FALSE)
 
-DendPlot
+# DendPlot
 
 ```
