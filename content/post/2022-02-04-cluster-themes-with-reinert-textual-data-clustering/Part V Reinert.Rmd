@@ -116,8 +116,6 @@ rainCloud.gg
 
 ```
 
-
-
 ### Combine the pairings from the three clustering methods
 
 Once the closest pairs were obtained by k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe. The first inquiry was whether any Theme is closest to any other Theme more than once (or even by all three algorithms).  Each letter pair in column "Two" of the table below tells us that two algorithms found that pair of Themes to be closest, e.g., Birds and Chance (both A), Bridges and Rivers (both B).  The "One" column tells how many other Themes were also identified for that Theme as closest.  So, for example, Dancing paired twice with Wind (both marked with D in column "Two") and with four other Themes -- the "4" in column "One."  The Themes in column "Single Closest Themes" had no pair, only single instances of closest Themes.  Thus, Money was "closest" to seven Themes, according to column "Single."

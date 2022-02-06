@@ -35,7 +35,7 @@ library(kableExtra)
 
 ```
 
-[Part I](partI) of this series of five posts (working notes for myself in fact) provides an overview of the Themes analyzed in this introductory investigation of centrality and complexity.  This second post lays out the metrics that underlie the analysis. I present all 20 of them, with the brief introduction of each metric covering similar topics and order: first, why I gathered the metric, next the source of the metric, and then any calculations that were carried out.  Finally, a two-by-two layout of plots shows the results for the four preceding metrics, each of whom loosely shares a common attribute. 
+[Part I](https://themesfromart.com/post/2022-02-04-part-1-concepts-quantitatively-compared-and-explored/part-i-themes/) of this series of five posts (working notes for myself in fact) provides an overview of the Themes analyzed in this introductory investigation of centrality and complexity.  This second post lays out the metrics that underlie the analysis. I present all 20 of them, with the brief introduction of each metric covering similar topics and order: first, why I gathered the metric, next the source of the metric, and then any calculations that were carried out.  Finally, a two-by-two layout of plots shows the results for the four preceding metrics, each of whom loosely shares a common attribute. 
 
 <!--more-->
 

@@ -33,7 +33,7 @@ library(kableExtra)
 
 ```
 
-The [first post in this series](first) of five explains the source of the 24 Themes written about on the blog [Themes from Art](https://themesfromart.com/) and used in this series. The [second post](second) describes the set of 20 metrics collected for each of those Themes.  This work-in-process post starts with the Themes and metrics, and seeks to find most-similar Themes by software methodology called **k-means clustering**.
+The [first post in this series](https://themesfromart.com/post/2022-02-04-part-1-concepts-quantitatively-compared-and-explored/part-i-themes/) of five explains the source of the 24 Themes written about on the blog [Themes from Art](https://themesfromart.com/) and used in this series. The [second post](https://themesfromart.com/post/2022-01-26-part-ii-metrics-that-suggest-centrality-or-complexity-of-a-concept/partiimetrics/) describes the set of 20 metrics collected for each of those Themes.  This work-in-process post starts with the Themes and metrics, and seeks to find most-similar Themes by software methodology called **k-means clustering**.
 
 <!--more-->
 
