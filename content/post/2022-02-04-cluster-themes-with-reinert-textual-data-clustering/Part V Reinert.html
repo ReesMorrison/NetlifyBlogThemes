@@ -38,28 +38,15 @@ draft: no
 </li>
 <li>the largest of the two resulting clusters is then split with the same algorithm (hence, this is divisive hierarchical clustering) until it reaches the chosen number of clusters or a maximum of nine.</li>
 </ul>
-<p>According to the calculations of the rainette package, the strongest associations (the highest Chi-squared values) are between Night and Sleep (almost 1100, in Cluster 4). But any conclusions drawn from this exercise are unreliable because more text cleaning should precede the clustering. The next time I deploy the Reinert text clustering method I will standardize (lemmatize) the Theme variants, such as converting “dancing” to “dance” and adjust plurals, such as “soldiers” to “soldier.”</p>
-<p>The plot below displays the maximum of nine clusters that the algorithm can handle. The length of the bars visible behind the 10 terms that most represent a cluster correspond to the Chi-squared value, sorted in descending order. The “n =” row tells how many Themes comprise that cluster; for example, four Themes make up “Cl. 2”. The small dendrogram atop the cluster table visualizes the divisive, top-down methodology.</p>
+<p>According to the calculations of the rainette package, the strongest associations (the highest Chi-squared values) are between Night and Sleep (almost 1,100, in Cluster 4). But any conclusions drawn from this exercise are unreliable because more text cleaning should precede the clustering. The next time I deploy the Reinert text clustering method I will standardize (lemmatize) the Theme variants, such as converting “dancing” to “dance” and adjust plurals, such as “soldiers” to “soldier.”</p>
+<p>The plot below displays nine clusters, a number that I selected mostly for readability of the plots. The length of the bars visible behind the 10 terms that most represent a cluster correspond to the Chi-squared value, sorted in descending order. The “n =” row tells how many Themes comprise that cluster; for example, four Themes make up “Cluster 2”. The small dendrogram atop the cluster table visualizes the divisive, top-down methodology.</p>
 <p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainette-1.png" width="672" /></p>
-<p>In a different visualization of the same clustering determination, the next plot presents with a “wordcloud” style, where the size of the word matches its Chi-squared value relative to the cluster. It shows only 8 key terms, for legibility.</p>
+<p>In a different visualization of the same clustering determination, the next plot presents a “wordcloud” style, where the size of the word matches its Chi-squared value relative to the cluster. It shows only eight key terms, for legibility.</p>
 <p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/rainettePlot2-1.png" width="672" /></p>
-<pre><code>## TableGrob (3 x 9) &quot;arrange&quot;: 10 grobs
-##     z     cells    name           grob
-## 1   1 (1-1,1-9) arrange gtable[layout]
-## 2   2 (2-3,1-1) arrange gtable[layout]
-## 3   3 (2-3,2-2) arrange gtable[layout]
-## 4   4 (2-3,3-3) arrange gtable[layout]
-## 5   5 (2-3,4-4) arrange gtable[layout]
-## 6   6 (2-3,5-5) arrange gtable[layout]
-## 7   7 (2-3,6-6) arrange gtable[layout]
-## 8   8 (2-3,7-7) arrange gtable[layout]
-## 9   9 (2-3,8-8) arrange gtable[layout]
-## 10 10 (2-3,9-9) arrange gtable[layout]</code></pre>
-<p><img src="/post/2022-02-04-cluster-themes-with-reinert-textual-data-clustering/Part%20V%20Reinert_files/figure-html/gtablecoerce-1.png" width="672" /></p>
 <div id="combine-the-pairings-from-the-three-clustering-methods" class="section level3">
 <h3>Combine the pairings from the three clustering methods</h3>
 <p>Once the closest pairs were obtained by k-means clustering, agglomerative hierarchical clustering, and Reinert text clustering, I combined them into a dataframe. The first inquiry was whether any Theme is closest to any other Theme more than once (or even by all three algorithms). Each letter pair in column “Two” of the table below tells us that two algorithms found that pair of Themes to be closest, e.g., Birds and Chance (both A), Bridges and Rivers (both B). The “One” column tells how many other Themes were also identified for that Theme as closest. So, for example, Dancing paired twice with Wind (both marked with D in column “Two”) and with four other Themes – the “4” in column “One.” The Themes in column “Single Closest Themes” had no pair, only single instances of closest Themes. Thus, Money was “closest” to seven Themes, according to column “Single.”</p>
-<p>Bear in mind that my method of picking closest Themes from the agglomerative hiearchical clustering (Part IV)[IV] yielded multiple “closest” Themes as I tied each agglomerated Theme to each of the Themes already in a unit (if that were the case). In the series of posts to come, I will refine my method and thereby reduce the number of pairings.<br />
+<p>Bear in mind that my method of picking closest Themes from the agglomerative hiearchical clustering <a href="https://themesfromart.com/post/2022-02-04-part-iv-cluster-themes-with-agglomerative-hierarchical-clustering/part-iv-hiearch/">Part IV</a> yielded multiple “closest” Themes as I tied each agglomerated Theme to each of the Themes already in a unit (if that were the case). In the series of posts to come, I will refine my method and thereby reduce the number of pairings.<br />
 </p>
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -315,7 +302,6 @@ G
 <li><p>Part IX: Find Similar Themes with Embeddings and Transformations</p></li>
 <li><p>Part X: Including Results of Above Algorithms into Closest Theme-Pairs Analysis</p></li>
 </ul>
-<p> </p>
 <p>By the end of May 2022, a third series of five analytic posts may encompass 36 Themes, rely on a modified set of metrics (e.g., movie synopses, figurative expressions, improved consistency with singular and plural forms of the Themes), and address the following topics:</p>
 <ul>
 <li><p>Part XI: Critique of Quantifying Centrality and Complexity in Themes</p></li>
@@ -325,7 +311,6 @@ G
 <li><p>Part XIV: Find Similar Themes with Correspondence Analysis (CA)</p></li>
 <li><p>Part XV: Further Refinement of Closest Theme Pairs Analysis</p></li>
 </ul>
-<p> </p>
 <p>A fourth series of posts in the Summer of 2022 may incorporate as many as 40 Themes. Among its potential topics, we envision:</p>
 <ul>
 <li><p>Part XVI: More Clustering Techniques

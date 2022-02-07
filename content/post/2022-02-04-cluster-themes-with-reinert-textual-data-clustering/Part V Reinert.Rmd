@@ -79,7 +79,7 @@ postWords <- readxl::read_xlsx(path = "C:/Users/Rees Morrison/Documents/R/Projec
 rainDFM <- postWords %>% group_by(Theme, word) %>% summarise(count = n()) %>% 
   tidytext::cast_dfm(., document = Theme, term = word, value = count)
 
-# install.packages("rainette", repos = "https://juba.r-universe.dev")  # Julien Barnier email 2/6
+install.packages("rainette", repos = "https://juba.r-universe.dev")  # Julien Barnier email 2/6
 
 library(rainette)
 library(quanteda)
@@ -95,10 +95,10 @@ rainClus <- rainette(rainDFM, k = 9)
 
 rainette_plot(res = rainClus, dtm = rainDFM, k = 9, type = "bar", n_terms = 10, free_scales = TRUE, measure = "chi2", show_negative = "FALSE", text_size = 8, show_na_title = FALSE, cluster_label = "Cluster", keyness_plot_xlab = "") 
 
-rainDF <- data.frame(C1 = rainStats[[1]][1:2], C2 = rainStats[[2]][1:2], C3 = rainStats[[3]][1:2], C4 = rainStats[[4]][1:2], C5 = rainStats[[5]][1:2], C6 = rainStats[[6]][1:2], C7 = rainStats[[7]][1:2], C8 = rainStats[[8]][1:2], C9 = rainStats[[9]][1:2])
-
-colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.feature")
-colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.chi2")
+# rainDF <- data.frame(C1 = rainStats[[1]][1:2], C2 = rainStats[[2]][1:2], C3 = rainStats[[3]][1:2], C4 = rainStats[[4]][1:2], C5 = rainStats[[5]][1:2], C6 = rainStats[[6]][1:2], C7 = rainStats[[7]][1:2], C8 = rainStats[[8]][1:2], C9 = rainStats[[9]][1:2])
+# 
+# colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.feature")
+# colnames(rainDF) <- str_remove_all(string = colnames(rainDF), pattern = "\\.chi2")
 
 ```
 
@@ -161,7 +161,6 @@ Once the blog Themes from Art reaches 30 Themes (which it did in early February 
 
 * Part X: Including Results of Above Algorithms into Closest Theme-Pairs Analysis
 
-&nbsp;
 
 By the end of May 2022, a third series of five analytic posts may encompass 36 Themes, rely on a modified set of metrics (e.g., movie synopses, figurative expressions, improved consistency with singular and plural forms of the Themes), and address the following topics:
 
@@ -176,7 +175,6 @@ By the end of May 2022, a third series of five analytic posts may encompass 36 T
 
 * Part XV: Further Refinement of Closest Theme Pairs Analysis
 
-&nbsp;
 
 A fourth series of posts in the Summer of 2022 may incorporate as many as 40 Themes.  Among its potential topics, we envision:
 
