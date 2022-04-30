@@ -29,7 +29,7 @@ We also die at horrific rates from illicit drugs.  Indiscriminate prescriptions 
 **Expressions**: The 47 idiomatic sayings presented alphabetically below refer to destruction in a figurative sense. I exclude direct uses of the theme word and proverbs. The idiomatic expressions come from my own knowledge of English and various online sources:
 [7esl](https://7esl.com/drinking-idioms/), [befluentnyc](https://befluentnyc.tumblr.com/post/91265393607/some-idioms-and-expressions-related-to-drinking), [Cambridge](Https://dictionary.cambridge.org/topics/drink/drinking-alcohol/), [YourDictionary](https://grammar.yourdictionary.com/slang/popular-slang-getting-drunk-today-history), [Free Dictionary](https://idioms.thefreedictionary.com/), [Reverse Dictionary](https://reversedictionary.org/wordsfor/alcohol), [ABCEnglish](https://www.abcenglish.nl/english-phrases-when-drinking-alcohol/), [Phrase-Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/related/drink.html), [PowerThesaurus](https://www.powerthesaurus.org/drink_alcohol/synonyms), [Drinks Business](https://www.thedrinksbusiness.com/2015/01/top-10-drinking-phrases-and-their-origins/), [Twining English Centres](https://www.twinenglishcentres.com/blog/14-drink-idioms), [Using English](https://www.usingenglish.com/reference/idioms/cat/7.html), [Literacy at Work](https://www.literacyatwork.net/), and [Your Dictionary](https://www.yourdictionary.com/hangover). 
 
-# Here are the sayings.
+<!--Here are the sayings.-->
 
 acceptable damage (reasonable destruction or casualties due to war or military attack)    
 an umbrella policy (additional protection in case of a loss or damage)    

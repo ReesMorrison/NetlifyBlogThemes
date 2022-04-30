@@ -38,7 +38,6 @@ poor as church mice (to be very poor or having little or no money)
 preaching to the choir (trying to convince someone who is already of the same opinion)  
 see you in church (see you again soon or at the normal place or time)  
 separation of church and state (keeping government and religion separate from each other)  
-separation of church and state (the act or state of keeping government and religion separate from each other)  
 sweating like a whore in church (someone is very nervous)  
 the temple of immensity (the universe; the heavens or the sky)  
 
