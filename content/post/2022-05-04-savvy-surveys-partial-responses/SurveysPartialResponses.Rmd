@@ -37,4 +37,4 @@ Assuming you have asked for the email address of the respondent, you might write
 
 Let’s close with a deeper question.  Even if a person has not provided answers to a majority of the questions, those that they did answer may well be important to them, and why shouldn’t you include their answers?  I feel that this is a professionally and methodologically sound decision.  Unless **questions interlock** with each other, meaning if you can treat them on a standalone basis, then even largely incomplete questionnaires still bring value from those questions that have answers.  Also, when you conduct your **post-mortem** on the survey project, you should spend time on any questions that had a high percentage of empty responses to figure out why that might have happened.
 
-# Book: 5 Type Response Data from Survey Posts Plan.xlsx
+<!-- Book: 5 Type Response Data from Survey Posts Plan.xlsx -->

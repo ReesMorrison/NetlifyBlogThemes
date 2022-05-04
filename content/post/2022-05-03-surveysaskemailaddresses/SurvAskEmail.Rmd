@@ -40,4 +40,4 @@ Once or twice, I have had email addresses that were incorrect so my return messa
 
 With a related wrinkle, you may find that an invitee asks an administrative assistant to complete the survey, so you do not have the email address of the original invitee.  Others may ask you to send the report to their personal address and you will need to keep track of that special treatment.
 
-# Book: 2 Type Response Data from Survey Posts Plan.xlsx
+<!-- Book: 2 Type Response Data from Survey Posts Plan.xlsx -->
