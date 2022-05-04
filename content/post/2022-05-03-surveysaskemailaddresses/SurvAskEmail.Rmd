@@ -1,6 +1,6 @@
 ---
 title: "Surveys for Lawyers - Ask for Email Addresses"
-author: Rees Morrison
+author: Rees Morrison 
 date: '2022-05-03'
 slug: []
 categories:
@@ -13,8 +13,6 @@ tags:
 draft: no 
 ---
 
-<!-- https://www.google.com/search?client=firefox-b-1-d&q=microsoft+word+search+for+bold to replace my bold in Word with ** for post -->
-
 You should ask for the **email address** of the person responding to your survey on behalf of a law firm, law department or legal vendor.  As to the order of that question, place it as one of the first questions because otherwise people who spend time slogging through the questionnaire might not want to find at the end that you want them to identify themselves, that they are not **anonymous**.   [Whether you make the question a **required** question raises other issues beyond the scope of this section.]
 
 <!--more-->
@@ -24,7 +22,7 @@ To be sure, some respondents might not wish to divulge their email address.  The
 It is a good practice to add an **instruction** to the question asking for email addresses: “We will use the email address only to send you your report or to inquire about a possible mistaken answer.”  Clearly, when someone puts in an email address, the respondent is no longer anonymous.
 
 With the email address, you can send them the final **report**.  After all, they are probably taking part to learn the aggregate results.  Without an email address you cannot reciprocate.
-Before that, you can reach out to the person if there is if you need to.  For example, in one compensation survey I led, a respondent entered “\$11,000” for a base salary.  Realizing that figure was too low, I wrote and confirmed that the figure that was entered was missing a zero; it should have been \$110,000.  Other times, the respondent left several important questions unanswered.
+Before that, you can reach out to the person if there is if you need to.  For example, in one compensation survey I led, a respondent entered \$11,000 for a base salary.  Realizing that figure was too low, I wrote and confirmed that the figure that was entered was missing a zero; it should have been \$110,000.  Other times, the respondent left several important questions unanswered.
 
 Furthermore, with email addresses, since they are unique, you can describe in your report how **representative** of the total population is your survey sample.  Assuming you have gathered **demographic information** such as level, practice, location, or level, you can produce those demographic breakdowns of participants.  Then, too, you might enrich your survey demographics with **supplemental information** from an external source; as an example, Human Resources might allow you to include age or gender or AmLaw 100 data might be available.
 
