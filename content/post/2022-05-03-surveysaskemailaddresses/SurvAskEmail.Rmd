@@ -13,7 +13,11 @@ tags:
 draft: no 
 ---
 
+<!-- https://www.google.com/search?client=firefox-b-1-d&q=microsoft+word+search+for+bold to replace my bold in Word with ** for post -->
+
 You should ask for the **email address** of the person responding to your survey on behalf of a law firm, law department or legal vendor.  As to the order of that question, place it as one of the first questions because otherwise people who spend time slogging through the questionnaire might not want to find at the end that you want them to identify themselves, that they are not **anonymous**.   [Whether you make the question a **required** question raises other issues beyond the scope of this section.]
+
+<!--more-->
 
 To be sure, some respondents might not wish to divulge their email address.  They do not want to be **spammed** with mailings or have their address peddled.  It would also mean that they would not be able to receive the report you produce, and it raises suspicions that their answers might be **fraudulent**, or put more genteelly, not be as accurate or complete as the answers of those who put their name to their response.  Typically, **partial answers** come from people who choose not to leave their email address.
 
@@ -35,3 +39,5 @@ If you know the total group that was invited to take part in the survey, such as
 Once or twice, I have had email addresses that were incorrect so my return message to them bounced.  You may be able to correct this if you can reach out to peers or the organization where they work, or you might recheck the email list you relied on.  In some of my benchmark surveys, however, people had left the company by the time I compiled the report, so the email address was no longer valid.
 
 With a related wrinkle, you may find that an invitee asks an administrative assistant to complete the survey, so you do not have the email address of the original invitee.  Others may ask you to send the report to their personal address and you will need to keep track of that special treatment.
+
+# Book: 2 Type Response Data from Survey Posts Plan.xlsx
