@@ -6,9 +6,9 @@ slug: []
 categories:
   - Surveys
 tags:
-  - law firms
-  - law departments
-  - lawyers
+  - law firms, 
+  - law departments, 
+  - lawyers, 
   - legal vendors
 draft: no
 ---

@@ -6,13 +6,11 @@ slug: []
 categories:
   - Surveys
 tags:
-  - law firms
-  - law departments
+  - law firms, 
+  - law departments,  
   - lawyers
 draft: no
 ---
-
-# you can get a word count in R and it turns out there’s a package called wordcountaddin.
 
 Some online surveys by law firms or law departments collect data that is in a currency other than US dollars.  When a survey question asks for monetary data, as did the recent survey I conducted for a group of law firm professionals that asked for base and bonus data, the **instructions** to the question should specify that the data be entered in dollars.  More specifically, the instructions should clearly explain the conversion factor and how the respondent should apply it, such as “Convert Canadian dollars at a rate of 1.3 per US dollar.  Therefore, divide the Canadian amount by 1.3.”  Each respondent then has the responsibility to enter the correct, recalculated US dollar amount. 
 
