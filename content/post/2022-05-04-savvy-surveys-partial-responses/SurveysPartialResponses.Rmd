@@ -4,11 +4,7 @@ author: "Rees Morrison"
 date: '2022-05-04'
 slug: []
 categories: Surveys
-tags:
-- law firms,
-- law departments,
-- lawyers,
-- legal vendors
+
 draft: no 
 ---
 
