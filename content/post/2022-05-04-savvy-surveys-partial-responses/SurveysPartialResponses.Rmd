@@ -1,16 +1,15 @@
 ---
-title: "Surveys for Lawyers -- Partial Responses"
-author: Rees Morrison
+title: 'Surveys for Lawyers: Partial Responses'
+author: "Rees Morrison"
 date: '2022-05-04'
 slug: []
-categories:
-  - Surveys
+categories: Surveys
 tags:
-  - law firms, 
-  - law departments, 
-  - lawyers, 
-  - legal vendors
-draft: no
+- law firms,
+- law departments,
+- lawyers,
+- legal vendors
+draft: no 
 ---
 
 One of the frustrations of conducting surveys on behalf of law firms, law departments or legal vendors arises from the **partial responses** that are occasionally returned.  By partial response, I mean that the respondent has not answered a material number of the questions on the questionnaire or has plugged in for some questions obviously unconsidered answers, such as all “2’s” on 10 straight 1-10 evaluation questions.  In my comments below I treat the two situations the same.
