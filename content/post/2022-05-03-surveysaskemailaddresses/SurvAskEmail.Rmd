@@ -1,15 +1,6 @@
----
-title: "Surveys for Lawyers: Ask for Email Addresses"
-author: "Rees Morrison"
-date: '2022-05-03'
-slug: []
-categories: Surveys
-draft: no
----
+## Ask for Email Addresses"
 
 You should ask for the **email address** of the person responding to your survey on behalf of a law firm, law department or legal vendor.  As to the order of that question, place it as one of the first questions because otherwise people who spend time slogging through the questionnaire might not want to find at the end that you want them to identify themselves, that they are not **anonymous**.   [Whether you make the question a **required** question raises other issues beyond the scope of this section.]
-
-<!--more-->
 
 To be sure, some respondents might not wish to divulge their email address.  They do not want to be **spammed** with mailings or have their address peddled.  It would also mean that they would not be able to receive the report you produce, and it raises suspicions that their answers might be **fraudulent**, or put more genteelly, not be as accurate or complete as the answers of those who put their name to their response.  Typically, **partial answers** come from people who choose not to leave their email address.
 
