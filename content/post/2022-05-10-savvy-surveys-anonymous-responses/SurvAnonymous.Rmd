@@ -45,3 +45,6 @@ But a deeper confounder troubles the two-step method:  How would the third-party
 A related issue is that you must scrupulously protect the individual information of those who respond.  An egregious violation would be if the Chief Information Officer of your law firm writes in a **text comment** that “as CIO, I hate our bring your own device policy.”  If that comment makes it into the report **verbatim**, all readers know the CIO’s views.  Or, on a **scatterplot** that identifies points with a text label, the highest paid partner might be generally suspected and his or her actual pay could then be spotted.
 
 Because controversy swirls around the right to be anonymous or not, you should state your policy, its importance, and the reasons for it in your **invitation email**.  Going a step further, you should address it more fulsomely in a **FAQ** and be ready to explain and defend your position.
+
+<!-- Book: 2 Questions -->
+<!-- Source: TVPI -->
