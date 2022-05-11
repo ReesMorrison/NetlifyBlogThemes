@@ -12,6 +12,8 @@ When you release an online survey to your law firm, law department, or legal ser
 
 So, what’s the problem?
 
+<!--more-->
+
 •	You are unable to write or call a respondent with a question about an answer that is probably a **typo**, or a crucial missing answer, or an obvious misinterpretation.  As an example of the latter, what if they ranked as most important a selection that no one else came close to ranking so high; the person who filled out the survey probably reversed the ranking order.
 
 •	You are unable to thank them, send them a report, move on with a **follow-up survey**, or host them on a **videoconference** to discuss the findings.

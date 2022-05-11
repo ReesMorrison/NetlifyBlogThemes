@@ -5,10 +5,12 @@ date: '2022-05-11'
 slug: []
 categories:
   - Surveys
-draft: yes
+draft: no
 ---
 
 Once you have figured out whom to invite for a survey of your law firm, law department, or organization you need to let them know the survey is open and waiting, and that you would sincerely like them to take it.  Nearly every **sponsor** does so by sending an **invitational email**.   They might have to turn to a mailing list all ready to deploy (“All-Department”), or they might have to use **bulk-mailing software** such as Constant Contact or MailChimp.  Ideally, several readers will have critiqued the draft email for how well it frames and energizes the survey project. 
+
+<!--more-->
 
 Here are points that an effective, enticing message should cover.  The order is deliberate:
 
