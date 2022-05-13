@@ -5,7 +5,7 @@ date: '2022-05-12'
 slug: []
 categories:
   - Surveys
-draft: no
+draft: no 
 ---
 
 When writing about online survey construction and analysis, I use the term “**demographics**” to describe the data collected about the person or organization that is responding.  Not the insightful and new information that is aimed for, such as attitudes, rankings, percentage of agreement, and open text, but descriptive facts about the respondent.  Demographic data include title, office location, education, years of experience, and gender, for individuals and revenue, employees, patents, headquarters country, and offices for organizations.  They help you assess whether your survey data is representative of the population you have sampled from, and they help you convey inter-group differences in whatever you are studying.  You can tabulate and visualize your survey findings according to demographic attributes.  For example, you might survey your paralegals on software take-up, and then plot their technology prowess in **boxplots** by junior paralegal, paralegal, and senior paralegal.
