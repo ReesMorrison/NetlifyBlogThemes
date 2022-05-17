@@ -8,7 +8,7 @@ categories:
 draft: no
 ---
 
-When I help law firms, law departments and legal vendors conduct online surveys, they usually ask about the tempo of sending **reminder emails** to those invited to participate.  In other words, after the **initial email* introduction with the survey link that you blast out to outside counsel, all the paralegals in the firm, the R&D clients above Manager, or whomever, how long do you wait to remind them that they should complete the survey?
+When I help law firms, law departments and legal vendors conduct online surveys, they usually ask about the tempo of sending **reminder emails** to those invited to participate.  In other words, after the **initial email** introduction with the survey link that you blast out to outside counsel, all the paralegals in the firm, the R&D clients above Manager, or whomever, how long do you wait to remind them that they should complete the survey?
 
 <!--more-->
 
